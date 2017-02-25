@@ -43,5 +43,5 @@ fetch(50, (i, $) => ({
 }))
     .then(response => sortBy(response.filter(({url}) => url), 'name'))
     .then(response => response.map(({name, downloads, update, pluginUrl, url}) =>
-        console.log(`| [${name}[(${pluginUrl}) | ${downloads} | ${update} | ${url} |`))
+        console.log(`| [${name}](${pluginUrl}) | ${downloads} | ${update} | ${url} |`))
     );
