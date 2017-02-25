@@ -30,7 +30,7 @@ const fetch = (max, parse, deferred = Q.defer(), promise = deferred.promise) => 
   return promise;
 };
 
-fetch(50, (i, $) => ({
+fetch(10000, (i, $) => ({
   name: $('.plugin-title').html().split('<br>').shift().trim(),
   update: $('.plugin-info__update').text().trim(),
   downloads: $('.plugin-info__downloads').text().trim(),
