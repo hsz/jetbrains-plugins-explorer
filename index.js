@@ -19,12 +19,11 @@ console.log('| Plugin name | Downloads | Last update | Repository |');
 console.log('| ----------- |:---------:|:-----------:| ---------- |');
 
 const fetch = (max, parse, deferred = Q.defer(), promise = deferred.promise) => {
-  console.log('x');
   for (let i = 7495; i <= max; i++) {
     promise = promise.then((results) =>
       request(`${PLUGIN_URL}/${i}`)
         .then(result => results.concat(parse(i, cheerio.load(result))))
-        .catch(console.error)
+        .catch(() => results)
     );
   }
   deferred.resolve([]);
