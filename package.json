@@ -18,5 +18,8 @@
     "q": "^1.4.1",
     "request": "^2.87.0",
     "request-promise": "^4.1.1"
+  },
+  "devDependencies": {
+    "prettier": "1.13.2"
   }
 }
