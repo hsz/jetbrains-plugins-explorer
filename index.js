@@ -3,6 +3,7 @@ import Q from 'q';
 import request from 'request-promise';
 import sortBy from 'lodash/sortBy';
 
+const MAX_PLUGIN_ID = 11377;
 const PLUGIN_URL = 'https://plugins.jetbrains.com/idea/plugin';
 const DATE = new Date()
   .toISOString()
@@ -40,7 +41,7 @@ const fetch = (max, parse, deferred = Q.defer(), promise = deferred.promise) => 
   return promise;
 };
 
-fetch(10200, (i, $) => ({
+fetch(MAX_PLUGIN_ID, (i, $) => ({
   name: $('.plugin-title')[0].firstChild.data.trim(),
   update: $('.plugin-info__update')
     .text()
