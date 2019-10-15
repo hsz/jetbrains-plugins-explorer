@@ -1,0 +1,21 @@
+name: Node CI
+
+on:
+  schedule:
+  - cron: 35 7 * * *
+    
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v1
+    - name: Build repositories list
+      uses: actions/setup-node@v1
+      with:
+        node-version: 12.x
+    - name: npm install, build, and test
+      run: |
+        npm install
+        npm start
