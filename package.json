@@ -13,13 +13,13 @@
     "babel-cli": "^6.23.0",
     "babel-preset-es2015": "^6.22.0",
     "babel-preset-stage-0": "^6.22.0",
-    "cheerio": "^0.22.0",
-    "lodash": "^4.17.10",
+    "cheerio": "^1.0.0-rc.3",
+    "lodash": "^4.17.15",
     "q": "^1.4.1",
-    "request": "^2.87.0",
-    "request-promise": "^4.1.1"
+    "request": "^2.88.0",
+    "request-promise": "^4.2.4"
   },
   "devDependencies": {
-    "prettier": "1.13.2"
+    "prettier": "^1.18.2"
   }
 }
