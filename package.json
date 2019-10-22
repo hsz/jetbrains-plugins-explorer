@@ -11,17 +11,13 @@
   "license": "MIT",
   "dependencies": {
     "axios": "^0.19.0",
-    "cheerio": "^1.0.0-rc.3",
     "lodash": "^4.17.15",
-    "moment": "^2.24.0",
-    "q": "^1.4.1"
+    "moment": "^2.24.0"
   },
   "devDependencies": {
     "@types/axios": "^0.14.0",
-    "@types/cheerio": "^0.22.13",
     "@types/lodash": "^4.14.144",
     "@types/node": "^12.7.12",
-    "@types/q": "^1.5.2",
     "prettier": "^1.18.2",
     "ts-node": "^8.4.1",
     "typescript": "^3.6.4"
