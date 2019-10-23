@@ -13,7 +13,7 @@ const DATE = new Date()
 console.log('# Jetbrains Plugins Repositories List');
 console.log(
   '## This is a daily update listing of all JetBrains (IntelliJ, Android Studio, PhpStorm, ' +
-  'WebStorm, PyCharm, AppCode) 3rd party plugins repositories.',
+    'WebStorm, PyCharm, AppCode) 3rd party plugins repositories.',
 );
 console.log(
   'Not every plugin is counted here - only those with specified URL to the public sources ' +
@@ -26,8 +26,8 @@ console.log(
 );
 console.log('*Good luck!*\n\n');
 console.log(`Generated: _${DATE}_\n\n\n`);
-console.log('| Plugin name | Downloads | Last update | Repository |');
-console.log('| ----------- | ---------:| ----------- | ---------- |');
+console.log('| Plugin name | Downloads | Last update |');
+console.log('| ----------- | ---------:| ----------- |');
 
 let fail = 0;
 
@@ -52,7 +52,7 @@ const fetch = (id = 1, data: Plugin[] = []): Promise<Plugin[]> =>
 fetch()
   .then(response => sortBy(response.filter(({ urls: { sourceCodeUrl } }) => sourceCodeUrl), 'name'))
   .then(response =>
-    response.forEach(({ name, downloads, update, urls: { sourceCodeUrl, url } }) =>
-      console.log(`| [${name}](${sourceCodeUrl}) | ${downloads} | ${update} | ${url} |`),
+    response.forEach(({ name, downloads, update, urls: { sourceCodeUrl } }) =>
+      console.log(`| [${name}](${sourceCodeUrl}) | ${downloads} | ${update} |`),
     ),
   );
