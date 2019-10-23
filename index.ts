@@ -26,8 +26,8 @@ console.log(
 );
 console.log('*Good luck!*\n\n');
 console.log(`Generated: _${DATE}_\n\n\n`);
-console.log('| Plugin name | Downloads | Last update |');
-console.log('| ----------- | ---------:| ----------- |');
+console.log('| Plugin name | Downloads | Last<span>&nbsp;</span>update |');
+console.log('| ----------- | ---------:| ----------------------------- |');
 
 let fail = 0;
 
@@ -43,6 +43,7 @@ const fetch = (id = 1, data: Plugin[] = []): Promise<Plugin[]> =>
     .then(result =>
       axios.get<Update[]>(`${ENDPOINT}/${result.id}/updates?size=1`).then(updates => ({
         ...result,
+        downloads: result.downloads.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ' '),
         update: moment(+updates.data[(fail = 0)].cdate).format('YYYY-MM-DD'),
       })),
     )

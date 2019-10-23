@@ -20,7 +20,7 @@ export interface Plugin {
   docText: string;
   email: string;
   family: string; // enum?
-  downloads: number;
+  downloads: number | string;
   vendor: Vendor;
   urls: {
     url: string;
