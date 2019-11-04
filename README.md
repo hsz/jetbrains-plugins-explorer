@@ -7,2325 +7,2325 @@ This repository can be used as a good starting point for plugins development - i
 *Good luck!*
 
 
-Generated: _2019-11-03 07:38:26_
+Generated: _2019-11-04 07:36:41_
 
 
 
 | Plugin name | Downloads | Last<span>&nbsp;</span>update |
 | ----------- | ---------:| ----------------------------- |
 | [.NET CLI Support](https://github.com/JetBrains/teamcity-dotnet-plugin) | 9 040 | 2018-05-16 |
-| [.NET Core User Secrets](https://github.com/Witik/RiderUserSecrets) | 2 282 | 2019-01-13 |
+| [.NET Core User Secrets](https://github.com/Witik/RiderUserSecrets) | 2 286 | 2019-01-13 |
 | [.NET Core global.json support](https://github.com/maartenba/rider-plugin-globaljson/) | 1 325 | 2018-04-20 |
 | [.NET XDT configuration transformation support](https://github.com/maartenba/rider-plugin-xdt) | 175 | 2017-10-13 |
-| [.env files support](https://github.com/adelf/idea-php-dotenv-plugin) | 2 015 700 | 2019-09-16 |
-| [.ignore](https://github.com/JetBrains/idea-gitignore) | 9 566 653 | 2019-09-02 |
-| [1024 Tools](https://github.com/atomdu/intellij-plugin-1024tools) | 7 544 | 2018-09-04 |
-| [3v4l pl4g1n](https://github.com/artspb/1d34-3v4l-pl4g1n) | 3 229 | 2017-06-28 |
-| [A8Translate](https://github.com/ice1000/A8Translate) | 29 393 | 2019-02-18 |
+| [.env files support](https://github.com/adelf/idea-php-dotenv-plugin) | 2 017 932 | 2019-09-16 |
+| [.ignore](https://github.com/JetBrains/idea-gitignore) | 9 568 137 | 2019-09-02 |
+| [1024 Tools](https://github.com/atomdu/intellij-plugin-1024tools) | 7 549 | 2018-09-04 |
+| [3v4l pl4g1n](https://github.com/artspb/1d34-3v4l-pl4g1n) | 3 230 | 2017-06-28 |
+| [A8Translate](https://github.com/ice1000/A8Translate) | 29 412 | 2019-02-18 |
 | [AAHack](https://github.com/eprst/aahackplugin) | 5 177 | 2007-11-07 |
 | [ACNPlugin](https://github.com/wsshh1314/IDEAACNPlugin) | 3 513 | 2016-09-08 |
-| [ADB Duang](https://github.com/zzz40500/ADB-Duang/) | 7 206 | 2017-04-28 |
-| [ADB Friendly](https://github.com/gen0083/AdbFriendly) | 11 217 | 2016-04-30 |
-| [ADB Idea](https://github.com/pbreault/adb-idea/) | 458 589 | 2019-09-20 |
-| [ADB Uninstall](https://github.com/Ghedeon/ADB-Uninstall) | 17 970 | 2015-10-28 |
-| [ADB WIFI](https://github.com/layerlre/ADBWIFI) | 260 932 | 2016-05-06 |
-| [ADB WiFi Connect](https://github.com/appdictive/ADBWiFiConnect) | 73 919 | 2017-08-30 |
-| [ADNCode](https://github.com/mgrimes/adncode) | 4 593 | 2015-04-19 |
+| [ADB Duang](https://github.com/zzz40500/ADB-Duang/) | 7 208 | 2017-04-28 |
+| [ADB Friendly](https://github.com/gen0083/AdbFriendly) | 11 224 | 2016-04-30 |
+| [ADB Idea](https://github.com/pbreault/adb-idea/) | 458 829 | 2019-09-20 |
+| [ADB Uninstall](https://github.com/Ghedeon/ADB-Uninstall) | 17 971 | 2015-10-28 |
+| [ADB WIFI](https://github.com/layerlre/ADBWIFI) | 261 027 | 2016-05-06 |
+| [ADB WiFi Connect](https://github.com/appdictive/ADBWiFiConnect) | 73 946 | 2017-08-30 |
+| [ADNCode](https://github.com/mgrimes/adncode) | 4 595 | 2015-04-19 |
 | [AEM Groovy Console](https://github.com/DenisKusakin/aem-groovyconsole-idea-plugin) | 1 590 | 2019-07-28 |
-| [AEM IDE Tooling 4 IntelliJ](https://github.com/headwirecom/aem-ide-tooling-4-intellij) | 9 252 | 2018-02-22 |
+| [AEM IDE Tooling 4 IntelliJ](https://github.com/headwirecom/aem-ide-tooling-4-intellij) | 9 254 | 2018-02-22 |
 | [AEM Script Console](https://github.com/davidjgonzalez/intellij-aem-script-console) | 314 | 2019-05-01 |
-| [AEM Tools](https://github.com/aemtools/aemtools) | 12 108 | 2018-12-04 |
-| [AEON: Automated Android Energy-Efficiency InspectiON](https://bitbucket.org/david_gonzalez_samudio/aeon_suite) | 6 778 | 2017-03-07 |
+| [AEM Tools](https://github.com/aemtools/aemtools) | 12 113 | 2018-12-04 |
+| [AEON: Automated Android Energy-Efficiency InspectiON](https://bitbucket.org/david_gonzalez_samudio/aeon_suite) | 6 779 | 2017-03-07 |
 | [AFC for coders](https://github.com/sadv1r/AfcForCoders) | 848 | 2015-12-17 |
-| [AI Predictive Coding](https://github.com/aicodes/idea-plugin) | 7 637 | 2016-10-24 |
-| [ALM Octane](https://github.com/MicroFocus/octane-intellij-plugin) | 2 713 | 2019-08-21 |
-| [ALM Octane CI Integration](https://github.com/MicroFocus/octane-teamcity-plugin) | 181 | 2019-07-28 |
-| [ALittleScript](https://github.com/alittlesail/ALittleScript) | 1 081 | 2019-06-30 |
-| [ANTLR v4 grammar plugin](https://github.com/antlr/intellij-plugin-v4) | 216 635 | 2019-11-02 |
-| [AQL (ArangoDB Query Language)](https://github.com/ArangoDB-Community/aql-intellij-plugin) | 625 | 2019-10-23 |
+| [AI Predictive Coding](https://github.com/aicodes/idea-plugin) | 7 642 | 2016-10-24 |
+| [ALM Octane](https://github.com/MicroFocus/octane-intellij-plugin) | 2 715 | 2019-08-21 |
+| [ALM Octane CI Integration](https://github.com/MicroFocus/octane-teamcity-plugin) | 182 | 2019-07-28 |
+| [ALittleScript](https://github.com/alittlesail/ALittleScript) | 1 087 | 2019-06-30 |
+| [ANTLR v4 grammar plugin](https://github.com/antlr/intellij-plugin-v4) | 217 229 | 2019-11-02 |
+| [AQL (ArangoDB Query Language)](https://github.com/ArangoDB-Community/aql-intellij-plugin) | 628 | 2019-10-23 |
 | [ASM Bytecode Outline 2017](https://github.com/thiakil/asm-bytecode-intellij) | 2 823 | 2017-12-10 |
-| [ASM Bytecode Viewer](https://github.com/elitegit/asm-intellij-plugin) | 7 515 | 2019-07-23 |
+| [ASM Bytecode Viewer](https://github.com/elitegit/asm-intellij-plugin) | 7 525 | 2019-07-23 |
 | [ATG Toolkit](https://github.com/chivaler/ATG-Toolkit) | 582 | 2019-02-28 |
-| [AWS CloudFormation](https://github.com/shalupov/idea-cloudformation) | 277 484 | 2019-08-25 |
+| [AWS CloudFormation](https://github.com/shalupov/idea-cloudformation) | 277 537 | 2019-08-25 |
 | [AWS CodePipeline](https://github.com/JetBrains/teamcity-aws-codepipeline-plugin) | 64 | 2016-10-26 |
 | [AWS Elastic Beanstalk](https://github.com/rtfpessoa/teamcity-aws-elasticbeanstalk-plugin) | 548 | 2016-10-06 |
-| [AWS Lambda Java code updater](https://github.com/raevilman/Intellij-Plugin-for-AWS-Lambda-Java-Code-Update.git) | 6 403 | 2017-12-08 |
-| [AWS Tail](https://gitlab.com/godzsa/awstail-plugin) | 8 962 | 2019-03-28 |
-| [AWS Toolkit](https://github.com/aws/aws-toolkit-jetbrains) | 101 488 | 2019-10-17 |
+| [AWS Lambda Java code updater](https://github.com/raevilman/Intellij-Plugin-for-AWS-Lambda-Java-Code-Update.git) | 6 405 | 2017-12-08 |
+| [AWS Tail](https://gitlab.com/godzsa/awstail-plugin) | 8 972 | 2019-03-28 |
+| [AWS Toolkit](https://github.com/aws/aws-toolkit-jetbrains) | 101 650 | 2019-10-17 |
 | [Accessors Plugin](https://plugins.jetbrains.com/files/1298/sourceCode.zip) | 4 212 | 2008-02-11 |
-| [AceJump](https://github.com/acejump/AceJump) | 305 412 | 2019-11-01 |
-| [AceJump-Lite](https://github.com/EeeMt/AceJump-Lite) | 3 725 | 2018-10-16 |
+| [AceJump](https://github.com/acejump/AceJump) | 305 826 | 2019-11-01 |
+| [AceJump-Lite](https://github.com/EeeMt/AceJump-Lite) | 3 732 | 2018-10-16 |
 | [ActionScript Profiler](https://github.com/JetBrains/intellij-plugins/tree/183/flex/tools/profiler) | 30 595 | 2013-11-20 |
-| [Actions](https://gitlab.com/lae/intellij-actions) | 1 723 | 2019-08-22 |
-| [Actions Tree](https://gitlab.com/lae/intellij-actions-tree) | 1 780 | 2019-08-12 |
-| [Active Intellij Tab Highlighter](https://github.com/tobszarny/ActiveTabHighlighterPlugin) | 16 480 | 2018-04-12 |
+| [Actions](https://gitlab.com/lae/intellij-actions) | 1 726 | 2019-08-22 |
+| [Actions Tree](https://gitlab.com/lae/intellij-actions-tree) | 1 783 | 2019-08-12 |
+| [Active Intellij Tab Highlighter](https://github.com/tobszarny/ActiveTabHighlighterPlugin) | 16 488 | 2018-04-12 |
 | [Activity Stack View](https://github.com/chengzhicao/AndroidActivityStackView) | 278 | 2019-04-24 |
-| [Activity Watcher](https://github.com/OlivierMary/aw-watcher-jetbrains) | 1 089 | 2019-08-16 |
+| [Activity Watcher](https://github.com/OlivierMary/aw-watcher-jetbrains) | 1 094 | 2019-08-16 |
 | [Activity createIntent Inspection](https://github.com/shiraji/create-intent-inspection) | 5 743 | 2016-05-07 |
 | [Activity kreateIntent Inspection](https://github.com/shiraji/kreate-intent-inspection) | 4 645 | 2016-08-11 |
 | [ActivityLauncher](https://github.com/xncHung/intelij_activity_launcher_plugin) | 1 687 | 2018-12-30 |
 | [Add text to string.xml](https://github.com/tclock/StrResClean) | 318 | 2018-12-04 |
-| [Add to gitignore](https://github.com/fallenprogrammr/addtogitignore) | 36 024 | 2019-07-21 |
-| [Adders/Removers Generator](https://github.com/ruslan-polutsygan/phpstorm-adder-remover-generator-plugin) | 3 147 | 2017-11-19 |
-| [Additional Tools](https://github.com/Guichaguri/AdditionalTools) | 2 746 | 2015-09-27 |
-| [Adds a generateCompareTo action to all classes with no external dependencies](https://github.com/jhartman/generateCompareTo/) | 6 075 | 2013-10-11 |
-| [Advanced Java Folding](https://github.com/cheptsov/AdvancedExpressionFolding) | 162 852 | 2018-08-23 |
-| [Aegis Code Check Plugin](https://github.com/wuhao000/idea-code-plugin) | 9 662 | 2018-11-09 |
-| [Afterglow Theme](https://github.com/JustSid/AfterglowIntelliJ) | 141 738 | 2016-04-16 |
-| [Agent Auto Authroize](https://github.com/FLGMwt/team-city-agent-auto-auth) | 357 | 2016-11-30 |
-| [Agent Mulder plugin for ReSharper](https://github.com/ERNICommunity/AgentMulder) | 3 937 | 2019-09-19 |
+| [Add to gitignore](https://github.com/fallenprogrammr/addtogitignore) | 36 063 | 2019-07-21 |
+| [Adders/Removers Generator](https://github.com/ruslan-polutsygan/phpstorm-adder-remover-generator-plugin) | 3 150 | 2017-11-19 |
+| [Additional Tools](https://github.com/Guichaguri/AdditionalTools) | 2 747 | 2015-09-27 |
+| [Adds a generateCompareTo action to all classes with no external dependencies](https://github.com/jhartman/generateCompareTo/) | 6 077 | 2013-10-11 |
+| [Advanced Java Folding](https://github.com/cheptsov/AdvancedExpressionFolding) | 162 867 | 2018-08-23 |
+| [Aegis Code Check Plugin](https://github.com/wuhao000/idea-code-plugin) | 9 667 | 2018-11-09 |
+| [Afterglow Theme](https://github.com/JustSid/AfterglowIntelliJ) | 141 781 | 2016-04-16 |
+| [Agent Auto Authroize](https://github.com/FLGMwt/team-city-agent-auto-auth) | 360 | 2016-11-30 |
+| [Agent Mulder plugin for ReSharper](https://github.com/ERNICommunity/AgentMulder) | 3 939 | 2019-09-19 |
 | [Agent priority](https://github.com/grundic/teamcity-agent-priority) | 257 | 2016-11-28 |
-| [Agile Board Status](https://github.com/katriyna/youtrack-board-status-widget) | 5 540 | 2019-03-14 |
-| [Agile Chart](https://github.com/JetBrains/youtrack-issue-distribution-report-widget/tree/master/widgets/agile-charts) | 2 764 | 2019-03-12 |
+| [Agile Board Status](https://github.com/katriyna/youtrack-board-status-widget) | 5 543 | 2019-03-14 |
+| [Agile Chart](https://github.com/JetBrains/youtrack-issue-distribution-report-widget/tree/master/widgets/agile-charts) | 2 769 | 2019-03-12 |
 | [Agiletestware Pangolin Connector for TestRail](https://bitbucket.org/agiletestware/pangolin-teamcity-testrail-connector) | 37 | 2019-09-05 |
 | [Aion4j AVM Integration](https://github.com/bloxbean/aion4j-idea-plugin) | 374 | 2019-10-25 |
-| [Air-Adb](https://github.com/felHR85/Air-Adb-Plugin) | 4 264 | 2019-08-13 |
+| [Air-Adb](https://github.com/felHR85/Air-Adb-Plugin) | 4 275 | 2019-08-13 |
 | [Alabaster](https://github.com/fvoichick/alabaster) | 272 | 2018-08-03 |
 | [AlertMePro](https://github.com/voiplab/alertMePro) | 324 | 2016-10-17 |
-| [Alibaba Java Coding Guidelines](https://github.com/alibaba/p3c) | 849 766 | 2019-06-12 |
-| [AllProjects](https://github.com/sergenes/AllProjects) | 3 625 | 2017-03-08 |
+| [Alibaba Java Coding Guidelines](https://github.com/alibaba/p3c) | 850 266 | 2019-06-12 |
+| [AllProjects](https://github.com/sergenes/AllProjects) | 3 627 | 2017-03-08 |
 | [AlphaTab](https://plugins.jetbrains.com/files/1367/sourceCode.zip) | 2 647 | 2008-02-21 |
-| [Amazon Elastic Container Service Support](https://github.com/JetBrains/teamcity-amazon-ecs-plugin) | 741 | 2019-10-01 |
-| [Amazon Ion IntelliJ IDEA Plugin](https://github.com/amznlabs/ion-intellij-plugin) | 10 868 | 2016-06-10 |
-| [Ambient](https://github.com/akainth015/ambient) | 46 | 2019-09-26 |
-| [AmbientTalk IDE](https://github.com/myter/IntelliJAT/) | 2 231 | 2018-04-24 |
+| [Amazon Elastic Container Service Support](https://github.com/JetBrains/teamcity-amazon-ecs-plugin) | 745 | 2019-11-03 |
+| [Amazon Ion IntelliJ IDEA Plugin](https://github.com/amznlabs/ion-intellij-plugin) | 10 872 | 2016-06-10 |
+| [Ambient](https://github.com/akainth015/ambient) | 49 | 2019-09-26 |
+| [AmbientTalk IDE](https://github.com/myter/IntelliJAT/) | 2 234 | 2018-04-24 |
 | [Amdatu](https://bitbucket.org/amdatu/amdatu-idea) | 875 | 2019-09-11 |
 | [American Wombatting Average](https://github.com/martica/WombatCalculator) | 49 | 2019-07-14 |
-| [Android API Level](https://github.com/droibit/androidapilevel-plugin) | 17 069 | 2018-08-27 |
+| [Android API Level](https://github.com/droibit/androidapilevel-plugin) | 17 073 | 2018-08-27 |
 | [Android Annotations @ViewById injection code generator](https://github.com/mrmans0n/android-viewbyid-generator/) | 11 447 | 2014-04-02 |
 | [Android Asset Importer](https://github.com/david-serrano/AndroidAssetImporter) | 11 896 | 2015-11-18 |
-| [Android Builder](https://github.com/ganadist/AndroidPlatformBuilder) | 23 268 | 2017-03-14 |
-| [Android ButterKnife Injections (Support Kotlin)](https://github.com/ParfoisMeng/Android-ButterKnife-Injections) | 6 632 | 2019-03-11 |
+| [Android Builder](https://github.com/ganadist/AndroidPlatformBuilder) | 23 282 | 2017-03-14 |
+| [Android ButterKnife Injections (Support Kotlin)](https://github.com/ParfoisMeng/Android-ButterKnife-Injections) | 6 638 | 2019-03-11 |
 | [Android ButterKnife Injector For Lib](https://github.com/kangdi437/ButterknifeInjectorForLib) | 11 782 | 2017-07-29 |
-| [Android ButterKnife Plugin Plus](https://github.com/OriginalLove/Android-ButterKnife-Plugin-Plus) | 38 112 | 2016-12-30 |
-| [Android ButterKnife Zelezny](https://github.com/avast/android-butterknife-zelezny) | 600 641 | 2017-03-22 |
+| [Android ButterKnife Plugin Plus](https://github.com/OriginalLove/Android-ButterKnife-Plugin-Plus) | 38 118 | 2016-12-30 |
+| [Android ButterKnife Zelezny](https://github.com/avast/android-butterknife-zelezny) | 600 778 | 2017-03-22 |
 | [Android ButterKnifeGenerator](https://gitlab.com/joielechong/AndroidButterKnifeGenerator) | 1 164 | 2019-01-26 |
-| [Android Clean Architecture Generator](https://github.com/arohim/eddga) | 1 005 | 2019-05-06 |
-| [Android Code Generator](https://github.com/tmorcinek/android-codegenerator-plugin-intellij) | 91 774 | 2016-02-03 |
-| [Android Color Manager](https://github.com/shiraji/color-manager/) | 12 415 | 2017-03-30 |
-| [Android DPI Calculator](https://github.com/JerzyPuchalski/Android-DPI-Calculator) | 27 755 | 2015-07-01 |
-| [Android Device Controller](https://github.com/bjoernQ/adc) | 10 126 | 2018-10-03 |
-| [Android Drawable Importer](https://github.com/winterDroid/android-drawable-importer-intellij-plugin) | 494 223 | 2016-11-20 |
-| [Android Drawable Preview](https://github.com/mistamek/Android-drawable-preview-plugin) | 17 385 | 2018-12-27 |
-| [Android Drawable Viewer](https://github.com/androhi/AndroidDrawableViewer) | 24 444 | 2018-03-08 |
-| [Android File Grouping](https://github.com/dmytrodanylyk/folding-plugin) | 6 716 | 2015-07-23 |
-| [Android Folder Opener](https://github.com/illuzor/Android-Folder-Opener) | 534 | 2019-01-21 |
-| [Android Gradle Metrics](https://github.com/DrakkLord/gradle-android-metric-plugin) | 9 671 | 2018-05-07 |
+| [Android Clean Architecture Generator](https://github.com/arohim/eddga) | 1 006 | 2019-05-06 |
+| [Android Code Generator](https://github.com/tmorcinek/android-codegenerator-plugin-intellij) | 91 796 | 2016-02-03 |
+| [Android Color Manager](https://github.com/shiraji/color-manager/) | 12 416 | 2017-03-30 |
+| [Android DPI Calculator](https://github.com/JerzyPuchalski/Android-DPI-Calculator) | 27 757 | 2015-07-01 |
+| [Android Device Controller](https://github.com/bjoernQ/adc) | 10 129 | 2018-10-03 |
+| [Android Drawable Importer](https://github.com/winterDroid/android-drawable-importer-intellij-plugin) | 494 376 | 2016-11-20 |
+| [Android Drawable Preview](https://github.com/mistamek/Android-drawable-preview-plugin) | 17 395 | 2018-12-27 |
+| [Android Drawable Viewer](https://github.com/androhi/AndroidDrawableViewer) | 24 446 | 2018-03-08 |
+| [Android File Grouping](https://github.com/dmytrodanylyk/folding-plugin) | 6 721 | 2015-07-23 |
+| [Android Folder Opener](https://github.com/illuzor/Android-Folder-Opener) | 536 | 2019-01-21 |
+| [Android Gradle Metrics](https://github.com/DrakkLord/gradle-android-metric-plugin) | 9 674 | 2018-05-07 |
 | [Android Gradle Metrics - Checkstyle](https://github.com/DrakkLord/gradle-android-metric-plugin) | 5 568 | 2018-05-07 |
 | [Android Gradle Metrics - PMD](https://github.com/DrakkLord/gradle-android-metric-plugin) | 5 111 | 2018-05-07 |
 | [Android Helper](https://github.com/eunjae-lee/AndroidHelper) | 7 285 | 2013-06-15 |
-| [Android Holo Colors Generator](https://github.com/jeromevdl/android-holo-colors-idea-plugin) | 37 802 | 2013-12-22 |
-| [Android Icon Editor](https://github.com/fission-labs/AndroidIconEditor) | 20 927 | 2016-07-18 |
+| [Android Holo Colors Generator](https://github.com/jeromevdl/android-holo-colors-idea-plugin) | 37 804 | 2013-12-22 |
+| [Android Icon Editor](https://github.com/fission-labs/AndroidIconEditor) | 20 931 | 2016-07-18 |
 | [Android IntDef code generator](https://github.com/wangkunlin/android-intdef-intellij-plugin/) | 927 | 2018-05-24 |
 | [Android Intent Sender](https://github.com/DistilleryTech/idea-intent-sender-plugin) | 9 423 | 2018-11-26 |
-| [Android Layout ID Converter](https://github.com/funnything/OffingHarbor) | 33 674 | 2017-03-16 |
-| [Android Localizationer](https://github.com/westlinkin/AndroidLocalizationer) | 9 469 | 2015-11-05 |
-| [Android Material Design Icon Generator](https://github.com/konifar/android-material-design-icon-generator-plugin) | 200 044 | 2016-09-16 |
-| [Android ORM Tool](https://github.com/Jamling/Android-ORM-ASPlugin) | 2 599 | 2017-08-02 |
-| [Android Parcelable code generator](https://github.com/mcharmas/android-parcelable-intellij-plugin/) | 325 433 | 2016-05-10 |
+| [Android Layout ID Converter](https://github.com/funnything/OffingHarbor) | 33 678 | 2017-03-16 |
+| [Android Localizationer](https://github.com/westlinkin/AndroidLocalizationer) | 9 470 | 2015-11-05 |
+| [Android Material Design Icon Generator](https://github.com/konifar/android-material-design-icon-generator-plugin) | 200 086 | 2016-09-16 |
+| [Android ORM Tool](https://github.com/Jamling/Android-ORM-ASPlugin) | 2 601 | 2017-08-02 |
+| [Android Parcelable code generator](https://github.com/mcharmas/android-parcelable-intellij-plugin/) | 325 477 | 2016-05-10 |
 | [Android Property Manager](https://github.com/dbgsprw/AndroidPropertyManager/) | 7 111 | 2016-02-15 |
 | [Android Res Resizer](https://github.com/Guardiola31337/AndroidResResizer) | 3 555 | 2016-04-18 |
-| [Android Resource Usage Count](https://github.com/niorgai/Android-Resource-Usage-Count) | 20 009 | 2017-08-31 |
-| [Android Scala](https://github.com/akiomik/idea-android-scala) | 11 234 | 2015-06-07 |
-| [Android Selector](https://github.com/importre/android-selector-intellij-plugin) | 18 477 | 2015-11-12 |
+| [Android Resource Usage Count](https://github.com/niorgai/Android-Resource-Usage-Count) | 20 012 | 2017-08-31 |
+| [Android Scala](https://github.com/akiomik/idea-android-scala) | 11 235 | 2015-06-07 |
+| [Android Selector](https://github.com/importre/android-selector-intellij-plugin) | 18 482 | 2015-11-12 |
 | [Android SharedPreferences editor](https://github.com/shchurov/SharedPreferences-Editor-Plugin) | 4 246 | 2016-10-15 |
 | [Android Snippets Search](https://github.com/eltonkola/AndroidSnippetsStudioPlugin) | 4 353 | 2015-09-30 |
 | [Android Strings Search Plugin](https://github.com/konifar/android-strings-search-plugin) | 4 942 | 2016-08-14 |
-| [Android Strings.xml To CSV Converter](https://github.com/LiewJunTung/Android-strings-xml-csv-converter) | 20 375 | 2017-05-28 |
-| [Android Studio Prettify](https://github.com/Haehnchen/idea-android-studio-plugin) | 49 759 | 2015-03-29 |
+| [Android Strings.xml To CSV Converter](https://github.com/LiewJunTung/Android-strings-xml-csv-converter) | 20 381 | 2017-05-28 |
+| [Android Studio Prettify](https://github.com/Haehnchen/idea-android-studio-plugin) | 49 761 | 2015-03-29 |
 | [Android Studio Unit Test](https://github.com/evant/android-studio-unit-test-plugin) | 23 068 | 2014-12-06 |
-| [Android Styler](https://github.com/alexzaitsev/android-styler) | 18 675 | 2015-10-21 |
+| [Android Styler](https://github.com/alexzaitsev/android-styler) | 18 683 | 2015-10-21 |
 | [Android Tests Recorder](https://github.com/vpedak/droidtestrec) | 4 304 | 2016-05-05 |
-| [Android Toolbox Plugin](https://github.com/idamobile/android-toolbox-plugin) | 32 360 | 2016-04-19 |
-| [Android View Generator](https://github.com/BigFootprint/AndroidViewGenerator) | 6 817 | 2016-03-10 |
-| [Android WiFi ADB](https://github.com/pedrovgs/AndroidWiFiADB) | 229 821 | 2016-08-30 |
-| [Android WiFiADB](https://github.com/MrDenua/WiFiADB) | 827 | 2019-10-16 |
-| [Android XML to CSV Export](https://github.com/juanes30/android-xml-export) | 636 | 2019-08-22 |
-| [Android strings.xml tools](https://github.com/constantine-ivanov/strings-xml-tools) | 24 734 | 2014-06-26 |
-| [AndroidLocalize](https://github.com/Airsaid/AndroidLocalizePlugin) | 4 303 | 2018-10-14 |
-| [AndroidMVP](https://github.com/wkp111/AndroidMVP) | 2 868 | 2018-01-22 |
-| [AndroidProGuard Pro](https://github.com/zhonghanwen/AndroidProguardPlugin) | 7 035 | 2017-11-16 |
-| [AndroidSourceViewer](https://github.com/pengwei1024/AndroidSourceViewer) | 5 939 | 2017-11-17 |
-| [AndroidStudioSuperPlugin](https://github.com/b2b2244424/AndroidStudioSuperPlugin) | 36 300 | 2016-02-19 |
-| [AndroidTranslate](https://github.com/zyj1609wz/AndroidPluginTranslate) | 2 618 | 2017-10-18 |
-| [AndroidXmlSorter](https://github.com/roana0229/android-xml-sorter) | 9 855 | 2018-07-03 |
-| [Angular 2 TypeScript Live Templates](https://github.com/MrZaYaC/ng2-webstorm-snippets) | 147 925 | 2017-05-23 |
-| [Angular CLI QuickSwitch](https://github.com/pkelleter/angular-cli-quick-switch-plugin) | 22 339 | 2018-11-01 |
-| [Angular Component Folding](https://github.com/rath/angular-folding) | 21 625 | 2019-03-02 |
-| [Angular Material 2, Flex layout 1, Teradata Covalent 1 & Material icon live templates](https://github.com/1tontech/material2-snippets) | 41 481 | 2017-10-26 |
-| [Angular Schematic Generator](https://github.com/Dasone/angularschematicgenerator) | 2 641 | 2018-06-01 |
-| [Angular Templates](https://github.com/alirezamirian/Angular-Templates) | 91 399 | 2016-10-11 |
-| [AngularDart Folding](https://github.com/stephendoyle/angulardart-folding) | 10 824 | 2019-03-04 |
+| [Android Toolbox Plugin](https://github.com/idamobile/android-toolbox-plugin) | 32 362 | 2016-04-19 |
+| [Android View Generator](https://github.com/BigFootprint/AndroidViewGenerator) | 6 818 | 2016-03-10 |
+| [Android WiFi ADB](https://github.com/pedrovgs/AndroidWiFiADB) | 229 984 | 2016-08-30 |
+| [Android WiFiADB](https://github.com/MrDenua/WiFiADB) | 848 | 2019-10-16 |
+| [Android XML to CSV Export](https://github.com/juanes30/android-xml-export) | 638 | 2019-08-22 |
+| [Android strings.xml tools](https://github.com/constantine-ivanov/strings-xml-tools) | 24 736 | 2014-06-26 |
+| [AndroidLocalize](https://github.com/Airsaid/AndroidLocalizePlugin) | 4 307 | 2018-10-14 |
+| [AndroidMVP](https://github.com/wkp111/AndroidMVP) | 2 870 | 2018-01-22 |
+| [AndroidProGuard Pro](https://github.com/zhonghanwen/AndroidProguardPlugin) | 7 037 | 2017-11-16 |
+| [AndroidSourceViewer](https://github.com/pengwei1024/AndroidSourceViewer) | 5 940 | 2017-11-17 |
+| [AndroidStudioSuperPlugin](https://github.com/b2b2244424/AndroidStudioSuperPlugin) | 36 312 | 2016-02-19 |
+| [AndroidTranslate](https://github.com/zyj1609wz/AndroidPluginTranslate) | 2 620 | 2017-10-18 |
+| [AndroidXmlSorter](https://github.com/roana0229/android-xml-sorter) | 9 860 | 2018-07-03 |
+| [Angular 2 TypeScript Live Templates](https://github.com/MrZaYaC/ng2-webstorm-snippets) | 147 959 | 2017-05-23 |
+| [Angular CLI QuickSwitch](https://github.com/pkelleter/angular-cli-quick-switch-plugin) | 22 356 | 2018-11-01 |
+| [Angular Component Folding](https://github.com/rath/angular-folding) | 21 640 | 2019-03-02 |
+| [Angular Material 2, Flex layout 1, Teradata Covalent 1 & Material icon live templates](https://github.com/1tontech/material2-snippets) | 41 491 | 2017-10-26 |
+| [Angular Schematic Generator](https://github.com/Dasone/angularschematicgenerator) | 2 644 | 2018-06-01 |
+| [Angular Templates](https://github.com/alirezamirian/Angular-Templates) | 91 421 | 2016-10-11 |
+| [AngularDart Folding](https://github.com/stephendoyle/angulardart-folding) | 10 839 | 2019-03-04 |
 | [Anka Build Cloud](https://github.com/veertuinc/teamcity-anka-cloud) | 47 | 2019-08-22 |
-| [Anko Support](https://github.com/Kotlin/anko) | 102 248 | 2018-10-12 |
-| [Ansible vault crypter](https://github.com/captainju/ansible-vault) | 2 103 | 2018-12-07 |
+| [Anko Support](https://github.com/Kotlin/anko) | 102 257 | 2018-10-12 |
+| [Ansible vault crypter](https://github.com/captainju/ansible-vault) | 2 104 | 2018-12-07 |
 | [Ant Debugger](https://plugins.jetbrains.com/files/4526/sourceCode.zip) | 4 359 | 2010-02-15 |
-| [Ant Debugger v1.2.0](https://github.com/opticyclic/antdebugger) | 17 636 | 2014-05-05 |
-| [Ant Tracer Plugin](https://plugins.jetbrains.com/files/1192/sourceCode.zip) | 4 501 | 2006-10-31 |
-| [AnyBarIdea](https://github.com/denofevil/AnyBarIdea) | 2 320 | 2016-06-14 |
-| [Apache Camel IDEA Plugin](https://github.com/davsclaus/camel-idea-plugin) | 60 727 | 2019-09-21 |
-| [Apache Equals HashCode and ToString generator](https://github.com/renjith4/ApacheEqualsHashCodeToString) | 12 698 | 2013-10-06 |
-| [Api Debugger](https://github.com/fingerart/ApiDebugger) | 12 586 | 2017-11-02 |
+| [Ant Debugger v1.2.0](https://github.com/opticyclic/antdebugger) | 17 637 | 2014-05-05 |
+| [Ant Tracer Plugin](https://plugins.jetbrains.com/files/1192/sourceCode.zip) | 4 502 | 2006-10-31 |
+| [AnyBarIdea](https://github.com/denofevil/AnyBarIdea) | 2 322 | 2016-06-14 |
+| [Apache Camel IDEA Plugin](https://github.com/davsclaus/camel-idea-plugin) | 60 746 | 2019-09-21 |
+| [Apache Equals HashCode and ToString generator](https://github.com/renjith4/ApacheEqualsHashCodeToString) | 12 700 | 2013-10-06 |
+| [Api Debugger](https://github.com/fingerart/ApiDebugger) | 12 593 | 2017-11-02 |
 | [Apiary Blueprint Manager](https://github.com/Tuxilero/ABM) | 5 419 | 2015-05-19 |
-| [Apicloud](https://github.com/695137400/ApicloudPlugins) | 3 873 | 2018-11-26 |
-| [ApkMultiChannel](https://github.com/nukc/ApkMultiChannelPlugin) | 2 764 | 2017-02-08 |
-| [ApkPackerPlugin](https://github.com/zhouaijia/IdeaPackerPlugin) | 4 366 | 2016-04-20 |
+| [Apicloud](https://github.com/695137400/ApicloudPlugins) | 3 880 | 2018-11-26 |
+| [ApkMultiChannel](https://github.com/nukc/ApkMultiChannelPlugin) | 2 765 | 2017-02-08 |
+| [ApkPackerPlugin](https://github.com/zhouaijia/IdeaPackerPlugin) | 4 368 | 2016-04-20 |
 | [Appetizer.io](https://github.com/appetizerio/appetizer-intellij) | 1 068 | 2017-09-22 |
-| [AppleScript Support](https://github.com/ant-druha/AppleScript-IDEA) | 47 706 | 2019-07-19 |
+| [AppleScript Support](https://github.com/ant-druha/AppleScript-IDEA) | 47 739 | 2019-07-19 |
 | [Applitools Eyes Integration](https://github.com/applitools/eyes.teamcity/) | 60 | 2019-08-02 |
-| [Arc Theme](https://gitlab.com/zlamalp/arc-theme-idea) | 1 822 | 2019-07-29 |
-| [ArchitectureReloaded](https://github.com/ml-in-programming/ArchitectureReloaded) | 481 | 2018-09-03 |
-| [Archive browser](https://github.com/b3er/idea-archive-browser) | 53 170 | 2019-03-30 |
+| [Arc Theme](https://gitlab.com/zlamalp/arc-theme-idea) | 1 827 | 2019-07-29 |
+| [ArchitectureReloaded](https://github.com/ml-in-programming/ArchitectureReloaded) | 482 | 2018-09-03 |
+| [Archive browser](https://github.com/b3er/idea-archive-browser) | 53 212 | 2019-03-30 |
 | [Arduino](https://github.com/francoiscampbell/CLionArduinoPlugin) | 22 345 | 2016-02-17 |
-| [Arduino Support](https://github.com/vsch/CLionArduinoPlugin) | 9 140 | 2018-12-21 |
-| [Arend](https://github.com/JetBrains/intellij-arend) | 1 032 | 2019-10-01 |
+| [Arduino Support](https://github.com/vsch/CLionArduinoPlugin) | 9 170 | 2018-12-21 |
+| [Arend](https://github.com/JetBrains/intellij-arend) | 1 040 | 2019-10-01 |
 | [Argus-CIT](https://github.com/arguslab/argus-cit-intellij) | 571 | 2017-08-17 |
-| [Arma IntelliJ Plugin](https://github.com/kayler-renslow/arma-intellij-plugin) | 50 143 | 2018-06-21 |
-| [ArtifactGen](https://github.com/SerCeMan/artifactgen) | 848 | 2018-06-11 |
-| [AsciiDoc](https://github.com/asciidoctor/asciidoctor-intellij-plugin/) | 737 971 | 2019-11-01 |
+| [Arma IntelliJ Plugin](https://github.com/kayler-renslow/arma-intellij-plugin) | 50 180 | 2018-06-21 |
+| [ArtifactGen](https://github.com/SerCeMan/artifactgen) | 849 | 2018-06-11 |
+| [AsciiDoc](https://github.com/asciidoctor/asciidoctor-intellij-plugin/) | 739 063 | 2019-11-01 |
 | [AspectWerkz plugin](https://plugins.jetbrains.com/files/628/sourceCode.zip) | 1 483 | 2006-10-26 |
-| [Aspose Maven Project Wizard](https://github.com/asposemarketplace/Aspose_Maven_for_JetBrains) | 4 270 | 2014-12-29 |
-| [Aspose Project Wizard](https://github.com/asposemarketplace/Aspose_for_JetBrains) | 1 739 | 2015-12-03 |
-| [Aspose.Barcode Java for IntelliJ IDEA Maven](https://github.com/aspose-barcode/Aspose.BarCode-for-Java/tree/master/Plugins/Aspose_Barcode_Java_for_IntelliJ(Maven)) | 2 527 | 2015-10-05 |
-| [Aspose.Cells Java for IntelliJ IDEA Maven](https://github.com/aspose-cells/Aspose.Cells-for-Java/tree/master/Plugins/Aspose_Cells_Java_for_IntelliJ(Maven)) | 2 477 | 2015-09-04 |
-| [Aspose.Diagram Java for IntelliJ IDEA Maven](https://github.com/aspose-diagram/Aspose.Diagram-for-Java/tree/master/Plugins/Aspose_Diagram_Java_for_IntelliJ(Maven)) | 3 176 | 2015-11-06 |
-| [Aspose.Email Java for IntelliJ IDEA Maven](https://github.com/aspose-email/Aspose.Email-for-Java/tree/master/Plugins/Aspose_Email_Java_for_IntelliJ(Maven)) | 1 172 | 2015-10-17 |
-| [Aspose.Imaging Java for IntelliJ IDEA Maven](https://github.com/aspose-imaging/Aspose.Imaging-for-Java/tree/master/Plugins/Aspose_Imaging_Java_for_IntelliJ(Maven)) | 825 | 2015-11-18 |
-| [Aspose.Note Java (Maven) for IntelliJ IDEA](https://github.com/aspose-note/Aspose.Note-for-Java/tree/master/Plugins/Aspose_Note_Java_for_IntelliJ%28Maven%29) | 773 | 2016-03-16 |
-| [Aspose.OCR Java for IntelliJ IDEA Maven](https://github.com/aspose-ocr/Aspose.OCR-for-Java/tree/master/Plugins/Aspose_OCR_Java_for_IntelliJ(Maven)) | 1 163 | 2015-11-11 |
-| [Aspose.Pdf Java for IntelliJ IDEA Maven](https://github.com/aspose-pdf/Aspose.Pdf-for-Java/tree/master/Plugins/Aspose_Pdf_Java_for_IntelliJ(Maven)) | 1 440 | 2015-10-09 |
-| [Aspose.Slides Java for IntelliJ IDEA Maven](https://github.com/aspose-slides/Aspose.Slides-for-Java/tree/master/Plugins/Aspose_Slides_Java_for_IntelliJ(Maven)) | 1 073 | 2015-09-18 |
-| [Aspose.Tasks Java for IntelliJ IDEA Maven](https://github.com/aspose-tasks/Aspose.Tasks-for-Java/tree/master/Plugins/Aspose_Tasks_Java_for_IntelliJ(Maven)) | 1 050 | 2015-10-28 |
-| [Aspose.Words Java for IntelliJ IDEA Maven](https://github.com/aspose-words/Aspose.Words-for-Java/tree/master/Plugins/Aspose_Words_Java_for_IntelliJ(Maven)) | 2 071 | 2015-08-25 |
+| [Aspose Maven Project Wizard](https://github.com/asposemarketplace/Aspose_Maven_for_JetBrains) | 4 273 | 2014-12-29 |
+| [Aspose Project Wizard](https://github.com/asposemarketplace/Aspose_for_JetBrains) | 1 740 | 2015-12-03 |
+| [Aspose.Barcode Java for IntelliJ IDEA Maven](https://github.com/aspose-barcode/Aspose.BarCode-for-Java/tree/master/Plugins/Aspose_Barcode_Java_for_IntelliJ(Maven)) | 2 528 | 2015-10-05 |
+| [Aspose.Cells Java for IntelliJ IDEA Maven](https://github.com/aspose-cells/Aspose.Cells-for-Java/tree/master/Plugins/Aspose_Cells_Java_for_IntelliJ(Maven)) | 2 479 | 2015-09-04 |
+| [Aspose.Diagram Java for IntelliJ IDEA Maven](https://github.com/aspose-diagram/Aspose.Diagram-for-Java/tree/master/Plugins/Aspose_Diagram_Java_for_IntelliJ(Maven)) | 3 178 | 2015-11-06 |
+| [Aspose.Email Java for IntelliJ IDEA Maven](https://github.com/aspose-email/Aspose.Email-for-Java/tree/master/Plugins/Aspose_Email_Java_for_IntelliJ(Maven)) | 1 174 | 2015-10-17 |
+| [Aspose.Imaging Java for IntelliJ IDEA Maven](https://github.com/aspose-imaging/Aspose.Imaging-for-Java/tree/master/Plugins/Aspose_Imaging_Java_for_IntelliJ(Maven)) | 828 | 2015-11-18 |
+| [Aspose.Note Java (Maven) for IntelliJ IDEA](https://github.com/aspose-note/Aspose.Note-for-Java/tree/master/Plugins/Aspose_Note_Java_for_IntelliJ%28Maven%29) | 775 | 2016-03-16 |
+| [Aspose.OCR Java for IntelliJ IDEA Maven](https://github.com/aspose-ocr/Aspose.OCR-for-Java/tree/master/Plugins/Aspose_OCR_Java_for_IntelliJ(Maven)) | 1 165 | 2015-11-11 |
+| [Aspose.Pdf Java for IntelliJ IDEA Maven](https://github.com/aspose-pdf/Aspose.Pdf-for-Java/tree/master/Plugins/Aspose_Pdf_Java_for_IntelliJ(Maven)) | 1 441 | 2015-10-09 |
+| [Aspose.Slides Java for IntelliJ IDEA Maven](https://github.com/aspose-slides/Aspose.Slides-for-Java/tree/master/Plugins/Aspose_Slides_Java_for_IntelliJ(Maven)) | 1 074 | 2015-09-18 |
+| [Aspose.Tasks Java for IntelliJ IDEA Maven](https://github.com/aspose-tasks/Aspose.Tasks-for-Java/tree/master/Plugins/Aspose_Tasks_Java_for_IntelliJ(Maven)) | 1 051 | 2015-10-28 |
+| [Aspose.Words Java for IntelliJ IDEA Maven](https://github.com/aspose-words/Aspose.Words-for-Java/tree/master/Plugins/Aspose_Words_Java_for_IntelliJ(Maven)) | 2 074 | 2015-08-25 |
 | [Assert Deluxe](https://github.com/grzegorzwitkowski/AssertDeluxe) | 1 397 | 2014-08-19 |
-| [AssertJ Postfix Completion Plugin](https://github.com/tokuhirom/assertj-postfix-plugin) | 1 246 | 2015-12-08 |
-| [Assertions2Assertj](https://github.com/ricemery/Assertions2AssertJ) | 2 267 | 2019-03-05 |
-| [AsyncConverter](https://github.com/BigBabay/AsyncConverter) | 8 568 | 2019-10-06 |
-| [AsyncConverter](https://github.com/BigBabay/AsyncConverter) | 26 131 | 2019-10-06 |
+| [AssertJ Postfix Completion Plugin](https://github.com/tokuhirom/assertj-postfix-plugin) | 1 247 | 2015-12-08 |
+| [Assertions2Assertj](https://github.com/ricemery/Assertions2AssertJ) | 2 269 | 2019-03-05 |
+| [AsyncConverter](https://github.com/BigBabay/AsyncConverter) | 8 570 | 2019-10-06 |
+| [AsyncConverter](https://github.com/BigBabay/AsyncConverter) | 26 151 | 2019-10-06 |
 | [Asynchronous Before Run Tasks](https://bitbucket.org/bhandy/asynch-before-run-tasks/src) | 551 | 2015-11-21 |
-| [AtSoundtrack](https://github.com/mp911de/atsoundtrack) | 9 755 | 2017-01-02 |
-| [Atlassian Connector for IntelliJ IDE](https://plugins.jetbrains.com/files/2190/sourceCode.zip) | 484 425 | 2015-04-20 |
-| [Atom Material Icons](https://github.com/mallowigi/a-file-icon-idea) | 157 903 | 2019-09-14 |
-| [AttachMe](https://github.com/samvel1024/attachme) | 8 | 2019-11-01 |
-| [AureliaStorm](https://github.com/denofevil/AureliaStorm) | 8 186 | 2019-08-16 |
+| [AtSoundtrack](https://github.com/mp911de/atsoundtrack) | 9 757 | 2017-01-02 |
+| [Atlassian Connector for IntelliJ IDE](https://plugins.jetbrains.com/files/2190/sourceCode.zip) | 484 426 | 2015-04-20 |
+| [Atom Material Icons](https://github.com/mallowigi/a-file-icon-idea) | 158 137 | 2019-09-14 |
+| [AttachMe](https://github.com/samvel1024/attachme) | 9 | 2019-11-01 |
+| [AureliaStorm](https://github.com/denofevil/AureliaStorm) | 8 189 | 2019-08-16 |
 | [Aurora Framework Support](https://github.com/twtyjvkg/aurora-support) | 367 | 2018-09-05 |
-| [Aurora Support](https://github.com/twtyjvkg/aurora-support) | 758 | 2019-01-21 |
-| [Auto Generator](https://github.com/i17c/AutoGenerator) | 7 281 | 2016-05-06 |
+| [Aurora Support](https://github.com/twtyjvkg/aurora-support) | 760 | 2019-01-21 |
+| [Auto Generator](https://github.com/i17c/AutoGenerator) | 7 284 | 2016-05-06 |
 | [Auto Properties](https://github.com/novemberdobby/autoProperties) | 209 | 2019-05-20 |
-| [Auto Switch Input Source In IdeaVim Mode](https://github.com/rieonke/idea-auto-switch-im) | 8 066 | 2017-12-26 |
-| [Auto Sync](https://github.com/DemonWav/autosync) | 2 943 | 2018-01-11 |
-| [Auto filling Java call arguments](https://github.com/kontext-e/AutoFillingCallArguments) | 5 882 | 2016-09-27 |
+| [Auto Switch Input Source In IdeaVim Mode](https://github.com/rieonke/idea-auto-switch-im) | 8 073 | 2017-12-26 |
+| [Auto Sync](https://github.com/DemonWav/autosync) | 2 946 | 2018-01-11 |
+| [Auto filling Java call arguments](https://github.com/kontext-e/AutoFillingCallArguments) | 5 889 | 2016-09-27 |
 | [AutoAttach](https://github.com/codeweavers/AutoAttach/tree/master/RiderAutoAttach) | 132 | 2017-11-05 |
 | [AutoConvertLayout](https://github.com/Qiu800820/AutoConvertLayout) | 251 | 2016-07-11 |
 | [AutoPackage](https://plugins.jetbrains.com/files/1265/sourceCode.zip) | 8 055 | 2011-12-07 |
-| [AutoValue plugin](https://github.com/afcastano/AutoValuePlugin) | 15 304 | 2017-06-22 |
+| [AutoValue plugin](https://github.com/afcastano/AutoValuePlugin) | 15 305 | 2017-06-22 |
 | [Automate Live Templates](https://github.com/baydindima/AutomateLiveTemplatesPlugin/tree/master) | 1 641 | 2017-06-13 |
 | [Automatic Android Code Smell Refactoring Tool](https://github.com/T-Khanna/ACSR) | 86 | 2019-06-03 |
-| [Automatic Power Saver](https://github.com/ChrisCarini/jetbrains-auto-power-saver) | 1 116 | 2019-07-26 |
+| [Automatic Power Saver](https://github.com/ChrisCarini/jetbrains-auto-power-saver) | 1 120 | 2019-07-26 |
 | [Avaje Metric Enhancer](https://github.com/avaje-metric/metric-idea-enhancer) | 1 363 | 2015-06-11 |
-| [Avro Viewer](https://github.com/benwatson528/intellij-avro-plugin) | 2 900 | 2019-08-19 |
-| [Awesome Console](https://github.com/anthraxx/intellij-awesome-console) | 54 019 | 2019-07-29 |
-| [Awesome Kotlin](https://github.com/alex-yh99/AwesomeKotlinPlugin) | 3 805 | 2019-10-24 |
-| [Awesome Pojo Generator](https://github.com/jineshfrancs/AwesomePojoGenerator) | 4 144 | 2017-07-23 |
-| [Axml Of DingTalk](https://github.com/mofada/AxmlPlugin) | 546 | 2019-03-01 |
-| [Axon Framework Plugin](https://github.com/AxonFramework/IdeaPlugin) | 3 974 | 2017-02-13 |
+| [Avro Viewer](https://github.com/benwatson528/intellij-avro-plugin) | 2 909 | 2019-08-19 |
+| [Awesome Console](https://github.com/anthraxx/intellij-awesome-console) | 54 033 | 2019-07-29 |
+| [Awesome Kotlin](https://github.com/alex-yh99/AwesomeKotlinPlugin) | 3 823 | 2019-10-24 |
+| [Awesome Pojo Generator](https://github.com/jineshfrancs/AwesomePojoGenerator) | 4 147 | 2017-07-23 |
+| [Axml Of DingTalk](https://github.com/mofada/AxmlPlugin) | 549 | 2019-03-01 |
+| [Axon Framework Plugin](https://github.com/AxonFramework/IdeaPlugin) | 3 975 | 2017-02-13 |
 | [Azure Artifact Storage](https://github.com/JetBrains/teamcity-azure-storage) | 572 | 2017-04-07 |
 | [Azure Classic Cloud Support](https://github.com/JetBrains/teamcity-azure-plugin) | 290 | 2019-06-26 |
-| [Azure DevOps](https://github.com/Microsoft/vso-intellij) | 341 038 | 2019-11-01 |
+| [Azure DevOps](https://github.com/Microsoft/vso-intellij) | 342 221 | 2019-11-01 |
 | [Azure Resource Manager Cloud Support](https://github.com/JetBrains/teamcity-azure-agent) | 1 883 | 2019-09-02 |
-| [Azure Toolkit for IntelliJ](https://github.com/microsoft/azure-tools-for-java) | 75 199 | 2019-10-12 |
-| [Azure Toolkit for Rider](https://github.com/JetBrains/azure-tools-for-intellij) | 21 222 | 2019-08-28 |
-| [BEAR.Sunday Plugin](https://github.com/bearsunday/idea-php-bearsunday-plugin) | 515 | 2018-11-08 |
+| [Azure Toolkit for IntelliJ](https://github.com/microsoft/azure-tools-for-java) | 75 240 | 2019-10-12 |
+| [Azure Toolkit for Rider](https://github.com/JetBrains/azure-tools-for-intellij) | 21 245 | 2019-08-28 |
+| [BEAR.Sunday Plugin](https://github.com/bearsunday/idea-php-bearsunday-plugin) | 516 | 2018-11-08 |
 | [BPELlint-idea](https://github.com/uniba-dsg/BPELlint-idea) | 1 290 | 2015-03-12 |
-| [BSFConsole](https://github.com/eprst/BSFConsole) | 5 974 | 2013-03-20 |
-| [Background Image Plus](https://github.com/lachlankrautz/backgroundImagePlus) | 130 323 | 2017-05-12 |
-| [Background Image Plus +](https://github.com/HNUHell/backgroundImagePlus) | 26 212 | 2018-10-24 |
-| [Backlog Git Page](https://github.com/kimzo/intellij_backlog) | 606 | 2019-06-15 |
-| [Ballerina](https://github.com/ballerina-platform/ballerina-lang/tree/master/tool-plugins/intellij) | 8 373 | 2019-09-30 |
-| [Bamboo Soy](https://github.com/google/bamboo-soy) | 15 337 | 2018-08-02 |
-| [Base64 Helper](https://github.com/m4ns0ur/Base64-Helper-IntelliJ-Plugin) | 35 291 | 2019-06-27 |
-| [BashSupport](https://github.com/BashSupport/BashSupport) | 12 180 018 | 2019-09-13 |
-| [Basis.js framework plugin](https://github.com/smelukov/intellij-basisjs-plugin) | 13 615 | 2017-08-21 |
-| [Batch Generator](https://plugins.jetbrains.com/files/1027/sourceCode.zip) | 2 894 | 2006-10-28 |
-| [Batch Scripts Support](https://github.com/aefimov/idea-batch) | 366 533 | 2019-10-03 |
-| [Bazel](https://github.com/bazelbuild/intellij) | 98 149 | 2019-10-25 |
-| [Bazel](https://github.com/bazelbuild/intellij) | 14 765 | 2019-10-25 |
-| [Bazel](https://github.com/bazelbuild/intellij) | 31 043 | 2019-10-25 |
+| [BSFConsole](https://github.com/eprst/BSFConsole) | 5 975 | 2013-03-20 |
+| [Background Image Plus](https://github.com/lachlankrautz/backgroundImagePlus) | 130 421 | 2017-05-12 |
+| [Background Image Plus +](https://github.com/HNUHell/backgroundImagePlus) | 26 249 | 2018-10-24 |
+| [Backlog Git Page](https://github.com/kimzo/intellij_backlog) | 608 | 2019-06-15 |
+| [Ballerina](https://github.com/ballerina-platform/ballerina-lang/tree/master/tool-plugins/intellij) | 8 411 | 2019-11-03 |
+| [Bamboo Soy](https://github.com/google/bamboo-soy) | 15 349 | 2018-08-02 |
+| [Base64 Helper](https://github.com/m4ns0ur/Base64-Helper-IntelliJ-Plugin) | 35 304 | 2019-06-27 |
+| [BashSupport](https://github.com/BashSupport/BashSupport) | 12 183 464 | 2019-09-13 |
+| [Basis.js framework plugin](https://github.com/smelukov/intellij-basisjs-plugin) | 13 616 | 2017-08-21 |
+| [Batch Generator](https://plugins.jetbrains.com/files/1027/sourceCode.zip) | 2 897 | 2006-10-28 |
+| [Batch Scripts Support](https://github.com/aefimov/idea-batch) | 366 672 | 2019-10-03 |
+| [Bazel](https://github.com/bazelbuild/intellij) | 98 253 | 2019-10-25 |
+| [Bazel](https://github.com/bazelbuild/intellij) | 14 778 | 2019-10-25 |
+| [Bazel](https://github.com/bazelbuild/intellij) | 31 106 | 2019-10-25 |
 | [Bazel build support](https://github.com/JetBrains/teamcity-bazel-plugin) | 103 | 2019-01-30 |
-| [BeTranslate](https://github.com/whilu/BeTranslate) | 1 493 | 2016-11-15 |
+| [BeTranslate](https://github.com/whilu/BeTranslate) | 1 495 | 2016-11-15 |
 | [Beaker Test Runner](https://github.com/puppetlabs/BeakerRubyMinePlugin/) | 507 | 2017-10-31 |
 | [BeanConverter](https://github.com/wbean/BeanConverter) | 159 | 2019-02-11 |
-| [BeanShell Box](https://plugins.jetbrains.com/files/1022/sourceCode.zip) | 4 049 | 2006-09-22 |
-| [BearCast](https://github.com/ixalender/BearCast) | 368 | 2019-08-05 |
-| [Behat](https://github.com/mprzytulski/phpstorm-behat) | 11 226 | 2013-12-06 |
+| [BeanShell Box](https://plugins.jetbrains.com/files/1022/sourceCode.zip) | 4 050 | 2006-09-22 |
+| [BearCast](https://github.com/ixalender/BearCast) | 370 | 2019-08-05 |
+| [Behat](https://github.com/mprzytulski/phpstorm-behat) | 11 227 | 2013-12-06 |
 | [Behat Enhancement](https://github.com/Haehnchen/idea-php-behat-plugin) | 1 145 | 2017-05-04 |
-| [Bemmet for IDEA](https://github.com/amel-true/bemmet-idea/) | 5 792 | 2016-12-12 |
-| [Berkeley DB Java Edition](https://plugins.jetbrains.com/files/1548/sourceCode.zip) | 3 072 | 2007-08-27 |
-| [Better Sticky Selection](https://github.com/takc923/better-sticky-selection) | 289 | 2018-11-26 |
-| [Bigface Color Scheme](https://github.com/gjuoun/Bigface_Color_Theme_jetbrains) | 4 911 | 2018-08-10 |
-| [BinEd - Binary/Hexadecimal Editor](https://github.com/exbin/bined-intellij-plugin) | 33 164 | 2019-08-22 |
+| [Bemmet for IDEA](https://github.com/amel-true/bemmet-idea/) | 5 794 | 2016-12-12 |
+| [Berkeley DB Java Edition](https://plugins.jetbrains.com/files/1548/sourceCode.zip) | 3 073 | 2007-08-27 |
+| [Better Sticky Selection](https://github.com/takc923/better-sticky-selection) | 292 | 2018-11-26 |
+| [Bigface Color Scheme](https://github.com/gjuoun/Bigface_Color_Theme_jetbrains) | 4 918 | 2018-08-10 |
+| [BinEd - Binary/Hexadecimal Editor](https://github.com/exbin/bined-intellij-plugin) | 33 214 | 2019-08-22 |
 | [Binder Plugin](https://github.com/HighBay/Binder-Plugin-Intellij) | 234 | 2016-03-10 |
 | [Binding Layout](https://github.com/leveychen/BindingLayout) | 833 | 2018-03-24 |
 | [BitTorrent Support](https://github.com/JetBrains/teamcity-torrent-plugin) | 49 | 2018-04-05 |
-| [Bitbucket Linky](https://bitbucket.org/atlassianlabs/intellij-bitbucket-references-plugin) | 276 013 | 2019-09-04 |
-| [BitbucketIssueViewer](https://github.com/orekyuu/BitbucketIssueViewer) | 3 586 | 2015-07-25 |
-| [Bitrix Framework Support](https://github.com/vizh/bxfs) | 17 101 | 2019-01-13 |
+| [Bitbucket Linky](https://bitbucket.org/atlassianlabs/intellij-bitbucket-references-plugin) | 276 074 | 2019-09-04 |
+| [BitbucketIssueViewer](https://github.com/orekyuu/BitbucketIssueViewer) | 3 588 | 2015-07-25 |
+| [Bitrix Framework Support](https://github.com/vizh/bxfs) | 17 112 | 2019-01-13 |
 | [Black Duck Hub](https://github.com/blackducksoftware/hub-teamcity.git) | 2 | 2017-03-01 |
 | [Blaze - Swift Inspections](https://github.com/magicbytes/Blaze---Swift-Inspections) | 131 | 2019-04-17 |
 | [BlazeMeter](https://github.com/Blazemeter/blazemeter-teamcity-plugin.git) | 152 | 2018-11-06 |
-| [Bloc Code Generator](https://github.com/felangel/bloc/tree/master/extensions/intellij) | 7 053 | 2019-09-27 |
-| [BoB the Builder of Beans](https://bitbucket.org/atlassianlabs/bob-the-builder-of-beans/src) | 3 239 | 2019-04-12 |
+| [Bloc Code Generator](https://github.com/felangel/bloc/tree/master/extensions/intellij) | 7 082 | 2019-09-27 |
+| [BoB the Builder of Beans](https://bitbucket.org/atlassianlabs/bob-the-builder-of-beans/src) | 3 246 | 2019-04-12 |
 | [Bobril Runner](https://github.com/bobril/bobril-jetbrains-runner) | 119 | 2019-10-22 |
-| [Bookmark Actions](https://github.com/berlam/bookmark-actions/) | 772 | 2019-01-30 |
-| [Bootstrap](https://github.com/JasonMortonNZ/bootstrap3-phpstorm-plugin) | 66 474 | 2014-02-07 |
-| [Bootstrap 3](https://github.com/bodiam/intellij-bootstrap) | 415 255 | 2018-04-16 |
-| [Bootstrap 4, Font awesome 4, Font Awesome 5 Free & Pro live templates/snippets](https://github.com/thekalinga/bootstrap4-intellij) | 89 518 | 2019-03-11 |
-| [BraceSucks](https://github.com/ice1000/BracesSucks/) | 465 | 2018-03-30 |
-| [Bracket Selection](https://github.com/JenoDK/bracket-selection) | 552 | 2019-05-02 |
-| [Branch in Window Title](https://github.com/tom-haines/branch-window-title/) | 8 524 | 2019-02-02 |
-| [Breakpoints Manager](https://github.com/shiraji/breakpoints-manager) | 2 266 | 2016-06-11 |
-| [Breeze Dark](https://github.com/mustofa-id/breeze-dark) | 33 | 2019-10-31 |
-| [BrightScript](https://github.com/interfaced/brightscript-intellij-plugin) | 780 | 2019-08-14 |
+| [Bookmark Actions](https://github.com/berlam/bookmark-actions/) | 775 | 2019-01-30 |
+| [Bootstrap](https://github.com/JasonMortonNZ/bootstrap3-phpstorm-plugin) | 66 491 | 2014-02-07 |
+| [Bootstrap 3](https://github.com/bodiam/intellij-bootstrap) | 415 304 | 2018-04-16 |
+| [Bootstrap 4, Font awesome 4, Font Awesome 5 Free & Pro live templates/snippets](https://github.com/thekalinga/bootstrap4-intellij) | 89 595 | 2019-03-11 |
+| [BraceSucks](https://github.com/ice1000/BracesSucks/) | 467 | 2018-03-30 |
+| [Bracket Selection](https://github.com/JenoDK/bracket-selection) | 554 | 2019-05-02 |
+| [Branch in Window Title](https://github.com/tom-haines/branch-window-title/) | 8 528 | 2019-02-02 |
+| [Breakpoints Manager](https://github.com/shiraji/breakpoints-manager) | 2 268 | 2016-06-11 |
+| [Breeze Dark](https://github.com/mustofa-id/breeze-dark) | 37 | 2019-10-31 |
+| [BrightScript](https://github.com/interfaced/brightscript-intellij-plugin) | 783 | 2019-08-14 |
 | [Browser notify](https://github.com/grundic/teamcity-browser-notify) | 415 | 2016-10-13 |
 | [BrowserStack](https://github.com/browserstack/teamcity-plugin) | 669 | 2018-05-15 |
-| [Buck for IDEA](https://github.com/facebook/buck/tree/master/tools/ideabuck) | 30 723 | 2018-09-18 |
-| [BugKotlinDocument](https://github.com/zxj5470/BugKotlinDocument) | 6 297 | 2019-06-13 |
+| [Buck for IDEA](https://github.com/facebook/buck/tree/master/tools/ideabuck) | 30 726 | 2018-09-18 |
+| [BugKotlinDocument](https://github.com/zxj5470/BugKotlinDocument) | 6 304 | 2019-06-13 |
 | [BugVM](https://github.com/bugvm/bugvm) | 2 427 | 2016-06-15 |
-| [Build Feedback Plugin](https://plugins.jetbrains.com/files/1644/sourceCode.zip) | 1 049 | 2007-10-18 |
+| [Build Feedback Plugin](https://plugins.jetbrains.com/files/1644/sourceCode.zip) | 1 050 | 2007-10-18 |
 | [Build Finished Notifier](https://github.com/mcmil/build-finished-notifier-plugin) | 1 166 | 2015-03-18 |
-| [Build JSON](https://github.com/xinkunZ/BuildJSONObject) | 2 484 | 2017-07-12 |
-| [Build Mybatis File](https://github.com/moshangren11/MybatisPlugin) | 4 148 | 2018-12-12 |
+| [Build JSON](https://github.com/xinkunZ/BuildJSONObject) | 2 485 | 2017-07-12 |
+| [Build Mybatis File](https://github.com/moshangren11/MybatisPlugin) | 4 153 | 2018-12-12 |
 | [Build Parameters Usage Report](https://github.com/morincer/teamcity-parameters-usage) | 10 | 2019-06-25 |
 | [Build Result Decorator](https://github.com/edlund-as/teamcity-brd-plugin) | 15 | 2019-06-23 |
-| [Build and Lint](https://github.com/royfalk/BuildAndLint) | 825 | 2015-09-30 |
-| [BuildWatcher](https://plugins.jetbrains.com/files/4548/sourceCode.zip) | 3 476 | 2012-05-09 |
-| [Builder](https://github.com/anshulbajpai/Builder) | 5 702 | 2014-09-23 |
-| [Builder Deluxe](https://github.com/grzegorzwitkowski/BuilderDeluxe) | 3 068 | 2014-11-02 |
-| [Builder Generator](https://github.com/mjedynak/builder-generator-idea-plugin) | 117 573 | 2017-09-16 |
-| [Builder plugin](https://github.com/ryanhall07/builder) | 2 943 | 2014-09-23 |
-| [Builderberg](https://github.com/DavidBurkett/Builderberg) | 1 002 | 2019-05-22 |
-| [Buildr Plugin](https://github.com/pepijnve/buildr-plugin) | 5 686 | 2014-02-19 |
+| [Build and Lint](https://github.com/royfalk/BuildAndLint) | 826 | 2015-09-30 |
+| [BuildWatcher](https://plugins.jetbrains.com/files/4548/sourceCode.zip) | 3 477 | 2012-05-09 |
+| [Builder](https://github.com/anshulbajpai/Builder) | 5 703 | 2014-09-23 |
+| [Builder Deluxe](https://github.com/grzegorzwitkowski/BuilderDeluxe) | 3 069 | 2014-11-02 |
+| [Builder Generator](https://github.com/mjedynak/builder-generator-idea-plugin) | 117 597 | 2017-09-16 |
+| [Builder plugin](https://github.com/ryanhall07/builder) | 2 946 | 2014-09-23 |
+| [Builderberg](https://github.com/DavidBurkett/Builderberg) | 1 003 | 2019-05-22 |
+| [Buildr Plugin](https://github.com/pepijnve/buildr-plugin) | 5 689 | 2014-02-19 |
 | [Buildron](https://github.com/skahal/buildron) | 113 | 2016-10-06 |
 | [Bumblebee](https://bitbucket.org/agiletestwareteam/bumblebee-teamcity-plugin) | 16 | 2019-02-05 |
-| [Bunch Tool](https://github.com/JetBrains/bunches) | 294 | 2019-09-04 |
-| [ButterKnife Inspections](https://github.com/erikzielke/butterknife_inspections) | 12 656 | 2015-05-17 |
+| [Bunch Tool](https://github.com/JetBrains/bunches) | 295 | 2019-09-04 |
+| [ButterKnife Inspections](https://github.com/erikzielke/butterknife_inspections) | 12 657 | 2015-05-17 |
 | [ButterKnifeCode](https://github.com/fengqingxiuyi/ButterKnifeCode) | 613 | 2017-11-30 |
 | [ButterknifeSharper](https://bitbucket.org/zagen/butterknifesharper/src) | 1 552 | 2017-08-16 |
-| [Bytecode Disassembler](https://bitbucket.org/OPAL-Project/intellijintegration) | 588 | 2019-10-10 |
-| [Bytecode Editor](https://github.com/pshirshov/idea-bytecode-editor) | 8 912 | 2017-11-08 |
+| [Bytecode Disassembler](https://bitbucket.org/OPAL-Project/intellijintegration) | 589 | 2019-10-10 |
+| [Bytecode Editor](https://github.com/pshirshov/idea-bytecode-editor) | 8 921 | 2017-11-08 |
 | [Bzr4IntelliJ](https://plugins.jetbrains.com/files/3961/sourceCode.zip) | 7 494 | 2011-02-15 |
-| [C/C++](https://github.com/nicity/CppTools) | 104 219 | 2015-04-30 |
-| [C/C++ Coverage](https://github.com/zero9178/GCoverage4CLion) | 1 775 | 2019-10-31 |
-| [C/C++ Single File Execution](https://github.com/corochann/SingleFileExecutionPlugin) | 12 294 | 2016-06-10 |
-| [CBT](https://github.com/darthorimar/intellij-cbt) | 1 354 | 2018-02-26 |
-| [CCMonitor](https://plugins.jetbrains.com/files/1086/sourceCode.zip) | 1 148 | 2007-05-12 |
-| [CFR Decompile](https://github.com/mrdear/asm-bytecode-intellij) | 3 078 | 2018-12-15 |
-| [CHelper](https://github.com/EgorKulikov/idea-chelper) | 25 519 | 2018-07-26 |
+| [C/C++](https://github.com/nicity/CppTools) | 104 237 | 2015-04-30 |
+| [C/C++ Coverage](https://github.com/zero9178/GCoverage4CLion) | 1 790 | 2019-10-31 |
+| [C/C++ Single File Execution](https://github.com/corochann/SingleFileExecutionPlugin) | 12 304 | 2016-06-10 |
+| [CBT](https://github.com/darthorimar/intellij-cbt) | 1 355 | 2018-02-26 |
+| [CCMonitor](https://plugins.jetbrains.com/files/1086/sourceCode.zip) | 1 149 | 2007-05-12 |
+| [CFR Decompile](https://github.com/mrdear/asm-bytecode-intellij) | 3 087 | 2018-12-15 |
+| [CHelper](https://github.com/EgorKulikov/idea-chelper) | 25 525 | 2018-07-26 |
 | [CLion C Project Transformer](https://github.com/cgrevisse/clioncprojecttransformer) | 800 | 2016-04-14 |
-| [CLion CUDA Run Patcher](https://github.com/anantapalani/clion-cuda-run-patcher) | 3 866 | 2019-07-26 |
+| [CLion CUDA Run Patcher](https://github.com/anantapalani/clion-cuda-run-patcher) | 3 873 | 2019-07-26 |
 | [CLion Postfix Completion](https://github.com/zxj5470/CLion-Postfix) | 136 | 2019-01-19 |
-| [CLion clang-tidy integration](https://bitbucket.org/baldur/clion-clangtidy) | 6 027 | 2018-03-28 |
-| [CLion-MacroFormatter](https://github.com/itechbear/CLion-MacroFormatter) | 2 003 | 2015-08-12 |
-| [CLion-cpplint](https://github.com/itechbear/CLion-cpplint) | 10 912 | 2019-08-08 |
-| [CMD Support](https://github.com/t3hnar/CmdSupport) | 797 903 | 2015-03-05 |
-| [CMake Docs](https://github.com/EddieRingle/clion-cmakedocs) | 3 288 | 2018-07-27 |
-| [CMake Plus](http://github.com/ArtsiomCh/CMake) | 1 159 | 2019-10-08 |
-| [CMake simple highlighter](https://github.com/ArtsiomCh/CMake) | 27 475 | 2019-10-08 |
-| [CND Language / Jahia Framework](https://github.com/Tolc/IntelliJ_Jahia_plugin) | 3 866 | 2019-10-31 |
-| [COLA Tests](https://github.com/bmsantos/cola-idea-plugin) | 2 226 | 2016-04-05 |
+| [CLion clang-tidy integration](https://bitbucket.org/baldur/clion-clangtidy) | 6 029 | 2018-03-28 |
+| [CLion-MacroFormatter](https://github.com/itechbear/CLion-MacroFormatter) | 2 004 | 2015-08-12 |
+| [CLion-cpplint](https://github.com/itechbear/CLion-cpplint) | 10 919 | 2019-08-08 |
+| [CMD Support](https://github.com/t3hnar/CmdSupport) | 798 284 | 2015-03-05 |
+| [CMake Docs](https://github.com/EddieRingle/clion-cmakedocs) | 3 289 | 2018-07-27 |
+| [CMake Plus](http://github.com/ArtsiomCh/CMake) | 1 168 | 2019-10-08 |
+| [CMake simple highlighter](https://github.com/ArtsiomCh/CMake) | 27 514 | 2019-10-08 |
+| [CND Language / Jahia Framework](https://github.com/Tolc/IntelliJ_Jahia_plugin) | 3 870 | 2019-10-31 |
+| [COLA Tests](https://github.com/bmsantos/cola-idea-plugin) | 2 231 | 2016-04-05 |
 | [COLT WebStorm Plugin](https://github.com/code-orchestra/colt-idea-plugin-js) | 7 372 | 2014-06-04 |
-| [CPU Usage Indicator](https://github.com/krasa/CpuUsageIndicator) | 29 797 | 2017-10-23 |
-| [CS 125 @ Illinois](https://github.com/cs125-illinois/intellijlogger) | 548 | 2019-09-12 |
-| [CS 61B](https://github.com/Berkeley-CS61B/intellij-plugin/) | 22 819 | 2019-01-07 |
-| [CSSReorder (beta)](https://github.com/anton-rudeshko/CSSReorder) | 30 093 | 2014-07-26 |
-| [CSV Plugin](https://github.com/SeeSharpSoft/intellij-csv-validator) | 2 779 146 | 2019-10-11 |
-| [CVS Info Plug-In](https://github.com/Bewalticus/CVSInfo) | 5 515 | 2013-01-25 |
-| [CVS Revision Graph](https://plugins.jetbrains.com/files/1779/sourceCode.zip) | 8 238 | 2007-12-21 |
-| [CafeBabe](https://plugins.jetbrains.com/files/1810/sourceCode.zip) | 1 766 | 2016-04-24 |
-| [CakeStorm](https://github.com/vexus2/CakeStorm) | 51 333 | 2015-09-25 |
-| [CamelCase](https://github.com/netnexus/camelcaseplugin) | 219 155 | 2019-05-09 |
-| [CamelCase PascalCase Converter](https://github.com/markhuang19994/CamelCasePascalCaseConverter) | 690 | 2018-07-26 |
+| [CPU Usage Indicator](https://github.com/krasa/CpuUsageIndicator) | 29 816 | 2017-10-23 |
+| [CS 125 @ Illinois](https://github.com/cs125-illinois/intellijlogger) | 551 | 2019-09-12 |
+| [CS 61B](https://github.com/Berkeley-CS61B/intellij-plugin/) | 22 833 | 2019-01-07 |
+| [CSSReorder (beta)](https://github.com/anton-rudeshko/CSSReorder) | 30 096 | 2014-07-26 |
+| [CSV Plugin](https://github.com/SeeSharpSoft/intellij-csv-validator) | 2 781 643 | 2019-10-11 |
+| [CVS Info Plug-In](https://github.com/Bewalticus/CVSInfo) | 5 517 | 2013-01-25 |
+| [CVS Revision Graph](https://plugins.jetbrains.com/files/1779/sourceCode.zip) | 8 242 | 2007-12-21 |
+| [CafeBabe](https://plugins.jetbrains.com/files/1810/sourceCode.zip) | 1 767 | 2016-04-24 |
+| [CakeStorm](https://github.com/vexus2/CakeStorm) | 51 340 | 2015-09-25 |
+| [CamelCase](https://github.com/netnexus/camelcaseplugin) | 219 255 | 2019-05-09 |
+| [CamelCase PascalCase Converter](https://github.com/markhuang19994/CamelCasePascalCaseConverter) | 691 | 2018-07-26 |
 | [CamelToggle](https://github.com/ysdxz207/CamelToggle) | 148 | 2018-07-09 |
 | [Camelry](https://github.com/AlanFoster/Camelry) | 6 390 | 2013-08-28 |
-| [Carbon Theme](https://github.com/luisfer0793/CarbonTheme) | 7 776 | 2019-08-01 |
+| [Carbon Theme](https://github.com/luisfer0793/CarbonTheme) | 7 802 | 2019-08-01 |
 | [Carret Inspector](https://plugins.jetbrains.com/files/1811/sourceCode.zip) | 1 609 | 2007-11-28 |
-| [Case conversion](https://git.laria.me/idea_caseconv/) | 2 285 | 2019-06-27 |
-| [Catberry Framework support](https://github.com/catberry/catberry-idea-plugin) | 463 | 2016-04-04 |
-| [Catdea](https://github.com/Cybr0sis/Catdea/tree/develop) | 77 162 | 2019-09-20 |
-| [Ceylon IDE](https://github.com/ceylon/ceylon-ide-intellij) | 5 464 | 2017-08-22 |
-| [ChangeReminder](https://github.com/JetBrains/intellij-community/tree/master/plugins/changeReminder) | 16 | 2019-11-01 |
-| [Changelist Organizer](https://github.com/4ch1m/ChangelistOrganizer) | 1 370 | 2018-11-10 |
+| [Case conversion](https://git.laria.me/idea_caseconv/) | 2 290 | 2019-06-27 |
+| [Catberry Framework support](https://github.com/catberry/catberry-idea-plugin) | 465 | 2016-04-04 |
+| [Catdea](https://github.com/Cybr0sis/Catdea/tree/develop) | 77 308 | 2019-09-20 |
+| [Ceylon IDE](https://github.com/ceylon/ceylon-ide-intellij) | 5 465 | 2017-08-22 |
+| [ChangeReminder](https://github.com/JetBrains/intellij-community/tree/master/plugins/changeReminder) | 18 | 2019-11-01 |
+| [Changelist Organizer](https://github.com/4ch1m/ChangelistOrganizer) | 1 374 | 2018-11-10 |
 | [Changes Bar](https://plugins.jetbrains.com/files/1191/sourceCode.zip) | 3 343 | 2009-04-28 |
-| [CharJump](https://github.com/jpmossin/CharJump) | 1 939 | 2017-11-13 |
+| [CharJump](https://github.com/jpmossin/CharJump) | 1 941 | 2017-11-13 |
 | [Character Position](https://github.com/MarekMalevic/characterposition) | 1 093 | 2018-01-10 |
 | [Chat Bot](https://github.com/tcplugins/tcChatBot) | 27 | 2019-06-24 |
 | [Check My Vars](https://plugins.jetbrains.com/files/3711/sourceCode.zip) | 1 215 | 2008-10-30 |
 | [Check Tests](https://github.com/davearata/checktests) | 2 198 | 2014-01-13 |
 | [CheckMate](https://github.com/ThomasGoris/CheckMate) | 3 789 | 2017-12-01 |
-| [CheckStyle-IDEA](https://github.com/jshiell/checkstyle-idea) | 2 539 841 | 2019-10-12 |
+| [CheckStyle-IDEA](https://github.com/jshiell/checkstyle-idea) | 2 540 354 | 2019-10-12 |
 | [CheckThread](https://plugins.jetbrains.com/files/3028/sourceCode.zip) | 2 129 | 2009-04-29 |
 | [Checker Framework Support](https://github.com/dovchinnikov/intellij-checker-framework) | 4 249 | 2014-09-16 |
 | [Checks plural forms of collection variable names](https://github.com/rillig/intellij-plural-inspection) | 129 | 2017-03-25 |
-| [ChineseTypography](https://github.com/judasn/ChineseTypography-IDEA-Plugin) | 565 | 2017-01-23 |
-| [Chocolate CakePHP](http://github.com/dmeybohm/chocolate-cakephp) | 3 760 | 2018-09-01 |
-| [ChroMATERIAL](https://github.com/ciscorucinski/ChroMATERIAL) | 78 345 | 2018-01-03 |
-| [Chronomorph](https://github.com/PaleoCrafter/Chronomorph) | 1 168 | 2019-09-09 |
-| [Chuck Norris Facts](https://github.com/corentin59/Chuck-Norris-Facts-FR-Plugin-IntelliJ) | 1 665 | 2013-09-14 |
+| [ChineseTypography](https://github.com/judasn/ChineseTypography-IDEA-Plugin) | 566 | 2017-01-23 |
+| [Chocolate CakePHP](http://github.com/dmeybohm/chocolate-cakephp) | 3 763 | 2018-09-01 |
+| [ChroMATERIAL](https://github.com/ciscorucinski/ChroMATERIAL) | 78 364 | 2018-01-03 |
+| [Chronomorph](https://github.com/PaleoCrafter/Chronomorph) | 1 170 | 2019-09-09 |
+| [Chuck Norris Facts](https://github.com/corentin59/Chuck-Norris-Facts-FR-Plugin-IntelliJ) | 1 666 | 2013-09-14 |
 | [Chuck Norris Facts Plugin](https://github.com/Andris91/Chuck-Norris-Facts-IntelliJ-Plugin) | 84 | 2017-02-05 |
-| [ClangFormatIJ](https://github.com/mprobst/ClangFormatIJ/) | 17 456 | 2018-05-07 |
-| [Class Hunter](https://plugins.jetbrains.com/files/1162/sourceCode.zip) | 3 179 | 2006-12-02 |
+| [ClangFormatIJ](https://github.com/mprobst/ClangFormatIJ/) | 17 467 | 2018-05-07 |
+| [Class Hunter](https://plugins.jetbrains.com/files/1162/sourceCode.zip) | 3 180 | 2006-12-02 |
 | [Class Names in Comments](https://plugins.jetbrains.com/files/4002/sourceCode.zip) | 1 004 | 2009-02-14 |
 | [ClassCopier](https://github.com/Shumyk/ClassCopier) | 60 | 2019-08-15 |
-| [Classic Icon](https://github.com/retomerz/classic-icon-idea) | 4 343 | 2017-02-07 |
+| [Classic Icon](https://github.com/retomerz/classic-icon-idea) | 4 347 | 2017-02-07 |
 | [Classpath Complete](https://plugins.jetbrains.com/files/1214/sourceCode.zip) | 3 431 | 2006-11-19 |
 | [Clean Architecture Generator](https://github.com/alvaromarco/CleanArchitecturePlugin) | 2 479 | 2016-08-05 |
-| [Clean Architecture Plugin](https://github.com/edgarmiro/clean-plugin) | 1 490 | 2017-11-20 |
+| [Clean Architecture Plugin](https://github.com/edgarmiro/clean-plugin) | 1 494 | 2017-11-20 |
 | [Clean Architecture Templates](https://github.com/HelmMobile/Kotlin-Clean-Architecture-plugin-for-Android-Studio) | 960 | 2017-10-30 |
-| [Clean Code Inspections](https://github.com/yuanmai/CleanCodeInspections) | 548 | 2018-04-29 |
-| [Clean Code Method Rearranger](https://github.com/jucham/clean-code-method-rearranger) | 994 | 2019-06-20 |
-| [Clear Ignore This Update](https://github.com/shiraji/clear-ignore-this-update/) | 1 709 | 2016-06-09 |
-| [Clear VCS message on commit](https://github.com/protector1990/ClearVCSMessage) | 534 | 2018-08-01 |
-| [ClearCase Integration](https://github.com/JetBrains/clearcase) | 18 291 | 2018-05-10 |
+| [Clean Code Inspections](https://github.com/yuanmai/CleanCodeInspections) | 549 | 2018-04-29 |
+| [Clean Code Method Rearranger](https://github.com/jucham/clean-code-method-rearranger) | 995 | 2019-06-20 |
+| [Clear Ignore This Update](https://github.com/shiraji/clear-ignore-this-update/) | 1 711 | 2016-06-09 |
+| [Clear VCS message on commit](https://github.com/protector1990/ClearVCSMessage) | 536 | 2018-08-01 |
+| [ClearCase Integration](https://github.com/JetBrains/clearcase) | 18 305 | 2018-05-10 |
 | [Clever Cloud Integration](https://github.com/CleverCloud/clever-intellij-plugin) | 1 049 | 2015-12-18 |
-| [Clock Widget](https://github.com/xamgore/intellij-clock) | 2 752 | 2018-10-23 |
+| [Clock Widget](https://github.com/xamgore/intellij-clock) | 2 755 | 2018-10-23 |
 | [Clojure Pretty Symbol](https://github.com/zjhmale/intellij-clojure-pretty-symbol) | 4 977 | 2016-04-23 |
-| [Clojure-Kit](https://github.com/gregsh/Clojure-Kit) | 38 120 | 2019-10-10 |
-| [Close Editor Tabs Left Right](https://github.com/tom-power/close-tab-left-right) | 6 450 | 2019-01-20 |
+| [Clojure-Kit](https://github.com/gregsh/Clojure-Kit) | 38 148 | 2019-10-10 |
+| [Close Editor Tabs Left Right](https://github.com/tom-power/close-tab-left-right) | 6 452 | 2019-01-20 |
 | [CloudSlang Plugin](https://github.com/CloudSlang/cs-intellij-plugin) | 695 | 2018-02-07 |
-| [Co-Author](https://github.com/hawser86/co-author-plugin) | 1 070 | 2018-08-08 |
-| [Cobalt 2 Color Scheme](https://github.com/ngehlert/cobalt2) | 12 593 | 2018-05-24 |
-| [Coco/R](https://github.com/tscheinecker/intellij-idea-coco-r-plugin/tree/v1.0.0) | 658 | 2019-07-21 |
-| [Coco/R grammar support](https://github.com/azrdev/coco-idea-plugin) | 1 332 | 2017-10-06 |
-| [Codcut](https://github.com/codcut/codcut-idea) | 72 | 2019-09-27 |
+| [Co-Author](https://github.com/hawser86/co-author-plugin) | 1 073 | 2018-08-08 |
+| [Cobalt 2 Color Scheme](https://github.com/ngehlert/cobalt2) | 12 610 | 2018-05-24 |
+| [Coco/R](https://github.com/tscheinecker/intellij-idea-coco-r-plugin/tree/v1.0.0) | 662 | 2019-07-21 |
+| [Coco/R grammar support](https://github.com/azrdev/coco-idea-plugin) | 1 335 | 2017-10-06 |
+| [Codcut](https://github.com/codcut/codcut-idea) | 74 | 2019-09-27 |
 | [Code Consultant](https://plugins.jetbrains.com/files/3321/sourceCode.zip) | 1 803 | 2009-02-21 |
 | [Code Explorer](https://plugins.jetbrains.com/files/3739/sourceCode.zip) | 12 334 | 2010-04-20 |
-| [Code Generator](https://github.com/lotabout/CodeGenerator) | 1 488 | 2018-03-08 |
+| [Code Generator](https://github.com/lotabout/CodeGenerator) | 1 491 | 2018-03-08 |
 | [Code Generator](https://github.com/heyuxian/code-generator) | 1 067 | 2018-10-19 |
-| [Code History Mining](https://github.com/dkandalov/code-history-mining) | 25 742 | 2016-04-22 |
-| [Code Navigator](https://plugins.jetbrains.com/files/3202/sourceCode.zip) | 46 993 | 2017-01-28 |
-| [Code Outline 2](https://github.com/sitano/intellij-code-outline) | 44 398 | 2014-09-29 |
+| [Code History Mining](https://github.com/dkandalov/code-history-mining) | 25 746 | 2016-04-22 |
+| [Code Navigator](https://plugins.jetbrains.com/files/3202/sourceCode.zip) | 47 002 | 2017-01-28 |
+| [Code Outline 2](https://github.com/sitano/intellij-code-outline) | 44 405 | 2014-09-29 |
 | [Code Review](https://github.com/chrismiller/Code-Review-Plugin) | 7 117 | 2019-02-13 |
-| [Code Review for IntelliJ IDEA](https://github.com/ktisha/Crucible4IDEA) | 34 134 | 2018-07-13 |
+| [Code Review for IntelliJ IDEA](https://github.com/ktisha/Crucible4IDEA) | 34 141 | 2018-07-13 |
 | [Code Style Hook](https://github.com/stephanos/idea-codestyle-hook-plugin) | 1 303 | 2014-12-01 |
-| [Code Time](https://github.com/swdotcom/swdc-intellij) | 11 261 | 2019-07-16 |
+| [Code Time](https://github.com/swdotcom/swdc-intellij) | 11 272 | 2019-07-16 |
 | [Code Timeline](https://github.com/Jack119911/code-timeline) | 12 | 2019-09-30 |
-| [Code blocks sorter](https://github.com/osimek1/intellij-code-blocks-sorter) | 7 587 | 2018-06-04 |
-| [Code comments](https://bitbucket.org/jetbrainscodecommentsplugin/codecomments/src) | 9 339 | 2016-06-10 |
-| [Code screenshots](https://github.com/amaembo/screenshoter) | 11 463 | 2018-05-09 |
-| [Code snippets](https://plugins.jetbrains.com/files/4052/sourceCode.zip) | 5 103 | 2009-03-04 |
+| [Code blocks sorter](https://github.com/osimek1/intellij-code-blocks-sorter) | 7 594 | 2018-06-04 |
+| [Code comments](https://bitbucket.org/jetbrainscodecommentsplugin/codecomments/src) | 9 354 | 2016-06-10 |
+| [Code screenshots](https://github.com/amaembo/screenshoter) | 11 477 | 2018-05-09 |
+| [Code snippets](https://plugins.jetbrains.com/files/4052/sourceCode.zip) | 5 104 | 2009-03-04 |
 | [Code-Amnesia](https://plugins.jetbrains.com/files/3823/sourceCode.zip) | 968 | 2008-12-03 |
-| [Code2Smali](https://github.com/bunnyblue/Java2SmaliStudio/) | 4 759 | 2015-03-13 |
-| [Code::Stats](https://gitlab.com/code-stats/code-stats-intellij) | 11 544 | 2017-11-19 |
-| [CodeCase](https://github.com/QCute/CodeCase) | 680 | 2019-07-24 |
+| [Code2Smali](https://github.com/bunnyblue/Java2SmaliStudio/) | 4 761 | 2015-03-13 |
+| [Code::Stats](https://gitlab.com/code-stats/code-stats-intellij) | 11 559 | 2017-11-19 |
+| [CodeCase](https://github.com/QCute/CodeCase) | 682 | 2019-07-24 |
 | [CodeGen](https://github.com/hykes/codegen) | 2 874 | 2019-08-21 |
-| [CodeGlance](https://github.com/Vektah/CodeGlance) | 892 674 | 2018-03-28 |
+| [CodeGlance](https://github.com/Vektah/CodeGlance) | 893 157 | 2018-03-28 |
 | [CodeGraph](https://plugins.jetbrains.com/files/1834/sourceCode.zip) | 5 944 | 2008-04-01 |
 | [CodeHelp](https://github.com/RubbaBoy/CodeHelp) | 654 | 2017-12-03 |
-| [CodeIgniter](https://github.com/martynassateika/CodeIgniter-phpstorm-plugin) | 15 351 | 2019-05-01 |
+| [CodeIgniter](https://github.com/martynassateika/CodeIgniter-phpstorm-plugin) | 15 371 | 2019-05-01 |
 | [CodeInterview](https://bitbucket.org/codeinterview/idea) | 1 498 | 2014-07-27 |
 | [CodeLock](https://plugins.jetbrains.com/files/1836/sourceCode.zip) | 8 736 | 2008-02-07 |
 | [CodeLock 1.2](https://github.com/billdwhite/intellij-plugins-codelock) | 1 055 | 2013-01-03 |
-| [CodeMaker](https://github.com/x-hansong/CodeMaker) | 10 980 | 2019-02-24 |
-| [CodeMetrics](https://github.com/kisstkondoros/codemetrics-idea) | 1 853 | 2019-07-16 |
+| [CodeMaker](https://github.com/x-hansong/CodeMaker) | 10 990 | 2019-02-24 |
+| [CodeMetrics](https://github.com/kisstkondoros/codemetrics-idea) | 1 856 | 2019-07-16 |
 | [CodeNarc Updated](https://github.com/demus-nine/CodeNarc-Updated) | 1 014 | 2019-05-28 |
 | [CodeNarcNG](https://github.com/seanleblanc/CodeNarcNG) | 1 878 | 2017-07-18 |
 | [CodeReviews](https://github.com/vaclav/CodeReviews) | 16 | 2019-08-19 |
-| [CodeSearch](https://github.com/guojianhua/code-search) | 511 | 2019-06-18 |
-| [CodeTools](https://github.com/sevendark/IDEACodeTools) | 1 230 | 2019-06-14 |
+| [CodeSearch](https://github.com/guojianhua/code-search) | 514 | 2019-06-18 |
+| [CodeTools](https://github.com/sevendark/IDEACodeTools) | 1 231 | 2019-06-14 |
 | [Codebrag Integration Plugin](https://github.com/tdziurko/codebrag-intellij-idea-plugin) | 280 | 2015-04-26 |
-| [Codeigniter Snippets](https://github.com/Alicannklc/phpstorm-codeigniter-snippets) | 7 553 | 2019-01-22 |
-| [CodelyTV Theme](https://github.com/CodelyTV/jetbrains-theme) | 642 | 2019-09-17 |
-| [Codename One](https://github.com/codenameone/CodenameOne/) | 33 240 | 2019-10-25 |
-| [Codeseek developer friendly search](https://github.com/stremovsky/codeseek-jetbrains) | 23 | 2019-09-20 |
-| [Codic Plugin](https://github.com/codic-project/codic-intellij-plugin) | 4 220 | 2016-04-02 |
-| [CodinGame IDEA Editor](https://bitbucket.org/kalex375/cgedit/) | 2 593 | 2016-10-11 |
-| [Coding counter](https://github.com/maff91/Coding-Counter) | 2 713 | 2019-01-27 |
-| [Coding.net](https://github.com/Coding/Coding-Plugin-for-JetBrains) | 4 073 | 2018-05-30 |
-| [Cofe-Mybatis](https://gitee.com/cofedream/Cofe_Mybatis) | 231 | 2019-09-22 |
-| [CoffeeBean Dark UI Theme](https://github.com/MrARM/coffeebean) | 344 | 2019-08-30 |
-| [CoffeeLint](https://github.com/idok/coffee-lint-plugin) | 9 999 | 2015-10-01 |
-| [Color Browser](https://plugins.jetbrains.com/files/950/sourceCode.zip) | 7 005 | 2006-08-16 |
-| [Color Ide](https://github.com/dmalch/ColorIde) | 127 349 | 2012-06-13 |
+| [Codeigniter Snippets](https://github.com/Alicannklc/phpstorm-codeigniter-snippets) | 7 562 | 2019-01-22 |
+| [CodelyTV Theme](https://github.com/CodelyTV/jetbrains-theme) | 646 | 2019-09-17 |
+| [Codename One](https://github.com/codenameone/CodenameOne/) | 33 245 | 2019-10-25 |
+| [Codeseek developer friendly search](https://github.com/stremovsky/codeseek-jetbrains) | 25 | 2019-09-20 |
+| [Codic Plugin](https://github.com/codic-project/codic-intellij-plugin) | 4 222 | 2016-04-02 |
+| [CodinGame IDEA Editor](https://bitbucket.org/kalex375/cgedit/) | 2 596 | 2016-10-11 |
+| [Coding counter](https://github.com/maff91/Coding-Counter) | 2 720 | 2019-01-27 |
+| [Coding.net](https://github.com/Coding/Coding-Plugin-for-JetBrains) | 4 075 | 2018-05-30 |
+| [Cofe-Mybatis](https://gitee.com/cofedream/Cofe_Mybatis) | 232 | 2019-09-22 |
+| [CoffeeBean Dark UI Theme](https://github.com/MrARM/coffeebean) | 351 | 2019-08-30 |
+| [CoffeeLint](https://github.com/idok/coffee-lint-plugin) | 10 002 | 2015-10-01 |
+| [Color Browser](https://plugins.jetbrains.com/files/950/sourceCode.zip) | 7 006 | 2006-08-16 |
+| [Color Ide](https://github.com/dmalch/ColorIde) | 127 352 | 2012-06-13 |
 | [Color Tree](https://github.com/dmalch/ColorTree) | 28 458 | 2012-06-07 |
-| [ColorBlindnessSupport](https://github.com/SergeyMalenkov/ColorBlindnessSupport) | 1 569 | 2019-10-25 |
-| [ColorPanelHelper](https://github.com/whilu/colorpanelhelper) | 2 585 | 2016-10-13 |
-| [Comment Formatter](https://github.com/kaedea/comment-formatter) | 737 | 2016-12-12 |
-| [Comment Translator](https://github.com/iamBedant/Intellij-Comment-Translator-Plugin) | 611 | 2019-01-14 |
-| [CommentFolder](https://github.com/ArtsiomCh/CommentFolder) | 180 | 2019-10-28 |
-| [Comments Highlighter](https://github.com/clutcher/comments_highlighter) | 555 | 2019-08-21 |
+| [ColorBlindnessSupport](https://github.com/SergeyMalenkov/ColorBlindnessSupport) | 1 572 | 2019-10-25 |
+| [ColorPanelHelper](https://github.com/whilu/colorpanelhelper) | 2 589 | 2016-10-13 |
+| [Comment Formatter](https://github.com/kaedea/comment-formatter) | 738 | 2016-12-12 |
+| [Comment Translator](https://github.com/iamBedant/Intellij-Comment-Translator-Plugin) | 613 | 2019-01-14 |
+| [CommentFolder](https://github.com/ArtsiomCh/CommentFolder) | 182 | 2019-10-28 |
+| [Comments Highlighter](https://github.com/clutcher/comments_highlighter) | 561 | 2019-08-21 |
 | [Comments translator](https://github.com/nicklyu/Intellij-comments-translator) | 97 | 2018-10-10 |
-| [Commit Message Template](https://github.com/myheritage/intellij-commit-message-template-plugin) | 6 911 | 2017-04-23 |
-| [Commit message checker](https://github.com/turbanoff/CommitMessageChecker) | 2 087 | 2017-03-13 |
-| [Commit-Message-Create](https://github.com/RmondJone/Commit-Message-Plugin) | 554 | 2019-04-22 |
-| [CommonJS AutoComplete](https://github.com/jballant/CommonJSAutoComplete) | 42 938 | 2016-01-10 |
-| [Compare Tab With Editor 2](https://github.com/jbeckers/CompareTabWithEditor2) | 71 | 2019-09-24 |
-| [Compiler Explorer](https://github.com/ogrebenyuk/compilerexplorer) | 4 377 | 2019-04-06 |
+| [Commit Message Template](https://github.com/myheritage/intellij-commit-message-template-plugin) | 6 915 | 2017-04-23 |
+| [Commit message checker](https://github.com/turbanoff/CommitMessageChecker) | 2 089 | 2017-03-13 |
+| [Commit-Message-Create](https://github.com/RmondJone/Commit-Message-Plugin) | 556 | 2019-04-22 |
+| [CommonJS AutoComplete](https://github.com/jballant/CommonJSAutoComplete) | 42 947 | 2016-01-10 |
+| [Compare Tab With Editor 2](https://github.com/jbeckers/CompareTabWithEditor2) | 73 | 2019-09-24 |
+| [Compiler Explorer](https://github.com/ogrebenyuk/compilerexplorer) | 4 387 | 2019-04-06 |
 | [Completable Reactor](https://github.com/ru-fix/completable-reactor) | 2 718 | 2018-10-09 |
-| [Completion Stats Collector](https://github.com/JetBrains/intellij-stats-collector) | 23 575 | 2019-10-21 |
-| [Composer Dump-Autoload](https://github.com/timo-reymann/composer-dump-autoload-phpstorm-plugin) | 68 | 2019-09-19 |
+| [Completion Stats Collector](https://github.com/JetBrains/intellij-stats-collector) | 23 578 | 2019-10-21 |
+| [Composer Dump-Autoload](https://github.com/timo-reymann/composer-dump-autoload-phpstorm-plugin) | 69 | 2019-09-19 |
 | [Compost](https://github.com/rojr/Compost) | 89 | 2018-07-27 |
-| [Comrade Neovim](https://github.com/beeender/ComradeNeovim) | 401 | 2019-04-04 |
-| [Conan](https://github.com/conan-io/conan-clion-plugin) | 2 781 | 2019-09-25 |
+| [Comrade Neovim](https://github.com/beeender/ComradeNeovim) | 404 | 2019-04-04 |
+| [Conan](https://github.com/conan-io/conan-clion-plugin) | 2 788 | 2019-09-25 |
 | [Concordion](https://github.com/MichaelBitard/intelliJ-concordion-plugin) | 1 103 | 2013-06-18 |
-| [Concordion support](https://github.com/concordion/idea-concordion-support) | 5 938 | 2018-01-14 |
+| [Concordion support](https://github.com/concordion/idea-concordion-support) | 5 941 | 2018-01-14 |
 | [Conference snippet plugin](https://bitbucket.org/doclolieven/conference-snippet-plugin) | 124 | 2018-10-24 |
-| [ConfigurableFilename](https://github.com/BartCr/ConfigurableFilenamePlugin) | 1 788 | 2016-01-08 |
+| [ConfigurableFilename](https://github.com/BartCr/ConfigurableFilenamePlugin) | 1 790 | 2016-01-08 |
 | [Configuration Sense](https://github.com/olsh/resharper-configuration-sense) | 306 | 2019-08-21 |
 | [ConfigureAwait Checker](https://github.com/aelij/ConfigureAwaitChecker) | 625 | 2019-08-18 |
-| [ConfigureAwait Checker for ReSharper 2019.2](https://github.com/aelij/ConfigureAwaitChecker) | 28 045 | 2019-08-18 |
-| [Conkitty](https://github.com/hoho/conkitty-idea-plugin) | 1 972 | 2014-05-08 |
-| [Connector for AWS Lambda](https://github.com/satr/intellij-idea-plugin-connector-for-aws-lambda) | 12 892 | 2018-07-15 |
-| [Connector to assigned Targetprocess entities](https://github.com/victor-homyakov/jetbrains-targetprocess-assigned-entities) | 1 140 | 2016-05-02 |
-| [ConsoleUrlLink](https://github.com/siosio/consoleLink) | 6 656 | 2014-04-09 |
-| [Consul K/V Support](https://github.com/novotnyr/consul-intellij-plugin) | 2 820 | 2019-08-05 |
+| [ConfigureAwait Checker for ReSharper 2019.2](https://github.com/aelij/ConfigureAwaitChecker) | 28 053 | 2019-08-18 |
+| [Conkitty](https://github.com/hoho/conkitty-idea-plugin) | 1 975 | 2014-05-08 |
+| [Connector for AWS Lambda](https://github.com/satr/intellij-idea-plugin-connector-for-aws-lambda) | 12 894 | 2018-07-15 |
+| [Connector to assigned Targetprocess entities](https://github.com/victor-homyakov/jetbrains-targetprocess-assigned-entities) | 1 142 | 2016-05-02 |
+| [ConsoleUrlLink](https://github.com/siosio/consoleLink) | 6 659 | 2014-04-09 |
+| [Consul K/V Support](https://github.com/novotnyr/consul-intellij-plugin) | 2 827 | 2019-08-05 |
 | [Container cloud](https://github.com/carlpett/teamcity-container-cloud/) | 241 | 2016-12-05 |
 | [Contentful Model Generator Plugin](https://github.com/contentful/cf-generator-intellij) | 333 | 2015-06-02 |
-| [Context Free Grammar](https://github.com/JonasRudolph/idea-plugin-context-free-grammar) | 119 394 | 2017-11-21 |
+| [Context Free Grammar](https://github.com/JonasRudolph/idea-plugin-context-free-grammar) | 119 534 | 2017-11-21 |
 | [Context Run](https://github.com/m-lau/contextrun) | 778 | 2014-04-02 |
 | [ControlFlowGraph](https://github.com/valbendan/ControlFlowGraph) | 432 | 2018-03-23 |
 | [Converter](https://github.com/me10zyl/intellij-converter) | 296 | 2017-02-17 |
-| [Converter Generator](https://github.com/DudarevDaniel/ConverterGenerator) | 626 | 2018-09-07 |
-| [Coocoo](https://github.com/hoho/coocoo-idea-plugin) | 1 699 | 2014-03-31 |
-| [CoolSharp Code Section Generator](https://github.com/coolsharp/CodeSection) | 1 547 | 2015-12-23 |
-| [Copy & Browse as Github or Atlassian Stash Path](https://github.com/jawspeak/intellij-plugin-copy-and-open-github-url) | 10 486 | 2015-11-30 |
-| [Copy Constructor Generator](https://github.com/WEIZIBIN/copy-constructor-generator) | 231 | 2019-09-30 |
-| [Copy Hippo shared files](https://github.com/machak/intellij-hippo-shared-lib) | 5 518 | 2018-02-07 |
-| [Copy Path Helper](https://github.com/lejewk/copy_path_helper) | 2 143 | 2019-04-08 |
-| [Copy REST Url](https://github.com/miguelcordovam/intellij_plugins/tree/master/CopyRestUrl) | 4 790 | 2017-06-27 |
-| [Copy Sourcegraph Link](https://github.com/erezeshkol/CopySourcegraphLink) | 254 | 2018-11-11 |
+| [Converter Generator](https://github.com/DudarevDaniel/ConverterGenerator) | 627 | 2018-09-07 |
+| [Coocoo](https://github.com/hoho/coocoo-idea-plugin) | 1 702 | 2014-03-31 |
+| [CoolSharp Code Section Generator](https://github.com/coolsharp/CodeSection) | 1 549 | 2015-12-23 |
+| [Copy & Browse as Github or Atlassian Stash Path](https://github.com/jawspeak/intellij-plugin-copy-and-open-github-url) | 10 489 | 2015-11-30 |
+| [Copy Constructor Generator](https://github.com/WEIZIBIN/copy-constructor-generator) | 232 | 2019-09-30 |
+| [Copy Hippo shared files](https://github.com/machak/intellij-hippo-shared-lib) | 5 520 | 2018-02-07 |
+| [Copy Path Helper](https://github.com/lejewk/copy_path_helper) | 2 148 | 2019-04-08 |
+| [Copy REST Url](https://github.com/miguelcordovam/intellij_plugins/tree/master/CopyRestUrl) | 4 796 | 2017-06-27 |
+| [Copy Sourcegraph Link](https://github.com/erezeshkol/CopySourcegraphLink) | 256 | 2018-11-11 |
 | [Copy current file's file path or dir path with Unix file separators](https://github.com/mub/brainYard/tree/master/jetBrains/idea/plugins/copyNixPath) | 2 055 | 2014-10-19 |
 | [Copy on steroids](https://github.com/denis-zhdanov/intellij-plugin-copy-on-steroids) | 8 497 | 2013-03-29 |
-| [Copy/Paste Stack](https://github.com/kstenschke/copypastestack-plugin) | 23 175 | 2015-03-06 |
+| [Copy/Paste Stack](https://github.com/kstenschke/copypastestack-plugin) | 23 180 | 2015-03-06 |
 | [CopyPlaceHolders](https://github.com/gasparbarancelli/CopyPlaceHolders) | 134 | 2018-11-16 |
-| [Courier schema language](https://github.com/coursera/courier) | 1 694 | 2018-08-07 |
-| [CovScript](https://github.com/covscript/covscript-intellij) | 1 300 | 2019-04-19 |
+| [Courier schema language](https://github.com/coursera/courier) | 1 697 | 2018-08-07 |
+| [CovScript](https://github.com/covscript/covscript-intellij) | 1 304 | 2019-04-19 |
 | [Cradiator](https://github.com/PandaWood/Cradiator) | 52 | 2016-10-06 |
-| [Create Jira Ticket](https://github.com/cathiele/CreateJiraTicketPlugin) | 9 310 | 2013-05-30 |
-| [CreateAdapterPlugin](https://github.com/qiaoshouliang/RecyclerViewAdapterPlugin) | 1 790 | 2017-08-01 |
+| [Create Jira Ticket](https://github.com/cathiele/CreateJiraTicketPlugin) | 9 312 | 2013-05-30 |
+| [CreateAdapterPlugin](https://github.com/qiaoshouliang/RecyclerViewAdapterPlugin) | 1 792 | 2017-08-01 |
 | [CreateIntent method generator](https://github.com/sckm/CreateIntentGeneratorPlugin) | 1 323 | 2016-02-10 |
 | [CreateMox](https://github.com/balazsbanyai/mox) | 280 | 2017-04-04 |
 | [CrossBrowserTesting.com Integration](https://github.com/crossbrowsertesting/teamcity-plugin) | 149 | 2016-10-26 |
 | [Crowd Authentication](https://github.com/greggigon/TeamCity-Crowd-Plugin) | 109 | 2016-10-06 |
 | [Crowdin](https://github.com/crowdin/android-studio-plugin) | 1 642 | 2018-07-03 |
-| [Crowdin Project Status](https://github.com/olegbakhirev/crowdin-status-widget) | 1 158 | 2018-11-15 |
+| [Crowdin Project Status](https://github.com/olegbakhirev/crowdin-status-widget) | 1 163 | 2018-11-15 |
 | [Crystal language plugin](https://github.com/intellij-crystal/intellij-crystal) | 1 125 | 2018-05-05 |
 | [Csense - java assistance](https://github.com/csense-oss/idea-java-assistance) | 147 | 2019-08-30 |
-| [Csense - kotlin assistance](https://github.com/csense-oss/idea-kotlin-assistance) | 388 | 2019-08-27 |
-| [Csense - kotlin checked exceptions](https://github.com/csense-oss/idea-kotlin-checked-exceptions) | 364 | 2019-10-03 |
-| [Cucumber Scenarios Indexer](https://github.com/rmatafonov/cucumber-scenarios-indexer) | 6 450 | 2019-10-27 |
-| [Cucumber for Groovy](https://github.com/JetBrains/intellij-plugins/tree/master/cucumber-groovy) | 82 896 | 2019-10-30 |
-| [Cucumber for Java](https://github.com/JetBrains/intellij-plugins/tree/master/cucumber-java) | 514 398 | 2019-10-30 |
-| [Cucumber for Kotlin](https://github.com/jlagerweij/cucumber-kotlin) | 9 033 | 2019-05-30 |
-| [Cucumber for Scala](https://github.com/danielwegener/intellij-cucumber-scala/) | 34 424 | 2018-08-22 |
-| [Cup Support](https://github.com/Tirke/cup-plugin) | 5 122 | 2018-10-13 |
+| [Csense - kotlin assistance](https://github.com/csense-oss/idea-kotlin-assistance) | 390 | 2019-08-27 |
+| [Csense - kotlin checked exceptions](https://github.com/csense-oss/idea-kotlin-checked-exceptions) | 365 | 2019-10-03 |
+| [Cucumber Scenarios Indexer](https://github.com/rmatafonov/cucumber-scenarios-indexer) | 6 468 | 2019-10-27 |
+| [Cucumber for Groovy](https://github.com/JetBrains/intellij-plugins/tree/master/cucumber-groovy) | 82 908 | 2019-10-30 |
+| [Cucumber for Java](https://github.com/JetBrains/intellij-plugins/tree/master/cucumber-java) | 514 534 | 2019-10-30 |
+| [Cucumber for Kotlin](https://github.com/jlagerweij/cucumber-kotlin) | 9 039 | 2019-05-30 |
+| [Cucumber for Scala](https://github.com/danielwegener/intellij-cucumber-scala/) | 34 431 | 2018-08-22 |
+| [Cup Support](https://github.com/Tirke/cup-plugin) | 5 126 | 2018-10-13 |
 | [Cuppa](https://github.com/cuppa-framework/cuppa-intellij-plugin) | 204 | 2018-04-10 |
-| [CurNotes](https://github.com/computerundsound/IntelliJPlugin_CurNote) | 1 059 | 2017-09-09 |
-| [CurNotesMDs](https://github.com/computerundsound/IntelliJPlugin_CurNotesMDs) | 736 | 2018-02-14 |
-| [Current date generator](https://github.com/j92/intellij-date-generator-plugin) | 2 359 | 2017-12-15 |
-| [Custom Postfix Templates](https://github.com/xylo/intellij-postfix-templates) | 56 937 | 2019-10-31 |
-| [Custom Title](https://github.com/mabdurrahman/custom-title-plugin) | 2 188 | 2017-07-26 |
-| [CustomUI Tool Window](https://github.com/eyyoung/idea-plugin-custom-ui-panel) | 2 507 | 2017-12-26 |
-| [CuteJS](https://github.com/interfaced/cutejs-intellij-plugin) | 453 | 2019-07-27 |
-| [Cyan Light Theme](https://github.com/OlyaB/CyanTheme) | 44 049 | 2019-07-09 |
-| [D Language](https://github.com/intellij-dlanguage/intellij-dlanguage) | 18 007 | 2019-10-28 |
-| [D Language Support](https://github.com/shekn-itrtch/DLangPlugin) | 10 916 | 2015-03-25 |
+| [CurNotes](https://github.com/computerundsound/IntelliJPlugin_CurNote) | 1 062 | 2017-09-09 |
+| [CurNotesMDs](https://github.com/computerundsound/IntelliJPlugin_CurNotesMDs) | 738 | 2018-02-14 |
+| [Current date generator](https://github.com/j92/intellij-date-generator-plugin) | 2 361 | 2017-12-15 |
+| [Custom Postfix Templates](https://github.com/xylo/intellij-postfix-templates) | 57 042 | 2019-10-31 |
+| [Custom Title](https://github.com/mabdurrahman/custom-title-plugin) | 2 190 | 2017-07-26 |
+| [CustomUI Tool Window](https://github.com/eyyoung/idea-plugin-custom-ui-panel) | 2 510 | 2017-12-26 |
+| [CuteJS](https://github.com/interfaced/cutejs-intellij-plugin) | 455 | 2019-07-27 |
+| [Cyan Light Theme](https://github.com/OlyaB/CyanTheme) | 44 117 | 2019-07-09 |
+| [D Language](https://github.com/intellij-dlanguage/intellij-dlanguage) | 18 027 | 2019-10-28 |
+| [D Language Support](https://github.com/shekn-itrtch/DLangPlugin) | 10 923 | 2015-03-25 |
 | [DAMapping stack integration](https://github.com/lesaint/damapping-idea/) | 862 | 2015-02-17 |
 | [DBHelper](https://plugins.jetbrains.com/files/1120/sourceCode.zip) | 15 526 | 2009-03-19 |
 | [DG Test Helper](https://github.com/kassak/dg-test-helper) | 10 | 2019-09-30 |
-| [DSL Platform](https://github.com/ngs-doo/dsl-compiler-client) | 4 504 | 2018-10-09 |
-| [DTO generator](https://github.com/nvinayshetty/DTOnator) | 53 499 | 2018-09-27 |
-| [DTOUtils](https://github.com/Yihy/DTOUtils-IDEA-Plugin) | 327 | 2017-11-27 |
+| [DSL Platform](https://github.com/ngs-doo/dsl-compiler-client) | 4 507 | 2018-10-09 |
+| [DTO generator](https://github.com/nvinayshetty/DTOnator) | 53 550 | 2018-09-27 |
+| [DTOUtils](https://github.com/Yihy/DTOUtils-IDEA-Plugin) | 328 | 2017-11-27 |
 | [DUB](https://github.com/intellij-dlanguage/intellij-dub) | 193 | 2019-08-24 |
 | [Dafny Support](https://github.com/DanielFGA/Dafny4IntelliJ) | 62 | 2019-07-31 |
 | [Dalesbred](https://github.com/EvidentSolutions/dalesbred-idea-plugin) | 2 135 | 2017-01-31 |
-| [Darcula (blacker)](https://github.com/jgentil/darcula_blacker/) | 3 247 | 2019-04-08 |
-| [Darcula Darker Theme](https://github.com/vecheslav/darcula-darker) | 3 806 | 2019-09-15 |
-| [Darcula Sombre](https://github.com/jonathanlermitage/intellij-darcula-sombre-theme) | 4 430 | 2019-10-03 |
-| [Dark Jeff Theme](https://github.com/jfboily/dark-jeff) | 1 701 | 2019-04-02 |
-| [Dark Purple Theme](https://github.com/OlyaB/DarkPurpleTheme) | 125 319 | 2019-07-05 |
-| [DarkTheme](https://github.com/eightpigs/DarkTheme) | 3 267 | 2019-07-30 |
-| [Darkyen's Time Tracker](https://github.com/Darkyenus/DarkyenusTimeTracker) | 9 761 | 2018-10-21 |
-| [Dart](https://github.com/JetBrains/intellij-plugins/tree/master/Dart) | 2 620 470 | 2019-10-30 |
-| [Dart Data Class](https://github.com/andrasferenczi/dart-data-plugin) | 5 916 | 2019-08-08 |
+| [Darcula (blacker)](https://github.com/jgentil/darcula_blacker/) | 3 266 | 2019-04-08 |
+| [Darcula Darker Theme](https://github.com/vecheslav/darcula-darker) | 3 857 | 2019-09-15 |
+| [Darcula Sombre](https://github.com/jonathanlermitage/intellij-darcula-sombre-theme) | 4 443 | 2019-10-03 |
+| [Dark Jeff Theme](https://github.com/jfboily/dark-jeff) | 1 713 | 2019-04-02 |
+| [Dark Purple Theme](https://github.com/OlyaB/DarkPurpleTheme) | 125 503 | 2019-07-05 |
+| [DarkTheme](https://github.com/eightpigs/DarkTheme) | 3 291 | 2019-07-30 |
+| [Darkyen's Time Tracker](https://github.com/Darkyenus/DarkyenusTimeTracker) | 9 768 | 2018-10-21 |
+| [Dart](https://github.com/JetBrains/intellij-plugins/tree/master/Dart) | 2 625 236 | 2019-10-30 |
+| [Dart Data Class](https://github.com/andrasferenczi/dart-data-plugin) | 5 947 | 2019-08-08 |
 | [Dart copyWith generator for Android Studio](https://github.com/i-schuetz/dart_copy_with_plugin) | 614 | 2019-03-13 |
-| [Dash](https://github.com/gdelmas/IntelliJDashPlugin) | 226 874 | 2017-12-16 |
+| [Dash](https://github.com/gdelmas/IntelliJDashPlugin) | 226 906 | 2017-12-16 |
 | [Dashboard Integration Plugin](https://github.com/obscuratus/Dashboard) | 1 104 | 2019-07-16 |
-| [Data Binding Formatter : Databinding Model Generator](https://github.com/Qixingchen/DataBindingModelFormatter) | 3 842 | 2019-01-25 |
-| [Data Version Control (DVC) Support](https://github.com/prihoda/intellij-dvc-support-poc) | 938 | 2019-02-03 |
+| [Data Binding Formatter : Databinding Model Generator](https://github.com/Qixingchen/DataBindingModelFormatter) | 3 843 | 2019-01-25 |
+| [Data Version Control (DVC) Support](https://github.com/prihoda/intellij-dvc-support-poc) | 941 | 2019-02-03 |
 | [DataDog Integration](https://github.com/evernote/teamcity-datadog-plugin) | 50 | 2019-01-03 |
-| [DataGrip exposer](https://github.com/kassak/dg-exposer) | 2 332 | 2019-03-29 |
-| [DataWeave 2.0.](https://github.com/mulesoft-labs/data-weave-intellij-plugin) | 1 930 | 2019-10-11 |
-| [DataWeave Plugin for IntelliJ](https://github.com/machaval/mule-intellij-plugins) | 7 419 | 2017-08-16 |
+| [DataGrip exposer](https://github.com/kassak/dg-exposer) | 2 337 | 2019-03-29 |
+| [DataWeave 2.0.](https://github.com/mulesoft-labs/data-weave-intellij-plugin) | 1 933 | 2019-10-11 |
+| [DataWeave Plugin for IntelliJ](https://github.com/machaval/mule-intellij-plugins) | 7 422 | 2017-08-16 |
 | [Database Debugger](https://github.com/godwinjoseph-wisilica/DatabaseDebug-Plugin) | 1 313 | 2018-05-23 |
-| [Database Navigator](https://bitbucket.org/dancioca/dbn/src) | 2 049 812 | 2019-09-13 |
+| [Database Navigator](https://bitbucket.org/dancioca/dbn/src) | 2 051 690 | 2019-11-03 |
 | [Databinding Support](https://github.com/shiraji/databinding-support/) | 7 687 | 2017-10-26 |
 | [DatabindingConvert](https://github.com/LiushuiXiaoxia/DatabindingConvert) | 1 642 | 2016-12-05 |
-| [Dataiku DSS](https://github.com/dataiku/dss-integration-pycharm) | 186 | 2019-10-18 |
-| [Datalog Language Support](https://github.com/LFrobeen/intellij-datalog) | 75 | 2019-09-28 |
+| [Dataiku DSS](https://github.com/dataiku/dss-integration-pycharm) | 188 | 2019-10-18 |
+| [Datalog Language Support](https://github.com/LFrobeen/intellij-datalog) | 78 | 2019-09-28 |
 | [Datanucleus Intellij Plugin](https://github.com/SerCeMan/datanucleus-intellij-plugin) | 848 | 2018-07-07 |
-| [Datetimeconverter](https://github.com/imgruntw/date-time-converter-plugin) | 1 965 | 2019-07-19 |
-| [Day And Night](https://github.com/iBavtovich/day-and-night-plugin) | 2 935 | 2019-10-12 |
-| [DbUnit Extractor](https://github.com/kTT/dbunit-extractor) | 7 577 | 2018-05-24 |
+| [Datetimeconverter](https://github.com/imgruntw/date-time-converter-plugin) | 1 969 | 2019-07-19 |
+| [Day And Night](https://github.com/iBavtovich/day-and-night-plugin) | 2 952 | 2019-10-12 |
+| [DbUnit Extractor](https://github.com/kTT/dbunit-extractor) | 7 579 | 2018-05-24 |
 | [DeMark](https://github.com/DeFacto-UW/DeMark/) | 202 | 2018-05-23 |
-| [Dead Links](https://github.com/trubitsyn/idea-dead-links) | 478 | 2018-05-29 |
+| [Dead Links](https://github.com/trubitsyn/idea-dead-links) | 480 | 2018-05-29 |
 | [Debian Package Server](https://github.com/tcplugins/tcDebRepository) | 164 | 2016-12-06 |
-| [Deca Language Plugin](https://github.com/EmilienMottet/DecaPluginIdea) | 347 | 2017-06-13 |
-| [Deckard](https://github.com/deckardai/jetbrains-deckard/) | 1 053 | 2017-04-17 |
-| [Decompile And Attach](https://github.com/devendor/decompile-and-attach.git) | 3 435 | 2018-12-05 |
-| [Decompile and Attach](https://github.com/bduisenov/decompile-and-attach) | 10 406 | 2016-12-03 |
-| [DeepBugsJavaScript](https://github.com/ml-in-programming/DeepBugsPlugin) | 361 | 2019-09-18 |
-| [DeftIDEA](https://github.com/dylan-foundry/DeftIDEA) | 1 665 | 2013-11-12 |
-| [Demandware Studio Plugin](https://github.com/nek4life/intellij-demandware/) | 3 466 | 2015-07-15 |
+| [Deca Language Plugin](https://github.com/EmilienMottet/DecaPluginIdea) | 348 | 2017-06-13 |
+| [Deckard](https://github.com/deckardai/jetbrains-deckard/) | 1 055 | 2017-04-17 |
+| [Decompile And Attach](https://github.com/devendor/decompile-and-attach.git) | 3 436 | 2018-12-05 |
+| [Decompile and Attach](https://github.com/bduisenov/decompile-and-attach) | 10 411 | 2016-12-03 |
+| [DeepBugsJavaScript](https://github.com/ml-in-programming/DeepBugsPlugin) | 365 | 2019-09-18 |
+| [DeftIDEA](https://github.com/dylan-foundry/DeftIDEA) | 1 668 | 2013-11-12 |
+| [Demandware Studio Plugin](https://github.com/nek4life/intellij-demandware/) | 3 468 | 2015-07-15 |
 | [DepE Versions Exporter](https://github.com/GoltVik/DepE) | 161 | 2019-02-04 |
-| [Dependencies Version Checker](https://github.com/takuaraki/DependenciesVersionChecker) | 7 709 | 2016-02-18 |
+| [Dependencies Version Checker](https://github.com/takuaraki/DependenciesVersionChecker) | 7 713 | 2016-02-18 |
 | [Dependency Injection Graph](https://github.com/kaygisiz/Dependency-Injection-Graph) | 1 763 | 2019-07-15 |
-| [Dependently-Typed Lambda Calculus](https://github.com/owo-lang/intellij-dtlc) | 1 531 | 2019-11-01 |
-| [Deployment Dashboard](https://github.com/vyadh/teamcity-deployment-dashboard) | 388 | 2019-07-19 |
+| [Dependently-Typed Lambda Calculus](https://github.com/owo-lang/intellij-dtlc) | 1 539 | 2019-11-01 |
+| [Deployment Dashboard](https://github.com/vyadh/teamcity-deployment-dashboard) | 389 | 2019-07-19 |
 | [Derrick](https://github.com/ihac/intellij-derrick) | 867 | 2018-11-07 |
-| [Derwish Theme13 Color Scheme](https://github.com/derwish-pro/jetbrains-theme13) | 694 | 2019-08-01 |
-| [Design Patterns](https://github.com/OrPolyzos/design-patterns-idea-plugin) | 3 440 | 2019-08-03 |
-| [Developers macro](https://github.com/pahan35/developers-macro-idea-plugin) | 252 | 2019-05-08 |
-| [Dialog Resizer](https://github.com/MaXal/DialogResizer) | 654 | 2018-10-10 |
-| [Diff / Patch File Support](https://github.com/ThomasR/intellij-diff-plugin) | 2 759 | 2019-09-30 |
-| [Dilbert Daily Strip](https://github.com/codebrewer/intellij-platform-dilbert-daily-strip-plugin) | 26 456 | 2018-12-02 |
-| [Dimenify](https://github.com/humblerookie/dimenify) | 12 141 | 2019-05-11 |
+| [Derwish Theme13 Color Scheme](https://github.com/derwish-pro/jetbrains-theme13) | 704 | 2019-08-01 |
+| [Design Patterns](https://github.com/OrPolyzos/design-patterns-idea-plugin) | 3 443 | 2019-08-03 |
+| [Developers macro](https://github.com/pahan35/developers-macro-idea-plugin) | 255 | 2019-05-08 |
+| [Dialog Resizer](https://github.com/MaXal/DialogResizer) | 656 | 2018-10-10 |
+| [Diff / Patch File Support](https://github.com/ThomasR/intellij-diff-plugin) | 2 764 | 2019-09-30 |
+| [Dilbert Daily Strip](https://github.com/codebrewer/intellij-platform-dilbert-daily-strip-plugin) | 26 459 | 2018-12-02 |
+| [Dimenify](https://github.com/humblerookie/dimenify) | 12 150 | 2019-05-11 |
 | [Dimens Generating](https://github.com/Wenlong-Guo/Dimens-Generating) | 538 | 2019-05-06 |
 | [Dingo API plugin](https://github.com/adelf/idea-php-dingo-plugin) | 515 | 2017-02-24 |
 | [Disable context help](https://github.com/Fantast/disable-context-help-idea-plugin) | 453 | 2015-06-08 |
-| [Discord Integration](https://github.com/Almighty-Alpaca/Intellij-Discord-Integration) | 62 987 | 2019-10-25 |
-| [DiscordBeam](https://github.com/LukWebsForge/ShareIt/tree/master/DiscordBeam) | 409 | 2019-10-13 |
-| [Dissemination: 2d ASCII game](https://github.com/vxx1/Dissemination) | 1 537 | 2017-08-14 |
-| [Djaneiro for PyCharm](https://github.com/brmc/pycharm-djaneiro/) | 22 474 | 2017-01-01 |
-| [Django migrations](https://github.com/chornsby/django-migrations-pycharm-plugin/) | 6 883 | 2016-03-11 |
-| [Djinni IDL file support](https://github.com/dropbox/djinni) | 1 980 | 2016-10-25 |
-| [DocSearch](https://github.com/EgoRedMC/DocSearchPlugin) | 199 | 2019-09-28 |
+| [Discord Integration](https://github.com/Almighty-Alpaca/Intellij-Discord-Integration) | 63 260 | 2019-10-25 |
+| [DiscordBeam](https://github.com/LukWebsForge/ShareIt/tree/master/DiscordBeam) | 415 | 2019-10-13 |
+| [Dissemination: 2d ASCII game](https://github.com/vxx1/Dissemination) | 1 539 | 2017-08-14 |
+| [Djaneiro for PyCharm](https://github.com/brmc/pycharm-djaneiro/) | 22 489 | 2017-01-01 |
+| [Django migrations](https://github.com/chornsby/django-migrations-pycharm-plugin/) | 6 889 | 2016-03-11 |
+| [Djinni IDL file support](https://github.com/dropbox/djinni) | 1 983 | 2016-10-25 |
+| [DocSearch](https://github.com/EgoRedMC/DocSearchPlugin) | 200 | 2019-09-28 |
 | [Docker Cloud](https://github.com/JeanRev/TeamcityDockerCloudPlugin) | 895 | 2016-12-02 |
-| [Dodona](https://github.com/thepieterdc/dodona-plugin-jetbrains) | 734 | 2019-07-21 |
+| [Dodona](https://github.com/thepieterdc/dodona-plugin-jetbrains) | 736 | 2019-07-21 |
 | [DomUI Development Plugin](https://github.com/fjalvingh/domui-intellij-plugin) | 261 | 2018-05-13 |
 | [Doma Support](https://github.com/siosio/DomaSupport) | 3 298 | 2019-03-08 |
 | [Doodle Jump](https://github.com/careinfress/rpc-jumpto) | 96 | 2019-02-18 |
-| [Dozer](https://github.com/hypoport/idea-dozer-plugin) | 3 174 | 2014-07-07 |
-| [Dr.Vector Android](https://github.com/eymar/DrVectorAndroid) | 2 663 | 2018-02-08 |
-| [Dracula Theme](https://github.com/dracula/jetbrains) | 49 991 | 2019-10-29 |
+| [Dozer](https://github.com/hypoport/idea-dozer-plugin) | 3 175 | 2014-07-07 |
+| [Dr.Vector Android](https://github.com/eymar/DrVectorAndroid) | 2 666 | 2018-02-08 |
+| [Dracula Theme](https://github.com/dracula/jetbrains) | 50 233 | 2019-10-29 |
 | [DragNDrop](https://plugins.jetbrains.com/files/647/sourceCode.zip) | 1 516 | 2006-07-02 |
 | [Droid Snippet](https://github.com/KingsMentor/Droid-Snippet) | 1 155 | 2017-11-29 |
-| [DroidLane](https://github.com/Jintin/DroidLane) | 2 096 | 2016-03-14 |
-| [Drum-roll](https://github.com/mhashim6/intellij-drumroll) | 1 606 | 2019-10-13 |
-| [Drupal 8 Namespace Detector](https://github.com/masamotod/idea-drupal8-namespace-detector) | 3 584 | 2018-11-10 |
-| [Drupal Symfony Bridge](https://github.com/Haehnchen/idea-php-drupal-symfony2-bridge) | 37 749 | 2017-12-19 |
-| [Drupal Test Runner](https://github.com/mglaman/intellij-drupal-run-tests) | 3 384 | 2017-02-27 |
-| [DubboInvoker](https://github.com/wbean/DubboInvoker) | 386 | 2019-02-15 |
-| [Due Dates Calendar](https://github.com/olegbakhirev/due-dates-calendar-widget/) | 4 041 | 2019-08-27 |
-| [Dukescript Java Regex Tester](https://github.com/javatlacati/regextester) | 923 | 2019-02-05 |
-| [Dummy Text Generator](https://github.com/kstenschke/dummytext-plugin) | 95 369 | 2018-09-17 |
-| [Duplicate Lines](https://github.com/xusoo/duplicate-lines-intellij-plugin) | 2 177 | 2019-05-28 |
+| [DroidLane](https://github.com/Jintin/DroidLane) | 2 098 | 2016-03-14 |
+| [Drum-roll](https://github.com/mhashim6/intellij-drumroll) | 1 610 | 2019-10-13 |
+| [Drupal 8 Namespace Detector](https://github.com/masamotod/idea-drupal8-namespace-detector) | 3 588 | 2018-11-10 |
+| [Drupal Symfony Bridge](https://github.com/Haehnchen/idea-php-drupal-symfony2-bridge) | 37 757 | 2017-12-19 |
+| [Drupal Test Runner](https://github.com/mglaman/intellij-drupal-run-tests) | 3 385 | 2017-02-27 |
+| [DubboInvoker](https://github.com/wbean/DubboInvoker) | 387 | 2019-02-15 |
+| [Due Dates Calendar](https://github.com/olegbakhirev/due-dates-calendar-widget/) | 4 044 | 2019-08-27 |
+| [Dukescript Java Regex Tester](https://github.com/javatlacati/regextester) | 926 | 2019-02-05 |
+| [Dummy Text Generator](https://github.com/kstenschke/dummytext-plugin) | 95 392 | 2018-09-17 |
+| [Duplicate Lines](https://github.com/xusoo/duplicate-lines-intellij-plugin) | 2 179 | 2019-05-28 |
 | [Duplicate detector](https://github.com/suhininalex/IdeaClonePlugin) | 3 198 | 2018-09-12 |
 | [Durchblick](https://github.com/coolya/Durchblick) | 5 | 2019-10-24 |
-| [DynamicReturnTypePlugin](https://github.com/pbyrne84/DynamicReturnTypePlugin) | 45 944 | 2018-05-09 |
-| [Dynatrace AppMon Integration](https://github.com/Dynatrace/Dynatrace-IntelliJ-IDEA-Integration-Plugin) | 1 381 | 2016-08-12 |
-| [E2DIT Minimal Language](https://github.com/sysint64/e2dit-ml-idea-plugin) | 122 | 2016-11-13 |
-| [ECTranslation](https://github.com/Skykai521/ECTranslation) | 57 638 | 2017-02-08 |
-| [ESLint](https://github.com/idok/eslint-plugin) | 263 602 | 2019-05-16 |
+| [DynamicReturnTypePlugin](https://github.com/pbyrne84/DynamicReturnTypePlugin) | 45 947 | 2018-05-09 |
+| [Dynatrace AppMon Integration](https://github.com/Dynatrace/Dynatrace-IntelliJ-IDEA-Integration-Plugin) | 1 383 | 2016-08-12 |
+| [E2DIT Minimal Language](https://github.com/sysint64/e2dit-ml-idea-plugin) | 123 | 2016-11-13 |
+| [ECTranslation](https://github.com/Skykai521/ECTranslation) | 57 653 | 2017-02-08 |
+| [ESLint](https://github.com/idok/eslint-plugin) | 263 756 | 2019-05-16 |
 | [ESP2866 plugin](https://github.com/paoloach/ESP8266-open-rtos) | 35 | 2018-09-18 |
-| [ESP8266 plugin](https://github.com/paoloach/ESP8266-open-rtos) | 1 041 | 2019-10-28 |
+| [ESP8266 plugin](https://github.com/paoloach/ESP8266-open-rtos) | 1 045 | 2019-10-28 |
 | [Easy Code](https://gitee.com/makejava/EasyCode) | 784 | 2018-07-17 |
-| [Easy Code](https://github.com/makejavas/EasyCode) | 17 075 | 2019-10-25 |
-| [Easy Gradle](https://github.com/renyuzhuo/EasyGradle) | 4 076 | 2019-05-28 |
-| [Easy Java Bean](https://github.com/unclepizza/Android-EasyJavaBean-Plugin) | 1 109 | 2018-02-26 |
-| [Easy Literal](https://github.com/er3456qi/EasyLiteral) | 1 069 | 2016-10-05 |
-| [Easy-Translation](https://github.com/limengyu1990/easy-translation) | 2 161 | 2018-11-14 |
-| [EasyApi](https://github.com/tangcent/easy-api) | 2 023 | 2019-10-28 |
+| [Easy Code](https://github.com/makejavas/EasyCode) | 17 105 | 2019-10-25 |
+| [Easy Gradle](https://github.com/renyuzhuo/EasyGradle) | 4 091 | 2019-05-28 |
+| [Easy Java Bean](https://github.com/unclepizza/Android-EasyJavaBean-Plugin) | 1 111 | 2018-02-26 |
+| [Easy Literal](https://github.com/er3456qi/EasyLiteral) | 1 072 | 2016-10-05 |
+| [Easy-Translation](https://github.com/limengyu1990/easy-translation) | 2 167 | 2018-11-14 |
+| [EasyApi](https://github.com/tangcent/easy-api) | 2 027 | 2019-10-28 |
 | [EasyPluginInstaller](https://plugins.jetbrains.com/files/1136/sourceCode.zip) | 1 545 | 2006-10-30 |
-| [EasyShortcut](https://github.com/hpu-spring87/EasyShortcut) | 884 | 2016-11-22 |
+| [EasyShortcut](https://github.com/hpu-spring87/EasyShortcut) | 885 | 2016-11-22 |
 | [EasySnippet](https://github.com/PascalKu/jetbrains-snippet-plugin) | 289 | 2018-08-19 |
-| [EasyYapi](https://github.com/tangcent/easy-yapi) | 1 422 | 2019-10-28 |
-| [Easymock expect builder](https://github.com/SokolovMS/easymock-expect-builder) | 511 | 2017-04-11 |
+| [EasyYapi](https://github.com/tangcent/easy-yapi) | 1 426 | 2019-10-28 |
+| [Easymock expect builder](https://github.com/SokolovMS/easymock-expect-builder) | 513 | 2017-04-11 |
 | [Ebean 10.x Enhancement](https://github.com/ebean-orm-tools/ebean-idea-enhancer/) | 4 419 | 2017-08-04 |
-| [Ebean 11 enhancer](https://github.com/ebean-orm-tools/ebean-idea-enhancer) | 12 581 | 2019-09-06 |
+| [Ebean 11 enhancer](https://github.com/ebean-orm-tools/ebean-idea-enhancer) | 12 588 | 2019-09-06 |
 | [Ebean 4.x Enhancement](https://github.com/ebean-orm-tools/ebean-idea-enhancer) | 5 783 | 2016-08-02 |
 | [Ebean 8.x Enhancement](https://github.com/ebean-orm-tools/ebean-idea-enhancer) | 1 960 | 2016-11-23 |
 | [Ebean enhancer](https://github.com/ykrasik/idea-ebean-enhancer) | 2 238 | 2015-04-28 |
-| [Eclipse Code Formatter](https://github.com/krasa/EclipseCodeFormatter) | 981 984 | 2019-10-23 |
-| [Eclipse Groovy Compiler Plugin](https://github.com/rvowles/eclipsemavengroovy-idea) | 13 601 | 2013-04-01 |
-| [Eclipse Keymap](https://github.com/JetBrains/intellij-community/tree/master/platform/platform-resources/src/keymaps) | 2 562 | 2019-10-23 |
+| [Eclipse Code Formatter](https://github.com/krasa/EclipseCodeFormatter) | 982 277 | 2019-10-23 |
+| [Eclipse Groovy Compiler Plugin](https://github.com/rvowles/eclipsemavengroovy-idea) | 13 605 | 2013-04-01 |
+| [Eclipse Keymap](https://github.com/JetBrains/intellij-community/tree/master/platform/platform-resources/src/keymaps) | 2 577 | 2019-10-23 |
 | [Eclipse Mode](https://plugins.jetbrains.com/files/3822/sourceCode.zip) | 3 582 | 2008-11-29 |
 | [Eclipse Mode IDEA 11](https://plugins.jetbrains.com/files/6643/sourceCode.zip) | 1 873 | 2011-12-16 |
-| [Eclipser](https://github.com/kukido/eclipser) | 58 662 | 2015-11-24 |
+| [Eclipser](https://github.com/kukido/eclipser) | 58 670 | 2015-11-24 |
 | [EcoreExport](https://github.com/BentleyJOakes/EcoreExport) | 44 | 2018-11-04 |
 | [EcoreImport](https://github.com/BentleyJOakes/EcoreImport) | 462 | 2018-11-04 |
 | [Edit Latest Migration](https://github.com/spilth/rubymine-edit-latest-migration) | 23 | 2017-12-25 |
-| [EditStarters](https://github.com/Hdzi/idea-editstarters-plugin) | 1 200 | 2019-03-05 |
-| [EditUsages](https://github.com/funivan/EditUsagesIdeaPlugin/) | 497 | 2017-12-19 |
-| [Editor Groups](https://github.com/krasa/EditorGroups) | 813 | 2019-09-03 |
-| [EditorConfig](https://github.com/JetBrains/intellij-community/tree/master/plugins/editorconfig) | 997 658 | 2019-10-11 |
+| [EditStarters](https://github.com/Hdzi/idea-editstarters-plugin) | 1 207 | 2019-03-05 |
+| [EditUsages](https://github.com/funivan/EditUsagesIdeaPlugin/) | 499 | 2017-12-19 |
+| [Editor Groups](https://github.com/krasa/EditorGroups) | 816 | 2019-09-03 |
+| [EditorConfig](https://github.com/JetBrains/intellij-community/tree/master/plugins/editorconfig) | 998 324 | 2019-10-11 |
 | [EditorTree](https://plugins.jetbrains.com/files/202/sourceCode.zip) | 1 002 | 2007-09-09 |
 | [Elgg support for PHP Storm](https://github.com/brettp/phpstorm-elgg) | 344 | 2016-07-21 |
-| [Elixir](https://github.com/KronicDeth/intellij-elixir) | 251 262 | 2019-10-11 |
-| [Elm](https://github.com/klazuka/intellij-elm) | 41 687 | 2019-09-29 |
-| [Elm External Tools](https://github.com/jlagerweij/elm-external-tools) | 2 856 | 2018-09-17 |
+| [Elixir](https://github.com/KronicDeth/intellij-elixir) | 251 390 | 2019-10-11 |
+| [Elm](https://github.com/klazuka/intellij-elm) | 41 731 | 2019-09-29 |
+| [Elm External Tools](https://github.com/jlagerweij/elm-external-tools) | 2 863 | 2018-09-17 |
 | [Elm Language Support](https://github.com/davidMis/ElmPlugin) | 2 504 | 2015-02-16 |
 | [Elm Test Runner](https://github.com/frawa/intellij-elm-test-runner) | 1 456 | 2018-11-19 |
-| [Emacs+ Patched](https://github.com/cursive-ide/emacs-plus) | 8 420 | 2018-08-06 |
-| [Embedded Linux JVM Debugger (Raspberry Pi, BeagleBone Black, Intel Galileo II, and several other IoT Devices)](https://github.com/asebak/embeddedlinux-jvmdebugger-intellij) | 10 386 | 2017-08-17 |
-| [Embedded Perl Support](https://github.com/Camelcade/Perl5-IDEA) | 4 166 | 2019-10-16 |
-| [Embedded Web Browser for IDEA](https://github.com/chocotan/webbrowser4idea/) | 3 660 | 2018-05-26 |
-| [Embedded Web Browser for Intellij Platforms](https://github.com/vistarsvo/emBrowser4Intellij) | 3 164 | 2018-08-23 |
-| [EmbeddedProjectJdk](https://github.com/JetBrains/embeddedProjectJdk) | 13 393 | 2018-03-01 |
-| [Ember Color Scheme](http://github.com/hashd/gem-color-schemes) | 840 | 2019-05-11 |
-| [Ember Snippets](https://github.com/shamcode/intellij-ember-snippets) | 2 983 | 2017-12-02 |
-| [Ember.js](https://github.com/Turbo87/intellij-emberjs/) | 317 231 | 2019-07-23 |
-| [Emblem](https://bitbucket.org/patrick_pircher/emblem-intellij) | 2 475 | 2015-03-25 |
-| [Emmet Everywhere](http://git.dej.in.ua/fima/emmeteverywhere.git) | 126 251 | 2015-02-24 |
-| [EmmyLua](https://github.com/EmmyLua) | 176 969 | 2019-08-24 |
-| [Emoji Support Plugin](https://github.com/shiraji/emoji/) | 15 082 | 2017-05-11 |
+| [Emacs+ Patched](https://github.com/cursive-ide/emacs-plus) | 8 425 | 2018-08-06 |
+| [Embedded Linux JVM Debugger (Raspberry Pi, BeagleBone Black, Intel Galileo II, and several other IoT Devices)](https://github.com/asebak/embeddedlinux-jvmdebugger-intellij) | 10 387 | 2017-08-17 |
+| [Embedded Perl Support](https://github.com/Camelcade/Perl5-IDEA) | 4 170 | 2019-10-16 |
+| [Embedded Web Browser for IDEA](https://github.com/chocotan/webbrowser4idea/) | 3 669 | 2018-05-26 |
+| [Embedded Web Browser for Intellij Platforms](https://github.com/vistarsvo/emBrowser4Intellij) | 3 169 | 2018-08-23 |
+| [EmbeddedProjectJdk](https://github.com/JetBrains/embeddedProjectJdk) | 13 408 | 2018-03-01 |
+| [Ember Color Scheme](http://github.com/hashd/gem-color-schemes) | 843 | 2019-05-11 |
+| [Ember Snippets](https://github.com/shamcode/intellij-ember-snippets) | 2 986 | 2017-12-02 |
+| [Ember.js](https://github.com/Turbo87/intellij-emberjs/) | 317 604 | 2019-07-23 |
+| [Emblem](https://bitbucket.org/patrick_pircher/emblem-intellij) | 2 478 | 2015-03-25 |
+| [Emmet Everywhere](http://git.dej.in.ua/fima/emmeteverywhere.git) | 126 306 | 2015-02-24 |
+| [EmmyLua](https://github.com/EmmyLua) | 177 064 | 2019-08-24 |
+| [Emoji Support Plugin](https://github.com/shiraji/emoji/) | 15 093 | 2017-05-11 |
 | [Enable Color Management](https://github.com/niw/intellij-enable-color-management-plugin/tree/master) | 435 | 2016-01-30 |
-| [Enclosing Plugin](https://github.com/lexand/enclosing-jidea-plugin) | 11 472 | 2015-04-20 |
+| [Enclosing Plugin](https://github.com/lexand/enclosing-jidea-plugin) | 11 475 | 2015-04-20 |
 | [EncodingPlugin](https://plugins.jetbrains.com/files/1516/sourceCode.zip) | 4 920 | 2007-07-11 |
 | [Encrypt Tool](https://github.com/baislsl/idea-encryptor) | 281 | 2018-02-20 |
-| [EnvFile](https://github.com/Ashald/EnvFile) | 187 804 | 2019-05-24 |
-| [Environment Variable Settings Summary](https://github.com/ChrisCarini/environment-variable-settings-summary-intellij-plugin) | 2 748 | 2019-07-26 |
+| [EnvFile](https://github.com/Ashald/EnvFile) | 188 014 | 2019-05-24 |
+| [Environment Variable Settings Summary](https://github.com/ChrisCarini/environment-variable-settings-summary-intellij-plugin) | 2 751 | 2019-07-26 |
 | [Environment Variables in Path Variables](https://github.com/mohamedkomalo/env-vars-in-path-vars) | 1 080 | 2015-11-28 |
 | [Equals/hashCode field inspection](https://plugins.jetbrains.com/files/3389/sourceCode.zip) | 1 069 | 2008-11-16 |
-| [ErgoKeys](https://github.com/amibiz/ergo-keys) | 343 | 2019-09-20 |
-| [Erlang](https://github.com/ignatov/intellij-erlang) | 372 386 | 2019-07-26 |
+| [ErgoKeys](https://github.com/amibiz/ergo-keys) | 345 | 2019-09-20 |
+| [Erlang](https://github.com/ignatov/intellij-erlang) | 372 468 | 2019-07-26 |
 | [Errai Framework](https://github.com/errai/errai-intellij-idea-plugin) | 2 311 | 2013-05-15 |
-| [Error Item Line Marker](https://github.com/cgamache/erroritem) | 2 007 | 2017-04-11 |
-| [Es6 intentions](https://github.com/juan-tonina/es6-intentions-intelliJ) | 16 874 | 2017-11-03 |
-| [Escape from SearchEverywhere](https://github.com/masamotod/idea-escape-from-searcheverywhere) | 434 | 2018-03-26 |
-| [Espresso light theme](https://github.com/Rasarts/espresso_light_theme) | 5 606 | 2019-08-27 |
-| [EspressoCodeCreator](https://github.com/boredream/EspressoTestCodeCreatorPlugin) | 2 207 | 2015-12-24 |
-| [Event Sounds](https://plugins.jetbrains.com/files/1243/sourceCode.zip) | 1 570 | 2006-12-11 |
+| [Error Item Line Marker](https://github.com/cgamache/erroritem) | 2 009 | 2017-04-11 |
+| [Es6 intentions](https://github.com/juan-tonina/es6-intentions-intelliJ) | 16 882 | 2017-11-03 |
+| [Escape from SearchEverywhere](https://github.com/masamotod/idea-escape-from-searcheverywhere) | 436 | 2018-03-26 |
+| [Espresso light theme](https://github.com/Rasarts/espresso_light_theme) | 5 624 | 2019-08-27 |
+| [EspressoCodeCreator](https://github.com/boredream/EspressoTestCodeCreatorPlugin) | 2 209 | 2015-12-24 |
+| [Event Sounds](https://plugins.jetbrains.com/files/1243/sourceCode.zip) | 1 574 | 2006-12-11 |
 | [EventBus Intellij Plugin](https://github.com/kgmyshin/eventbus-intellij-plugin) | 1 708 | 2015-07-18 |
 | [EventBus3 Intellij Plugin](https://github.com/kgmyshin/eventbus3-intellij-plugin) | 533 | 2015-06-08 |
-| [EventBus3 Intellij Plugin](https://github.com/likfe/eventbus3-intellij-plugin) | 20 613 | 2019-01-29 |
-| [Exchange Code block](https://github.com/zxj5470/exchange-intellij) | 264 | 2018-09-25 |
-| [Exclude Symlinks](https://github.com/NeoFusion/idea-exclude-symlinks-plugin) | 2 577 | 2017-04-06 |
-| [Explore Trace](https://github.com/irengrig/exploretrace) | 2 633 | 2014-11-25 |
+| [EventBus3 Intellij Plugin](https://github.com/likfe/eventbus3-intellij-plugin) | 20 620 | 2019-01-29 |
+| [Exchange Code block](https://github.com/zxj5470/exchange-intellij) | 266 | 2018-09-25 |
+| [Exclude Symlinks](https://github.com/NeoFusion/idea-exclude-symlinks-plugin) | 2 583 | 2017-04-06 |
+| [Explore Trace](https://github.com/irengrig/exploretrace) | 2 635 | 2014-11-25 |
 | [Export To Directory](https://github.com/tendey/Export-To-Directory) | 397 | 2018-03-26 |
 | [ExtSee](https://github.com/BlueBoxWare/ExtSee) | 512 | 2018-04-23 |
 | [External Code Formatter](https://plugins.jetbrains.com/files/1605/sourceCode.zip) | 584 | 2011-10-05 |
 | [Externalizable Generator](https://github.com/nolequen/idea-externalizable-plugin) | 707 | 2017-07-17 |
-| [Extra Actions](https://github.com/danielkurecka/intellij-extra-actions) | 5 892 | 2017-06-28 |
-| [Extra Icons](https://github.com/jonathanlermitage/intellij-extra-icons-plugin) | 50 366 | 2019-10-23 |
-| [Extra features for Eclipse plugins development](https://github.com/VladRassokhin/eclipse-from-idea-development) | 36 238 | 2014-09-11 |
+| [Extra Actions](https://github.com/danielkurecka/intellij-extra-actions) | 5 896 | 2017-06-28 |
+| [Extra Icons](https://github.com/jonathanlermitage/intellij-extra-icons-plugin) | 50 466 | 2019-10-23 |
+| [Extra features for Eclipse plugins development](https://github.com/VladRassokhin/eclipse-from-idea-development) | 36 248 | 2014-09-11 |
 | [Extract JSON Tags](https://github.com/esalter-va/extract-json-tags) | 731 | 2019-02-08 |
-| [FCM push sender](https://github.com/abeade/fcm-push-plugin) | 1 419 | 2019-03-24 |
-| [FIDL](https://fuchsia.googlesource.com/intellij-language-fidl/) | 1 024 | 2019-09-04 |
-| [FIGlet](https://github.com/YiiGuxing/intellij-figlet) | 678 | 2019-03-05 |
-| [FMVPPlugin](https://github.com/chengzichen/FMVP-plugin) | 677 | 2018-05-18 |
-| [FQN Improved](https://plugins.jetbrains.com/files/1167/sourceCode.zip) | 2 294 | 2006-10-25 |
-| [FRC](https://gitlab.com/Javaru/frc-intellij-idea-plugin) | 4 320 | 2018-09-10 |
-| [FXMLHelper](https://github.com/Scrumplex/FXMLHelper) | 6 115 | 2017-01-01 |
-| [Fancy Music](https://github.com/FirstTimeInForever/intellij-music) | 23 | 2019-10-30 |
-| [Fast Mouse Scrolling](https://github.com/AMPivovarov/FastMouseScroll) | 1 201 | 2019-09-22 |
-| [Fast-Scrolling](https://bitbucket.org/santiv_de/fastscrolling) | 9 361 | 2016-06-19 |
+| [FCM push sender](https://github.com/abeade/fcm-push-plugin) | 1 423 | 2019-03-24 |
+| [FIDL](https://fuchsia.googlesource.com/intellij-language-fidl/) | 1 027 | 2019-09-04 |
+| [FIGlet](https://github.com/YiiGuxing/intellij-figlet) | 680 | 2019-03-05 |
+| [FMVPPlugin](https://github.com/chengzichen/FMVP-plugin) | 679 | 2018-05-18 |
+| [FQN Improved](https://plugins.jetbrains.com/files/1167/sourceCode.zip) | 2 298 | 2006-10-25 |
+| [FRC](https://gitlab.com/Javaru/frc-intellij-idea-plugin) | 4 323 | 2018-09-10 |
+| [FXMLHelper](https://github.com/Scrumplex/FXMLHelper) | 6 123 | 2017-01-01 |
+| [Fancy Music](https://github.com/FirstTimeInForever/intellij-music) | 27 | 2019-10-30 |
+| [Fast Mouse Scrolling](https://github.com/AMPivovarov/FastMouseScroll) | 1 213 | 2019-09-22 |
+| [Fast-Scrolling](https://bitbucket.org/santiv_de/fastscrolling) | 9 365 | 2016-06-19 |
 | [FastBuilder](https://github.com/qchery/fast-builder) | 2 | 2019-08-08 |
-| [Favorite Actions](https://github.com/dandoh/favorite-actions) | 26 | 2019-10-20 |
-| [FavoriteFolders](https://github.com/xBlackCat/favoritefolders-idea-plugin) | 20 139 | 2016-05-17 |
+| [Favorite Actions](https://github.com/dandoh/favorite-actions) | 28 | 2019-10-20 |
+| [FavoriteFolders](https://github.com/xBlackCat/favoritefolders-idea-plugin) | 20 141 | 2016-05-17 |
 | [FeTranslate](http://github.com/FeTranslate) | 150 | 2018-11-22 |
-| [Feather-ts code support](https://github.com/mendrik/IDEA-feather) | 225 | 2018-04-24 |
+| [Feather-ts code support](https://github.com/mendrik/IDEA-feather) | 227 | 2018-04-24 |
 | [Felix SCR Annotation Processor](https://github.com/chilicat/felix-annotation-processor) | 7 924 | 2014-04-28 |
-| [Fields to Enumeration Generator](https://github.com/sboesebeck/intelliJGenPropertyEnumsPlugin) | 614 | 2016-08-30 |
-| [File Link Executor](https://github.com/ForNeVeR/file-link-executor) | 97 | 2019-08-08 |
-| [File Path Autocomplete](https://github.com/PinkFloyded/idea-file-path-autocomplete) | 7 058 | 2018-11-03 |
-| [File Search](https://github.com/btipling/filesearch) | 3 008 | 2015-07-22 |
-| [File Template Variables](https://github.com/vkravets/FileTemplatesVariable) | 10 344 | 2017-04-11 |
+| [Fields to Enumeration Generator](https://github.com/sboesebeck/intelliJGenPropertyEnumsPlugin) | 615 | 2016-08-30 |
+| [File Link Executor](https://github.com/ForNeVeR/file-link-executor) | 99 | 2019-08-08 |
+| [File Path Autocomplete](https://github.com/PinkFloyded/idea-file-path-autocomplete) | 7 071 | 2018-11-03 |
+| [File Search](https://github.com/btipling/filesearch) | 3 011 | 2015-07-22 |
+| [File Template Variables](https://github.com/vkravets/FileTemplatesVariable) | 10 349 | 2017-04-11 |
 | [File completion plugin](https://github.com/venkato/ideafilecompletion) | 624 | 2017-07-02 |
 | [FileBrowser](https://plugins.jetbrains.com/files/1465/sourceCode.zip) | 4 741 | 2007-08-06 |
 | [FileTemplate Loader](https://github.com/rougsig/file-template-loader) | 253 | 2019-04-24 |
-| [Find Pull Request](https://github.com/shiraji/find-pull-request) | 12 777 | 2019-10-16 |
+| [Find Pull Request](https://github.com/shiraji/find-pull-request) | 12 807 | 2019-10-16 |
 | [Find duplicates inspection](https://github.com/markiewb/idea-find-duplicate-class-inspection-plugin) | 439 | 2017-04-24 |
-| [FindBugs-IDEA](https://github.com/andrepdo/findbugs-idea/tree/master) | 1 006 869 | 2016-10-16 |
-| [FindViewById to BindView](https://github.com/ch8154/findviewbyid-to-bindview) | 2 829 | 2016-08-15 |
-| [FindViewByMe](https://github.com/laobie/FindViewByMe) | 41 157 | 2018-06-01 |
-| [FindViewForAndroid](https://github.com/tyzlmjj/FindViewForAndroid) | 1 261 | 2019-03-29 |
-| [Finder Info](https://github.com/kstenschke/finderinfo-plugin) | 3 645 | 2014-08-17 |
-| [FishReduxTemplate](https://github.com/BakerJQ/FishReduxTemplateForAS) | 1 806 | 2019-04-18 |
-| [FitNesse](https://github.com/fitnesse/idea-fitnesse) | 21 505 | 2019-02-13 |
-| [Fitnesse Integration](https://plugins.jetbrains.com/files/1143/sourceCode.zip) | 2 319 | 2008-07-07 |
-| [Flake8 support](https://github.com/jansorg/pycharm-flake8) | 5 181 | 2019-01-16 |
-| [FlameViewer](https://github.com/kornilova-l/flamegraph-visualizer) | 4 156 | 2018-08-07 |
-| [Flashcards](https://github.com/denvned/idea-flashcards) | 1 135 | 2017-06-02 |
-| [Flatbuffers Support](https://github.com/pdehn/idea-plugin-flatbuffers) | 1 104 | 2016-08-28 |
-| [Floobits](https://github.com/Floobits/floobits-intellij/) | 82 258 | 2017-07-30 |
-| [FlowStorm](https://github.com/sandstorm/FlowStorm) | 3 246 | 2013-11-10 |
+| [FindBugs-IDEA](https://github.com/andrepdo/findbugs-idea/tree/master) | 1 007 157 | 2016-10-16 |
+| [FindViewById to BindView](https://github.com/ch8154/findviewbyid-to-bindview) | 2 831 | 2016-08-15 |
+| [FindViewByMe](https://github.com/laobie/FindViewByMe) | 41 168 | 2018-06-01 |
+| [FindViewForAndroid](https://github.com/tyzlmjj/FindViewForAndroid) | 1 262 | 2019-03-29 |
+| [Finder Info](https://github.com/kstenschke/finderinfo-plugin) | 3 647 | 2014-08-17 |
+| [FishReduxTemplate](https://github.com/BakerJQ/FishReduxTemplateForAS) | 1 814 | 2019-04-18 |
+| [FitNesse](https://github.com/fitnesse/idea-fitnesse) | 21 508 | 2019-02-13 |
+| [Fitnesse Integration](https://plugins.jetbrains.com/files/1143/sourceCode.zip) | 2 320 | 2008-07-07 |
+| [Flake8 support](https://github.com/jansorg/pycharm-flake8) | 5 189 | 2019-01-16 |
+| [FlameViewer](https://github.com/kornilova-l/flamegraph-visualizer) | 4 164 | 2018-08-07 |
+| [Flashcards](https://github.com/denvned/idea-flashcards) | 1 138 | 2017-06-02 |
+| [Flatbuffers Support](https://github.com/pdehn/idea-plugin-flatbuffers) | 1 106 | 2016-08-28 |
+| [Floobits](https://github.com/Floobits/floobits-intellij/) | 82 301 | 2017-07-30 |
+| [FlowStorm](https://github.com/sandstorm/FlowStorm) | 3 247 | 2013-11-10 |
 | [Flowdock custom notifier](https://github.com/adrianfaciu/flowdock-teamcity-plugin) | 35 | 2016-12-06 |
 | [Fluent Setter Generator](https://github.com/TwinProduction/intellij-fluent-setter-generator) | 348 | 2019-05-02 |
-| [Flutter](https://github.com/flutter/flutter-intellij) | 3 037 546 | 2019-11-01 |
-| [Flutter App Template Generator](https://github.com/hayoi/haystack) | 28 570 | 2019-06-17 |
-| [Flutter Bloc Generator](https://github.com/loup-v/flutter-bloc-generator-intellij) | 5 487 | 2019-10-11 |
-| [Flutter Enhancement Suite](https://github.com/marius-h/flutter_enhancement_suite) | 13 370 | 2019-10-06 |
-| [Flutter Pub Version Checker](https://github.com/pszklarska/FlutterPubVersionChecker) | 9 511 | 2019-06-13 |
-| [Flutter Snippets](https://github.com/georgeherby/flutter-snippets) | 40 488 | 2019-10-26 |
-| [Flutter i18n](https://github.com/long1eu/flutter_i18n) | 139 197 | 2019-10-03 |
-| [FlutterJsonBeanFactory](https://github.com/zhangruiyu/FlutterJsonBeanFactory) | 39 568 | 2019-05-10 |
-| [Fold Call Blocks](https://github.com/g-rath/fold-call-blocks-plugin) | 3 | 2019-10-29 |
-| [Font Size Auto Change](https://github.com/jankotek/idea-font-size-auto-change) | 745 | 2016-07-31 |
-| [FontStorage plugin](https://github.com/WebFont/webfont_intellij) | 20 009 | 2017-03-03 |
-| [FootPrint](https://github.com/cnhguy/FootPrint) | 347 | 2019-03-11 |
+| [Flutter](https://github.com/flutter/flutter-intellij) | 3 046 137 | 2019-11-01 |
+| [Flutter App Template Generator](https://github.com/hayoi/haystack) | 28 650 | 2019-06-17 |
+| [Flutter Bloc Generator](https://github.com/loup-v/flutter-bloc-generator-intellij) | 5 543 | 2019-10-11 |
+| [Flutter Enhancement Suite](https://github.com/marius-h/flutter_enhancement_suite) | 13 494 | 2019-10-06 |
+| [Flutter Pub Version Checker](https://github.com/pszklarska/FlutterPubVersionChecker) | 9 543 | 2019-06-13 |
+| [Flutter Snippets](https://github.com/georgeherby/flutter-snippets) | 40 803 | 2019-10-26 |
+| [Flutter i18n](https://github.com/long1eu/flutter_i18n) | 139 390 | 2019-10-03 |
+| [FlutterJsonBeanFactory](https://github.com/zhangruiyu/FlutterJsonBeanFactory) | 39 626 | 2019-05-10 |
+| [Fold Call Blocks](https://github.com/g-rath/fold-call-blocks-plugin) | 6 | 2019-10-29 |
+| [Font Size Auto Change](https://github.com/jankotek/idea-font-size-auto-change) | 747 | 2016-07-31 |
+| [FontStorage plugin](https://github.com/WebFont/webfont_intellij) | 20 015 | 2017-03-03 |
+| [FootPrint](https://github.com/cnhguy/FootPrint) | 350 | 2019-03-11 |
 | [ForFaster](https://github.com/codingbooo/ForFaster) | 147 | 2019-02-22 |
-| [Force Shortcuts](https://github.com/treytrahin/force-shortcuts-intellij-plugin) | 5 566 | 2017-07-20 |
-| [Format to fstring migrator](https://github.com/AdiNar/pycharm-format-fstring-migrator) | 416 | 2018-10-15 |
+| [Force Shortcuts](https://github.com/treytrahin/force-shortcuts-intellij-plugin) | 5 570 | 2017-07-20 |
+| [Format to fstring migrator](https://github.com/AdiNar/pycharm-format-fstring-migrator) | 418 | 2018-10-15 |
 | [FormatIncrementer](https://github.com/rsunder10/FormatIncrementer) | 109 | 2018-01-14 |
-| [Fortran](https://github.com/satamas/fortran-plugin) | 22 908 | 2019-08-09 |
-| [Fossil Integration](https://github.com/irengrig/fossil4idea) | 3 245 | 2015-11-08 |
+| [Fortran](https://github.com/satamas/fortran-plugin) | 22 925 | 2019-08-09 |
+| [Fossil Integration](https://github.com/irengrig/fossil4idea) | 3 247 | 2015-11-08 |
 | [Fragment kewInstance Inspection](https://github.com/shiraji/kew-instance-inspection/) | 623 | 2016-08-12 |
 | [Fragment newInstance Inspection](https://github.com/shiraji/new-instance-inspection) | 1 719 | 2016-05-09 |
 | [Framework for Secure Coding](https://bitbucket.org/lasithd2/seproject_framework_for_secure_coding/src/master/) | 292 | 2018-12-22 |
-| [Franky](https://github.com/SerCeMan/franky/) | 716 | 2016-09-25 |
+| [Franky](https://github.com/SerCeMan/franky/) | 718 | 2016-09-25 |
 | [Freasy Monad Plugin](https://github.com/Thangiee/Freasy-Monad) | 614 | 2016-11-13 |
-| [Free MyBatis plugin](https://github.com/wuzhizhan/free-idea-mybatis) | 401 969 | 2018-05-17 |
-| [FreeBuilder Plugin](https://github.com/sdqali/freebuilder-intellij-plugin) | 212 | 2018-05-04 |
+| [Free MyBatis plugin](https://github.com/wuzhizhan/free-idea-mybatis) | 402 394 | 2018-05-17 |
+| [FreeBuilder Plugin](https://github.com/sdqali/freebuilder-intellij-plugin) | 213 | 2018-05-04 |
 | [Frege Plugin](https://github.com/Dierk/frege-idea-plugin) | 348 | 2016-09-19 |
-| [FridayMario](https://github.com/dkandalov/friday-mario) | 5 699 | 2016-06-10 |
-| [Front End Alignment](https://github.com/jmulieri/front-end-alignment) | 6 131 | 2014-05-29 |
-| [Frozen Idea](https://github.com/xBlackCat/ice-framework-idea-plugin) | 2 444 | 2015-06-19 |
+| [FridayMario](https://github.com/dkandalov/friday-mario) | 5 702 | 2016-06-10 |
+| [Front End Alignment](https://github.com/jmulieri/front-end-alignment) | 6 133 | 2014-05-29 |
+| [Frozen Idea](https://github.com/xBlackCat/ice-framework-idea-plugin) | 2 447 | 2015-06-19 |
 | [FuelCMS](https://github.com/martynassateika/FUEL-CMS-phpstorm-plugin) | 278 | 2019-04-25 |
 | [Fullscreen](https://github.com/jfim/ideafullscreen) | 8 678 | 2012-12-03 |
-| [Func Comment](https://github.com/kiexu/func-comment) | 496 | 2019-01-31 |
-| [Fusion 360 Scripting](https://github.com/JesusFreke/fusionIdea) | 889 | 2019-10-01 |
-| [GFI Fablab header](https://github.com/yohan-th/GFI_Fablab_header) | 73 | 2019-07-24 |
+| [Func Comment](https://github.com/kiexu/func-comment) | 498 | 2019-01-31 |
+| [Fusion 360 Scripting](https://github.com/JesusFreke/fusionIdea) | 892 | 2019-10-01 |
+| [GFI Fablab header](https://github.com/yohan-th/GFI_Fablab_header) | 75 | 2019-07-24 |
 | [GITMergeRequestToolBox](https://github.com/Inculator/GitIntegrationProject) | 41 | 2019-09-24 |
-| [GLSL Support](https://github.com/Darkyenus/glsl4idea) | 135 786 | 2019-10-21 |
-| [GMavenPlus IntelliJ Plugin](https://github.com/mycila/gmavenplus-intellij-plugin) | 16 956 | 2015-01-13 |
+| [GLSL Support](https://github.com/Darkyenus/glsl4idea) | 135 965 | 2019-10-21 |
+| [GMavenPlus IntelliJ Plugin](https://github.com/mycila/gmavenplus-intellij-plugin) | 16 957 | 2015-01-13 |
 | [GRouter Helper](https://github.com/taoweiji/grouter-android) | 33 | 2019-09-08 |
-| [GUI Popup & Inspect](https://github.com/hajdam/guipopup-intellij-plugin) | 131 | 2019-07-22 |
+| [GUI Popup & Inspect](https://github.com/hajdam/guipopup-intellij-plugin) | 133 | 2019-07-22 |
 | [GUIguide](https://plugins.jetbrains.com/files/1026/sourceCode.zip) | 147 | 2006-09-22 |
-| [GWT-Platform (GWTP) IntelliJ IDEA Plugin](https://github.com/ArcBees/gwtp-idea-plugin) | 27 156 | 2015-09-16 |
-| [Galen Specs Language Support](https://github.com/hypery2k/galen_ide) | 2 693 | 2017-03-06 |
-| [GapStyle Color Scheme](https://github.com/gaplo917/GapStyle) | 47 340 | 2019-08-28 |
-| [Gauge](https://github.com/getgauge/Intellij-Plugin) | 1 466 447 | 2019-07-30 |
-| [Gdl](https://github.com/KMarshland/intellij-gdl-plugin) | 120 | 2018-04-14 |
-| [Geek And Poke](https://github.com/andy722/idea-comics) | 3 528 | 2012-08-21 |
+| [GWT-Platform (GWTP) IntelliJ IDEA Plugin](https://github.com/ArcBees/gwtp-idea-plugin) | 27 157 | 2015-09-16 |
+| [Galen Specs Language Support](https://github.com/hypery2k/galen_ide) | 2 695 | 2017-03-06 |
+| [GapStyle Color Scheme](https://github.com/gaplo917/GapStyle) | 47 388 | 2019-08-28 |
+| [Gauge](https://github.com/getgauge/Intellij-Plugin) | 1 466 781 | 2019-07-30 |
+| [Gdl](https://github.com/KMarshland/intellij-gdl-plugin) | 121 | 2018-04-14 |
+| [Geek And Poke](https://github.com/andy722/idea-comics) | 3 530 | 2012-08-21 |
 | [GeekNight Color Scheme](https://github.com/sstarasenko/geeknight) | 414 | 2019-03-14 |
 | [Generatable](https://github.com/korgov/Generatable) | 730 | 2015-03-31 |
-| [Generate FindViewById](https://github.com/MrDenua/FindViewGenerator) | 81 | 2019-10-09 |
-| [Generate Kotlin data classes from JSON](https://github.com/Mighty16/JSONToKotlinClass) | 18 142 | 2018-02-03 |
+| [Generate FindViewById](https://github.com/MrDenua/FindViewGenerator) | 83 | 2019-10-09 |
+| [Generate Kotlin data classes from JSON](https://github.com/Mighty16/JSONToKotlinClass) | 18 153 | 2018-02-03 |
 | [Generate OpenCL CL file's header](https://github.com/noritsuna/OpenCLCLGenerator) | 1 251 | 2015-08-08 |
 | [Generate ProtoBuf](https://github.com/tianrandailove/Generate-ProtoBuf) | 1 704 | 2018-10-06 |
-| [Generate Tests](https://github.com/valentinkip/GenerateTestsPlugin) | 61 326 | 2016-05-05 |
+| [Generate Tests](https://github.com/valentinkip/GenerateTestsPlugin) | 61 344 | 2016-05-05 |
 | [Generate.Fluent.Interface](https://github.com/felixtsu/idea-generate-fluent-interface) | 11 240 | 2017-01-04 |
-| [GenerateCopyConstructor](https://github.com/jkovacs/CopyConstructorPlugin) | 17 423 | 2015-09-19 |
-| [GenerateFindViewById](https://github.com/wangzailfm/GenerateFindViewById) | 15 460 | 2017-11-13 |
+| [GenerateCopyConstructor](https://github.com/jkovacs/CopyConstructorPlugin) | 17 429 | 2015-09-19 |
+| [GenerateFindViewById](https://github.com/wangzailfm/GenerateFindViewById) | 15 467 | 2017-11-13 |
 | [GeneratePropertyNameConstants](https://github.com/thomedw/genprop) | 1 934 | 2017-03-30 |
 | [GenerateSVG](https://github.com/fxlex/GenerateSVG) | 12 | 2016-09-16 |
 | [GenerateTestCases](https://github.com/hablutzel1/GenerateTestCases) | 8 579 | 2013-01-19 |
-| [Generator Code Plugin](https://github.com/fartherp/generator-idea-plugins) | 1 005 | 2018-01-24 |
-| [Geocoding Plugin](https://github.com/dnltsk/intellij-geocoding-plugin) | 3 131 | 2016-12-19 |
-| [Gerador de CPF/CNPJ](https://github.com/brunobastosg/gerador-cpf-cnpj-intellij-idea) | 241 | 2019-04-13 |
-| [Gerrit](https://github.com/uwolfer/gerrit-intellij-plugin) | 231 762 | 2019-09-26 |
-| [Get gist (Beta)](https://github.com/johna1203/getGists) | 17 942 | 2014-09-03 |
-| [Gherkin](https://github.com/JetBrains/intellij-plugins/tree/master/cucumber) | 192 197 | 2016-10-07 |
-| [Gherkin](https://github.com/JetBrains/intellij-plugins/tree/master/cucumber) | 414 528 | 2019-10-30 |
+| [Generator Code Plugin](https://github.com/fartherp/generator-idea-plugins) | 1 008 | 2018-01-24 |
+| [Geocoding Plugin](https://github.com/dnltsk/intellij-geocoding-plugin) | 3 135 | 2016-12-19 |
+| [Gerador de CPF/CNPJ](https://github.com/brunobastosg/gerador-cpf-cnpj-intellij-idea) | 243 | 2019-04-13 |
+| [Gerrit](https://github.com/uwolfer/gerrit-intellij-plugin) | 231 800 | 2019-09-26 |
+| [Get gist (Beta)](https://github.com/johna1203/getGists) | 17 958 | 2014-09-03 |
+| [Gherkin](https://github.com/JetBrains/intellij-plugins/tree/master/cucumber) | 192 199 | 2016-10-07 |
+| [Gherkin](https://github.com/JetBrains/intellij-plugins/tree/master/cucumber) | 414 783 | 2019-10-30 |
 | [Gherkin TS Runner](https://github.com/KariiO/Gherkin-TS-Runner) | 339 | 2017-10-05 |
 | [Gismeteo Plugin](https://plugins.jetbrains.com/files/3846/sourceCode.zip) | 537 | 2008-12-14 |
-| [Gist Templates](https://github.com/geowarin/gist-templates-plugin) | 8 567 | 2014-04-21 |
+| [Gist Templates](https://github.com/geowarin/gist-templates-plugin) | 8 572 | 2014-04-21 |
 | [Git](https://plugins.jetbrains.com/files/3033/sourceCode.zip) | 6 136 | 2009-05-05 |
-| [Git](https://github.com/jetbrains/intellij-community) | 124 | 2019-10-14 |
-| [Git Branch Cleaner](https://github.com/PavlikPolivka/gitcleaner) | 13 004 | 2018-09-28 |
-| [Git Branch Manager](https://github.com/alivesubstance/branch-manager) | 2 213 | 2019-10-15 |
-| [Git Checkout Files From Branch](https://github.com/ambarth/git-checkout-files-from-branch) | 3 670 | 2018-06-11 |
-| [Git Commit Message Plugin](https://github.com/JanGatting/GitCommitMessage) | 9 385 | 2017-12-06 |
-| [Git Commit Template](https://github.com/MobileTribe/commit-template-idea-plugin) | 23 802 | 2018-11-17 |
-| [Git Conflict](https://github.com/liying2008/git-conflict) | 7 082 | 2018-04-29 |
-| [Git Extender](https://github.com/JChrist/gitextender) | 39 065 | 2019-09-26 |
-| [Git File Case Fixer](https://github.com/vsch/git-file-case-fixer) | 1 750 | 2019-08-07 |
-| [Git Flow Integration](https://github.com/OpherV/gitflow4idea/) | 461 863 | 2019-09-05 |
+| [Git](https://github.com/jetbrains/intellij-community) | 126 | 2019-10-14 |
+| [Git Branch Cleaner](https://github.com/PavlikPolivka/gitcleaner) | 13 014 | 2018-09-28 |
+| [Git Branch Manager](https://github.com/alivesubstance/branch-manager) | 2 217 | 2019-10-15 |
+| [Git Checkout Files From Branch](https://github.com/ambarth/git-checkout-files-from-branch) | 3 673 | 2018-06-11 |
+| [Git Commit Message Plugin](https://github.com/JanGatting/GitCommitMessage) | 9 391 | 2017-12-06 |
+| [Git Commit Template](https://github.com/MobileTribe/commit-template-idea-plugin) | 23 830 | 2018-11-17 |
+| [Git Conflict](https://github.com/liying2008/git-conflict) | 7 087 | 2018-04-29 |
+| [Git Extender](https://github.com/JChrist/gitextender) | 39 089 | 2019-09-26 |
+| [Git File Case Fixer](https://github.com/vsch/git-file-case-fixer) | 1 754 | 2019-08-07 |
+| [Git Flow Integration](https://github.com/OpherV/gitflow4idea/) | 461 971 | 2019-09-05 |
 | [Git Flow Integration](https://github.com/yonesko/gitflow4idea) | 1 544 | 2018-05-16 |
 | [Git Flow Integration Extended](https://bitbucket.org/smartmaxx/gitflow4ideaex/src) | 2 553 | 2016-05-06 |
-| [Git Pair](https://github.com/RoboPlugins/git-pair.idea) | 5 984 | 2019-05-27 |
-| [Git Quick Branches](https://github.com/novotnyr/git-quickbranches-idea-plugin) | 570 | 2019-03-03 |
-| [Git Scope](https://bitbucket.org/comodmw/git-scope) | 8 798 | 2018-07-22 |
-| [Git Status](https://github.com/pwilkin/git-status) | 16 296 | 2015-07-27 |
-| [Git extended update-index](https://github.com/monosoul/git-extended-update-index-plugin) | 800 | 2018-10-09 |
-| [GitBlit Plugin](https://github.com/erikzielke/gitblitidea) | 2 498 | 2016-05-07 |
+| [Git Pair](https://github.com/RoboPlugins/git-pair.idea) | 5 987 | 2019-05-27 |
+| [Git Quick Branches](https://github.com/novotnyr/git-quickbranches-idea-plugin) | 573 | 2019-03-03 |
+| [Git Scope](https://bitbucket.org/comodmw/git-scope) | 8 807 | 2018-07-22 |
+| [Git Status](https://github.com/pwilkin/git-status) | 16 303 | 2015-07-27 |
+| [Git extended update-index](https://github.com/monosoul/git-extended-update-index-plugin) | 802 | 2018-10-09 |
+| [GitBlit Plugin](https://github.com/erikzielke/gitblitidea) | 2 501 | 2016-05-07 |
 | [GitBooks SUMMARY.md generator](https://github.com/askaFed/gitbooks-summary-generator) | 16 | 2019-10-25 |
-| [GitExtensions](https://github.com/DmitryZhelnin/git-extensions-intellij) | 3 018 | 2019-02-03 |
-| [GitHub](https://github.com/jetbrains/intellij-community) | 35 | 2019-10-11 |
-| [GitHub 3 Color Scheme](https://github.com/sergeymakinen/jetbrains-github-theme) | 4 172 | 2019-04-19 |
-| [GitHub Commit Hooks](https://github.com/JetBrains/teamcity-commit-hooks) | 1 637 | 2019-06-03 |
+| [GitExtensions](https://github.com/DmitryZhelnin/git-extensions-intellij) | 3 022 | 2019-02-03 |
+| [GitHub](https://github.com/jetbrains/intellij-community) | 36 | 2019-10-11 |
+| [GitHub 3 Color Scheme](https://github.com/sergeymakinen/jetbrains-github-theme) | 4 186 | 2019-04-19 |
+| [GitHub Commit Hooks](https://github.com/JetBrains/teamcity-commit-hooks) | 1 638 | 2019-06-03 |
 | [GitHub TeamCity Service](https://github.com/github/github-services/blob/master/lib/services/teamcity.rb) | 1 | 2016-10-06 |
-| [GitLab Integration Plugin](https://github.com/dneves/gitlab-integration-plugin) | 71 926 | 2018-11-20 |
+| [GitLab Integration Plugin](https://github.com/dneves/gitlab-integration-plugin) | 71 957 | 2018-11-20 |
 | [GitLab Issues](https://github.com/Deroin/teamcity-gitlab-issues) | 502 | 2016-12-04 |
-| [GitLab Projects](https://github.com/PavlikPolivka/GitLabProjects) | 337 796 | 2019-02-20 |
-| [GitLab Quick Merge Request](https://github.com/novotnyr/gitlab-quickmr-idea-plugin) | 11 158 | 2019-08-29 |
-| [GitLab integration](https://github.com/bsideup/IDEA-GitLab-Integration) | 76 783 | 2015-01-22 |
-| [GitLink](https://github.com/ben-gibson/GitLink) | 51 474 | 2019-08-17 |
-| [GitPrefix](https://github.com/syuchan1005/GitPrefix) | 3 809 | 2019-08-04 |
-| [GitToolBox](https://github.com/zielu/GitToolBox) | 570 989 | 2019-10-22 |
-| [Gitea issues](https://github.com/elfuegobiz/intellij-gitea-plugin) | 2 457 | 2019-04-04 |
+| [GitLab Projects](https://github.com/PavlikPolivka/GitLabProjects) | 337 909 | 2019-02-20 |
+| [GitLab Quick Merge Request](https://github.com/novotnyr/gitlab-quickmr-idea-plugin) | 11 169 | 2019-08-29 |
+| [GitLab integration](https://github.com/bsideup/IDEA-GitLab-Integration) | 76 812 | 2015-01-22 |
+| [GitLink](https://github.com/ben-gibson/GitLink) | 51 507 | 2019-08-17 |
+| [GitPrefix](https://github.com/syuchan1005/GitPrefix) | 3 814 | 2019-08-04 |
+| [GitToolBox](https://github.com/zielu/GitToolBox) | 571 707 | 2019-10-22 |
+| [Gitea issues](https://github.com/elfuegobiz/intellij-gitea-plugin) | 2 462 | 2019-04-04 |
 | [Github Code Reviews Plugin](https://github.com/duxtinto/github-cr-intellij-plugin) | 3 643 | 2018-03-14 |
-| [Gitmoji](https://github.com/biezhi/gitmoji-plugin) | 5 883 | 2018-06-04 |
-| [Gitmoji](https://github.com/patou/gitmoji-intellij-plugin/) | 902 | 2019-08-02 |
-| [GivWenZen Plugin](https://github.com/psliwa/idea-givwenzen-plugin) | 584 | 2017-05-24 |
-| [Glagol DSL](https://github.com/BulgariaPHP/glagol-dsl-plugin) | 4 417 | 2018-01-21 |
-| [Global File Template Variables](https://github.com/aurimasniekis/GlobalFileTemplateVariables) | 1 940 | 2015-11-01 |
-| [Go Builder Generator](https://github.com/OddCN/go-builder-generator-idea-plugin) | 4 528 | 2018-07-02 |
-| [Go To Project](https://github.com/erikzielke/GoToProject) | 13 531 | 2017-06-03 |
-| [Go language (golang.org) support plugin](https://github.com/go-lang-plugin-org/go-lang-idea-plugin) | 955 372 | 2017-03-29 |
-| [Go method generator](https://github.com/BobbyKitten/Intellij-go-method-generator) | 9 831 | 2018-03-09 |
+| [Gitmoji](https://github.com/biezhi/gitmoji-plugin) | 5 895 | 2018-06-04 |
+| [Gitmoji](https://github.com/patou/gitmoji-intellij-plugin/) | 906 | 2019-08-02 |
+| [GivWenZen Plugin](https://github.com/psliwa/idea-givwenzen-plugin) | 586 | 2017-05-24 |
+| [Glagol DSL](https://github.com/BulgariaPHP/glagol-dsl-plugin) | 4 422 | 2018-01-21 |
+| [Global File Template Variables](https://github.com/aurimasniekis/GlobalFileTemplateVariables) | 1 942 | 2015-11-01 |
+| [Go Builder Generator](https://github.com/OddCN/go-builder-generator-idea-plugin) | 4 533 | 2018-07-02 |
+| [Go To Project](https://github.com/erikzielke/GoToProject) | 13 537 | 2017-06-03 |
+| [Go language (golang.org) support plugin](https://github.com/go-lang-plugin-org/go-lang-idea-plugin) | 955 383 | 2017-03-29 |
+| [Go method generator](https://github.com/BobbyKitten/Intellij-go-method-generator) | 9 836 | 2018-03-09 |
 | [Go to layout xml](https://github.com/pedrocactus/navigate-to-layout) | 1 131 | 2016-04-21 |
 | [Go! AOP Framework](https://github.com/goaop/idea-plugin) | 2 859 | 2017-11-19 |
-| [GoToTabs](https://github.com/jiripospisil/idea-gototabs) | 10 090 | 2015-11-07 |
-| [Golang mockery](https://github.com/ricardo-ch/mockery-intellij-plugin) | 10 098 | 2019-01-18 |
+| [GoToTabs](https://github.com/jiripospisil/idea-gototabs) | 10 098 | 2015-11-07 |
+| [Golang mockery](https://github.com/ricardo-ch/mockery-intellij-plugin) | 10 112 | 2019-01-18 |
 | [Google Artifact Storage](https://github.com/JetBrains/teamcity-google-storage) | 507 | 2019-08-28 |
 | [Google Autofactory Support](https://github.com/matan129/autofactory-intellij-plugin) | 325 | 2017-07-01 |
 | [Google Closure Require Statement Checker](https://github.com/serkangunes/ClosurePlugin) | 3 597 | 2018-04-18 |
 | [Google Cloud Agents](https://github.com/JetBrains/teamcity-google-agent) | 667 | 2019-08-28 |
-| [Google Code Search](https://plugins.jetbrains.com/files/1123/sourceCode.zip) | 9 224 | 2006-10-13 |
-| [Google Protocol Buffers support](https://plugins.jetbrains.com/files/4942/sourceCode.zip) | 177 375 | 2015-02-03 |
+| [Google Code Search](https://plugins.jetbrains.com/files/1123/sourceCode.zip) | 9 227 | 2006-10-13 |
+| [Google Protocol Buffers support](https://plugins.jetbrains.com/files/4942/sourceCode.zip) | 177 376 | 2015-02-03 |
 | [Google Tag Manager](https://github.com/JetBrains/teamcity-google-tag-manager-plugin) | 42 | 2018-01-23 |
-| [Google Translate](https://plugins.jetbrains.com/files/1460/sourceCode.zip) | 9 637 | 2010-10-23 |
-| [GoogleIt](https://github.com/neronmoon/GoogleIt) | 18 114 | 2014-02-21 |
-| [GoogleTranslation](https://github.com/a483210/GoogleTranslation) | 13 652 | 2017-11-01 |
-| [Gopher](https://github.com/dlsniper/gopher) | 1 059 | 2019-09-06 |
-| [Gps Emulator](https://github.com/ThomasKomarnicki/MockLocationPlugin) | 10 782 | 2017-01-15 |
-| [Gradianto](https://github.com/thvardhan/Gradianto) | 97 669 | 2019-09-19 |
-| [Gradle](https://github.com/jetbrains/intellij-community) | 94 | 2019-11-01 |
+| [Google Translate](https://plugins.jetbrains.com/files/1460/sourceCode.zip) | 9 641 | 2010-10-23 |
+| [GoogleIt](https://github.com/neronmoon/GoogleIt) | 18 118 | 2014-02-21 |
+| [GoogleTranslation](https://github.com/a483210/GoogleTranslation) | 13 672 | 2017-11-01 |
+| [Gopher](https://github.com/dlsniper/gopher) | 1 066 | 2019-09-06 |
+| [Gps Emulator](https://github.com/ThomasKomarnicki/MockLocationPlugin) | 10 790 | 2017-01-15 |
+| [Gradianto](https://github.com/thvardhan/Gradianto) | 97 957 | 2019-09-19 |
+| [Gradle](https://github.com/jetbrains/intellij-community) | 102 | 2019-11-01 |
 | [Gradle Build Cache](https://github.com/rodm/teamcity-gradle-build-cache-plugin) | 119 | 2019-04-03 |
 | [Gradle Build Scan Integration](https://github.com/etiennestuder/teamcity-build-scan-plugin) | 162 | 2018-05-23 |
-| [Gradle Cleaner](https://github.com/kbiakov/gradle-cleaner-intellij-plugin) | 5 685 | 2016-09-12 |
-| [Gradle Confirmation](https://github.com/shiraji/GradleConfirmation) | 10 946 | 2015-08-26 |
-| [Gradle Dependencies And Plugins Helper](https://github.com/bestwu/gradle-dependencies-plugins-helper-plugin) | 16 752 | 2019-03-22 |
-| [Gradle Dependencies Formatter](https://github.com/platan/idea-gradle-dependencies-formatter) | 28 289 | 2017-12-19 |
-| [Gradle Dependencies Helper](https://github.com/siosio/GradleDependenciesHelperPlugin) | 104 734 | 2019-03-01 |
+| [Gradle Cleaner](https://github.com/kbiakov/gradle-cleaner-intellij-plugin) | 5 689 | 2016-09-12 |
+| [Gradle Confirmation](https://github.com/shiraji/GradleConfirmation) | 10 951 | 2015-08-26 |
+| [Gradle Dependencies And Plugins Helper](https://github.com/bestwu/gradle-dependencies-plugins-helper-plugin) | 16 768 | 2019-03-22 |
+| [Gradle Dependencies Formatter](https://github.com/platan/idea-gradle-dependencies-formatter) | 28 304 | 2017-12-19 |
+| [Gradle Dependencies Helper](https://github.com/siosio/GradleDependenciesHelperPlugin) | 104 777 | 2019-03-01 |
 | [Gradle Dependency Helper](https://github.com/kaygisiz/Gradle-Dependency-Helper) | 4 063 | 2018-12-30 |
 | [Gradle Init Scripts](https://github.com/rodm/teamcity-gradle-init-scripts-plugin) | 285 | 2019-06-04 |
-| [Gradle Killer](https://github.com/KanbanApps/GradleKillerIdeaPlugin) | 18 129 | 2015-11-18 |
-| [Gradle Modules Generator](https://github.com/AntipovAndrey/gradle-modules-generator-plugin) | 1 640 | 2019-02-19 |
+| [Gradle Killer](https://github.com/KanbanApps/GradleKillerIdeaPlugin) | 18 138 | 2015-11-18 |
+| [Gradle Modules Generator](https://github.com/AntipovAndrey/gradle-modules-generator-plugin) | 1 646 | 2019-02-19 |
 | [Gradle Repo](https://github.com/EastWoodYang/gradle-repo-idea-plugin) | 1 603 | 2019-01-02 |
-| [Gradle Stop](https://github.com/shchurov/GradleStop) | 4 862 | 2016-10-22 |
-| [Gradle View](https://github.com/rholder/gradle-view) | 81 041 | 2017-11-22 |
+| [Gradle Stop](https://github.com/shchurov/GradleStop) | 4 869 | 2016-10-22 |
+| [Gradle View](https://github.com/rholder/gradle-view) | 81 064 | 2017-11-22 |
 | [Grafter Macro Support](https://github.com/shanethehat/grafter-intellij-plugin) | 508 | 2017-01-06 |
-| [Grails tools](https://github.com/yanq/idea-grails-tools) | 8 925 | 2016-04-27 |
-| [Grammar-Kit](https://github.com/JetBrains/Grammar-Kit) | 72 134 | 2019-10-10 |
-| [Grammar-Kit Folder](https://github.com/Mishin870/GrammarKitFolder) | 19 | 2019-09-05 |
-| [Graph Database support](https://github.com/neueda/jetbrains-plugin-graph-database-support) | 76 506 | 2019-10-09 |
-| [GraphZeal](https://github.com/Manuhmutua/ZealPlugin) | 1 083 | 2018-11-25 |
+| [Grails tools](https://github.com/yanq/idea-grails-tools) | 8 927 | 2016-04-27 |
+| [Grammar-Kit](https://github.com/JetBrains/Grammar-Kit) | 72 193 | 2019-10-10 |
+| [Grammar-Kit Folder](https://github.com/Mishin870/GrammarKitFolder) | 21 | 2019-09-05 |
+| [Graph Database support](https://github.com/neueda/jetbrains-plugin-graph-database-support) | 76 559 | 2019-10-09 |
+| [GraphZeal](https://github.com/Manuhmutua/ZealPlugin) | 1 085 | 2018-11-25 |
 | [GraphicalKeymapExporter](https://github.com/kota65535/GraphicalKeymapExporter) | 36 | 2017-05-02 |
-| [Graql](https://github.com/BFergerson/IntelliJ-Graql-Plugin) | 7 321 | 2018-08-14 |
+| [Graql](https://github.com/BFergerson/IntelliJ-Graql-Plugin) | 7 333 | 2018-08-14 |
 | [Grav Support](https://github.com/PioBeat/GravSupport/) | 1 000 | 2019-04-28 |
 | [Graven](https://github.com/wbars/graven) | 559 | 2016-08-31 |
-| [Gray Theme](https://github.com/OlyaB/GreyTheme) | 34 537 | 2019-07-09 |
-| [Grazie](https://github.com/JetBrains/intellij-plugins/tree/master/grazie) | 11 416 | 2019-10-31 |
+| [Gray Theme](https://github.com/OlyaB/GreyTheme) | 34 599 | 2019-07-09 |
+| [Grazie](https://github.com/JetBrains/intellij-plugins/tree/master/grazie) | 11 525 | 2019-10-31 |
 | [Greek symbols](https://github.com/implmnt/greek-symbols) | 64 | 2019-07-31 |
-| [Green lite theme](https://github.com/pjialin/jetbrains-green-lite-theme) | 969 | 2019-08-21 |
-| [GreenRobot EventBus](https://github.com/Madrapps/eventbus-plugin) | 321 | 2019-08-30 |
-| [Grep Console](https://github.com/krasa/GrepConsole) | 979 834 | 2019-08-02 |
+| [Green lite theme](https://github.com/pjialin/jetbrains-green-lite-theme) | 979 | 2019-08-21 |
+| [GreenRobot EventBus](https://github.com/Madrapps/eventbus-plugin) | 323 | 2019-08-30 |
+| [Grep Console](https://github.com/krasa/GrepConsole) | 980 164 | 2019-08-02 |
 | [GreyCat IDEA](https://github.com/datathings/greycat-idea-plugin) | 224 | 2017-07-24 |
-| [Grok](https://plugins.jetbrains.com/files/1856/sourceCode.zip) | 2 884 | 2007-12-22 |
+| [Grok](https://plugins.jetbrains.com/files/1856/sourceCode.zip) | 2 886 | 2007-12-22 |
 | [Groovy](https://plugins.jetbrains.com/files/1524/sourceCode.zip) | 9 467 | 2008-10-26 |
-| [Groovy Console Plugin](https://plugins.jetbrains.com/files/4660/sourceCode.zip) | 10 703 | 2010-08-29 |
+| [Groovy Console Plugin](https://plugins.jetbrains.com/files/4660/sourceCode.zip) | 10 704 | 2010-08-29 |
 | [Groovy script (teamgroovy)](https://github.com/acme-groovy/teamgroovy/) | 289 | 2018-06-16 |
 | [Groovyfier](https://github.com/masooh/groovyfier) | 134 | 2019-05-02 |
-| [Gruvbox Theme](https://github.com/Vincent-P/gruvbox-intellij-theme) | 23 320 | 2019-08-02 |
-| [GsonFormat](https://github.com/zzz40500/GsonFormat) | 789 109 | 2017-01-22 |
-| [Guava Postfix Completion](https://github.com/ukcrpb6/guava-postfix-plugin) | 4 315 | 2016-10-06 |
-| [Guava equals, hashCode and toString generator](https://github.com/seanlandsman/guavagenerators) | 12 219 | 2014-04-11 |
-| [HOCON](https://github.com/AVSystem/intellij-hocon) | 401 140 | 2019-10-22 |
+| [Gruvbox Theme](https://github.com/Vincent-P/gruvbox-intellij-theme) | 23 495 | 2019-08-02 |
+| [GsonFormat](https://github.com/zzz40500/GsonFormat) | 789 354 | 2017-01-22 |
+| [Guava Postfix Completion](https://github.com/ukcrpb6/guava-postfix-plugin) | 4 317 | 2016-10-06 |
+| [Guava equals, hashCode and toString generator](https://github.com/seanlandsman/guavagenerators) | 12 220 | 2014-04-11 |
+| [HOCON](https://github.com/AVSystem/intellij-hocon) | 401 541 | 2019-10-22 |
 | [HP ALI](https://github.com/janotav/ali-idea-plugin) | 9 650 | 2016-07-01 |
-| [HTML to kotlinx.html](https://github.com/data2viz/kotlinx.html-plugin) | 1 432 | 2019-07-10 |
-| [HTML::Mason Support](https://github.com/Camelcade/Perl5-IDEA) | 4 991 | 2019-10-16 |
+| [HTML to kotlinx.html](https://github.com/data2viz/kotlinx.html-plugin) | 1 436 | 2019-07-10 |
+| [HTML::Mason Support](https://github.com/Camelcade/Perl5-IDEA) | 4 994 | 2019-10-16 |
 | [Hakuna Matata Postfix Completion](https://github.com/cesards/HakunaMatataIntelliJPlugin) | 1 100 | 2016-06-30 |
 | [Handlebars Support](https://github.com/Madrapps/handlebars-support) | 1 425 | 2019-02-14 |
-| [Handlebars/Mustache](https://github.com/JetBrains/intellij-plugins/tree/master/handlebars) | 1 599 316 | 2019-10-30 |
+| [Handlebars/Mustache](https://github.com/JetBrains/intellij-plugins/tree/master/handlebars) | 1 600 073 | 2019-10-30 |
 | [Handy Export Jar](https://github.com/zhyhang/export-jar) | 477 | 2019-06-27 |
 | [Harvest Integration](https://plugins.jetbrains.com/files/1001/sourceCode.zip) | 630 | 2006-10-24 |
 | [Hash Generator](https://github.com/BorzdeG/ru.itbasis.plugins.intellij.hashGenerator/) | 4 008 | 2014-12-13 |
-| [HashiCorp Terraform / HCL language support](https://github.com/VladRassokhin/intellij-hcl/) | 504 194 | 2019-10-09 |
-| [HaskForce](https://github.com/carymrobbins/intellij-haskforce) | 43 184 | 2019-09-27 |
+| [HashiCorp Terraform / HCL language support](https://github.com/VladRassokhin/intellij-hcl/) | 504 528 | 2019-10-09 |
+| [HaskForce](https://github.com/carymrobbins/intellij-haskforce) | 43 209 | 2019-09-27 |
 | [Haskell](https://plugins.jetbrains.com/files/6330/sourceCode.zip) | 8 668 | 2012-01-23 |
 | [Haskell](https://github.com/Atsky/haskell-idea-plugin) | 79 735 | 2015-08-14 |
-| [Haskell Conceal](https://github.com/zjhmale/intellij-haskell-conceal) | 2 062 | 2016-05-24 |
-| [HasteIt](https://github.com/LukWebsForge/ShareIt/tree/master/HasteIt) | 1 737 | 2019-10-13 |
-| [Hatchery](https://github.com/duckietown/hatchery) | 17 634 | 2019-10-18 |
-| [Haxe Checkstyle](https://github.com/HaxeCheckstyle/haxe-checkstyle-intellij-plugin) | 2 971 | 2016-10-11 |
-| [Haxe Toolkit Support](https://github.com/HaxeFoundation/intellij-haxe) | 124 796 | 2019-06-22 |
+| [Haskell Conceal](https://github.com/zjhmale/intellij-haskell-conceal) | 2 066 | 2016-05-24 |
+| [HasteIt](https://github.com/LukWebsForge/ShareIt/tree/master/HasteIt) | 1 740 | 2019-10-13 |
+| [Hatchery](https://github.com/duckietown/hatchery) | 17 661 | 2019-10-18 |
+| [Haxe Checkstyle](https://github.com/HaxeCheckstyle/haxe-checkstyle-intellij-plugin) | 2 974 | 2016-10-11 |
+| [Haxe Toolkit Support](https://github.com/HaxeFoundation/intellij-haxe) | 124 823 | 2019-06-22 |
 | [Hazelcast Tools](https://github.com/asimarslan/hazelcast-tools) | 624 | 2016-03-31 |
-| [Header Updater](https://git.cluster.games/Alban_P/header-updater-plugin) | 364 | 2018-11-10 |
-| [Heap Allocations Viewer](https://github.com/controlflow/resharper-heapview) | 163 336 | 2019-08-09 |
+| [Header Updater](https://git.cluster.games/Alban_P/header-updater-plugin) | 366 | 2018-11-10 |
+| [Heap Allocations Viewer](https://github.com/controlflow/resharper-heapview) | 163 439 | 2019-08-09 |
 | [Hedwig](https://github.com/Nicologies/Hedwig) | 91 | 2017-09-29 |
-| [Helsing](https://github.com/igrmk/helsing) | 883 | 2019-07-10 |
+| [Helsing](https://github.com/igrmk/helsing) | 885 | 2019-07-10 |
 | [Heroku Integration](https://github.com/jexp/jetbrains-heroku-plugin) | 25 435 | 2013-09-02 |
-| [HexView](https://plugins.jetbrains.com/files/10/sourceCode.zip) | 10 380 | 2006-09-13 |
-| [Hiberbee theme](https://github.com/Hiberbee/code-highlight-themes) | 19 683 | 2019-10-18 |
-| [Hibernate Inspections](https://github.com/marcglasberg/HibernateInspectionsPlugin) | 12 743 | 2017-06-03 |
-| [Hide Tool Windows Ex](https://github.com/shiraji/HideToolWindowsEx) | 1 916 | 2016-06-09 |
-| [HighlightBracketPair](https://github.com/qeesung/HighlightBracketPair) | 43 643 | 2018-05-25 |
-| [Hodor](https://github.com/course-hero/Hodor-Templates-for-PHPStorm) | 480 | 2017-03-07 |
+| [HexView](https://plugins.jetbrains.com/files/10/sourceCode.zip) | 10 383 | 2006-09-13 |
+| [Hiberbee theme](https://github.com/Hiberbee/code-highlight-themes) | 19 747 | 2019-10-18 |
+| [Hibernate Inspections](https://github.com/marcglasberg/HibernateInspectionsPlugin) | 12 753 | 2017-06-03 |
+| [Hide Tool Windows Ex](https://github.com/shiraji/HideToolWindowsEx) | 1 920 | 2016-06-09 |
+| [HighlightBracketPair](https://github.com/qeesung/HighlightBracketPair) | 43 696 | 2018-05-25 |
+| [Hodor](https://github.com/course-hero/Hodor-Templates-for-PHPStorm) | 482 | 2017-03-07 |
 | [Holdr](https://github.com/evant/holdr) | 1 096 | 2015-04-12 |
-| [Hot Reload](https://github.com/AndreiMisiukevich/HotReload) | 435 | 2019-07-30 |
-| [HotSwapAgent](https://github.com/dmitry-zhuravlev/hotswap-agent-intellij-plugin) | 21 804 | 2018-08-13 |
-| [Houdini Python Support](https://github.com/cmcpasserby/HoudiniPythonSupport) | 208 | 2019-08-16 |
-| [Hrisey Plugin](https://github.com/mg6maciej/hrisey-intellij-plugin) | 15 379 | 2014-06-04 |
+| [Hot Reload](https://github.com/AndreiMisiukevich/HotReload) | 436 | 2019-07-30 |
+| [HotSwapAgent](https://github.com/dmitry-zhuravlev/hotswap-agent-intellij-plugin) | 21 815 | 2018-08-13 |
+| [Houdini Python Support](https://github.com/cmcpasserby/HoudiniPythonSupport) | 209 | 2019-08-16 |
+| [Hrisey Plugin](https://github.com/mg6maciej/hrisey-intellij-plugin) | 15 384 | 2014-06-04 |
 | [HtmlExport](https://plugins.jetbrains.com/files/3828/sourceCode.zip) | 8 457 | 2013-04-26 |
-| [Http Editor Client](https://github.com/danblack/idea-rest-client) | 1 957 | 2016-11-04 |
-| [Hudson Build Monitor](https://plugins.jetbrains.com/files/3943/sourceCode.zip) | 2 033 | 2011-01-29 |
-| [Hugo Integration](https://github.com/1v0dev/hugo-intellij-plugin) | 24 | 2019-10-24 |
-| [HybrisPlugin](https://github.com/neuland/IntellijHybrisPlugin) | 13 358 | 2016-08-09 |
-| [HyperLink](https://plugins.jetbrains.com/files/40/sourceCode.zip) | 1 778 | 2007-09-10 |
-| [HyperTheme](https://github.com/HasseNasse/HyperTheme) | 2 292 | 2019-04-22 |
-| [I-Pascal](https://github.com/casteng/i-pascal) | 114 210 | 2019-08-24 |
-| [ICU](https://github.com/DomBlack/intellij-icu) | 351 | 2018-11-14 |
-| [IDE Features Trainer](https://github.com/JetBrains/ide-features-trainer) | 1 668 365 | 2019-10-20 |
-| [IDEA Jetty Runner](https://github.com/guikeller/jetty-runner) | 121 263 | 2019-01-03 |
-| [IDEA Mind Map](https://github.com/raydac/netbeans-mmd-plugin) | 41 712 | 2019-05-26 |
+| [Http Editor Client](https://github.com/danblack/idea-rest-client) | 1 958 | 2016-11-04 |
+| [Hudson Build Monitor](https://plugins.jetbrains.com/files/3943/sourceCode.zip) | 2 034 | 2011-01-29 |
+| [Hugo Integration](https://github.com/1v0dev/hugo-intellij-plugin) | 27 | 2019-10-24 |
+| [HybrisPlugin](https://github.com/neuland/IntellijHybrisPlugin) | 13 364 | 2016-08-09 |
+| [HyperLink](https://plugins.jetbrains.com/files/40/sourceCode.zip) | 1 779 | 2007-09-10 |
+| [HyperTheme](https://github.com/HasseNasse/HyperTheme) | 2 300 | 2019-04-22 |
+| [I-Pascal](https://github.com/casteng/i-pascal) | 114 233 | 2019-08-24 |
+| [ICU](https://github.com/DomBlack/intellij-icu) | 353 | 2018-11-14 |
+| [IDE Features Trainer](https://github.com/JetBrains/ide-features-trainer) | 1 671 278 | 2019-10-20 |
+| [IDEA Jetty Runner](https://github.com/guikeller/jetty-runner) | 121 290 | 2019-01-03 |
+| [IDEA Mind Map](https://github.com/raydac/netbeans-mmd-plugin) | 41 727 | 2019-05-26 |
 | [IDEAStickyPaper](https://plugins.jetbrains.com/files/1064/sourceCode.zip) | 2 095 | 2006-10-02 |
-| [IDEOM](https://github.com/MitI-7/IDEOM) | 3 215 | 2017-09-01 |
-| [IJ Advertiser](https://github.com/kassak/ij-advertiser) | 292 | 2018-06-29 |
-| [IceTerm](https://github.com/stevium/iceterm) | 65 | 2019-09-17 |
-| [IconViewer](https://github.com/davidsommer/IconViewer) | 6 340 | 2017-09-06 |
-| [Icons for Java annotations](https://github.com/fooock/detect-experimental-and-beta-code) | 677 | 2018-04-21 |
+| [IDEOM](https://github.com/MitI-7/IDEOM) | 3 218 | 2017-09-01 |
+| [IJ Advertiser](https://github.com/kassak/ij-advertiser) | 294 | 2018-06-29 |
+| [IceTerm](https://github.com/stevium/iceterm) | 67 | 2019-09-17 |
+| [IconViewer](https://github.com/davidsommer/IconViewer) | 6 349 | 2017-09-06 |
+| [Icons for Java annotations](https://github.com/fooock/detect-experimental-and-beta-code) | 678 | 2018-04-21 |
 | [Idea Currency](https://github.com/semihunaldi/IdeaCurrency) | 203 | 2018-03-12 |
-| [IdeaAscii](https://github.com/jonstaff/IdeaAscii) | 3 262 | 2014-07-01 |
+| [IdeaAscii](https://github.com/jonstaff/IdeaAscii) | 3 263 | 2014-07-01 |
 | [IdeaExActionBar](https://github.com/hari-rangarajan/IdeaExActionBar) | 808 | 2017-02-25 |
-| [IdeaFlowDX Metrics](https://github.com/openmastery/ideaflow/) | 1 740 | 2017-09-29 |
+| [IdeaFlowDX Metrics](https://github.com/openmastery/ideaflow/) | 1 743 | 2017-09-29 |
 | [IdeaMouseGestures](https://plugins.jetbrains.com/files/76/sourceCode.zip) | 2 719 | 2007-09-15 |
 | [IdeaTumblr](https://github.com/yeahlol/IdeaTumblr) | 238 | 2015-02-25 |
-| [IdeaTweet](https://github.com/hotchemi/IdeaTweet) | 3 437 | 2013-01-06 |
-| [IdeaVim](https://github.com/JetBrains/ideavim) | 6 301 480 | 2019-08-07 |
-| [IdeaVimExtension](https://github.com/hadix-lin/ideavim) | 29 048 | 2019-07-25 |
-| [Identifier Highlighter](https://plugins.jetbrains.com/files/1236/sourceCode.zip) | 12 092 | 2009-11-09 |
-| [Ideolog](https://github.com/JetBrains/ideolog) | 2 223 530 | 2019-09-27 |
+| [IdeaTweet](https://github.com/hotchemi/IdeaTweet) | 3 439 | 2013-01-06 |
+| [IdeaVim](https://github.com/JetBrains/ideavim) | 6 306 049 | 2019-08-07 |
+| [IdeaVimExtension](https://github.com/hadix-lin/ideavim) | 29 075 | 2019-07-25 |
+| [Identifier Highlighter](https://plugins.jetbrains.com/files/1236/sourceCode.zip) | 12 093 | 2009-11-09 |
+| [Ideolog](https://github.com/JetBrains/ideolog) | 2 224 993 | 2019-09-27 |
 | [Image Design Editor](https://plugins.jetbrains.com/files/1160/sourceCode.zip) | 5 724 | 2006-10-23 |
-| [Image Diff](https://github.com/ehmkah/imgdiff) | 604 | 2019-10-26 |
-| [Image Icon Viewer](https://github.com/mallowigi/Image-Icon-Viewer) | 3 594 | 2019-09-14 |
-| [ImageComment](https://plugins.jetbrains.com/plugin/11170-imagecomment) | 345 | 2018-10-17 |
-| [ImageSlimming](https://github.com/BayMikyou/ImageSlimming) | 1 044 | 2018-08-18 |
+| [Image Diff](https://github.com/ehmkah/imgdiff) | 609 | 2019-10-26 |
+| [Image Icon Viewer](https://github.com/mallowigi/Image-Icon-Viewer) | 3 600 | 2019-09-14 |
+| [ImageComment](https://plugins.jetbrains.com/plugin/11170-imagecomment) | 347 | 2018-10-17 |
+| [ImageSlimming](https://github.com/BayMikyou/ImageSlimming) | 1 048 | 2018-08-18 |
 | [ImageView Scale Types Visual Guide](https://github.com/Sonphil/imageview-scaletype-visual-guide) | 30 | 2019-09-03 |
-| [Import Cost](https://github.com/denofevil/import-cost) | 19 168 | 2019-03-07 |
+| [Import Cost](https://github.com/denofevil/import-cost) | 19 179 | 2019-03-07 |
 | [Import figma resources](https://github.com/abeade/figma-import-plugin) | 332 | 2019-03-14 |
-| [Inc Dec Value](https://github.com/jeremyworboys/inc-dec-value) | 2 752 | 2015-01-18 |
-| [Infer Integration](https://github.com/Carbon459/intellij-infer) | 199 | 2019-08-08 |
-| [Infinitest](https://github.com/infinitest/infinitest) | 39 446 | 2018-05-14 |
-| [Info bubble for python requirements](https://github.com/akoikelov/pip-req-bubble) | 5 747 | 2018-03-06 |
+| [Inc Dec Value](https://github.com/jeremyworboys/inc-dec-value) | 2 754 | 2015-01-18 |
+| [Infer Integration](https://github.com/Carbon459/intellij-infer) | 201 | 2019-08-08 |
+| [Infinitest](https://github.com/infinitest/infinitest) | 39 447 | 2018-05-14 |
+| [Info bubble for python requirements](https://github.com/akoikelov/pip-req-bubble) | 5 757 | 2018-03-06 |
 | [Inject LOG_TAG Plugin](https://github.com/tomorrowkey/InjectLogTagPlugin) | 2 171 | 2015-09-15 |
-| [Injection for AppCode](https://github.com/johnno1962/injectionforxcode) | 65 507 | 2016-09-21 |
-| [InnerBuilder](https://github.com/analytically/innerbuilder) | 58 587 | 2017-10-10 |
-| [Input Language Locker](https://github.com/amogilev/ide-lang-locker) | 820 | 2018-01-08 |
+| [Injection for AppCode](https://github.com/johnno1962/injectionforxcode) | 65 510 | 2016-09-21 |
+| [InnerBuilder](https://github.com/analytically/innerbuilder) | 58 602 | 2017-10-10 |
+| [Input Language Locker](https://github.com/amogilev/ide-lang-locker) | 822 | 2018-01-08 |
 | [Insert Final Modifier](https://github.com/jgrasl/intellij-final-modifier-plugin) | 3 890 | 2014-04-28 |
-| [Inspection Compare Plugin](https://github.com/AlexeyKozyakov/inspection-compare) | 432 | 2018-09-13 |
+| [Inspection Compare Plugin](https://github.com/AlexeyKozyakov/inspection-compare) | 435 | 2018-09-13 |
 | [InspectionKeyBinder](https://github.com/m-abboud/InspectionKeyBinder-IntelliJPlugin) | 167 | 2018-09-23 |
-| [Inspections for Google™ Closure](https://github.com/Dan1ve/ClosureInspectionsPlugin) | 1 226 | 2019-03-11 |
-| [InspectorGroovy](https://plugins.jetbrains.com/files/1802/sourceCode.zip) | 7 638 | 2007-12-21 |
+| [Inspections for Google™ Closure](https://github.com/Dan1ve/ClosureInspectionsPlugin) | 1 228 | 2019-03-11 |
+| [InspectorGroovy](https://plugins.jetbrains.com/files/1802/sourceCode.zip) | 7 641 | 2007-12-21 |
 | [Instant Patch Remote Java Process](https://github.com/sanchouss/InstantPatchIdeaPlugin) | 233 | 2018-05-01 |
-| [Integration for SAP Commerce](https://github.com/Janhouse/sap-commerce-integration-intellij-idea-plugin) | 7 563 | 2019-06-27 |
+| [Integration for SAP Commerce](https://github.com/Janhouse/sap-commerce-integration-intellij-idea-plugin) | 7 574 | 2019-06-27 |
 | [IntellIRC](https://plugins.jetbrains.com/files/1175/sourceCode.zip) | 1 539 | 2007-06-21 |
-| [IntelliAchievements](https://gitlab.com/andret2344/intelliachievements) | 551 | 2018-01-24 |
-| [IntelliBot](https://github.com/millennialmedia/intellibot) | 208 063 | 2016-05-31 |
+| [IntelliAchievements](https://gitlab.com/andret2344/intelliachievements) | 552 | 2018-01-24 |
+| [IntelliBot](https://github.com/millennialmedia/intellibot) | 208 244 | 2016-05-31 |
 | [IntelliCalc](https://plugins.jetbrains.com/files/1004/sourceCode.zip) | 2 129 | 2006-10-10 |
-| [IntelliFrog](https://github.com/Ladicek/IntelliFrog) | 2 144 | 2013-03-30 |
+| [IntelliFrog](https://github.com/Ladicek/IntelliFrog) | 2 147 | 2013-03-30 |
 | [IntelliGuard](https://github.com/ronniekk/intelliguard) | 11 069 | 2012-12-26 |
-| [IntelliGuard 2](https://github.com/iGufGuf/intelliguard) | 1 608 | 2018-08-03 |
-| [IntelliHeap](https://plugins.jetbrains.com/files/1821/sourceCode.zip) | 7 088 | 2010-10-01 |
-| [IntelliJ IDEA Properties Sorter](https://github.com/Jukkales/intellij-propertiessort) | 2 500 | 2017-07-30 |
-| [IntelliJ Light Theme](https://github.com/OlyaB/IntelliJLightTheme) | 45 073 | 2019-09-16 |
+| [IntelliGuard 2](https://github.com/iGufGuf/intelliguard) | 1 613 | 2018-08-03 |
+| [IntelliHeap](https://plugins.jetbrains.com/files/1821/sourceCode.zip) | 7 091 | 2010-10-01 |
+| [IntelliJ IDEA Properties Sorter](https://github.com/Jukkales/intellij-propertiessort) | 2 503 | 2017-07-30 |
+| [IntelliJ Light Theme](https://github.com/OlyaB/IntelliJLightTheme) | 45 268 | 2019-09-16 |
 | [IntelliJ Oracle WebCenter Sites Plugin](https://github.com/lopesdasilva/intellij-wcs-plugin) | 875 | 2016-04-08 |
 | [IntelliJ Scratch](https://github.com/ignatov/intellij-scratch) | 186 | 2013-12-18 |
-| [IntelliJ Scripting: Clojure](https://github.com/gregsh/intellij-scripting-plugins) | 652 | 2019-05-27 |
-| [IntelliJ Scripting: JavaScript](https://github.com/gregsh/intellij-scripting-plugins) | 853 | 2019-06-11 |
-| [IntelliJ Scripting: Python](https://github.com/gregsh/intellij-scripting-plugins) | 2 425 | 2019-05-27 |
-| [IntelliJ Scripting: Ruby](https://github.com/gregsh/intellij-scripting-plugins) | 2 673 | 2019-06-11 |
+| [IntelliJ Scripting: Clojure](https://github.com/gregsh/intellij-scripting-plugins) | 655 | 2019-05-27 |
+| [IntelliJ Scripting: JavaScript](https://github.com/gregsh/intellij-scripting-plugins) | 858 | 2019-06-11 |
+| [IntelliJ Scripting: Python](https://github.com/gregsh/intellij-scripting-plugins) | 2 438 | 2019-05-27 |
+| [IntelliJ Scripting: Ruby](https://github.com/gregsh/intellij-scripting-plugins) | 2 682 | 2019-06-11 |
 | [IntelliJ Shortcuts For AEM](https://github.com/Cognifide/IntelliJ-Shortcuts-For-AEM) | 2 001 | 2016-09-27 |
-| [IntelliJ Stylelint Plugin](https://github.com/niutech/stylelint-plugin) | 11 928 | 2017-01-03 |
-| [IntelliJ Zeppelin](https://github.com/chilang/intellij-zeppelin) | 1 751 | 2019-03-17 |
-| [IntelliJ task integration for Microsoft team foundation server](https://code.google.com/archive/p/tfs-task-integration) | 9 144 | 2013-11-01 |
-| [IntelliJ uroboroSQL Formatter](https://github.com/future-architect/idea-uroborosql-formatter) | 6 162 | 2017-04-12 |
-| [IntelliJ-Haskell](https://github.com/rikvdkleij/intellij-haskell) | 62 253 | 2019-08-04 |
+| [IntelliJ Stylelint Plugin](https://github.com/niutech/stylelint-plugin) | 11 936 | 2017-01-03 |
+| [IntelliJ Zeppelin](https://github.com/chilang/intellij-zeppelin) | 1 752 | 2019-03-17 |
+| [IntelliJ task integration for Microsoft team foundation server](https://code.google.com/archive/p/tfs-task-integration) | 9 147 | 2013-11-01 |
+| [IntelliJ uroboroSQL Formatter](https://github.com/future-architect/idea-uroborosql-formatter) | 6 165 | 2017-04-12 |
+| [IntelliJ-Haskell](https://github.com/rikvdkleij/intellij-haskell) | 62 318 | 2019-08-04 |
 | [IntelliJCoder](https://github.com/fadeyev/intellijcoder) | 9 221 | 2015-08-02 |
-| [IntelliJad](https://plugins.jetbrains.com/files/1570/sourceCode.zip) | 21 665 | 2010-03-19 |
+| [IntelliJad](https://plugins.jetbrains.com/files/1570/sourceCode.zip) | 21 668 | 2010-03-19 |
 | [IntelliJad 8](https://plugins.jetbrains.com/files/2665/sourceCode.zip) | 103 | 2010-03-19 |
-| [IntelliJad 9](https://plugins.jetbrains.com/files/4674/sourceCode.zip) | 12 936 | 2010-03-19 |
+| [IntelliJad 9](https://plugins.jetbrains.com/files/4674/sourceCode.zip) | 12 937 | 2010-03-19 |
 | [IntelliJad Plus](https://github.com/zielu/IntelliJadPlus) | 155 304 | 2014-06-12 |
-| [IntelliLab](https://github.com/broth-eu/intelli-lab) | 5 215 | 2014-05-04 |
+| [IntelliLab](https://github.com/broth-eu/intelli-lab) | 5 218 | 2014-05-04 |
 | [IntelliLang](https://plugins.jetbrains.com/files/1105/sourceCode.zip) | 4 518 | 2007-10-31 |
 | [IntelliME J2ME Plugin](https://plugins.jetbrains.com/files/1006/sourceCode.zip) | 3 362 | 2006-11-08 |
 | [IntelliPort](https://plugins.jetbrains.com/files/1844/sourceCode.zip) | 591 | 2007-12-20 |
 | [IntelliStripes](https://plugins.jetbrains.com/files/1528/sourceCode.zip) | 2 082 | 2010-12-04 |
-| [IntelliTail](http://intelli-plugins.cvs.sourceforge.net/viewvc/intelli-plugins/IntelliTail/) | 31 229 | 2012-10-26 |
-| [IntelliVault](https://github.com/shsteimer/IntelliVault) | 19 502 | 2018-03-25 |
-| [Intellij-Solidity](https://github.com/intellij-solidity/intellij-solidity/) | 95 204 | 2019-04-28 |
-| [IntellijIRC](https://github.com/buyaoshushu/IntellijIRC) | 459 | 2018-05-30 |
-| [Interesting Theme](https://github.com/timon-schelling/Interesting-Theme) | 6 896 | 2019-04-26 |
-| [Interface Pairing](https://github.com/ReallyLiri/interface-pairing-rider-plugin) | 3 | 2019-10-16 |
-| [InternalWiki](https://github.com/fabiopedrosa/internalwiki) | 781 | 2018-04-23 |
-| [Investigations](https://github.com/JetBrains/teamcity-investigations-hub-widget) | 540 | 2018-09-24 |
+| [IntelliTail](http://intelli-plugins.cvs.sourceforge.net/viewvc/intelli-plugins/IntelliTail/) | 31 230 | 2012-10-26 |
+| [IntelliVault](https://github.com/shsteimer/IntelliVault) | 19 507 | 2018-03-25 |
+| [Intellij-Solidity](https://github.com/intellij-solidity/intellij-solidity/) | 95 236 | 2019-04-28 |
+| [IntellijIRC](https://github.com/buyaoshushu/IntellijIRC) | 462 | 2018-05-30 |
+| [Interesting Theme](https://github.com/timon-schelling/Interesting-Theme) | 6 922 | 2019-04-26 |
+| [Interface Pairing](https://github.com/ReallyLiri/interface-pairing-rider-plugin) | 5 | 2019-10-16 |
+| [InternalWiki](https://github.com/fabiopedrosa/internalwiki) | 783 | 2018-04-23 |
+| [Investigations](https://github.com/JetBrains/teamcity-investigations-hub-widget) | 541 | 2018-09-24 |
 | [Issue Distribution Report](https://github.com/JetBrains/youtrack-issue-distribution-report-widget) | 2 959 | 2019-03-12 |
-| [Issues List](https://github.com/JetBrains/youtrack-issues-list-widget) | 20 189 | 2019-07-31 |
-| [IvyIDEA](https://plugins.jetbrains.com/files/3612/sourceCode.zip) | 355 224 | 2016-05-20 |
-| [J2ME](https://github.com/JetBrains/intellij-obsolete-plugins/tree/master/j2me) | 217 | 2019-08-05 |
-| [JBehave BDD Plugin](https://bitbucket.org/amanking/jbehave-bdd-plugin/src/dfb94495a74267820fe15e7193e8720ad0337341) | 10 874 | 2015-09-01 |
-| [JBehave BuDDy](https://github.com/lantunes/jbehave-buddy) | 32 417 | 2014-05-09 |
+| [Issues List](https://github.com/JetBrains/youtrack-issues-list-widget) | 20 191 | 2019-07-31 |
+| [IvyIDEA](https://plugins.jetbrains.com/files/3612/sourceCode.zip) | 355 232 | 2016-05-20 |
+| [J2ME](https://github.com/JetBrains/intellij-obsolete-plugins/tree/master/j2me) | 222 | 2019-08-05 |
+| [JBehave BDD Plugin](https://bitbucket.org/amanking/jbehave-bdd-plugin/src/dfb94495a74267820fe15e7193e8720ad0337341) | 10 879 | 2015-09-01 |
+| [JBehave BuDDy](https://github.com/lantunes/jbehave-buddy) | 32 423 | 2014-05-09 |
 | [JBehave Example Table Formatter](https://github.com/alexamber/example-table-formatter) | 2 391 | 2016-10-03 |
-| [JBehave Support](https://github.com/witspirit/IntelliJBehave) | 122 445 | 2019-03-04 |
+| [JBehave Support](https://github.com/witspirit/IntelliJBehave) | 122 458 | 2019-03-04 |
 | [JBehave Support Extension](https://github.com/ulmanA/JBehaveSupportExtension) | 5 927 | 2015-11-17 |
-| [JBehave Syntax Support](https://github.com/stefanschenk/IntelliJBehave) | 19 163 | 2017-04-10 |
+| [JBehave Syntax Support](https://github.com/stefanschenk/IntelliJBehave) | 19 173 | 2017-04-10 |
 | [JBehave Table Formatter](https://github.com/birneee/jbehave-table-formatter) | 145 | 2019-01-18 |
 | [JBooster Logging Plugin](http://git.oschina.net/jbooster/jbooster-logging) | 244 | 2017-10-10 |
-| [JBoss Forge IDEA Plugin](https://github.com/forge/intellij-idea-plugin) | 45 633 | 2018-08-09 |
+| [JBoss Forge IDEA Plugin](https://github.com/forge/intellij-idea-plugin) | 45 644 | 2018-08-09 |
 | [JBoss jBPM](https://plugins.jetbrains.com/files/4612/sourceCode.zip) | 14 712 | 2010-09-23 |
 | [JCR Content Editor](https://github.com/Velir/intellij-jcr-plugin) | 4 365 | 2014-10-31 |
-| [JCompilo Java Compiler](https://code.google.com/archive/p/jcompilo/source) | 1 674 | 2014-02-21 |
-| [JDT AstView](https://github.com/ksu-cis-706/jdt-astview) | 2 928 | 2017-01-30 |
-| [JFlex Support](https://github.com/jflex-de/idea-jflex) | 13 968 | 2012-01-16 |
+| [JCompilo Java Compiler](https://code.google.com/archive/p/jcompilo/source) | 1 675 | 2014-02-21 |
+| [JDT AstView](https://github.com/ksu-cis-706/jdt-astview) | 2 930 | 2017-01-30 |
+| [JFlex Support](https://github.com/jflex-de/idea-jflex) | 13 975 | 2012-01-16 |
 | [JFramework](https://bitbucket.org/widzialnipl/jframeworkphpstorm) | 402 | 2018-09-28 |
-| [JFrog](https://github.com/JFrogDev/jfrog-idea-plugin) | 3 710 | 2019-10-10 |
+| [JFrog](https://github.com/JFrogDev/jfrog-idea-plugin) | 3 713 | 2019-10-10 |
 | [JFrog Artifactory Artifact Storage](https://github.com/KierranM/teamcity-artifactory-artifact-storage-plugin) | 32 | 2019-08-30 |
 | [JGiven](https://github.com/TNG/jgiven-intellij-plugin) | 345 | 2017-05-05 |
-| [JGlo](https://github.com/jglo-team/JGlo) | 791 | 2019-07-28 |
+| [JGlo](https://github.com/jglo-team/JGlo) | 793 | 2019-07-28 |
 | [JHelper](https://github.com/AlexeyDmitriev/JHelper/) | 2 594 | 2019-03-16 |
 | [JITWatch](https://github.com/yole/jitwatch-intellij) | 2 198 | 2016-08-04 |
-| [JLink](https://github.com/yoazmenda/JLink/) | 770 | 2018-11-24 |
-| [JMH plugin](https://github.com/artyushov/idea-jmh-plugin/) | 23 840 | 2017-04-24 |
+| [JLink](https://github.com/yoazmenda/JLink/) | 772 | 2018-11-24 |
+| [JMH plugin](https://github.com/artyushov/idea-jmh-plugin/) | 23 843 | 2017-04-24 |
 | [JMX support](https://github.com/rodm/teamcity-jmx-plugin) | 946 | 2019-04-26 |
-| [JMeter plugin](https://github.com/ponomandr/jmeter-idea-plugin/tree/1.6) | 64 437 | 2014-04-03 |
+| [JMeter plugin](https://github.com/ponomandr/jmeter-idea-plugin/tree/1.6) | 64 451 | 2014-04-03 |
 | [JOL Java Object Layout](https://github.com/stokito/IdeaJol) | 2 255 | 2019-07-10 |
-| [JS GraphQL](https://github.com/jimkyndemeyer/js-graphql-intellij-plugin/) | 342 310 | 2019-06-16 |
-| [JS Toolbox](https://github.com/andresdominguez/jsToolbox) | 140 319 | 2016-01-31 |
-| [JSF-EL-extension](https://github.com/antoshk/jsf-el-extension-plugin) | 430 | 2019-08-26 |
-| [JSFL Support](https://github.com/evgeniy-polyakov/jsfl-support) | 12 624 | 2019-10-31 |
+| [JS GraphQL](https://github.com/jimkyndemeyer/js-graphql-intellij-plugin/) | 342 985 | 2019-06-16 |
+| [JS Toolbox](https://github.com/andresdominguez/jsToolbox) | 140 358 | 2016-01-31 |
+| [JSF-EL-extension](https://github.com/antoshk/jsf-el-extension-plugin) | 431 | 2019-08-26 |
+| [JSFL Support](https://github.com/evgeniy-polyakov/jsfl-support) | 12 626 | 2019-10-31 |
 | [JSON Annotation Tool](https://github.com/LiushuiXiaoxia/SerializedNameGen) | 938 | 2018-10-19 |
-| [JSON FilePath Navigator](https://github.com/IsaoTakahashi/JSON-File-Navigator) | 1 558 | 2018-06-18 |
+| [JSON FilePath Navigator](https://github.com/IsaoTakahashi/JSON-File-Navigator) | 1 560 | 2018-06-18 |
 | [JSON Language](https://github.com/nkoester/mps-json/) | 315 | 2017-10-13 |
 | [JSON Model Generator](https://github.com/misakuo/JsonModelGenerator) | 17 637 | 2017-03-20 |
-| [JSON Sorter](https://github.com/ivanovych666/intellij-json-sorter-plugin) | 7 853 | 2019-05-24 |
-| [JSON To Dart Class (JsonToDartClass)](https://github.com/typ0520/JsonToDartClass) | 5 949 | 2019-07-24 |
-| [JSON To Kotlin Class (JsonToKotlinClass)](https://github.com/wuseal/JsonToKotlinClass) | 186 583 | 2019-09-04 |
-| [JSON Utils](https://github.com/matheusfm/json-utils-plugin) | 26 443 | 2017-06-20 |
-| [JSON Viewer](https://github.com/potterhsu/JsonViewer) | 63 931 | 2017-06-05 |
+| [JSON Sorter](https://github.com/ivanovych666/intellij-json-sorter-plugin) | 7 861 | 2019-05-24 |
+| [JSON To Dart Class (JsonToDartClass)](https://github.com/typ0520/JsonToDartClass) | 5 992 | 2019-07-24 |
+| [JSON To Kotlin Class (JsonToKotlinClass)](https://github.com/wuseal/JsonToKotlinClass) | 186 726 | 2019-09-04 |
+| [JSON Utils](https://github.com/matheusfm/json-utils-plugin) | 26 462 | 2017-06-20 |
+| [JSON Viewer](https://github.com/potterhsu/JsonViewer) | 63 971 | 2017-06-05 |
 | [JSSorter](https://github.com/loevaljh/jssorter) | 887 | 2016-09-07 |
-| [JSTestDriver Plugin](https://github.com/JetBrains/intellij-obsolete-plugins/tree/master/JsTestDriver) | 190 617 | 2019-05-02 |
+| [JSTestDriver Plugin](https://github.com/JetBrains/intellij-obsolete-plugins/tree/master/JsTestDriver) | 190 641 | 2019-05-02 |
 | [JUnit, Mockito and Hamcrest refactorings](https://github.com/danile42/whenthendowhen) | 2 739 | 2016-02-23 |
-| [JUnit4 Parallel Runner](https://github.com/csabagabor/junit4-parallel-runner-intellij-plugin) | 789 | 2019-09-12 |
-| [JUnit5Helper](https://github.com/michaelsiepmann/JUnit5Helper) | 5 228 | 2017-09-11 |
+| [JUnit4 Parallel Runner](https://github.com/csabagabor/junit4-parallel-runner-intellij-plugin) | 796 | 2019-09-12 |
+| [JUnit5Helper](https://github.com/michaelsiepmann/JUnit5Helper) | 5 232 | 2017-09-11 |
 | [JVM Wrapper Support](https://github.com/itbasis/jvm-wrapper-ide-plugins/) | 463 | 2018-10-21 |
-| [JWT (JSON Web Token) Analyzer](https://github.com/novotnyr/jwt-intellij-plugin) | 8 699 | 2019-10-18 |
+| [JWT (JSON Web Token) Analyzer](https://github.com/novotnyr/jwt-intellij-plugin) | 8 715 | 2019-10-18 |
 | [JWT Debugger](https://github.com/scrat98/jwt-debugger-intellij-plugin) | 151 | 2019-01-08 |
-| [Jackson Generator Plugin](https://github.com/klamborowski/JacksonGenerator) | 9 067 | 2016-12-30 |
-| [Jake's Theme](https://github.com/jakecoffman/jake-theme) | 2 379 | 2019-04-11 |
-| [Jalopy Plugin](https://github.com/ahanin/intellij-jalopy-plugin) | 3 181 | 2013-03-02 |
-| [Jalopy for IDEA 8](https://plugins.jetbrains.com/files/1320/sourceCode.zip) | 1 314 | 2009-05-03 |
+| [Jackson Generator Plugin](https://github.com/klamborowski/JacksonGenerator) | 9 072 | 2016-12-30 |
+| [Jake's Theme](https://github.com/jakecoffman/jake-theme) | 2 392 | 2019-04-11 |
+| [Jalopy Plugin](https://github.com/ahanin/intellij-jalopy-plugin) | 3 182 | 2013-03-02 |
+| [Jalopy for IDEA 8](https://plugins.jetbrains.com/files/1320/sourceCode.zip) | 1 315 | 2009-05-03 |
 | [Jangaroo 0.9](https://github.com/CoreMedia/jangaroo-idea/tree/master/idea-plugin) | 7 492 | 2017-03-15 |
 | [Jangaroo 4](https://github.com/CoreMedia/jangaroo-idea) | 2 175 | 2019-07-30 |
 | [Jangaroo Migration to Ext AS 6](https://github.com/CoreMedia/jangaroo-idea-migration) | 523 | 2017-11-07 |
-| [Jar Tool](https://plugins.jetbrains.com/files/256/sourceCode.zip) | 13 818 | 2010-05-18 |
-| [Jasmine](https://github.com/jasmine/IdeaJasmine) | 11 271 | 2019-04-03 |
-| [Jasper Report Support](https://github.com/chathurabuddi/intellij-jasper-report-support) | 319 | 2019-09-23 |
+| [Jar Tool](https://plugins.jetbrains.com/files/256/sourceCode.zip) | 13 820 | 2010-05-18 |
+| [Jasmine](https://github.com/jasmine/IdeaJasmine) | 11 276 | 2019-04-03 |
+| [Jasper Report Support](https://github.com/chathurabuddi/intellij-jasper-report-support) | 327 | 2019-09-23 |
 | [Java API code generation](https://github.com/AwesomeLemon/deep-api-bayou-intellij-plugin) | 575 | 2018-06-27 |
-| [Java Applets Support](https://github.com/JetBrains/intellij-obsolete-plugins/tree/master/applets) | 8 | 2019-10-09 |
-| [Java Bean to Json](https://github.com/linsage/java2json) | 6 577 | 2019-09-22 |
-| [Java Decompiler IntelliJ Plugin](https://github.com/bric3/jd-intellij) | 380 737 | 2014-03-28 |
+| [Java Applets Support](https://github.com/JetBrains/intellij-obsolete-plugins/tree/master/applets) | 9 | 2019-10-09 |
+| [Java Bean to Json](https://github.com/linsage/java2json) | 6 583 | 2019-09-22 |
+| [Java Decompiler IntelliJ Plugin](https://github.com/bric3/jd-intellij) | 380 774 | 2014-03-28 |
 | [Java Dependencies Checker](https://github.com/miche-atucha/deps-checker) | 2 161 | 2017-04-20 |
-| [Java Method Reference Diagram](https://github.com/Stefku/intellij-reference-diagram) | 6 656 | 2019-07-30 |
-| [Java Operator Overloading support](https://github.com/amelentev/java-oo) | 4 689 | 2017-05-20 |
+| [Java Method Reference Diagram](https://github.com/Stefku/intellij-reference-diagram) | 6 659 | 2019-07-30 |
+| [Java Operator Overloading support](https://github.com/amelentev/java-oo) | 4 692 | 2017-05-20 |
 | [Java Utility class can be Singleton](https://github.com/kreiger/intellij-idea-inspection-static-dependencies-are-bad) | 619 | 2015-05-24 |
-| [Java Visualizer](https://github.com/aegamesi/java-visualizer-intellij-plugin) | 11 048 | 2019-09-22 |
+| [Java Visualizer](https://github.com/aegamesi/java-visualizer-intellij-plugin) | 11 079 | 2019-09-22 |
 | [Java bean builder generator](https://github.com/nasser-s/idea-builder-plugin) | 7 | 2019-04-29 |
-| [Java8 Generators](https://github.com/davidgjm/generators-intellij) | 4 375 | 2016-12-10 |
-| [JavaCC](https://github.com/oowekyala/intellij-javacc) | 5 076 | 2019-05-25 |
-| [JavaDoc](https://github.com/setial/intellij-javadocs) | 205 069 | 2015-12-25 |
-| [JavaDoc Clean Read](https://github.com/ArtsiomCh/JDCleanRead) | 4 150 | 2019-10-11 |
-| [JavaScript Test Finder](https://github.com/leantechniques/idea-js-test-finder) | 6 386 | 2015-10-16 |
+| [Java8 Generators](https://github.com/davidgjm/generators-intellij) | 4 378 | 2016-12-10 |
+| [JavaCC](https://github.com/oowekyala/intellij-javacc) | 5 087 | 2019-05-25 |
+| [JavaDoc](https://github.com/setial/intellij-javadocs) | 205 155 | 2015-12-25 |
+| [JavaDoc Clean Read](https://github.com/ArtsiomCh/JDCleanRead) | 4 160 | 2019-10-11 |
+| [JavaScript Test Finder](https://github.com/leantechniques/idea-js-test-finder) | 6 391 | 2015-10-16 |
 | [JavaX Var Type Hint](https://github.com/zxj5470/JavaX-Var-Hint/) | 479 | 2018-03-29 |
-| [Jawa](https://github.com/fgwei/jawa-intellij) | 132 | 2018-04-29 |
-| [Jbehave Step Generator](https://github.com/asterium/IdeaJbehaveStepGenerationPlugin) | 2 691 | 2018-06-14 |
+| [Jawa](https://github.com/fgwei/jawa-intellij) | 134 | 2018-04-29 |
+| [Jbehave Step Generator](https://github.com/asterium/IdeaJbehaveStepGenerationPlugin) | 2 694 | 2018-06-14 |
 | [Jbehave debug single scenario](https://github.com/FortnoxAB/intellij-jbehave-single-scenario) | 75 | 2019-10-23 |
-| [Jenkins Control Plugin](https://github.com/dboissier/jenkins-control-plugin) | 136 183 | 2017-02-16 |
-| [Jet Template Language Support](https://github.com/jhsx/GoJetPlugin) | 2 086 | 2016-05-05 |
-| [JiBX Idea Plugin](https://github.com/aweigold/idea-plugin-jibx) | 1 390 | 2015-06-01 |
-| [Jira Integration](https://gitlab.com/adrielsr/jira-intellij-plugin) | 23 668 | 2019-07-26 |
-| [JmonkeyEngine Integration](https://github.com/jayfella/intellij-integration) | 134 | 2019-10-18 |
-| [Jms messenger](https://github.com/klyashko/jms-messenger) | 29 946 | 2019-08-12 |
-| [Jni Helper](https://github.com/Kitdroid/jnihelper) | 3 604 | 2015-02-05 |
-| [Joar Øyen's Live Template Macros for ReSharper](https://github.com/joaroyen/ReSharper.LiveTemplates) | 3 324 | 2019-08-08 |
+| [Jenkins Control Plugin](https://github.com/dboissier/jenkins-control-plugin) | 136 213 | 2017-02-16 |
+| [Jet Template Language Support](https://github.com/jhsx/GoJetPlugin) | 2 089 | 2016-05-05 |
+| [JiBX Idea Plugin](https://github.com/aweigold/idea-plugin-jibx) | 1 391 | 2015-06-01 |
+| [Jira Integration](https://gitlab.com/adrielsr/jira-intellij-plugin) | 23 690 | 2019-07-26 |
+| [JmonkeyEngine Integration](https://github.com/jayfella/intellij-integration) | 137 | 2019-10-18 |
+| [Jms messenger](https://github.com/klyashko/jms-messenger) | 29 981 | 2019-08-12 |
+| [Jni Helper](https://github.com/Kitdroid/jnihelper) | 3 605 | 2015-02-05 |
+| [Joar Øyen's Live Template Macros for ReSharper](https://github.com/joaroyen/ReSharper.LiveTemplates) | 3 325 | 2019-08-08 |
 | [Joda Beans Code Folding](https://github.com/cjkent/jodabeansfolding) | 536 | 2014-12-10 |
-| [Jodd Props Support](https://github.com/oblac/jodd-props-idea-plugin) | 14 000 | 2012-09-07 |
-| [Joined / Wraparound / Continuous Tab Scrolling](https://github.com/jawspeak/intellij-joined-tab-scrolling) | 3 588 | 2015-11-23 |
-| [Jonnyzzz Dependencies](https://github.com/jonnyzzz/IDEA.Dependencies) | 6 504 | 2014-06-02 |
-| [Jpa Support](https://github.com/liukefeng2008/idea-plugin-jpa-support) | 31 951 | 2019-09-16 |
-| [Json Parser](https://gitlab.com/godwinjoseph/JSONParser) | 84 304 | 2019-03-29 |
-| [Json2Class](https://github.com/anzewei/Json2Class) | 8 367 | 2016-05-03 |
-| [Json2Dart](https://github.com/Azoft/json2dart-converter) | 31 452 | 2019-03-10 |
-| [Json2Java4Idea](https://github.com/t28hub/json2java4idea) | 4 359 | 2017-07-21 |
-| [Json2Pojo](https://github.com/HexarA/Json2Pojo) | 46 140 | 2018-05-14 |
-| [Json2Pojo with Lombok](https://github.com/zenglian/json2oojo.git) | 19 227 | 2018-12-30 |
-| [JsonSerializable](https://github.com/florent37/JsonSerializable-Plugin) | 571 | 2019-08-12 |
-| [JsonToDartBean](https://github.com/lovingning/JsonToDartBean) | 1 511 | 2019-05-30 |
-| [Jsonnet](https://github.com/databricks/intellij-jsonnet) | 4 641 | 2019-06-25 |
-| [Julia](https://github.com/ice1000/julia-intellij) | 26 902 | 2019-04-23 |
+| [Jodd Props Support](https://github.com/oblac/jodd-props-idea-plugin) | 14 004 | 2012-09-07 |
+| [Joined / Wraparound / Continuous Tab Scrolling](https://github.com/jawspeak/intellij-joined-tab-scrolling) | 3 591 | 2015-11-23 |
+| [Jonnyzzz Dependencies](https://github.com/jonnyzzz/IDEA.Dependencies) | 6 506 | 2014-06-02 |
+| [Jpa Support](https://github.com/liukefeng2008/idea-plugin-jpa-support) | 32 010 | 2019-09-16 |
+| [Json Parser](https://gitlab.com/godwinjoseph/JSONParser) | 84 378 | 2019-03-29 |
+| [Json2Class](https://github.com/anzewei/Json2Class) | 8 369 | 2016-05-03 |
+| [Json2Dart](https://github.com/Azoft/json2dart-converter) | 31 514 | 2019-03-10 |
+| [Json2Java4Idea](https://github.com/t28hub/json2java4idea) | 4 360 | 2017-07-21 |
+| [Json2Pojo](https://github.com/HexarA/Json2Pojo) | 46 160 | 2018-05-14 |
+| [Json2Pojo with Lombok](https://github.com/zenglian/json2oojo.git) | 19 261 | 2018-12-30 |
+| [JsonSerializable](https://github.com/florent37/JsonSerializable-Plugin) | 575 | 2019-08-12 |
+| [JsonToDartBean](https://github.com/lovingning/JsonToDartBean) | 1 516 | 2019-05-30 |
+| [Jsonnet](https://github.com/databricks/intellij-jsonnet) | 4 646 | 2019-06-25 |
+| [Julia](https://github.com/ice1000/julia-intellij) | 26 928 | 2019-04-23 |
 | [Jumble for IntelliJ](https://github.com/keraton/jumblej) | 96 | 2018-02-04 |
-| [Jump](https://gitlab.com/lae/intellij-jump) | 93 | 2019-07-03 |
-| [Jump Source Spec](https://github.com/AnalyticalGraphicsInc/cesium-webstorm-plugin) | 1 013 | 2016-06-03 |
+| [Jump](https://gitlab.com/lae/intellij-jump) | 96 | 2019-07-03 |
+| [Jump Source Spec](https://github.com/AnalyticalGraphicsInc/cesium-webstorm-plugin) | 1 015 | 2016-06-03 |
 | [Jump To Usage](https://plugins.jetbrains.com/files/1126/sourceCode.zip) | 1 391 | 2010-11-20 |
-| [Justifier](https://github.com/dleppik/Justify) | 3 478 | 2014-06-12 |
+| [Justifier](https://github.com/dleppik/Justify) | 3 480 | 2014-06-12 |
 | [JythonHelper](https://github.com/kaneg/JythonHelper) | 6 761 | 2015-01-05 |
 | [K2 E-Shop Integration](https://github.com/zvirdaniel/K2-Atmitec-eshop-plugin) | 123 | 2018-06-20 |
-| [KAnnotator](https://github.com/jetbrains/kannotator) | 30 621 | 2013-12-17 |
-| [KDB+ Studio Plugin](https://gitlab.com/shupakabras/kdb-intellij-plugin) | 2 302 | 2019-02-12 |
-| [Kafkalytic](https://github.com/ermadan/kafkalytic) | 1 970 | 2019-05-10 |
-| [Kaggle Importer](https://github.com/ktisha/kaggleDatasetsIntellij) | 1 336 | 2019-08-05 |
-| [Karma](https://github.com/JetBrains/intellij-plugins/tree/master/js-karma) | 635 533 | 2019-10-30 |
-| [KataKataTaaaaaaan](https://github.com/syuchan1005/KataKataTaaaaaaan) | 580 | 2018-08-22 |
+| [KAnnotator](https://github.com/jetbrains/kannotator) | 30 626 | 2013-12-17 |
+| [KDB+ Studio Plugin](https://gitlab.com/shupakabras/kdb-intellij-plugin) | 2 305 | 2019-02-12 |
+| [Kafkalytic](https://github.com/ermadan/kafkalytic) | 1 973 | 2019-05-10 |
+| [Kaggle Importer](https://github.com/ktisha/kaggleDatasetsIntellij) | 1 352 | 2019-08-05 |
+| [Karma](https://github.com/JetBrains/intellij-plugins/tree/master/js-karma) | 635 622 | 2019-10-30 |
+| [KataKataTaaaaaaan](https://github.com/syuchan1005/KataKataTaaaaaaan) | 582 | 2018-08-22 |
 | [Kdyby Events support](https://github.com/juzna/intellij-kdyby-events/) | 3 182 | 2014-10-16 |
 | [Kendal](https://bitbucket.org/ArkadyPL/kendal-plugin) | 87 | 2019-01-13 |
 | [KerboScript(kOS)](https://github.com/KSP-KOS/EditorTools) | 783 | 2017-07-20 |
-| [Kevoree Modeling Framework IDEA plugin](https://github.com/dukeboard/kevoree-modeling-framework) | 8 145 | 2016-06-29 |
-| [Key Promoter X](https://github.com/halirutan/IntelliJ-Key-Promoter-X) | 538 861 | 2019-10-12 |
+| [Kevoree Modeling Framework IDEA plugin](https://github.com/dukeboard/kevoree-modeling-framework) | 8 147 | 2016-06-29 |
+| [Key Promoter X](https://github.com/halirutan/IntelliJ-Key-Promoter-X) | 539 735 | 2019-10-12 |
 | [Key promoter](https://plugins.jetbrains.com/files/1003/sourceCode.zip) | 15 428 | 2007-03-27 |
-| [Key promoter](https://code.google.com/archive/p/key-promoter/source/default/source) | 311 811 | 2017-07-01 |
-| [Keymap exporter](https://github.com/denis-zhdanov/intellij-plugin-export-keymap) | 12 657 | 2019-03-26 |
-| [Kick Assembler (... and chew bubble gum) [beta]](https://github.com/4ch1m/kick-assembler-acbg) | 148 | 2019-02-20 |
+| [Key promoter](https://code.google.com/archive/p/key-promoter/source/default/source) | 311 832 | 2017-07-01 |
+| [Keymap exporter](https://github.com/denis-zhdanov/intellij-plugin-export-keymap) | 12 661 | 2019-03-26 |
+| [Kick Assembler (... and chew bubble gum) [beta]](https://github.com/4ch1m/kick-assembler-acbg) | 150 | 2019-02-20 |
 | [Kiwi Generator](https://plugins.jetbrains.com/files/1182/sourceCode.zip) | 528 | 2006-11-19 |
 | [KiwiScrap](http://java.sstiller.de/scrap/ks-scrap_1.3_src.zip) | 524 | 2005-11-05 |
 | [Knit](https://github.com/Runemoro/knit) | 175 | 2019-08-23 |
-| [Kobalt](https://github.com/cbeust/kobalt) | 5 524 | 2018-08-06 |
+| [Kobalt](https://github.com/cbeust/kobalt) | 5 526 | 2018-08-06 |
 | [Kobalt](https://github.com/dmitry-zhuravlev/kobalt-runner-teamcity-plugin) | 11 | 2016-12-03 |
-| [KodeBeagle](https://github.com/Imaginea/KodeBeagle) | 2 129 | 2016-09-01 |
-| [KonaWorks PowerPack](https://plugins.jetbrains.com/files/1144/sourceCode.zip) | 572 | 2006-10-30 |
+| [KodeBeagle](https://github.com/Imaginea/KodeBeagle) | 2 130 | 2016-09-01 |
+| [KonaWorks PowerPack](https://plugins.jetbrains.com/files/1144/sourceCode.zip) | 573 | 2006-10-30 |
 | [Konaworks EE Inspections](https://plugins.jetbrains.com/files/1183/sourceCode.zip) | 72 | 2006-10-31 |
-| [KopyPasta](https://github.com/RobinMalfait/KopyPasta) | 1 249 | 2015-01-27 |
+| [KopyPasta](https://github.com/RobinMalfait/KopyPasta) | 1 251 | 2015-01-27 |
 | [Korge IntelliJ Plugin](https://github.com/soywiz/korge/tree/develop) | 415 | 2017-05-08 |
-| [Kotlin](http://github.com/jetbrains/kotlin) | 6 780 847 | 2019-08-22 |
-| [Kotlin Anko Converter For Xml](https://github.com/Linyuzai/LayoutXmlConverter) | 9 370 | 2018-09-07 |
-| [Kotlin Code Sorter](https://github.com/longforus/KotlinCodeSorter) | 3 869 | 2019-06-03 |
-| [Kotlin Fill Class](https://github.com/suusan2go/kotlin-fill-class) | 3 849 | 2019-08-19 |
-| [Kotlin Jackson Generator](https://github.com/Dkhusainov/kotlin-jackson-generator) | 2 993 | 2016-05-30 |
-| [Kotlin MVP Auto](https://github.com/cn-ljb/kotlin-mvp-plugin) | 1 166 | 2019-07-15 |
-| [Kotlin Sequence Debugger](https://github.com/bibaev/kotlin-stream-debugger) | 36 414 | 2018-09-24 |
-| [Kubernetes Runtime Configuration](https://github.com/egoshard/intellij-k8s-runtime-config) | 2 727 | 2019-09-02 |
-| [Kubernetes and OpenShift Resource Support](https://github.com/tinselspoon/intellij-kubernetes) | 29 505 | 2017-12-29 |
-| [Kubernetes support](https://github.com/JetBrains/teamcity-kubernetes-plugin) | 6 111 | 2019-04-08 |
-| [LDAP browser](https://github.com/majk1/ldap-browser-idea-plugin) | 12 595 | 2019-08-19 |
+| [Kotlin](http://github.com/jetbrains/kotlin) | 6 784 426 | 2019-08-22 |
+| [Kotlin Anko Converter For Xml](https://github.com/Linyuzai/LayoutXmlConverter) | 9 381 | 2018-09-07 |
+| [Kotlin Code Sorter](https://github.com/longforus/KotlinCodeSorter) | 3 877 | 2019-06-03 |
+| [Kotlin Fill Class](https://github.com/suusan2go/kotlin-fill-class) | 3 857 | 2019-08-19 |
+| [Kotlin Jackson Generator](https://github.com/Dkhusainov/kotlin-jackson-generator) | 2 994 | 2016-05-30 |
+| [Kotlin MVP Auto](https://github.com/cn-ljb/kotlin-mvp-plugin) | 1 167 | 2019-07-15 |
+| [Kotlin Sequence Debugger](https://github.com/bibaev/kotlin-stream-debugger) | 36 418 | 2018-09-24 |
+| [Kubernetes Runtime Configuration](https://github.com/egoshard/intellij-k8s-runtime-config) | 2 732 | 2019-09-02 |
+| [Kubernetes and OpenShift Resource Support](https://github.com/tinselspoon/intellij-kubernetes) | 29 532 | 2017-12-29 |
+| [Kubernetes support](https://github.com/JetBrains/teamcity-kubernetes-plugin) | 6 114 | 2019-04-08 |
+| [LDAP browser](https://github.com/majk1/ldap-browser-idea-plugin) | 12 599 | 2019-08-19 |
 | [LESS CSS Compiler](https://github.com/acdvorak/intellij-lessc-plugin) | 197 508 | 2014-01-08 |
-| [LLVM](https://github.com/snefru/io.vypa.llvm) | 3 651 | 2016-12-03 |
-| [LSP Support](https://github.com/gtache/intellij-lsp/tree/master/intellij-lsp) | 6 960 | 2019-03-12 |
-| [LaTeX](https://github.com/hsz/idea-latex) | 60 981 | 2015-01-27 |
-| [Laconic POM](https://github.com/ris58h/lacopom) | 1 290 | 2018-12-11 |
-| [LamuneSoda](https://github.com/MitI-7/LamuneSoda) | 300 | 2016-11-20 |
+| [LLVM](https://github.com/snefru/io.vypa.llvm) | 3 658 | 2016-12-03 |
+| [LSP Support](https://github.com/gtache/intellij-lsp/tree/master/intellij-lsp) | 6 974 | 2019-03-12 |
+| [LaTeX](https://github.com/hsz/idea-latex) | 61 014 | 2015-01-27 |
+| [Laconic POM](https://github.com/ris58h/lacopom) | 1 292 | 2018-12-11 |
+| [LamuneSoda](https://github.com/MitI-7/LamuneSoda) | 302 | 2016-11-20 |
 | [LangDoc](https://github.com/vaclav/LangDoc) | 62 | 2019-09-23 |
-| [Laravel](https://github.com/Haehnchen/idea-php-laravel-plugin) | 937 299 | 2019-05-22 |
-| [Laravel Insight](https://github.com/rentalhost/laravel-insight) | 29 022 | 2017-12-19 |
-| [Laravel Snippets](https://github.com/Alicannklc/phpstorm-laravel-snippets) | 36 034 | 2019-01-22 |
-| [LaravelStorm](https://github.com/3mmarg97/LaravelStorm) | 57 061 | 2017-07-05 |
-| [Latte](https://github.com/JanTvrdik/intellij-latte) | 37 863 | 2016-07-01 |
-| [Launchpad Tasks Provider](https://github.com/norrs/launchpad-intellij-tasks-provider) | 1 656 | 2012-06-30 |
-| [Layout Master](https://github.com/wuapnjie/LayoutMaster) | 2 438 | 2019-08-05 |
+| [Laravel](https://github.com/Haehnchen/idea-php-laravel-plugin) | 937 798 | 2019-05-22 |
+| [Laravel Insight](https://github.com/rentalhost/laravel-insight) | 29 024 | 2017-12-19 |
+| [Laravel Snippets](https://github.com/Alicannklc/phpstorm-laravel-snippets) | 36 093 | 2019-01-22 |
+| [LaravelStorm](https://github.com/3mmarg97/LaravelStorm) | 57 113 | 2017-07-05 |
+| [Latte](https://github.com/JanTvrdik/intellij-latte) | 37 873 | 2016-07-01 |
+| [Launchpad Tasks Provider](https://github.com/norrs/launchpad-intellij-tasks-provider) | 1 658 | 2012-06-30 |
+| [Layout Master](https://github.com/wuapnjie/LayoutMaster) | 2 441 | 2019-08-05 |
 | [LayoutCast IDE Support](https://github.com/mmin18/LayoutCast) | 913 | 2015-08-23 |
-| [LayoutCreator](https://github.com/boredream/BorePlugin) | 26 628 | 2016-07-11 |
-| [LayoutFormatter](https://github.com/drakeet/LayoutFormatter) | 16 256 | 2017-08-24 |
-| [LazySpring](https://github.com/korgov/LazySpring/) | 11 973 | 2014-10-15 |
-| [LeJOS Plugin for Lego EV3 Mindstorms](https://github.com/miguelcordovam/leJOS_plugin) | 2 745 | 2018-04-01 |
-| [Leanpub](https://github.com/hhariri/leanpub-plugin) | 755 | 2016-03-26 |
-| [LeekScript](https://github.com/bjansen/IDEALeek) | 1 225 | 2019-07-14 |
+| [LayoutCreator](https://github.com/boredream/BorePlugin) | 26 638 | 2016-07-11 |
+| [LayoutFormatter](https://github.com/drakeet/LayoutFormatter) | 16 257 | 2017-08-24 |
+| [LazySpring](https://github.com/korgov/LazySpring/) | 11 981 | 2014-10-15 |
+| [LeJOS Plugin for Lego EV3 Mindstorms](https://github.com/miguelcordovam/leJOS_plugin) | 2 749 | 2018-04-01 |
+| [Leanpub](https://github.com/hhariri/leanpub-plugin) | 757 | 2016-03-26 |
+| [LeekScript](https://github.com/bjansen/IDEALeek) | 1 228 | 2019-07-14 |
 | [Legacy API hider](https://github.com/leviysoft/rainbowpony) | 224 | 2014-10-20 |
-| [Legacy Icon Pack 2018.2+](https://github.com/krasa/IdeaIconPack) | 32 068 | 2019-02-09 |
-| [LibGDX Plugin](https://github.com/BlueBoxWare/LibGDXPlugin) | 18 901 | 2019-07-13 |
+| [Legacy Icon Pack 2018.2+](https://github.com/krasa/IdeaIconPack) | 32 146 | 2019-02-09 |
+| [LibGDX Plugin](https://github.com/BlueBoxWare/LibGDXPlugin) | 18 913 | 2019-07-13 |
 | [Library Finder](https://plugins.jetbrains.com/files/51/sourceCode.zip) | 7 761 | 2013-04-30 |
 | [Library for IP-Symcon](https://github.com/paresy/phpstorm-library-plugin) | 334 | 2019-08-07 |
-| [Lice](https://github.com/lice-lang/lice-intellij/) | 434 | 2018-03-31 |
-| [Lifecycle Sorter](https://github.com/armandAkop/Lifecycle-Sorter) | 37 847 | 2015-05-25 |
-| [Liferay IntelliJ Plugin](https://github.com/gamerson/liferay-intellij-plugin) | 18 612 | 2019-10-14 |
-| [Lift Plugin](https://github.com/jakubbrindza/intellij-lift) | 151 | 2018-07-19 |
+| [Lice](https://github.com/lice-lang/lice-intellij/) | 437 | 2018-03-31 |
+| [Lifecycle Sorter](https://github.com/armandAkop/Lifecycle-Sorter) | 37 855 | 2015-05-25 |
+| [Liferay IntelliJ Plugin](https://github.com/gamerson/liferay-intellij-plugin) | 18 628 | 2019-10-14 |
+| [Lift Plugin](https://github.com/jakubbrindza/intellij-lift) | 152 | 2018-07-19 |
 | [LikeOrm schemes plugin](https://github.com/nrudenko/OrmGeneratorPlugin) | 771 | 2014-06-05 |
-| [Limited WIP](https://github.com/dkandalov/limited-wip) | 3 436 | 2019-08-20 |
+| [Limited WIP](https://github.com/dkandalov/limited-wip) | 3 439 | 2019-08-20 |
 | [Lin Postfix](https://github.com/dyguests/intellij-plugin-linpostfix) | 276 | 2017-11-06 |
 | [Line Counter](https://github.com/Tuxilero/LineCounter-Plugin) | 1 510 | 2016-06-19 |
-| [LineJumper](https://github.com/shamwow/LineJumper) | 132 | 2019-09-20 |
-| [LineOps](https://github.com/boxed/LineOps-intellij-plugin/) | 1 942 | 2014-03-13 |
+| [LineJumper](https://github.com/shamwow/LineJumper) | 134 | 2019-09-20 |
+| [LineOps](https://github.com/boxed/LineOps-intellij-plugin/) | 1 944 | 2014-03-13 |
 | [Lineage](https://plugins.jetbrains.com/files/104/sourceCode.zip) | 533 | 2005-01-19 |
 | [LiquiBase EJB Integration](https://plugins.jetbrains.com/files/3698/sourceCode.zip) | 7 428 | 2012-05-08 |
-| [Liquigen](https://github.com/iman89/liquigen) | 6 756 | 2019-04-12 |
-| [Live Coding in Python](https://github.com/donkirkby/live-py-plugin) | 33 955 | 2019-05-10 |
-| [Live Templates for Pandoc's markdown](https://github.com/pandocker/pandocker-live-templates) | 310 | 2019-09-27 |
-| [LiveEdit patch for JavaScript modules support](https://github.com/Sonnenhut/LiveEditPatch) | 5 126 | 2018-12-03 |
-| [LivePlugin](https://github.com/dkandalov/live-plugin) | 30 809 | 2019-06-11 |
-| [LiveScriptBrains](https://github.com/modo-lv/LiveScriptBrains) | 2 038 | 2016-04-30 |
-| [LiveScriptIdea](https://github.com/racklin/livescript-idea) | 4 287 | 2013-07-14 |
-| [LiveTemplatePreview](https://github.com/siosio/LiveTempletePreview) | 10 919 | 2014-03-05 |
-| [Log Support](https://plugins.jetbrains.com/files/4953/sourceCode.zip) | 13 615 | 2011-12-14 |
+| [Liquigen](https://github.com/iman89/liquigen) | 6 770 | 2019-04-12 |
+| [Live Coding in Python](https://github.com/donkirkby/live-py-plugin) | 34 002 | 2019-05-10 |
+| [Live Templates for Pandoc's markdown](https://github.com/pandocker/pandocker-live-templates) | 312 | 2019-09-27 |
+| [LiveEdit patch for JavaScript modules support](https://github.com/Sonnenhut/LiveEditPatch) | 5 145 | 2018-12-03 |
+| [LivePlugin](https://github.com/dkandalov/live-plugin) | 30 817 | 2019-06-11 |
+| [LiveScriptBrains](https://github.com/modo-lv/LiveScriptBrains) | 2 041 | 2016-04-30 |
+| [LiveScriptIdea](https://github.com/racklin/livescript-idea) | 4 290 | 2013-07-14 |
+| [LiveTemplatePreview](https://github.com/siosio/LiveTempletePreview) | 10 924 | 2014-03-05 |
+| [Log Support](https://plugins.jetbrains.com/files/4953/sourceCode.zip) | 13 617 | 2011-12-14 |
 | [Log Support Lite](https://github.com/lixian/log-support-lite) | 1 142 | 2016-07-07 |
-| [Log Viewer](https://josesamuel.com/logviewer/) | 6 379 | 2019-08-28 |
+| [Log Viewer](https://josesamuel.com/logviewer/) | 6 387 | 2019-08-28 |
 | [Logger folding](https://github.com/healarconr/logger-folding) | 3 202 | 2017-11-27 |
 | [Logshipper](https://github.com/ChrisCarini/logshipper-intellij-plugin/) | 116 | 2018-10-03 |
-| [Logtalk](https://github.com/LogtalkDotOrg/logtalk3/) | 20 906 | 2019-03-31 |
-| [Lombok](https://github.com/mplushnikov/lombok-intellij-plugin/archive/master.zip) | 6 017 870 | 2019-10-03 |
-| [Lotus Theme](https://github.com/blai30/Lotus-Theme) | 521 | 2019-10-14 |
-| [Lua](https://bitbucket.org/sylvanaar2/lua-for-idea/src/idea16/) | 682 326 | 2019-08-11 |
+| [Logtalk](https://github.com/LogtalkDotOrg/logtalk3/) | 20 926 | 2019-03-31 |
+| [Lombok](https://github.com/mplushnikov/lombok-intellij-plugin/archive/master.zip) | 6 022 078 | 2019-10-03 |
+| [Lotus Theme](https://github.com/blai30/Lotus-Theme) | 533 | 2019-10-14 |
+| [Lua](https://bitbucket.org/sylvanaar2/lua-for-idea/src/idea16/) | 682 586 | 2019-08-11 |
 | [Luogu](https://github.com/HoshinoTented/luogu-intellij) | 11 | 2019-08-17 |
-| [Lux Script support](https://github.com/kvakvs/intellij-lux) | 144 | 2019-10-14 |
-| [MAGist](https://github.com/ItstepForstudent/MAGist) | 720 | 2019-09-17 |
+| [Lux Script support](https://github.com/kvakvs/intellij-lux) | 146 | 2019-10-14 |
+| [MAGist](https://github.com/ItstepForstudent/MAGist) | 722 | 2019-09-17 |
 | [MCPluginDebugger](https://github.com/syuchan1005/MCPluginDebuggerforIDEA) | 455 | 2017-07-20 |
 | [MDW Studio](https://github.com/CenturyLinkCloud/mdw-studio) | 826 | 2019-10-04 |
-| [MIB support](https://github.com/jchmura/MibPlugin) | 1 310 | 2018-09-30 |
+| [MIB support](https://github.com/jchmura/MibPlugin) | 1 313 | 2018-09-30 |
 | [MPBots Plugin](https://git.rwth-aachen.de/elmexl/mpbots) | 127 | 2017-09-25 |
-| [MPS BaseLanguage Extensions](https://github.com/vaclav/BaseLanguageExtensions) | 16 984 | 2019-08-19 |
-| [MPS BaseLanguage Support](https://github.com/JetBrains/MPS) | 4 286 | 2019-10-04 |
+| [MPS BaseLanguage Extensions](https://github.com/vaclav/BaseLanguageExtensions) | 16 988 | 2019-08-19 |
+| [MPS BaseLanguage Support](https://github.com/JetBrains/MPS) | 4 289 | 2019-10-04 |
 | [MPS BaseLanguage support](https://github.com/JetBrains/MPS) | 6 600 | 2017-03-03 |
-| [MPS Build languages](https://github.com/JetBrains/MPS) | 11 596 | 2019-10-04 |
-| [MPS Core](https://github.com/JetBrains/MPS) | 24 213 | 2019-10-04 |
-| [MPS Testing](https://github.com/JetBrains/MPS) | 3 974 | 2019-10-04 |
-| [MPS Version Control Support](https://github.com/JetBrains/MPS) | 3 890 | 2019-10-04 |
+| [MPS Build languages](https://github.com/JetBrains/MPS) | 11 599 | 2019-10-04 |
+| [MPS Core](https://github.com/JetBrains/MPS) | 24 219 | 2019-10-04 |
+| [MPS Testing](https://github.com/JetBrains/MPS) | 3 977 | 2019-10-04 |
+| [MPS Version Control Support](https://github.com/JetBrains/MPS) | 3 893 | 2019-10-04 |
 | [MPS Version Control support](https://github.com/JetBrains/MPS) | 5 686 | 2017-03-03 |
-| [MQL Idea](https://github.com/investflow/mqlidea) | 3 245 | 2017-05-26 |
+| [MQL Idea](https://github.com/investflow/mqlidea) | 3 250 | 2017-05-26 |
 | [MVP Creator plugin](https://github.com/marcherdiego/android_mvp) | 1 707 | 2019-09-08 |
 | [MVP-Interactor Generator](https://github.com/tsering-wongel/MVP-Interactor) | 864 | 2018-01-09 |
-| [MVPHelper](https://github.com/githubwing/MVPHelper) | 25 684 | 2018-09-27 |
-| [MVPManager](https://github.com/xujiaji/MVPManager) | 1 780 | 2017-10-16 |
-| [MXML Design Preview](https://github.com/JetBrains/intellij-plugins/tree/183/flex/tools/flex-ui-designer) | 29 503 | 2018-10-17 |
+| [MVPHelper](https://github.com/githubwing/MVPHelper) | 25 687 | 2018-09-27 |
+| [MVPManager](https://github.com/xujiaji/MVPManager) | 1 783 | 2017-10-16 |
+| [MXML Design Preview](https://github.com/JetBrains/intellij-plugins/tree/183/flex/tools/flex-ui-designer) | 29 506 | 2018-10-17 |
 | [Mac's Code Generation And Action Plugin](https://github.com/champgm/IntelliJCodeGenerationPlugin/tree/master) | 612 | 2015-04-15 |
-| [Machine.Specifications for ReSharper](https://github.com/machine/machine.specifications) | 19 773 | 2019-08-13 |
+| [Machine.Specifications for ReSharper](https://github.com/machine/machine.specifications) | 19 775 | 2019-08-13 |
 | [Machine.Specifications for Rider](https://github.com/machine/machine.specifications) | 407 | 2019-08-12 |
-| [Macro ReplaceFromOtherValue](https://github.com/fakhrulhilal/ResharperMacro) | 1 143 | 2019-07-18 |
-| [Mad-jEnv](https://github.com/madplay/MadJenvPlugin) | 210 | 2019-10-21 |
-| [Magento PhpStorm](https://github.com/magento/magento2-phpstorm-plugin) | 39 176 | 2019-03-14 |
-| [Magicento](http://magicento.com/) | 140 897 | 2014-12-06 |
+| [Macro ReplaceFromOtherValue](https://github.com/fakhrulhilal/ResharperMacro) | 1 144 | 2019-07-18 |
+| [Mad-jEnv](https://github.com/madplay/MadJenvPlugin) | 212 | 2019-10-21 |
+| [Magento PhpStorm](https://github.com/magento/magento2-phpstorm-plugin) | 39 194 | 2019-03-14 |
+| [Magicento](http://magicento.com/) | 140 899 | 2014-12-06 |
 | [Magnet rest2mobile](https://github.com/magnetsystems/r2m-plugin-android) | 4 250 | 2015-02-18 |
-| [Main Menu toggler](https://github.com/bashor/IdeaMainMenuToggler) | 12 504 | 2017-07-13 |
+| [Main Menu toggler](https://github.com/bashor/IdeaMainMenuToggler) | 12 512 | 2017-07-13 |
 | [Mainframer Integration](https://github.com/elpassion/mainframer-intellij-plugin) | 3 088 | 2019-04-16 |
-| [Makefile support](https://github.com/kropp/intellij-makefile/) | 270 405 | 2019-03-07 |
-| [Manifold](https://github.com/manifold-systems) | 4 484 | 2019-10-31 |
+| [Makefile support](https://github.com/kropp/intellij-makefile/) | 270 584 | 2019-03-07 |
+| [Manifold](https://github.com/manifold-systems) | 4 487 | 2019-10-31 |
 | [MantisConnect for Idea](https://plugins.jetbrains.com/files/1028/sourceCode.zip) | 1 273 | 2006-09-25 |
-| [MapStruct Support](https://github.com/mapstruct/mapstruct-idea/) | 42 493 | 2019-06-16 |
-| [Mapfile](https://github.com/dnltsk/intellij-mapfile-plugin) | 5 034 | 2017-06-29 |
-| [Markdown](https://github.com/JetBrains/intellij-plugins/tree/master/markdown) | 8 700 752 | 2019-10-11 |
-| [Markdown Doclet for IDEA](https://github.com/Abnaxos/markdown-doclet) | 6 436 | 2017-07-11 |
-| [Markdown Navigator](https://github.com/vsch/idea-multimarkdown) | 3 982 434 | 2019-08-03 |
-| [Marks](https://github.com/RoboPlugins/Marks) | 2 454 | 2016-10-14 |
-| [Markup to SCSS](https://github.com/semoro/MarkupToSCSS) | 30 711 | 2016-05-05 |
-| [Mason Framework](https://github.com/Camelcade/Perl5-IDEA) | 6 983 | 2019-10-16 |
-| [Mason2 Support](https://github.com/Camelcade/Perl5-IDEA) | 3 081 | 2019-10-16 |
-| [Matchmaker](https://github.com/lypeer/Matchmaker) | 3 811 | 2016-09-30 |
-| [Material Color Palette](https://github.com/dvdandroid/material-color-palette-plugin) | 13 434 | 2017-02-01 |
-| [Material Design Color Palette](https://github.com/YiiGuxing/material-design-color-palette) | 9 346 | 2019-02-19 |
-| [Material Design Specs](https://github.com/torryharris/Material-Design-Specs) | 9 891 | 2016-08-11 |
-| [Material Theme UI](https://github.com/ChrisRM/material-theme-jetbrains) | 6 159 238 | 2019-11-02 |
-| [Material Theme UI Lite](https://github.com/mallowigi/material-theme-ui-lite) | 20 434 | 2019-10-02 |
-| [Mathematica REPL](https://github.com/dubrousky/Mathematica-REPL) | 2 588 | 2014-12-20 |
-| [Matlab Support](https://github.com/kornilova-l/matlab-IntelliJ-plugin) | 26 107 | 2019-09-22 |
+| [MapStruct Support](https://github.com/mapstruct/mapstruct-idea/) | 42 529 | 2019-06-16 |
+| [Mapfile](https://github.com/dnltsk/intellij-mapfile-plugin) | 5 037 | 2017-06-29 |
+| [Markdown](https://github.com/JetBrains/intellij-plugins/tree/master/markdown) | 8 707 538 | 2019-10-11 |
+| [Markdown Doclet for IDEA](https://github.com/Abnaxos/markdown-doclet) | 6 439 | 2017-07-11 |
+| [Markdown Navigator](https://github.com/vsch/idea-multimarkdown) | 3 983 307 | 2019-08-03 |
+| [Marks](https://github.com/RoboPlugins/Marks) | 2 460 | 2016-10-14 |
+| [Markup to SCSS](https://github.com/semoro/MarkupToSCSS) | 30 724 | 2016-05-05 |
+| [Mason Framework](https://github.com/Camelcade/Perl5-IDEA) | 6 989 | 2019-10-16 |
+| [Mason2 Support](https://github.com/Camelcade/Perl5-IDEA) | 3 085 | 2019-10-16 |
+| [Matchmaker](https://github.com/lypeer/Matchmaker) | 3 813 | 2016-09-30 |
+| [Material Color Palette](https://github.com/dvdandroid/material-color-palette-plugin) | 13 435 | 2017-02-01 |
+| [Material Design Color Palette](https://github.com/YiiGuxing/material-design-color-palette) | 9 353 | 2019-02-19 |
+| [Material Design Specs](https://github.com/torryharris/Material-Design-Specs) | 9 896 | 2016-08-11 |
+| [Material Theme UI](https://github.com/ChrisRM/material-theme-jetbrains) | 6 164 995 | 2019-11-02 |
+| [Material Theme UI Lite](https://github.com/mallowigi/material-theme-ui-lite) | 20 495 | 2019-10-02 |
+| [Mathematica REPL](https://github.com/dubrousky/Mathematica-REPL) | 2 592 | 2014-12-20 |
+| [Matlab Support](https://github.com/kornilova-l/matlab-IntelliJ-plugin) | 26 158 | 2019-09-22 |
 | [Mattermost Chat Plugin](https://github.com/stefandotti/intellij-mattermost-plugin) | 535 | 2017-12-05 |
-| [Maven 2 Integration](https://plugins.jetbrains.com/files/1166/sourceCode.zip) | 48 035 | 2007-04-24 |
-| [Maven Archetype Catalogs](https://github.com/dmarks2/maven-archetypes-catalog-plugin) | 31 466 | 2018-09-10 |
-| [Maven Archetypes](https://plugins.jetbrains.com/files/1789/sourceCode.zip) | 11 849 | 2008-01-26 |
-| [Maven Dependencies Searcher](https://github.com/snsyzf/maven-dependencies-searcher) | 1 825 | 2019-08-08 |
-| [Maven Dependency Helper](https://github.com/yiyingcanfeng/maven-dependency-helper) | 11 117 | 2019-04-29 |
-| [Maven Dependency Manager](https://plugins.jetbrains.com/files/697/sourceCode.zip) | 22 509 | 2006-11-09 |
-| [Maven Executor](https://github.com/skubicz/maven-executor-plugin) | 1 751 | 2019-08-26 |
+| [Maven 2 Integration](https://plugins.jetbrains.com/files/1166/sourceCode.zip) | 48 079 | 2007-04-24 |
+| [Maven Archetype Catalogs](https://github.com/dmarks2/maven-archetypes-catalog-plugin) | 31 479 | 2018-09-10 |
+| [Maven Archetypes](https://plugins.jetbrains.com/files/1789/sourceCode.zip) | 11 853 | 2008-01-26 |
+| [Maven Dependencies Searcher](https://github.com/snsyzf/maven-dependencies-searcher) | 1 833 | 2019-08-08 |
+| [Maven Dependency Helper](https://github.com/yiyingcanfeng/maven-dependency-helper) | 11 141 | 2019-04-29 |
+| [Maven Dependency Manager](https://plugins.jetbrains.com/files/697/sourceCode.zip) | 22 531 | 2006-11-09 |
+| [Maven Executor](https://github.com/skubicz/maven-executor-plugin) | 1 756 | 2019-08-26 |
 | [Maven Macros Toolbox](https://github.com/dexpota/maven-macros-toolbox) | 45 | 2018-10-28 |
-| [Maven Test Support Plugin](https://github.com/destin/maven-test-support-plugin) | 21 303 | 2017-04-04 |
-| [Maven Version in Project View](https://github.com/novotnyr/maven-version-idea-plugin) | 445 | 2019-06-20 |
-| [Maven Wrapper IntelliJ IDEA plugin](https://github.com/linux-china/maven-wrapper-plugin) | 1 989 | 2017-11-07 |
-| [Maven Wrapper support](https://github.com/blackbuild/idea-maven-wrapper-support) | 5 478 | 2019-07-10 |
-| [Maven toolkit](https://github.com/baptistemesta/intellij-maven-toolkit/) | 3 336 | 2017-10-25 |
-| [Maven1.x Repository Updater](https://plugins.jetbrains.com/files/1180/sourceCode.zip) | 2 771 | 2006-10-30 |
-| [MavenDeploy](https://github.com/gf5353/deploytools) | 2 065 | 2019-06-24 |
-| [MavenProjectHelper](https://plugins.jetbrains.com/files/1652/sourceCode.zip) | 10 758 | 2008-08-21 |
-| [MayaCharm](https://github.com/cmcpasserby/MayaCharm) | 14 281 | 2019-09-30 |
+| [Maven Test Support Plugin](https://github.com/destin/maven-test-support-plugin) | 21 312 | 2017-04-04 |
+| [Maven Version in Project View](https://github.com/novotnyr/maven-version-idea-plugin) | 446 | 2019-06-20 |
+| [Maven Wrapper IntelliJ IDEA plugin](https://github.com/linux-china/maven-wrapper-plugin) | 1 991 | 2017-11-07 |
+| [Maven Wrapper support](https://github.com/blackbuild/idea-maven-wrapper-support) | 5 481 | 2019-07-10 |
+| [Maven toolkit](https://github.com/baptistemesta/intellij-maven-toolkit/) | 3 339 | 2017-10-25 |
+| [Maven1.x Repository Updater](https://plugins.jetbrains.com/files/1180/sourceCode.zip) | 2 773 | 2006-10-30 |
+| [MavenDeploy](https://github.com/gf5353/deploytools) | 2 068 | 2019-06-24 |
+| [MavenProjectHelper](https://plugins.jetbrains.com/files/1652/sourceCode.zip) | 10 770 | 2008-08-21 |
+| [MayaCharm](https://github.com/cmcpasserby/MayaCharm) | 14 285 | 2019-09-30 |
 | [Media keys plugin](https://github.com/DylanMeeus/IntelliJ-MediaControls/) | 22 | 2018-04-29 |
 | [MediaWiki Support](https://github.com/reedy/phpstorm-plugin-mediawiki) | 1 781 | 2014-05-09 |
-| [Mercurial](https://github.com/jetbrains/intellij-community) | 13 | 2019-10-11 |
+| [Mercurial](https://github.com/jetbrains/intellij-community) | 14 | 2019-10-11 |
 | [Metadroid Plugin](https://github.com/Thangiee/Metadroid) | 493 | 2016-08-08 |
-| [MetalHeart](https://github.com/mswift42/ith) | 1 020 | 2019-09-22 |
-| [Meteor JS Template](https://github.com/iguissouma/meteorjs-plugin) | 9 963 | 2017-07-21 |
-| [MetricsReloaded](https://github.com/BasLeijdekkers/MetricsReloaded) | 107 368 | 2016-09-05 |
-| [MicroModule](https://github.com/EastWoodYang/micro-module-idea-plugin) | 618 | 2019-07-05 |
-| [MicroPython](https://github.com/vlasovskikh/intellij-micropython) | 52 366 | 2019-10-02 |
-| [Microconfig.io](https://github.com/microconfig/microconfig-idea-plugin) | 398 | 2019-04-05 |
+| [MetalHeart](https://github.com/mswift42/ith) | 1 024 | 2019-09-22 |
+| [Meteor JS Template](https://github.com/iguissouma/meteorjs-plugin) | 9 964 | 2017-07-21 |
+| [MetricsReloaded](https://github.com/BasLeijdekkers/MetricsReloaded) | 107 386 | 2016-09-05 |
+| [MicroModule](https://github.com/EastWoodYang/micro-module-idea-plugin) | 619 | 2019-07-05 |
+| [MicroPython](https://github.com/vlasovskikh/intellij-micropython) | 52 456 | 2019-10-02 |
+| [Microconfig.io](https://github.com/microconfig/microconfig-idea-plugin) | 400 | 2019-04-05 |
 | [Microissues](https://github.com/LordKail/IntelliJ-Microissues-Plugin) | 67 | 2017-03-21 |
 | [Microsoft Azure Active Directory Support](https://github.com/JetBrains/teamcity-azure-active-directory) | 598 | 2018-11-30 |
-| [Microsoft Cloud Services for Android](https://github.com/Microsoft/Microsoft-Cloud-Services-for-Android) | 1 390 | 2015-12-02 |
+| [Microsoft Cloud Services for Android](https://github.com/Microsoft/Microsoft-Cloud-Services-for-Android) | 1 391 | 2015-12-02 |
 | [Microsoft Teams Notifications](https://github.com/spyder007/teamcity-msteams-notifier) | 237 | 2019-07-11 |
 | [MidStream](https://plugins.jetbrains.com/files/1190/sourceCode.zip) | 534 | 2006-10-31 |
-| [Mike's IDEA extensions](http://github.com/Miha-x64/Mikes_IDEA_extensions) | 440 | 2019-10-09 |
+| [Mike's IDEA extensions](http://github.com/Miha-x64/Mikes_IDEA_extensions) | 441 | 2019-10-09 |
 | [Mind Sport](https://github.com/tgvdinesh/mind-sport-intellij-plugin) | 223 | 2019-02-11 |
 | [MineDroid GUI](https://github.com/chedim/minedroid-idea) | 195 | 2016-02-10 |
-| [Minecraft Development](https://github.com/minecraft-dev/MinecraftDev) | 162 085 | 2019-09-13 |
+| [Minecraft Development](https://github.com/minecraft-dev/MinecraftDev) | 162 198 | 2019-09-13 |
 | [Minecraft NBT Support](https://github.com/tth05/minecraft-nbt-intellij-plugin) | 9 | 2019-10-05 |
 | [MiniPlugin](https://github.com/MiniDigger/MiniPlugin/) | 76 | 2017-08-06 |
 | [Minimal Cake Pattern Generator](https://github.com/petitviolet/minimal-cake-pattern-generator-scala-idea) | 131 | 2017-01-14 |
-| [Mirah language support](https://github.com/uujava/mirah-idea-plugin) | 219 | 2016-11-07 |
+| [Mirah language support](https://github.com/uujava/mirah-idea-plugin) | 220 | 2016-11-07 |
 | [Miscellaneous Functionality](https://bitbucket.org/bhandy/idea-missing-functionality) | 688 | 2016-11-15 |
-| [Missing In Actions](https://github.com/vsch/MissingInActions) | 8 050 | 2019-04-27 |
+| [Missing In Actions](https://github.com/vsch/MissingInActions) | 8 055 | 2019-04-27 |
 | [Mob Timer](https://gitlab.com/stevengerdes/intellij-mob-timer/tree/master) | 226 | 2018-06-16 |
-| [Mockito Postfix Completion Plugin](https://github.com/krrrr38/intellij-mockito-postfix-plugin/) | 1 968 | 2017-01-17 |
-| [Mockito code generator](https://github.com/przemyslawj/mockito-intellij-plugin) | 11 143 | 2015-08-22 |
-| [Modularization](https://github.com/pqixing/modularization) | 857 | 2019-09-18 |
+| [Mockito Postfix Completion Plugin](https://github.com/krrrr38/intellij-mockito-postfix-plugin/) | 1 969 | 2017-01-17 |
+| [Mockito code generator](https://github.com/przemyslawj/mockito-intellij-plugin) | 11 147 | 2015-08-22 |
+| [Modularization](https://github.com/pqixing/modularization) | 858 | 2019-09-18 |
 | [ModuleColorPlugin](https://bitbucket.org/HanSed/modulecolorplugin/src) | 321 | 2017-08-31 |
-| [ModuleLibraries](https://github.com/jansorg/intellij-module-libraries) | 2 323 | 2017-04-08 |
-| [Mojolicious Support](https://github.com/Camelcade/Perl5-IDEA) | 3 415 | 2019-10-16 |
-| [Mongo Plugin](https://github.com/dboissier/mongo4idea) | 660 781 | 2019-10-16 |
-| [Monkey C (Garmin Connect IQ)](https://github.com/liias/monkey) | 2 442 | 2018-06-07 |
-| [MonkeyMaster](https://github.com/DrkCore/MonkeyMaster) | 157 | 2017-02-06 |
-| [Monocai Color Theme](https://github.com/bmikaili/intellij-monokai-pro) | 35 341 | 2019-10-08 |
-| [Monokai Materialized Color Scheme](https://github.com/samueljarosinski/Monokai-Materialized) | 5 293 | 2019-07-02 |
-| [MontiSecArc Language Plugin](https://git.rwth-aachen.de/ma_buning/msa) | 576 | 2017-03-04 |
-| [MoqComplete](https://github.com/Abc-Arbitrage/Abc.MoqComplete) | 4 552 | 2019-10-31 |
-| [MoqComplete](https://github.com/Abc-Arbitrage/Abc.MoqComplete) | 135 | 2019-10-31 |
-| [MoreUnit](https://github.com/MoreUnit/org.moreunit.intellij.plugin) | 19 642 | 2017-02-20 |
+| [ModuleLibraries](https://github.com/jansorg/intellij-module-libraries) | 2 328 | 2017-04-08 |
+| [Mojolicious Support](https://github.com/Camelcade/Perl5-IDEA) | 3 419 | 2019-10-16 |
+| [Mongo Plugin](https://github.com/dboissier/mongo4idea) | 661 195 | 2019-10-16 |
+| [Monkey C (Garmin Connect IQ)](https://github.com/liias/monkey) | 2 444 | 2018-06-07 |
+| [MonkeyMaster](https://github.com/DrkCore/MonkeyMaster) | 158 | 2017-02-06 |
+| [Monocai Color Theme](https://github.com/bmikaili/intellij-monokai-pro) | 35 501 | 2019-10-08 |
+| [Monokai Materialized Color Scheme](https://github.com/samueljarosinski/Monokai-Materialized) | 5 321 | 2019-07-02 |
+| [MontiSecArc Language Plugin](https://git.rwth-aachen.de/ma_buning/msa) | 579 | 2017-03-04 |
+| [MoqComplete](https://github.com/Abc-Arbitrage/Abc.MoqComplete) | 4 577 | 2019-10-31 |
+| [MoqComplete](https://github.com/Abc-Arbitrage/Abc.MoqComplete) | 137 | 2019-10-31 |
+| [MoreUnit](https://github.com/MoreUnit/org.moreunit.intellij.plugin) | 19 645 | 2017-02-20 |
 | [Motivation](https://github.com/wherkamp/MotivationIntellij) | 177 | 2018-02-22 |
-| [Motivational GIF](https://github.com/howyi/intellij-motivational-gif) | 644 | 2018-03-29 |
-| [Move with Dependencies](https://github.com/JetBrains/hackathon-unchain) | 14 003 | 2013-06-12 |
+| [Motivational GIF](https://github.com/howyi/intellij-motivational-gif) | 646 | 2018-03-29 |
+| [Move with Dependencies](https://github.com/JetBrains/hackathon-unchain) | 14 007 | 2013-06-12 |
 | [MoveTab](https://github.com/mikejhill/intellij-move-tab/tree/master) | 8 | 2019-09-30 |
-| [Mule 4 Runtime.](https://github.com/mulesoft-labs/data-weave-intellij-plugin#to-install-the-nightly-plugin) | 2 592 | 2019-10-11 |
-| [Mule ESB Plugin For IntelliJ](https://github.com/machaval/mule-intellij-plugins) | 9 081 | 2017-08-16 |
-| [Multi-OS Engine Community Edition](https://github.com/multi-os-engine-community/moe-ide-integration) | 1 230 | 2019-09-26 |
-| [Multi-OS Engine Plugin](https://github.com/multi-os-engine/moe-ide-integration/) | 26 887 | 2018-04-06 |
-| [MultiHighlight](https://github.com/huoguangjin/MultiHighlight/) | 4 698 | 2017-10-13 |
+| [Mule 4 Runtime.](https://github.com/mulesoft-labs/data-weave-intellij-plugin#to-install-the-nightly-plugin) | 2 596 | 2019-10-11 |
+| [Mule ESB Plugin For IntelliJ](https://github.com/machaval/mule-intellij-plugins) | 9 084 | 2017-08-16 |
+| [Multi-OS Engine Community Edition](https://github.com/multi-os-engine-community/moe-ide-integration) | 1 236 | 2019-09-26 |
+| [Multi-OS Engine Plugin](https://github.com/multi-os-engine/moe-ide-integration/) | 26 894 | 2018-04-06 |
+| [MultiHighlight](https://github.com/huoguangjin/MultiHighlight/) | 4 707 | 2017-10-13 |
 | [MultiTypeTemplates](https://github.com/drakeet/MultiTypeTemplates) | 4 634 | 2017-12-04 |
-| [Multirun](https://github.com/rkhmelyuk/multirun) | 86 584 | 2019-04-01 |
+| [Multirun](https://github.com/rkhmelyuk/multirun) | 86 599 | 2019-04-01 |
 | [Muse Color Scheme](https://github.com/fakeinc/muse) | 189 | 2019-06-13 |
-| [Muse Dark Color Scheme](https://github.com/fakeinc/muse) | 1 417 | 2019-06-17 |
-| [Muse Light Color Scheme](https://github.com/fakeinc/muse) | 741 | 2019-06-17 |
-| [MvpAutoCodePlus](https://github.com/longforus/MvpAutoCodePlus) | 3 172 | 2019-09-09 |
-| [MvpCreatePlugin](https://github.com/xunzzz/MvpCreatePlugin) | 774 | 2016-12-14 |
-| [MvpPlugin](https://github.com/qiaoshouliang/MvpPlugin) | 1 141 | 2017-07-26 |
-| [MyBatis Builder](https://github.com/chuntungho/mybatis-builder) | 5 487 | 2019-10-02 |
-| [MyBatis Generator Plus](https://github.com/leecho/mybatis-generator-plus) | 5 502 | 2019-06-21 |
-| [MyBatis Log Plugin](https://github.com/kookob/mybatis-log-plugin/) | 120 264 | 2019-07-24 |
+| [Muse Dark Color Scheme](https://github.com/fakeinc/muse) | 1 421 | 2019-06-17 |
+| [Muse Light Color Scheme](https://github.com/fakeinc/muse) | 744 | 2019-06-17 |
+| [MvpAutoCodePlus](https://github.com/longforus/MvpAutoCodePlus) | 3 174 | 2019-09-09 |
+| [MvpCreatePlugin](https://github.com/xunzzz/MvpCreatePlugin) | 776 | 2016-12-14 |
+| [MvpPlugin](https://github.com/qiaoshouliang/MvpPlugin) | 1 143 | 2017-07-26 |
+| [MyBatis Builder](https://github.com/chuntungho/mybatis-builder) | 5 516 | 2019-10-02 |
+| [MyBatis Generator Plus](https://github.com/leecho/mybatis-generator-plus) | 5 507 | 2019-06-21 |
+| [MyBatis Log Plugin](https://github.com/kookob/mybatis-log-plugin/) | 120 423 | 2019-07-24 |
 | [MyBatisCodeHelper](https://github.com/gejun123456/MyBatisCodeHelper) | 12 359 | 2017-03-15 |
-| [MyGruvbox](https://github.com/xiaopihai7256/MyGruvbox) | 401 | 2019-09-21 |
-| [Mybatis Log](http://git.oschina.net/996102919/mybatis-log) | 4 863 | 2016-11-21 |
-| [Mybatis Tools](https://github.com/easonlian/mybatis-plugin-for-IDEA) | 26 315 | 2017-05-05 |
+| [MyGruvbox](https://github.com/xiaopihai7256/MyGruvbox) | 411 | 2019-09-21 |
+| [Mybatis Log](http://git.oschina.net/996102919/mybatis-log) | 4 872 | 2016-11-21 |
+| [Mybatis Tools](https://github.com/easonlian/mybatis-plugin-for-IDEA) | 26 335 | 2017-05-05 |
 | [Mybatis-Gen-Menu](https://github.com/yuanbp/mybatis-gen-menu) | 78 | 2019-02-27 |
-| [Mypy](https://github.com/leinardi/mypy-pycharm) | 12 486 | 2019-09-15 |
-| [NASM Assembly Language](https://github.com/dude719/JetBrains-NASM-Language) | 11 623 | 2019-11-01 |
-| [NEON support](https://github.com/juzna/intellij-neon) | 43 221 | 2019-07-25 |
-| [NPM Script Runner](https://github.com/syuchan1005/NPMScriptRunner) | 21 844 | 2017-12-26 |
-| [NSIS plugin](https://github.com/akrylysov/intellij-nsis) | 7 776 | 2015-03-29 |
+| [Mypy](https://github.com/leinardi/mypy-pycharm) | 12 523 | 2019-09-15 |
+| [NASM Assembly Language](https://github.com/dude719/JetBrains-NASM-Language) | 11 730 | 2019-11-01 |
+| [NEON support](https://github.com/juzna/intellij-neon) | 43 241 | 2019-07-25 |
+| [NPM Script Runner](https://github.com/syuchan1005/NPMScriptRunner) | 21 866 | 2017-12-26 |
+| [NSIS plugin](https://github.com/akrylysov/intellij-nsis) | 7 779 | 2015-03-29 |
 | [NSpek Integration](https://github.com/ghostbuster91/nspek-intellij-plugin) | 191 | 2018-05-05 |
-| [NUKE Support](https://github.com/nuke-build/resharper) | 588 | 2019-08-08 |
-| [NUnitJS](https://github.com/fmontanari/nunitjs) | 25 689 | 2013-10-18 |
-| [Name That Color](https://github.com/galex/name-that-color-intellij-plugin) | 4 491 | 2019-10-11 |
-| [Nana-Mybatis](https://github.com/damon4u/nana-mybatis) | 1 704 | 2018-11-02 |
+| [NUKE Support](https://github.com/nuke-build/resharper) | 591 | 2019-08-08 |
+| [NUnitJS](https://github.com/fmontanari/nunitjs) | 25 693 | 2013-10-18 |
+| [Name That Color](https://github.com/galex/name-that-color-intellij-plugin) | 4 501 | 2019-10-11 |
+| [Nana-Mybatis](https://github.com/damon4u/nana-mybatis) | 1 708 | 2018-11-02 |
 | [Nancy Support](https://github.com/citizenmatt/rider-nancy) | 71 | 2017-07-18 |
-| [NaoUnit](https://github.com/naoned/Plugin-PHPStorm-NaoUnit) | 299 | 2019-08-19 |
-| [Native Terminal](https://github.com/sburlyaev/IDEA-Native-Terminal-Plugin) | 44 484 | 2019-10-13 |
+| [NaoUnit](https://github.com/naoned/Plugin-PHPStorm-NaoUnit) | 301 | 2019-08-19 |
+| [Native Terminal](https://github.com/sburlyaev/IDEA-Native-Terminal-Plugin) | 44 543 | 2019-10-13 |
 | [NaviActionPad](https://plugins.jetbrains.com/files/1153/sourceCode.zip) | 511 | 2007-03-12 |
-| [Navigate From Literal](https://github.com/ishchenko/idea-navigate-from-literal) | 15 092 | 2014-04-17 |
-| [Navigate to URL](https://github.com/twadzins/idea-navigate-url-from-literal) | 1 051 | 2017-01-16 |
-| [Navigation Wheel](https://github.com/skydi17/navigation-wheel-plugin) | 409 | 2019-02-23 |
+| [Navigate From Literal](https://github.com/ishchenko/idea-navigate-from-literal) | 15 094 | 2014-04-17 |
+| [Navigate to URL](https://github.com/twadzins/idea-navigate-url-from-literal) | 1 054 | 2017-01-16 |
+| [Navigation Wheel](https://github.com/skydi17/navigation-wheel-plugin) | 412 | 2019-02-23 |
 | [Navigator extension for Google Web Toolkit](https://github.com/markiewb/idea-gwt-navigator-plugin) | 1 055 | 2017-11-15 |
-| [Nebular code snippets](https://github.com/shalinjames/intellij-nebular-snippets) | 633 | 2018-08-28 |
-| [Needs More Dojo](https://github.com/cefolger/needsmoredojo) | 21 357 | 2014-05-24 |
-| [Nemesis Application Development Platform](https://github.com/nemesis-software/nemesis-intellijidea-plugin) | 132 | 2019-08-30 |
-| [Neos Support](https://github.com/cvette/intellij-neos) | 5 315 | 2019-08-12 |
-| [Nested Brackets Colorer](http://github.com/ArtsiomCh/NestedBracketsColorer) | 13 325 | 2019-03-29 |
-| [NetBeans Keymap](https://github.com/JetBrains/intellij-community/tree/master/platform/platform-resources/src/keymaps) | 1 416 | 2019-10-30 |
-| [NetSuite Tools For WebStorm](https://github.com/Topher84/NetSuite-Tools-For-WebStorm) | 10 777 | 2018-10-02 |
+| [Nebular code snippets](https://github.com/shalinjames/intellij-nebular-snippets) | 635 | 2018-08-28 |
+| [Needs More Dojo](https://github.com/cefolger/needsmoredojo) | 21 359 | 2014-05-24 |
+| [Nemesis Application Development Platform](https://github.com/nemesis-software/nemesis-intellijidea-plugin) | 134 | 2019-08-30 |
+| [Neos Support](https://github.com/cvette/intellij-neos) | 5 318 | 2019-08-12 |
+| [Nested Brackets Colorer](http://github.com/ArtsiomCh/NestedBracketsColorer) | 13 338 | 2019-03-29 |
+| [NetBeans Keymap](https://github.com/JetBrains/intellij-community/tree/master/platform/platform-resources/src/keymaps) | 1 425 | 2019-10-30 |
+| [NetSuite Tools For WebStorm](https://github.com/Topher84/NetSuite-Tools-For-WebStorm) | 10 781 | 2018-10-02 |
 | [Netease Cloud Agents](https://github.com/richard1122/teamcity-netease-cloud-plugin) | 6 | 2019-01-30 |
 | [Netparker Cloud Scan](https://github.com/netsparker/Netsparker-Cloud-TeamCity-Plugin) | 17 | 2019-06-03 |
-| [Nette Tester](https://github.com/jiripudil/intellij-nette-tester) | 5 543 | 2017-06-28 |
-| [Nette factory interface generator](https://github.com/jiripudil/intellij-nette-factory-generator) | 3 426 | 2018-02-17 |
-| [Network](https://github.com/HotelsDotCom/network-plugin) | 3 537 | 2019-01-25 |
+| [Nette Tester](https://github.com/jiripudil/intellij-nette-tester) | 5 545 | 2017-06-28 |
+| [Nette factory interface generator](https://github.com/jiripudil/intellij-nette-factory-generator) | 3 427 | 2018-02-17 |
+| [Network](https://github.com/HotelsDotCom/network-plugin) | 3 538 | 2019-01-25 |
 | [Neuroph For Intellij](https://github.com/06needhamt/Neuroph-Intellij-Plugin) | 1 322 | 2017-09-20 |
 | [NewDataClassAction](https://github.com/enbandari/NewDataClassAction) | 972 | 2018-10-13 |
 | [Nextras Orm](https://github.com/nextras/orm-intellij) | 1 346 | 2019-08-14 |
-| [Niddler](https://github.com/icapps/niddler-ui) | 1 533 | 2019-10-22 |
-| [Night Owl Theme](https://github.com/xdrop/night-owl-jetbrains) | 89 527 | 2019-07-30 |
+| [Niddler](https://github.com/icapps/niddler-ui) | 1 537 | 2019-10-22 |
+| [Night Owl Theme](https://github.com/xdrop/night-owl-jetbrains) | 89 596 | 2019-07-30 |
 | [Nim Language Support](https://github.com/DeflatedPickle/intellij-nim) | 168 | 2018-01-20 |
-| [Nim language support](https://github.com/jhspetersson/idea-nim) | 1 673 | 2015-09-26 |
-| [NixIDEA](https://github.com/NixOS/nix-idea) | 2 914 | 2017-12-18 |
-| [No Namespace Providers](https://github.com/ReallyLiri/no-namespace-providers-rider-plugin) | 2 | 2019-10-29 |
-| [Node Security](https://github.com/hsz/idea-nodesecurity) | 7 083 | 2018-03-05 |
-| [NodeConfig](https://github.com/whitefire/nodeconfig) | 5 336 | 2018-04-15 |
+| [Nim language support](https://github.com/jhspetersson/idea-nim) | 1 674 | 2015-09-26 |
+| [NixIDEA](https://github.com/NixOS/nix-idea) | 2 919 | 2017-12-18 |
+| [No Namespace Providers](https://github.com/ReallyLiri/no-namespace-providers-rider-plugin) | 5 | 2019-10-29 |
+| [Node Security](https://github.com/hsz/idea-nodesecurity) | 7 090 | 2018-03-05 |
+| [NodeConfig](https://github.com/whitefire/nodeconfig) | 5 346 | 2018-04-15 |
 | [Non-Dairy Soy Plugin](https://github.com/Non-Dairy-Soy-Plugin/Non-Dairy-Soy-Plugin) | 33 684 | 2017-04-18 |
-| [Nongfu](https://github.com/mthli/Nongfu) | 139 | 2018-11-03 |
+| [Nongfu](https://github.com/mthli/Nongfu) | 140 | 2018-11-03 |
 | [Nopol-Plugin](https://github.com/SpoonLabs/nopol-ui-intellij) | 74 | 2016-12-09 |
-| [Nord](https://github.com/arcticicestudio/nord-jetbrains) | 51 584 | 2019-08-03 |
+| [Nord](https://github.com/arcticicestudio/nord-jetbrains) | 51 711 | 2019-08-03 |
 | [Notes-Plugin](https://github.com/albertpatterson/notes-plugin) | 170 | 2018-07-02 |
-| [Nots.io](https://github.com/notsio/idea) | 255 | 2019-03-01 |
+| [Nots.io](https://github.com/notsio/idea) | 257 | 2019-03-01 |
 | [NuGet support](https://github.com/JetBrains/teamcity-nuget-support) | 112 | 2016-10-06 |
-| [NutzCodeInsight](https://github.com/threefish/NutzCodeInsight/) | 2 314 | 2019-08-14 |
-| [NutzFw Code Generat](https://github.com/threefish/NutzFwCodeGenerat) | 285 | 2019-07-12 |
-| [Nuxeo](https://github.com/troger/nuxeo-intellij) | 1 434 | 2013-02-06 |
-| [Nyandroid Restorer](https://github.com/evant/NyandroidRestorer) | 1 253 | 2017-07-21 |
+| [NutzCodeInsight](https://github.com/threefish/NutzCodeInsight/) | 2 316 | 2019-08-14 |
+| [NutzFw Code Generat](https://github.com/threefish/NutzFwCodeGenerat) | 286 | 2019-07-12 |
+| [Nuxeo](https://github.com/troger/nuxeo-intellij) | 1 438 | 2013-02-06 |
+| [Nyandroid Restorer](https://github.com/evant/NyandroidRestorer) | 1 256 | 2017-07-21 |
 | [OCaml Support](https://plugins.jetbrains.com/files/4986/sourceCode.zip) | 4 286 | 2010-06-06 |
-| [OK, Gradle!](https://github.com/scana/ok-gradle) | 12 718 | 2018-10-23 |
-| [OS Gosu](https://github.com/gosu-lang/gosu-lang) | 6 258 | 2018-02-27 |
+| [OK, Gradle!](https://github.com/scana/ok-gradle) | 12 727 | 2018-10-23 |
+| [OS Gosu](https://github.com/gosu-lang/gosu-lang) | 6 262 | 2018-02-27 |
 | [OS Workflow Support](https://github.com/bradhandy/osworkflow-intellij-plugin) | 421 | 2019-05-24 |
-| [OSGi](https://github.com/JetBrains/intellij-plugins/tree/master/osmorc) | 42 900 | 2019-10-30 |
-| [OSGi Declarative Services Viewer](https://github.com/chilicat/declarative-services-viewer) | 2 992 | 2012-07-23 |
-| [OXID Plugin](https://github.com/Haehnchen/idea-php-oxid-plugin) | 4 739 | 2017-09-21 |
+| [OSGi](https://github.com/JetBrains/intellij-plugins/tree/master/osmorc) | 42 907 | 2019-10-30 |
+| [OSGi Declarative Services Viewer](https://github.com/chilicat/declarative-services-viewer) | 2 993 | 2012-07-23 |
+| [OXID Plugin](https://github.com/Haehnchen/idea-php-oxid-plugin) | 4 740 | 2017-09-21 |
 | [Object Calisthenics Analyzer](https://github.com/chairbender/intellij-object-calisthenics-analyzer) | 625 | 2015-12-17 |
-| [Objective-J](https://github.com/bedalton/cappuccino_plugin) | 924 | 2019-09-25 |
+| [Objective-J](https://github.com/bedalton/cappuccino_plugin) | 927 | 2019-09-25 |
 | [OctoPnP](https://github.com/skbkontur/OctoPnP) | 41 | 2016-11-14 |
 | [Octopus Deploy Build Trigger plugin](https://github.com/matt-richardson/teamcity-octopus-build-trigger-plugin) | 2 | 2016-10-06 |
-| [Octopus Deploy integration](https://github.com/OctopusDeploy/Octopus-TeamCity) | 4 921 | 2019-11-01 |
+| [Octopus Deploy integration](https://github.com/OctopusDeploy/Octopus-TeamCity) | 4 928 | 2019-11-01 |
 | [OctopusPuppet](https://github.com/Aqovia/OctopusPuppet) | 17 | 2016-11-29 |
 | [Odoo](https://github.com/firebitsnetwork/odoo-intellij) | 910 | 2019-10-28 |
-| [Odoo Autocompletion Support](https://github.com/wt-io-it/odoo-pycharm-plugin/) | 398 | 2019-10-10 |
-| [Ogurets - Cucumber for Dart](https://github.com/dart-ogurets/OguretsIntellij) | 829 | 2019-07-29 |
-| [OkHttpParamsGet](https://github.com/kingwang666/OkHttpParamsGet) | 1 730 | 2019-10-23 |
+| [Odoo Autocompletion Support](https://github.com/wt-io-it/odoo-pycharm-plugin/) | 404 | 2019-10-10 |
+| [Ogurets - Cucumber for Dart](https://github.com/dart-ogurets/OguretsIntellij) | 838 | 2019-07-29 |
+| [OkHttpParamsGet](https://github.com/kingwang666/OkHttpParamsGet) | 1 731 | 2019-10-23 |
 | [Okey-doke Support](https://github.com/s4nchez/okey-doke-idea) | 583 | 2017-09-27 |
 | [Old Town Workflow Plugin](https://github.com/old-town/workflow-phpstorm) | 82 | 2015-12-01 |
-| [One Dark theme](https://github.com/one-dark/jetbrains-one-dark-theme) | 211 683 | 2019-10-19 |
-| [OneDarkMonokai](https://github.com/keyvchan/OneDarkMonokai) | 2 299 | 2019-09-03 |
-| [OnlineSearch](https://github.com/maddouri/IntelliJ-OnlineSearch) | 5 076 | 2016-04-18 |
-| [Open Commit On GitHub](https://github.com/shiraji/open-commit-on-github) | 7 131 | 2016-06-09 |
+| [One Dark theme](https://github.com/one-dark/jetbrains-one-dark-theme) | 212 590 | 2019-10-19 |
+| [OneDarkMonokai](https://github.com/keyvchan/OneDarkMonokai) | 2 311 | 2019-09-03 |
+| [OnlineSearch](https://github.com/maddouri/IntelliJ-OnlineSearch) | 5 084 | 2016-04-18 |
+| [Open Commit On GitHub](https://github.com/shiraji/open-commit-on-github) | 7 137 | 2016-06-09 |
 | [Open Includes](https://github.com/talanb/open-include-ij-plugin) | 728 | 2016-01-19 |
-| [Open Terminal Here](https://github.com/BobZhao/OpenTerminalHere) | 4 980 | 2017-03-30 |
-| [Open Uploader](https://github.com/fingerart/Open-Uploader) | 1 200 | 2016-10-13 |
+| [Open Terminal Here](https://github.com/BobZhao/OpenTerminalHere) | 4 985 | 2017-03-30 |
+| [Open Uploader](https://github.com/fingerart/Open-Uploader) | 1 203 | 2016-10-13 |
 | [Open current Activity](https://github.com/BoD/OpenCurrentActivityIntelliJPlugin) | 2 532 | 2018-09-15 |
-| [Open in LightPaper](https://gitlab.com/skift/open-in-lightpaper) | 1 765 | 2014-08-01 |
-| [Open in Marked](https://github.com/vexus2/open-in-marked) | 5 203 | 2013-11-12 |
-| [Open in splitted tab](https://github.com/parallaxe/OpenInSplittedTab) | 6 371 | 2016-11-19 |
-| [Open in terminal](https://github.com/luktom/OpenInTerminal) | 18 103 | 2015-11-10 |
-| [OpenAPI Generator](https://github.com/jimschubert/intellij-openapi-generator/) | 47 673 | 2019-06-07 |
+| [Open in LightPaper](https://gitlab.com/skift/open-in-lightpaper) | 1 767 | 2014-08-01 |
+| [Open in Marked](https://github.com/vexus2/open-in-marked) | 5 205 | 2013-11-12 |
+| [Open in splitted tab](https://github.com/parallaxe/OpenInSplittedTab) | 6 376 | 2016-11-19 |
+| [Open in terminal](https://github.com/luktom/OpenInTerminal) | 18 117 | 2015-11-10 |
+| [OpenAPI Generator](https://github.com/jimschubert/intellij-openapi-generator/) | 47 688 | 2019-06-07 |
 | [OpenCms](https://github.com/mediaworx/opencms-intellijplugin) | 1 226 | 2018-06-12 |
 | [OpenFileCountWidget](https://github.com/deepakmarathe/EditorOpenFilesCountPlugin) | 91 | 2016-02-05 |
-| [OpenInDebuggex](https://github.com/johnlindquist/OpenInDebuggex-plugin) | 2 415 | 2013-06-01 |
+| [OpenInDebuggex](https://github.com/johnlindquist/OpenInDebuggex-plugin) | 2 417 | 2013-06-01 |
 | [OpenInIDEA](https://plugins.jetbrains.com/files/1741/sourceCode.zip) | 764 | 2007-11-05 |
 | [OpenJML/ESC](https://github.com/sgonschorowski/intellij-openjml) | 745 | 2018-08-29 |
-| [OpenNLP Models Trainer](https://bitbucket.org/sannsyn/opennlp-models-trainer/src/master/) | 476 | 2019-07-25 |
+| [OpenNLP Models Trainer](https://bitbucket.org/sannsyn/opennlp-models-trainer/src/master/) | 478 | 2019-07-25 |
 | [OpenOCD + STM32CubeMX support for ARM embedded development](https://github.com/elmot/clion-embedded-arm) | 6 831 | 2019-01-29 |
-| [OpenResty Lua Support](https://github.com/Deadleg/idea-openresty-lua-support) | 14 034 | 2017-09-15 |
+| [OpenResty Lua Support](https://github.com/Deadleg/idea-openresty-lua-support) | 14 043 | 2017-09-15 |
 | [OpenSCAD Language Support](https://github.com/ncsaba/idea-openscad) | 164 | 2018-11-02 |
-| [OpenShift Connector by Red Hat](https://github.com/redhat-developer/intellij-openshift-connector) | 2 784 | 2019-10-29 |
-| [OpenWith](https://plugins.jetbrains.com/files/50/sourceCode.zip) | 1 454 | 2007-09-09 |
-| [Optic](https://github.com/opticdev/optic-intellij-platform-plugin) | 607 | 2018-06-27 |
+| [OpenShift Connector by Red Hat](https://github.com/redhat-developer/intellij-openshift-connector) | 2 812 | 2019-10-29 |
+| [OpenWith](https://plugins.jetbrains.com/files/50/sourceCode.zip) | 1 455 | 2007-09-09 |
+| [Optic](https://github.com/opticdev/optic-intellij-platform-plugin) | 609 | 2018-06-27 |
 | [Optimize Imports For Scope](https://github.com/ahubold/intellij-optimize-imports-for-scope) | 305 | 2016-02-05 |
 | [Options completion plugin](https://github.com/sunary/options-completion-phpstorm-plugin) | 977 | 2017-06-15 |
-| [Org4Idea](https://github.com/skuro) | 14 838 | 2018-05-12 |
-| [OrmliteRawSqlGenerator](https://github.com/andyken/android-ormlite-rawsql-generator/tree/master) | 1 403 | 2017-02-16 |
-| [Oro PHPStorm Plugin](https://github.com/orocrm/oro-phpstorm-plugin) | 8 188 | 2018-11-22 |
+| [Org4Idea](https://github.com/skuro) | 14 844 | 2018-05-12 |
+| [OrmliteRawSqlGenerator](https://github.com/andyken/android-ormlite-rawsql-generator/tree/master) | 1 405 | 2017-02-16 |
+| [Oro PHPStorm Plugin](https://github.com/orocrm/oro-phpstorm-plugin) | 8 195 | 2018-11-22 |
 | [OtrosJumpToCode](https://github.com/otros-systems/OtrosJumpToCode) | 2 168 | 2018-02-18 |
 | [Output Link Filter](https://github.com/minchenkov/output-link-filter) | 2 051 | 2013-02-16 |
 | [Ouzo framework plugin](https://github.com/letsdrink/ouzo-phpstorm-plugin/tree/master) | 731 | 2016-08-22 |
 | [OverOps](https://github.com/takipi/teamcity-overops-plugin) | 13 | 2019-07-16 |
-| [Override File Language](https://github.com/mfedko/idea-file-language) | 3 758 | 2018-04-04 |
-| [Oxidize](https://bitbucket.org/techern/oxidize) | 8 994 | 2015-07-03 |
-| [P4 Plugin](https://github.com/TakeshiTseng/IntelliJ-P4-Plugin) | 804 | 2018-10-05 |
-| [PDFViewer](https://www.idrsolutions.com/) | 6 911 | 2013-02-27 |
+| [Override File Language](https://github.com/mfedko/idea-file-language) | 3 761 | 2018-04-04 |
+| [Oxidize](https://bitbucket.org/techern/oxidize) | 9 007 | 2015-07-03 |
+| [P4 Plugin](https://github.com/TakeshiTseng/IntelliJ-P4-Plugin) | 806 | 2018-10-05 |
+| [PDFViewer](https://www.idrsolutions.com/) | 6 912 | 2013-02-27 |
 | [PGY Upload Plugin](https://github.com/taojiujiu/PgyerASDialogPlugin) | 4 340 | 2017-08-04 |
 | [PHP 1Up!](https://github.com/axelcostaspena/php-1up) | 10 937 | 2014-10-12 |
-| [PHP Advanced AutoComplete](https://github.com/King2500/idea-php-advanced-autocomplete) | 202 926 | 2019-04-22 |
-| [PHP Annotations](https://github.com/Haehnchen/idea-php-annotation-plugin) | 1 572 885 | 2019-09-04 |
-| [PHP Class Templates](https://github.com/aurimasniekis/idea-php-class-templates/) | 7 172 | 2017-04-19 |
-| [PHP Code Generator +](https://github.com/KristijanKanalas/PHPCodeGeneratorPlus) | 458 | 2019-06-20 |
-| [PHP Foldings](https://github.com/wbars/PHPFoldings) | 2 914 | 2018-05-27 |
-| [PHP Generics](https://github.com/Haehnchen/idea-php-generics-plugin) | 411 | 2019-07-21 |
-| [PHP PSR-4 Namespace Detector](https://github.com/aurimasniekis/idea-php-psr4-namespace-detector) | 16 219 | 2017-04-20 |
-| [PHP RegExp Support](https://github.com/dryabov/phpregexp) | 28 928 | 2019-08-21 |
-| [PHP Toolbox](https://github.com/Haehnchen/idea-php-toolbox) | 191 713 | 2019-08-14 |
-| [PHP composer.json support](https://github.com/psliwa/idea-composer-plugin) | 467 581 | 2019-10-31 |
+| [PHP Advanced AutoComplete](https://github.com/King2500/idea-php-advanced-autocomplete) | 202 969 | 2019-04-22 |
+| [PHP Annotations](https://github.com/Haehnchen/idea-php-annotation-plugin) | 1 574 000 | 2019-09-04 |
+| [PHP Class Templates](https://github.com/aurimasniekis/idea-php-class-templates/) | 7 178 | 2017-04-19 |
+| [PHP Code Generator +](https://github.com/KristijanKanalas/PHPCodeGeneratorPlus) | 462 | 2019-06-20 |
+| [PHP Foldings](https://github.com/wbars/PHPFoldings) | 2 918 | 2018-05-27 |
+| [PHP Generics](https://github.com/Haehnchen/idea-php-generics-plugin) | 413 | 2019-07-21 |
+| [PHP PSR-4 Namespace Detector](https://github.com/aurimasniekis/idea-php-psr4-namespace-detector) | 16 231 | 2017-04-20 |
+| [PHP RegExp Support](https://github.com/dryabov/phpregexp) | 28 945 | 2019-08-21 |
+| [PHP Toolbox](https://github.com/Haehnchen/idea-php-toolbox) | 191 830 | 2019-08-14 |
+| [PHP composer.json support](https://github.com/psliwa/idea-composer-plugin) | 468 774 | 2019-10-31 |
 | [PHP for IDEA 8](https://plugins.jetbrains.com/files/1861/sourceCode.zip) | 1 942 | 2009-02-06 |
-| [PHP inheritDoc helper](https://github.com/thanosp/phpstorm-inheritdoc) | 20 369 | 2018-02-11 |
-| [PHP latest](https://github.com/artspb/idea-php-latest-plugin) | 13 312 | 2018-04-09 |
-| [PHP-DI plugin](https://github.com/pulyaevskiy/phpstorm-phpdi) | 10 036 | 2015-10-21 |
+| [PHP inheritDoc helper](https://github.com/thanosp/phpstorm-inheritdoc) | 20 370 | 2018-02-11 |
+| [PHP latest](https://github.com/artspb/idea-php-latest-plugin) | 13 323 | 2018-04-09 |
+| [PHP-DI plugin](https://github.com/pulyaevskiy/phpstorm-phpdi) | 10 043 | 2015-10-21 |
 | [PHPUnit Autocomplete Assistant](https://github.com/maxfilatov/phpuaca/) | 24 933 | 2016-07-26 |
-| [PHPUnit Enhancement](https://github.com/Haehnchen/idea-php-phpunit-plugin) | 29 628 | 2017-12-31 |
-| [PIT mutation testing Idea plugin](https://github.com/mjedynak/pit-idea-plugin) | 23 950 | 2019-03-09 |
-| [PMDPlugin](https://github.com/amitdev/PMD-Intellij) | 192 302 | 2019-08-14 |
-| [POJO Generator](https://github.com/iNdieboyjeff/SimplePOJO-IntelliJ) | 19 856 | 2015-12-23 |
-| [POJO Generator](https://github.com/Jukien/POJO-Generator) | 709 | 2019-09-16 |
-| [POJO to Json](https://github.com/organics2016/pojo2json.git) | 1 732 | 2019-08-14 |
+| [PHPUnit Enhancement](https://github.com/Haehnchen/idea-php-phpunit-plugin) | 29 641 | 2017-12-31 |
+| [PIT mutation testing Idea plugin](https://github.com/mjedynak/pit-idea-plugin) | 23 954 | 2019-03-09 |
+| [PMDPlugin](https://github.com/amitdev/PMD-Intellij) | 192 333 | 2019-08-14 |
+| [POJO Generator](https://github.com/iNdieboyjeff/SimplePOJO-IntelliJ) | 19 862 | 2015-12-23 |
+| [POJO Generator](https://github.com/Jukien/POJO-Generator) | 712 | 2019-09-16 |
+| [POJO to Json](https://github.com/organics2016/pojo2json.git) | 1 734 | 2019-08-14 |
 | [PPDai Logging Plugin](https://gitlab.com/ppdai-booster/ppdai-logging-intellij-plugin) | 93 | 2017-10-10 |
 | [PRADO Plugin](https://github.com/david0/idea-prado-plugin) | 10 649 | 2015-06-23 |
 | [PUTVT](https://github.com/xcegin/PUTVT) | 2 386 | 2017-06-17 |
-| [PYPL index for Kotlin](https://github.com/Vassiliy-Kudryashov/KotlinPYPL) | 1 963 | 2019-06-05 |
+| [PYPL index for Kotlin](https://github.com/Vassiliy-Kudryashov/KotlinPYPL) | 1 965 | 2019-06-05 |
 | [PageObject evaluator](https://github.com/bjorm/PageObjectEvaluator) | 2 152 | 2014-12-29 |
-| [PainPoints](https://github.com/RoboPlugins/PainPoints) | 807 | 2016-03-29 |
+| [PainPoints](https://github.com/RoboPlugins/PainPoints) | 809 | 2016-03-29 |
 | [Painless Transact SQL](https://github.com/scrappyCoco/Painless-Transact-SQL) | 4 | 2019-10-09 |
 | [PairHero](https://github.com/marybel/pairHeroIntelliJ) | 784 | 2014-06-08 |
-| [Panda Profiler](https://bitbucket.org/rastislavpapp/panda/src) | 7 850 | 2018-10-29 |
+| [Panda Profiler](https://bitbucket.org/rastislavpapp/panda/src) | 7 854 | 2018-10-29 |
 | [Paneful](https://github.com/graearea/Paneful) | 179 | 2017-09-12 |
-| [Pants Support](https://github.com/pantsbuild/intellij-pants-plugin) | 23 654 | 2019-10-07 |
+| [Pants Support](https://github.com/pantsbuild/intellij-pants-plugin) | 23 668 | 2019-10-07 |
 | [Papago translator](https://github.com/jin5u/papago-translator) | 40 | 2018-05-29 |
 | [Parameter Formatter Plugin](https://github.com/chosegood/intellij-formatter-plugin) | 240 | 2018-04-16 |
 | [Parasoft Findings](https://github.com/parasoft/parasoft-findings-teamcity) | 66 | 2017-08-19 |
-| [Parcelable Code Generator(for kotlin)](https://github.com/nekocode/android-parcelable-intellij-plugin-kotlin) | 49 674 | 2017-08-08 |
-| [Parcelable Code Generator(for kotlin)](https://github.com/wznshuai/android-parcelable-intellij-plugin-kotlin) | 2 344 | 2017-06-28 |
+| [Parcelable Code Generator(for kotlin)](https://github.com/nekocode/android-parcelable-intellij-plugin-kotlin) | 49 688 | 2017-08-08 |
+| [Parcelable Code Generator(for kotlin)](https://github.com/wznshuai/android-parcelable-intellij-plugin-kotlin) | 2 345 | 2017-06-28 |
 | [ParcelablePlease](https://github.com/sockeqwe/ParcelablePlease) | 1 559 | 2016-05-15 |
 | [PargmaMarkPlugin](https://github.com/legendmohe/PargmaMarkPlugin) | 77 | 2018-04-05 |
 | [Parser](https://plugins.jetbrains.com/files/1009/sourceCode.zip) | 697 | 2006-11-13 |
 | [Pasta](https://github.com/ioncodes/Pasta/tree/master/IntelliJPasta) | 135 | 2016-09-13 |
-| [Paste Images into Markdown](https://github.com/holgerbrandl/pasteimages) | 16 991 | 2019-08-16 |
+| [Paste Images into Markdown](https://github.com/holgerbrandl/pasteimages) | 17 005 | 2019-08-16 |
 | [Paste Multiple](https://github.com/osmedile/IDEAplugin-PasteMultiple) | 514 | 2008-09-18 |
-| [Pastebin](https://github.com/YuriDenison/Pastebin-Intellij) | 7 829 | 2012-10-22 |
+| [Pastebin](https://github.com/YuriDenison/Pastebin-Intellij) | 7 832 | 2012-10-22 |
 | [Pastebin Unofficial](https://github.com/Thibstars/Pastebin-Unofficial) | 72 | 2016-12-27 |
-| [Pastel-licious](https://github.com/snowe2010/pastel-licious) | 2 415 | 2019-04-17 |
+| [Pastel-licious](https://github.com/snowe2010/pastel-licious) | 2 422 | 2019-04-17 |
 | [Patch Ide](https://github.com/dmalch/PatchIde) | 5 640 | 2012-07-26 |
-| [Path Title](https://github.com/hhariri/path-title) | 985 | 2017-08-26 |
-| [Path hide](https://github.com/cwirz/idea-path-hide) | 3 702 | 2016-05-30 |
-| [Pebble](https://github.com/bjansen/pebble-intellij) | 5 859 | 2019-07-19 |
+| [Path Title](https://github.com/hhariri/path-title) | 988 | 2017-08-26 |
+| [Path hide](https://github.com/cwirz/idea-path-hide) | 3 708 | 2016-05-30 |
+| [Pebble](https://github.com/bjansen/pebble-intellij) | 5 867 | 2019-07-19 |
 | [Pegdown Doclet for IDEA](https://github.com/Abnaxos/pegdown-doclet) | 4 303 | 2017-01-07 |
 | [PerfCake Plugin for IDEA](https://github.com/PerfCake/pc4idea) | 153 | 2015-06-25 |
-| [Perforce IDEA Community Integration](https://github.com/groboclown/p4ic4idea) | 37 733 | 2019-08-01 |
-| [Perl](https://github.com/Camelcade/Perl5-IDEA) | 392 111 | 2019-10-16 |
-| [Perl Docker Support](https://github.com/Camelcade/Perl5-IDEA) | 2 619 | 2019-09-05 |
-| [Perl WSL Support](https://github.com/Camelcade/Perl5-IDEA) | 2 020 | 2019-09-05 |
-| [PerlRun](https://github.com/d0as8/PerlRun) | 3 856 | 2015-09-15 |
-| [PermissionsDispatcher plugin](https://github.com/shiraji/permissions-dispatcher-plugin) | 38 838 | 2018-07-16 |
-| [Personal Build Toggle](https://github.com/novemberdobby/personalToggle) | 12 | 2019-06-09 |
-| [Personal Time Tracking](https://github.com/JetBrains/youtrack-personal-timetracking-widget) | 4 354 | 2019-04-24 |
-| [Pest](https://github.com/pest-parser/intellij-pest/) | 3 464 | 2019-09-26 |
-| [Pets](https://github.com/mariyadavydova/youtrack-cats-widget) | 5 448 | 2018-12-29 |
+| [Perforce IDEA Community Integration](https://github.com/groboclown/p4ic4idea) | 37 740 | 2019-08-01 |
+| [Perl](https://github.com/Camelcade/Perl5-IDEA) | 392 355 | 2019-10-16 |
+| [Perl Docker Support](https://github.com/Camelcade/Perl5-IDEA) | 2 622 | 2019-09-05 |
+| [Perl WSL Support](https://github.com/Camelcade/Perl5-IDEA) | 2 023 | 2019-09-05 |
+| [PerlRun](https://github.com/d0as8/PerlRun) | 3 860 | 2015-09-15 |
+| [PermissionsDispatcher plugin](https://github.com/shiraji/permissions-dispatcher-plugin) | 38 846 | 2018-07-16 |
+| [Personal Build Toggle](https://github.com/novemberdobby/personalToggle) | 13 | 2019-06-09 |
+| [Personal Time Tracking](https://github.com/JetBrains/youtrack-personal-timetracking-widget) | 4 359 | 2019-04-24 |
+| [Pest](https://github.com/pest-parser/intellij-pest/) | 3 469 | 2019-09-26 |
+| [Pets](https://github.com/mariyadavydova/youtrack-cats-widget) | 5 452 | 2018-12-29 |
 | [Phabricator Reporter](https://github.com/x-lab-ltd/Teamcity-Phabricator-Plugin) | 10 | 2019-06-21 |
-| [Phabricator Tasks Provider](https://github.com/mmm444/ijphab/) | 1 278 | 2018-01-18 |
-| [Phalcon 4 Autocomplete](https://github.com/ruudboon/phpstorm-phalcon-4-autocomplete) | 576 | 2019-10-26 |
-| [Phalcon auto-complete](https://github.com/fossapps/PhpStorm-Phalcon-Autocomplete.git) | 20 522 | 2018-05-30 |
-| [Phaser Chains](https://bitbucket.org/boniatillo/phaserchains) | 2 008 | 2015-04-04 |
-| [PhoneGap](https://github.com/phonegap/phonegap-intellij-plugin) | 3 230 | 2017-04-28 |
-| [PhoneGap/Cordova](https://github.com/JetBrains/intellij-plugins/tree/master/phoneGap) | 316 666 | 2019-10-30 |
-| [Php Inspections (EA Extended)](https://github.com/kalessil/phpinspectionsea) | 636 343 | 2019-10-16 |
-| [PhpClean](https://github.com/funivan/PhpClean) | 5 885 | 2019-03-18 |
-| [PhpMetrics](https://github.com/phpmetrics/PhpMetrics-jetbrains) | 25 661 | 2014-07-11 |
-| [PhpStorm Workshop](https://github.com/JetBrains/phpstorm-workshop) | 7 | 2019-10-30 |
+| [Phabricator Tasks Provider](https://github.com/mmm444/ijphab/) | 1 280 | 2018-01-18 |
+| [Phalcon 4 Autocomplete](https://github.com/ruudboon/phpstorm-phalcon-4-autocomplete) | 578 | 2019-10-26 |
+| [Phalcon auto-complete](https://github.com/fossapps/PhpStorm-Phalcon-Autocomplete.git) | 20 528 | 2018-05-30 |
+| [Phaser Chains](https://bitbucket.org/boniatillo/phaserchains) | 2 009 | 2015-04-04 |
+| [PhoneGap](https://github.com/phonegap/phonegap-intellij-plugin) | 3 231 | 2017-04-28 |
+| [PhoneGap/Cordova](https://github.com/JetBrains/intellij-plugins/tree/master/phoneGap) | 316 762 | 2019-10-30 |
+| [Php Inspections (EA Extended)](https://github.com/kalessil/phpinspectionsea) | 636 624 | 2019-10-16 |
+| [PhpClean](https://github.com/funivan/PhpClean) | 5 895 | 2019-03-18 |
+| [PhpMetrics](https://github.com/phpmetrics/PhpMetrics-jetbrains) | 25 674 | 2014-07-11 |
+| [PhpStorm Workshop](https://github.com/JetBrains/phpstorm-workshop) | 8 | 2019-10-30 |
 | [PhraseApp](https://github.com/phrase/PhraseApp-AndroidStudio) | 5 153 | 2018-04-06 |
-| [Pig](https://github.com/rmelick/intellij-pig-1) | 47 749 | 2015-03-21 |
+| [Pig](https://github.com/rmelick/intellij-pig-1) | 47 756 | 2015-03-21 |
 | [PinNote](https://github.com/BigTows/PinNote) | 1 650 | 2019-03-29 |
 | [Pine Spec](https://github.com/brian-watkins/pine-intellij-plugin) | 15 | 2017-11-27 |
-| [Pipe Table Formatter](https://github.com/anton-dev-ua/PipeTableFormatter) | 11 480 | 2015-12-27 |
-| [Pipeprofen](https://github.com/profbear/pipeprofen) | 827 | 2018-11-02 |
-| [PlantUML Syntax Check](https://github.com/Stefku/intellij-plantuml-syntaxcheck) | 17 541 | 2013-01-28 |
-| [PlantUML integration](https://github.com/esteinberg/plantuml4idea) | 920 478 | 2019-10-29 |
-| [Play Routes](https://github.com/tomas-milata/intelliroutes) | 9 657 | 2019-07-03 |
-| [Plugin Developer's Toolbox](https://github.com/vsch/PluginDevelopersToolbox) | 2 517 | 2018-11-03 |
+| [Pipe Table Formatter](https://github.com/anton-dev-ua/PipeTableFormatter) | 11 486 | 2015-12-27 |
+| [Pipeprofen](https://github.com/profbear/pipeprofen) | 829 | 2018-11-02 |
+| [PlantUML Syntax Check](https://github.com/Stefku/intellij-plantuml-syntaxcheck) | 17 549 | 2013-01-28 |
+| [PlantUML integration](https://github.com/esteinberg/plantuml4idea) | 921 362 | 2019-10-29 |
+| [Play Routes](https://github.com/tomas-milata/intelliroutes) | 9 662 | 2019-07-03 |
+| [Plugin Developer's Toolbox](https://github.com/vsch/PluginDevelopersToolbox) | 2 521 | 2018-11-03 |
 | [Plugin Packer](https://plugins.jetbrains.com/files/1017/sourceCode.zip) | 2 632 | 2009-10-15 |
-| [PluginBox](https://github.com/yinzijiao/PluginBox) | 1 283 | 2017-05-31 |
+| [PluginBox](https://github.com/yinzijiao/PluginBox) | 1 285 | 2017-05-31 |
 | [PluginErrorReportSubmitter](https://plugins.jetbrains.com/files/1209/sourceCode.zip) | 571 | 2007-02-10 |
 | [PluginUpdateNotifier](https://plugins.jetbrains.com/files/1247/sourceCode.zip) | 6 406 | 2007-11-07 |
 | [PluginUpdateNotifier 10](https://plugins.jetbrains.com/files/5850/sourceCode.zip) | 818 | 2010-11-11 |
 | [PluginUpdateNotifier 9](https://plugins.jetbrains.com/files/5853/sourceCode.zip) | 39 | 2010-11-11 |
 | [Plugins_ykfs](https://github.com/ykfs/IDEA_Plugins) | 64 | 2016-07-13 |
-| [PocketMine-MP Library](https://github.com/pmmp/PocketMine-MP) | 683 | 2019-04-23 |
-| [Pojo Builder](https://github.com/asklyushkin/pojobuilder) | 1 026 | 2019-03-30 |
+| [PocketMine-MP Library](https://github.com/pmmp/PocketMine-MP) | 686 | 2019-04-23 |
+| [Pojo Builder](https://github.com/asklyushkin/pojobuilder) | 1 027 | 2019-03-30 |
 | [Polopoly Importer](https://github.com/wimsymons/intellij-ppimport) | 387 | 2016-09-06 |
-| [Polymer Snippets](https://github.com/ifahrentholz/intellij-polymer-live-templates) | 2 767 | 2017-04-18 |
-| [Pom sorter](https://github.com/it-crowd/pom-sorter) | 5 881 | 2014-05-19 |
-| [Pomodoro-tm](https://github.com/dkandalov/pomodoro-tm) | 31 000 | 2017-11-22 |
-| [Pony](https://github.com/pbuda/intellij-pony) | 436 | 2015-09-25 |
+| [Polymer Snippets](https://github.com/ifahrentholz/intellij-polymer-live-templates) | 2 770 | 2017-04-18 |
+| [Pom sorter](https://github.com/it-crowd/pom-sorter) | 5 882 | 2014-05-19 |
+| [Pomodoro-tm](https://github.com/dkandalov/pomodoro-tm) | 31 003 | 2017-11-22 |
+| [Pony](https://github.com/pbuda/intellij-pony) | 437 | 2015-09-25 |
 | [PonyTail](https://github.com/i17c/PonyTail) | 345 | 2015-09-01 |
 | [Portable artifact link generator](https://github.com/novemberdobby/artifactLinkGen) | 11 | 2019-06-23 |
-| [Post to Instacode](https://github.com/Eugeny/instacode-intellij-plugin) | 2 537 | 2013-03-11 |
-| [PostCSS](https://github.com/JetBrains/intellij-plugins/tree/master/postcss) | 666 796 | 2019-10-30 |
-| [Postfix Completion](https://github.com/controlflow/intellij-postfix) | 3 590 | 2013-12-17 |
+| [Post to Instacode](https://github.com/Eugeny/instacode-intellij-plugin) | 2 540 | 2013-03-11 |
+| [PostCSS](https://github.com/JetBrains/intellij-plugins/tree/master/postcss) | 667 464 | 2019-10-30 |
+| [Postfix Completion](https://github.com/controlflow/intellij-postfix) | 3 591 | 2013-12-17 |
 | [Postfix completion templates for the Twig template language](https://github.com/cedricziel/idea-twig-postfix-completion) | 614 | 2017-11-16 |
-| [Power Mode II](https://github.com/axaluss/power-mode-intellij-plugin) | 165 348 | 2019-03-16 |
-| [Power mode](https://github.com/baptistemesta/power-mode-intellij-plugin) | 6 055 | 2016-03-28 |
-| [PowerMouse](https://bitbucket.org/batrdmi/power-mouse) | 6 879 | 2019-07-17 |
-| [PowerShell](https://github.com/ant-druha/intellij-powershell) | 88 642 | 2019-05-23 |
-| [Pre Commit Hook Plugin](https://github.com/yahely/PreCommitHookPlugin) | 8 160 | 2018-03-17 |
+| [Power Mode II](https://github.com/axaluss/power-mode-intellij-plugin) | 165 430 | 2019-03-16 |
+| [Power mode](https://github.com/baptistemesta/power-mode-intellij-plugin) | 6 056 | 2016-03-28 |
+| [PowerMouse](https://bitbucket.org/batrdmi/power-mouse) | 6 882 | 2019-07-17 |
+| [PowerShell](https://github.com/ant-druha/intellij-powershell) | 89 026 | 2019-11-03 |
+| [Pre Commit Hook Plugin](https://github.com/yahely/PreCommitHookPlugin) | 8 163 | 2018-03-17 |
 | [Prepend Story Number](https://github.com/sairic/storyprependplugin) | 24 | 2018-11-05 |
-| [Presentation Assistant](https://github.com/chashnikov/IntelliJ-presentation-assistant) | 154 583 | 2018-12-05 |
-| [Preserve Layout Plugin](https://github.com/vduseev/preserve-layout-plugin/blob/master/LICENSE) | 1 366 | 2017-10-18 |
-| [Prettier](https://github.com/JetBrains/intellij-plugins/tree/master/prettierJS/) | 212 924 | 2019-10-30 |
-| [Prettify Python](https://github.com/meanmail/prettify-python-plugin) | 9 488 | 2019-07-27 |
+| [Presentation Assistant](https://github.com/chashnikov/IntelliJ-presentation-assistant) | 154 669 | 2018-12-05 |
+| [Preserve Layout Plugin](https://github.com/vduseev/preserve-layout-plugin/blob/master/LICENSE) | 1 369 | 2017-10-18 |
+| [Prettier](https://github.com/JetBrains/intellij-plugins/tree/master/prettierJS/) | 213 188 | 2019-10-30 |
+| [Prettify Python](https://github.com/meanmail/prettify-python-plugin) | 9 524 | 2019-07-27 |
 | [ProGuard Unscramble Plugin](http://java.sstiller.de/proguard/ks-proguard_1.0_src.zip) | 4 407 | 2009-02-22 |
 | [Problems View](https://plugins.jetbrains.com/files/928/sourceCode.zip) | 1 345 | 2006-10-25 |
-| [Programmer Motivator: Chaoyue Yang(超越鼓励师)](https://github.com/FantasticMao/ycy-intellij-plugin) | 5 046 | 2019-05-24 |
-| [Proguard Unscramble](https://github.com/Chimerapps/intellij-proguard-unscramble) | 391 | 2019-02-13 |
-| [Project Label](https://github.com/drinchev/project-label) | 4 771 | 2019-10-18 |
-| [Project Set Loader](https://github.com/Bewalticus/ProjectSetLoader) | 2 679 | 2013-04-09 |
-| [Project Status](https://github.com/JetBrains/teamcity-project-status-widget) | 981 | 2019-10-15 |
-| [Project Team](https://github.com/JetBrains/hub-project-team-widget) | 32 274 | 2019-09-16 |
-| [Properties Compare](https://github.com/flslkxtc/propertiescompare-plugin) | 367 | 2018-01-18 |
-| [Properties to YAML Converter](https://github.com/Codearte/props2yaml-idea-plugin) | 29 265 | 2016-03-29 |
-| [Protein - Kotlin code generator for Retrofit2 and RxJava2 based on Swagger](https://github.com/AdevintaSpain/Protein) | 3 839 | 2019-10-28 |
+| [Programmer Motivator: Chaoyue Yang(超越鼓励师)](https://github.com/FantasticMao/ycy-intellij-plugin) | 5 049 | 2019-05-24 |
+| [Proguard Unscramble](https://github.com/Chimerapps/intellij-proguard-unscramble) | 393 | 2019-02-13 |
+| [Project Label](https://github.com/drinchev/project-label) | 4 782 | 2019-10-18 |
+| [Project Set Loader](https://github.com/Bewalticus/ProjectSetLoader) | 2 682 | 2013-04-09 |
+| [Project Status](https://github.com/JetBrains/teamcity-project-status-widget) | 982 | 2019-10-15 |
+| [Project Team](https://github.com/JetBrains/hub-project-team-widget) | 32 278 | 2019-09-16 |
+| [Properties Compare](https://github.com/flslkxtc/propertiescompare-plugin) | 369 | 2018-01-18 |
+| [Properties to YAML Converter](https://github.com/Codearte/props2yaml-idea-plugin) | 29 298 | 2016-03-29 |
+| [Protein - Kotlin code generator for Retrofit2 and RxJava2 based on Swagger](https://github.com/AdevintaSpain/Protein) | 3 844 | 2019-10-28 |
 | [Proto Class Generator](https://github.com/Liu-Kai-1991/protogen) | 1 445 | 2018-12-13 |
-| [Protobuf Support](https://github.com/protostuff/protobuf-jetbrains-plugin) | 664 645 | 2019-03-12 |
+| [Protobuf Support](https://github.com/protostuff/protobuf-jetbrains-plugin) | 665 173 | 2019-03-12 |
 | [Protostuff Tag Annotator](https://github.com/DushmanthaBandaranayake/protostuff-annotator) | 344 | 2018-11-27 |
-| [PsiViewer](https://github.com/cmf/psiviewer/) | 91 778 | 2019-10-16 |
-| [Pudelek plugin for Intellij IDEA](https://github.com/meshuga/PudelekPlugin) | 1 066 | 2015-03-12 |
+| [PsiViewer](https://github.com/cmf/psiviewer/) | 91 790 | 2019-10-16 |
+| [Pudelek plugin for Intellij IDEA](https://github.com/meshuga/PudelekPlugin) | 1 068 | 2015-03-12 |
 | [Pull Request Extra Information](https://github.com/Nicologies/PrExtras) | 188 | 2017-02-19 |
 | [Pull up method refactoring extension](https://github.com/Julien-Cohen/pullupgen) | 898 | 2016-05-18 |
-| [Purescript Plugin](https://github.com/ikarienator/pure-idea) | 2 468 | 2015-01-24 |
+| [Purescript Plugin](https://github.com/ikarienator/pure-idea) | 2 473 | 2015-01-24 |
 | [Purescript language plugin](https://github.com/intellij-purescript/intellij-purescript) | 134 | 2017-11-16 |
 | [Puzzle](https://plugins.jetbrains.com/files/1187/sourceCode.zip) | 583 | 2006-10-30 |
-| [Py.test support](https://github.com/uriyyo/py.test-pycharm-plugin) | 1 673 | 2019-06-20 |
-| [PyCharm cell mode](https://github.com/julienr/pycharm-cellmode) | 12 964 | 2019-03-31 |
-| [PySynthetic](https://github.com/jhominal/pysynthetic-intellij) | 1 339 | 2019-05-12 |
-| [PyVenv Manage](https://github.com/nokia/PyVenvManage) | 4 977 | 2019-05-20 |
+| [Py.test support](https://github.com/uriyyo/py.test-pycharm-plugin) | 1 674 | 2019-06-20 |
+| [PyCharm cell mode](https://github.com/julienr/pycharm-cellmode) | 12 968 | 2019-03-31 |
+| [PySynthetic](https://github.com/jhominal/pysynthetic-intellij) | 1 341 | 2019-05-12 |
+| [PyVenv Manage](https://github.com/nokia/PyVenvManage) | 4 987 | 2019-05-20 |
 | [PyVmMonitor PyCharm integration](https://github.com/fabioz/pyvmmonitor-pycharm) | 2 904 | 2015-04-14 |
-| [Pydantic](https://github.com/koxudaxi/pydantic-pycharm-plugin) | 1 079 | 2019-10-24 |
-| [Pylint](https://github.com/leinardi/pylint-pycharm) | 47 772 | 2019-09-15 |
-| [Python Annotations](https://github.com/meanmail/PyAnnotations) | 6 284 | 2019-07-27 |
+| [Pydantic](https://github.com/koxudaxi/pydantic-pycharm-plugin) | 1 083 | 2019-10-24 |
+| [Pylint](https://github.com/leinardi/pylint-pycharm) | 47 848 | 2019-09-15 |
+| [Python Annotations](https://github.com/meanmail/PyAnnotations) | 6 314 | 2019-07-27 |
 | [Python Enhancements](https://github.com/andreisilviudragnea/PythonDCE) | 7 355 | 2017-12-24 |
-| [Python Runner](https://github.com/leo-from-spb/teamcity-python) | 2 685 | 2016-10-06 |
-| [QAssist](https://github.com/sakkeerhussain/QAssist) | 1 187 | 2017-09-21 |
+| [Python Runner](https://github.com/leo-from-spb/teamcity-python) | 2 686 | 2016-10-06 |
+| [QAssist](https://github.com/sakkeerhussain/QAssist) | 1 188 | 2017-09-21 |
 | [QEMU for CLion](https://github.com/merskip/qemu-for-clion) | 295 | 2018-02-10 |
-| [QML support](https://github.com/kropp/intellij-qml/) | 11 247 | 2019-04-25 |
-| [Qlang](https://github.com/bingohuang/qlang-idea-plugin) | 233 | 2016-08-12 |
-| [Quaty-Helper](https://github.com/BeiKeJieDeLiuLangMao/Quaty-Helper) | 416 | 2018-04-20 |
-| [Quick File Preview](https://github.com/SeeSharpSoft/intellij-file-preview) | 3 327 | 2019-10-04 |
-| [Quick Find](https://github.com/SevaSafris/quick-find-plugin) | 523 | 2018-12-20 |
-| [Quick Git fixup](https://github.com/iasemenov/git-extensions) | 10 603 | 2019-07-16 |
-| [Quick Launch](https://github.com/kotcrab/quick-launch) | 1 597 | 2016-07-07 |
+| [QML support](https://github.com/kropp/intellij-qml/) | 11 259 | 2019-04-25 |
+| [Qlang](https://github.com/bingohuang/qlang-idea-plugin) | 234 | 2016-08-12 |
+| [Quaty-Helper](https://github.com/BeiKeJieDeLiuLangMao/Quaty-Helper) | 418 | 2018-04-20 |
+| [Quick File Preview](https://github.com/SeeSharpSoft/intellij-file-preview) | 3 343 | 2019-10-04 |
+| [Quick Find](https://github.com/SevaSafris/quick-find-plugin) | 525 | 2018-12-20 |
+| [Quick Git fixup](https://github.com/iasemenov/git-extensions) | 10 607 | 2019-07-16 |
+| [Quick Launch](https://github.com/kotcrab/quick-launch) | 1 599 | 2016-07-07 |
 | [Quick Mock](https://github.com/cawolf/phpstorm-quick-mock) | 270 | 2019-08-13 |
-| [Quick Notes](https://github.com/jrana/quicknotes) | 55 857 | 2019-07-18 |
-| [Quick Patch](https://github.com/jozic/quick-patch) | 1 479 | 2019-04-05 |
+| [Quick Notes](https://github.com/jrana/quicknotes) | 55 878 | 2019-07-18 |
+| [Quick Patch](https://github.com/jozic/quick-patch) | 1 481 | 2019-04-05 |
 | [QuickBuild Monitor](https://plugins.jetbrains.com/files/1297/sourceCode.zip) | 392 | 2007-01-25 |
 | [QuickLook](https://github.com/JustSid/AppCode-QuickLook) | 501 | 2016-06-16 |
 | [QuickMerge](https://github.com/manuelhuber/QuickMerge) | 31 | 2018-12-11 |
 | [QuickPathManager](https://plugins.jetbrains.com/files/1865/sourceCode.zip) | 949 | 2009-06-02 |
-| [QuickSloth](https://github.com/quicksloth/quicksloth-intellij-plugin) | 1 290 | 2017-11-25 |
+| [QuickSloth](https://github.com/quicksloth/quicksloth-intellij-plugin) | 1 292 | 2017-11-25 |
 | [QuickWeather](https://code.google.com/archive/p/ideaquickweather/source) | 1 310 | 2015-11-04 |
-| [Quoit](https://github.com/shenhuanet/Quoit-idea) | 433 | 2018-02-05 |
-| [R Language for IntelliJ](https://github.com/JetBrains/Rplugin) | 1 766 240 | 2019-10-29 |
-| [RAML Plugin For IntelliJ](https://github.com/machaval/mule-intellij-plugins) | 55 603 | 2017-08-16 |
+| [Quoit](https://github.com/shenhuanet/Quoit-idea) | 435 | 2018-02-05 |
+| [R Language for IntelliJ](https://github.com/JetBrains/Rplugin) | 1 766 648 | 2019-10-29 |
+| [RAML Plugin For IntelliJ](https://github.com/machaval/mule-intellij-plugins) | 55 617 | 2017-08-16 |
 | [RBESort](https://bitbucket.org/santiv_de/rbesort) | 796 | 2014-10-14 |
 | [RELAX-NG Support](https://plugins.jetbrains.com/files/1783/sourceCode.zip) | 1 657 | 2010-06-22 |
-| [RESOLVE langauge plugin](https://github.com/ClemsonRSRG/jetbrains-plugin-resolve) | 484 | 2016-01-09 |
-| [REST Editor Client Contrib](https://github.com/linux-china/rest-editor-client-contrib) | 3 517 | 2018-02-11 |
+| [RESOLVE langauge plugin](https://github.com/ClemsonRSRG/jetbrains-plugin-resolve) | 485 | 2016-01-09 |
+| [REST Editor Client Contrib](https://github.com/linux-china/rest-editor-client-contrib) | 3 524 | 2018-02-11 |
 | [REST Runner](https://github.com/dmitry-zhuravlev/rest-runner-teamcity-plugin) | 371 | 2018-10-13 |
 | [REST link copier](https://github.com/timyates/intellij-rest-linkomatic) | 313 | 2019-04-12 |
 | [RIBs](https://github.com/badoo/RIBs) | 500 | 2019-09-18 |
-| [ROS Support](https://github.com/Noam-Dori/ros-integrate/) | 3 056 | 2019-10-31 |
-| [RPM SPEC File](https://github.com/carbonblack/intellij-rpmspec) | 972 | 2019-08-23 |
+| [ROS Support](https://github.com/Noam-Dori/ros-integrate/) | 3 076 | 2019-10-31 |
+| [RPM SPEC File](https://github.com/carbonblack/intellij-rpmspec) | 976 | 2019-08-23 |
 | [RabbitMQ Script Support](https://github.com/novotnyr/rabbitmq-script-idea-plugin) | 509 | 2019-06-18 |
-| [Railways](https://github.com/basgren/railways) | 32 731 | 2019-10-20 |
-| [Railways for IDEA](https://github.com/basgren/railways) | 15 252 | 2019-10-20 |
-| [Rainbow](https://github.com/zjhmale/intellij-rainbow) | 12 916 | 2018-01-06 |
-| [Rainbow Brackets](https://github.com/izhangzhihao/intellij-rainbow-brackets) | 1 256 970 | 2019-10-11 |
-| [Rainbow CSV](https://github.com/andrey4623/intellij-rainbow-csv) | 70 846 | 2019-09-29 |
-| [Rainglow Color Schemes](https://github.com/rainglow/jetbrains/) | 206 121 | 2018-01-05 |
-| [Rally ALM Tasks Integration](https://github.com/crc83/rallydev) | 2 780 | 2019-01-09 |
-| [Random Image Background](https://github.com/allandequeiroz/random_image_background_any_jetbrains_plugin) | 2 865 | 2017-12-31 |
-| [Randomness](https://github.com/FWDekker/intellij-randomness) | 4 627 | 2019-08-06 |
+| [Railways](https://github.com/basgren/railways) | 32 740 | 2019-10-20 |
+| [Railways for IDEA](https://github.com/basgren/railways) | 15 255 | 2019-10-20 |
+| [Rainbow](https://github.com/zjhmale/intellij-rainbow) | 12 925 | 2018-01-06 |
+| [Rainbow Brackets](https://github.com/izhangzhihao/intellij-rainbow-brackets) | 1 258 407 | 2019-10-11 |
+| [Rainbow CSV](https://github.com/andrey4623/intellij-rainbow-csv) | 71 487 | 2019-09-29 |
+| [Rainglow Color Schemes](https://github.com/rainglow/jetbrains/) | 206 304 | 2018-01-05 |
+| [Rally ALM Tasks Integration](https://github.com/crc83/rallydev) | 2 782 | 2019-01-09 |
+| [Random Image Background](https://github.com/allandequeiroz/random_image_background_any_jetbrains_plugin) | 2 868 | 2017-12-31 |
+| [Randomness](https://github.com/FWDekker/intellij-randomness) | 4 631 | 2019-08-06 |
 | [Randori Compiler](https://github.com/RandoriAS/randori-plugin-intellij) | 1 460 | 2013-07-18 |
 | [ReProtoc](https://github.com/lsjun/reProtoc) | 306 | 2016-01-09 |
-| [ReST Console](https://github.com/iNdieboyjeff/IntelliReST) | 19 391 | 2018-05-29 |
-| [ReSharper Helpers](https://github.com/zvirja/ReSharperHelpers) | 10 036 | 2019-08-11 |
-| [ReSharper Keymap](https://github.com/JetBrains/ReSharperKeymap4IntelliJ) | 381 | 2019-09-24 |
-| [ReSharper Solution Settings Autodiscovery](https://github.com/Artesian/reshsettingsdiscover) | 7 397 | 2019-08-08 |
-| [React CSS Modules](https://github.com/jimkyndemeyer/react-css-modules-intellij-plugin/) | 57 924 | 2016-12-03 |
-| [React Css Modules](https://github.com/Kemoke/ReactCssModules) | 9 200 | 2019-03-28 |
-| [React Kotlin Live Templates](https://github.com/sidneibjunior/kotlin-react-intellij-plugin) | 1 407 | 2018-07-10 |
-| [React Native Console](https://github.com/beansoftapp/react-native-console) | 104 723 | 2019-08-21 |
-| [React snippets](https://github.com/jinsihou19/ReactSnippets) | 74 810 | 2019-04-22 |
-| [React-Templates](https://github.com/idok/react-templates-plugin) | 131 299 | 2017-09-24 |
-| [ReactNativeTools](https://github.com/smuyyh/ReactNativeTools) | 43 464 | 2016-12-07 |
-| [ReactPropTypes](https://github.com/dpzxsm/ReactPropTypes-Plugin) | 46 736 | 2019-04-15 |
-| [Reactor boilerplate generator](https://github.com/dinosaurwithakatana/android-reactor-intellij-plugin) | 4 428 | 2015-01-26 |
-| [ReadHub](https://github.com/roger-yh99/Readhub) | 1 393 | 2019-02-14 |
+| [ReST Console](https://github.com/iNdieboyjeff/IntelliReST) | 19 400 | 2018-05-29 |
+| [ReSharper Helpers](https://github.com/zvirja/ReSharperHelpers) | 10 040 | 2019-08-11 |
+| [ReSharper Keymap](https://github.com/JetBrains/ReSharperKeymap4IntelliJ) | 391 | 2019-09-24 |
+| [ReSharper Solution Settings Autodiscovery](https://github.com/Artesian/reshsettingsdiscover) | 7 399 | 2019-08-08 |
+| [React CSS Modules](https://github.com/jimkyndemeyer/react-css-modules-intellij-plugin/) | 57 964 | 2016-12-03 |
+| [React Css Modules](https://github.com/Kemoke/ReactCssModules) | 9 222 | 2019-03-28 |
+| [React Kotlin Live Templates](https://github.com/sidneibjunior/kotlin-react-intellij-plugin) | 1 409 | 2018-07-10 |
+| [React Native Console](https://github.com/beansoftapp/react-native-console) | 104 812 | 2019-08-21 |
+| [React snippets](https://github.com/jinsihou19/ReactSnippets) | 74 901 | 2019-04-22 |
+| [React-Templates](https://github.com/idok/react-templates-plugin) | 131 360 | 2017-09-24 |
+| [ReactNativeTools](https://github.com/smuyyh/ReactNativeTools) | 43 504 | 2016-12-07 |
+| [ReactPropTypes](https://github.com/dpzxsm/ReactPropTypes-Plugin) | 46 768 | 2019-04-15 |
+| [Reactor boilerplate generator](https://github.com/dinosaurwithakatana/android-reactor-intellij-plugin) | 4 431 | 2015-01-26 |
+| [ReadHub](https://github.com/roger-yh99/Readhub) | 1 395 | 2019-02-14 |
 | [Readable test names](https://github.com/mustah/readable-test-names) | 339 | 2015-02-21 |
-| [Realigner](https://github.com/kstenschke/realigner-plugin) | 40 578 | 2018-09-13 |
-| [ReasonML](https://github.com/giraud/reasonml-idea-plugin) | 24 388 | 2019-10-17 |
+| [Realigner](https://github.com/kstenschke/realigner-plugin) | 40 584 | 2018-09-13 |
+| [ReasonML](https://github.com/giraud/reasonml-idea-plugin) | 24 407 | 2019-10-17 |
 | [Record2GSetter](https://github.com/SuperMuscleMan/record2GStter/tree/master) | 189 | 2019-01-29 |
-| [RedPen Plugin](https://github.com/redpen-cc/redpen-intellij-plugin) | 4 571 | 2018-06-26 |
-| [Redoc](https://github.com/phpinnacle/intellij-redoc) | 678 | 2019-08-15 |
-| [Refactoring](https://github.com/funivan/PhpStorm-Refactoring-Plugin/) | 2 609 | 2018-06-04 |
-| [Referencer](https://github.com/kstenschke/referencer-plugin) | 27 375 | 2017-06-02 |
-| [RegexpTester](https://github.com/sevdokimov/RegexUtil) | 236 249 | 2018-09-15 |
-| [Regularjs Support](https://github.com/AbnerZheng/RegularPlugin) | 1 262 | 2017-02-10 |
-| [Relative Line Numbers](https://bitbucket.org/vayafulano/jetbrains-relative-line-numbers) | 37 528 | 2014-03-30 |
+| [RedPen Plugin](https://github.com/redpen-cc/redpen-intellij-plugin) | 4 577 | 2018-06-26 |
+| [Redoc](https://github.com/phpinnacle/intellij-redoc) | 680 | 2019-08-15 |
+| [Refactoring](https://github.com/funivan/PhpStorm-Refactoring-Plugin/) | 2 610 | 2018-06-04 |
+| [Referencer](https://github.com/kstenschke/referencer-plugin) | 27 379 | 2017-06-02 |
+| [RegexpTester](https://github.com/sevdokimov/RegexUtil) | 236 280 | 2018-09-15 |
+| [Regularjs Support](https://github.com/AbnerZheng/RegularPlugin) | 1 264 | 2017-02-10 |
+| [Relative Line Numbers](https://bitbucket.org/vayafulano/jetbrains-relative-line-numbers) | 37 547 | 2014-03-30 |
 | [Release Version Generator](https://github.com/itbasis/teamcity-release-version-plugin) | 5 | 2017-09-14 |
-| [Remote Groovy Console](https://bitbucket.org/enterit/idea-remotegroovyconsole/src/2e0b8034bb15bd8c8f48dbf542d2ce0d914d3301/?at=Release%200.1.13.) | 3 640 | 2014-11-19 |
-| [RemoteTail](https://plugins.jetbrains.com/files/1119/sourceCode.zip) | 5 380 | 2006-10-31 |
-| [Remove Usage Plugin](https://github.com/allotria/removeusage) | 1 133 | 2015-06-29 |
-| [RemoveButterKnife](https://github.com/u3shadow/RemoveButterKnife) | 8 992 | 2018-12-25 |
-| [Request mapper](https://github.com/viartemev/requestmapper) | 18 403 | 2018-12-04 |
-| [Require.js plugin](https://github.com/Fedott/WebStormRequireJsPlugin) | 127 408 | 2016-02-05 |
-| [Requirements](https://github.com/meanmail/requirements) | 95 020 | 2019-10-13 |
-| [ResMan file support plugin](https://github.com/DTForce/resman-translate-intellij) | 591 | 2016-12-19 |
+| [Remote Groovy Console](https://bitbucket.org/enterit/idea-remotegroovyconsole/src/2e0b8034bb15bd8c8f48dbf542d2ce0d914d3301/?at=Release%200.1.13.) | 3 641 | 2014-11-19 |
+| [RemoteTail](https://plugins.jetbrains.com/files/1119/sourceCode.zip) | 5 382 | 2006-10-31 |
+| [Remove Usage Plugin](https://github.com/allotria/removeusage) | 1 135 | 2015-06-29 |
+| [RemoveButterKnife](https://github.com/u3shadow/RemoveButterKnife) | 8 999 | 2018-12-25 |
+| [Request mapper](https://github.com/viartemev/requestmapper) | 18 437 | 2018-12-04 |
+| [Require.js plugin](https://github.com/Fedott/WebStormRequireJsPlugin) | 127 422 | 2016-02-05 |
+| [Requirements](https://github.com/meanmail/requirements) | 95 771 | 2019-10-13 |
+| [ResMan file support plugin](https://github.com/DTForce/resman-translate-intellij) | 594 | 2016-12-19 |
 | [Research](https://plugins.jetbrains.com/files/639/sourceCode.zip) | 359 | 2007-07-07 |
 | [Restore Sql for iBatis/MyBatis](https://github.com/kookob/RestoreSql) | 2 125 | 2017-06-30 |
-| [Reveal In Finder](https://plugins.jetbrains.com/files/3361/sourceCode.zip) | 2 007 | 2008-09-29 |
-| [Reveal gradle dependency in external libraries tree.](https://github.com/jvmlet/reveal-dependency-plugin) | 882 | 2019-07-29 |
-| [Reveal in Project View](https://github.com/syuchan1005/RevealInProjectView/) | 402 | 2019-10-22 |
-| [Reverse Lines](https://github.com/androiddevelop/ReverseLines) | 510 | 2018-04-06 |
+| [Reveal In Finder](https://plugins.jetbrains.com/files/3361/sourceCode.zip) | 2 010 | 2008-09-29 |
+| [Reveal gradle dependency in external libraries tree.](https://github.com/jvmlet/reveal-dependency-plugin) | 885 | 2019-07-29 |
+| [Reveal in Project View](https://github.com/syuchan1005/RevealInProjectView/) | 406 | 2019-10-22 |
+| [Reverse Lines](https://github.com/androiddevelop/ReverseLines) | 512 | 2018-04-06 |
 | [Reverse package search](https://github.com/maartenba/rider-plugin-reversepackagesearch) | 100 | 2017-02-08 |
-| [ReverseText](https://github.com/junyuecao/IDEA-ReverseText) | 852 | 2016-01-25 |
-| [Review Board Support](https://github.com/asiaon123/review-board-support) | 1 576 | 2018-09-08 |
-| [Review Board Support(Deprecated)](https://github.com/asiaon123/review-board-support) | 912 | 2018-07-27 |
-| [Revoke User Access](https://github.com/mazine/revoke-user-access-widget) | 1 473 | 2018-08-31 |
-| [Rholang](https://github.com/tgrospic/rholang-idea) | 631 | 2018-09-04 |
-| [Ria Language](https://github.com/rialang/ria-intellij-plugin) | 320 | 2018-04-26 |
-| [Rich Presence Integration (Discord, Slack)](https://g.s5.pm/discord-intellij) | 33 900 | 2018-09-01 |
-| [Rider Dark Theme](https://github.com/lol1pop/intellij-visual-studio-code-dark-plus) | 3 020 | 2019-06-25 |
+| [ReverseText](https://github.com/junyuecao/IDEA-ReverseText) | 854 | 2016-01-25 |
+| [Review Board Support](https://github.com/asiaon123/review-board-support) | 1 578 | 2018-09-08 |
+| [Review Board Support(Deprecated)](https://github.com/asiaon123/review-board-support) | 914 | 2018-07-27 |
+| [Revoke User Access](https://github.com/mazine/revoke-user-access-widget) | 1 474 | 2018-08-31 |
+| [Rholang](https://github.com/tgrospic/rholang-idea) | 634 | 2018-09-04 |
+| [Ria Language](https://github.com/rialang/ria-intellij-plugin) | 323 | 2018-04-26 |
+| [Rich Presence Integration (Discord, Slack)](https://g.s5.pm/discord-intellij) | 33 930 | 2018-09-01 |
+| [Rider Dark Theme](https://github.com/lol1pop/intellij-visual-studio-code-dark-plus) | 3 043 | 2019-06-25 |
 | [Rio](https://plugins.jetbrains.com/files/1866/sourceCode.zip) | 1 089 | 2008-04-10 |
-| [Riot.js](https://github.com/anstarovoyt/intellij-riot.js) | 790 | 2019-10-18 |
-| [Robo Hexar](https://github.com/RoboPlugins/RoboHexar) | 1 575 | 2016-03-30 |
-| [RoboPOJOGenerator](https://github.com/robohorse/RoboPOJOGenerator/tree/master) | 66 157 | 2018-05-25 |
-| [Robot Framework Support](https://github.com/AmailP/robot-plugin) | 196 941 | 2019-10-24 |
-| [Robot Plugin](https://github.com/jivesoftware/robot-intellij-plugin) | 27 697 | 2015-02-14 |
-| [Roboticket Light Theme](https://github.com/SerafimArts/RoboticketLight) | 3 694 | 2019-07-15 |
-| [RtplPlugin](https://github.com/LichFaker/RtplPlugin) | 904 | 2016-06-01 |
+| [Riot.js](https://github.com/anstarovoyt/intellij-riot.js) | 793 | 2019-10-18 |
+| [Robo Hexar](https://github.com/RoboPlugins/RoboHexar) | 1 577 | 2016-03-30 |
+| [RoboPOJOGenerator](https://github.com/robohorse/RoboPOJOGenerator/tree/master) | 66 189 | 2018-05-25 |
+| [Robot Framework Support](https://github.com/AmailP/robot-plugin) | 197 036 | 2019-10-24 |
+| [Robot Plugin](https://github.com/jivesoftware/robot-intellij-plugin) | 27 702 | 2015-02-14 |
+| [Roboticket Light Theme](https://github.com/SerafimArts/RoboticketLight) | 3 704 | 2019-07-15 |
+| [RtplPlugin](https://github.com/LichFaker/RtplPlugin) | 906 | 2016-06-01 |
 | [Rubber Duck](https://github.com/rfreedman/intellij-rubber-duck-plugin) | 487 | 2013-02-19 |
 | [RuboCop](https://github.com/sirlantis/rubocop-for-rubymine) | 16 269 | 2015-12-25 |
-| [Ruby Dynamic Code Insight](https://github.com/JetBrains/ruby-type-inference) | 4 811 | 2019-10-10 |
-| [RubyMotion support](https://github.com/JetBrains/intellij-plugins/tree/master/ruby-motion) | 1 303 | 2019-10-29 |
-| [Run Configuration as Action](https://github.com/turbanoff/RunConfigurationAsAction) | 7 875 | 2018-11-21 |
-| [Run Configuration for TypeScript](https://github.com/bluelovers/idea-run-typescript) | 13 073 | 2019-07-22 |
+| [Ruby Dynamic Code Insight](https://github.com/JetBrains/ruby-type-inference) | 4 817 | 2019-10-10 |
+| [RubyMotion support](https://github.com/JetBrains/intellij-plugins/tree/master/ruby-motion) | 1 324 | 2019-10-29 |
+| [Run Configuration as Action](https://github.com/turbanoff/RunConfigurationAsAction) | 7 898 | 2018-11-21 |
+| [Run Configuration for TypeScript](https://github.com/bluelovers/idea-run-typescript) | 13 093 | 2019-07-22 |
 | [RunAs vNext](https://github.com/JetBrains/teamcity-runas-plugin) | 236 | 2016-10-06 |
-| [RunInCmd](https://github.com/turbanoff/RunInCmdPlugin) | 1 876 | 2019-10-02 |
-| [Rust](https://github.com/intellij-rust/intellij-rust) | 1 065 907 | 2019-10-21 |
+| [RunInCmd](https://github.com/turbanoff/RunInCmdPlugin) | 1 877 | 2019-10-02 |
+| [Rust](https://github.com/intellij-rust/intellij-rust) | 1 067 172 | 2019-10-21 |
 | [Rust and Cargo Support](https://github.com/JetBrains/teamcity-rust-plugin) | 617 | 2018-01-11 |
 | [RxJava Postfix Plugin](https://github.com/droibit/rxjava-postfix-plugin) | 2 059 | 2017-02-06 |
-| [Rythm Engine Detector - R.E.D](https://github.com/scireum-incubator/rythm_plugin) | 458 | 2017-01-31 |
-| [SAP/Open UI5](https://github.com/asebak/UI5-IntelliJ-Plugin) | 10 501 | 2016-04-03 |
+| [Rythm Engine Detector - R.E.D](https://github.com/scireum-incubator/rythm_plugin) | 459 | 2017-01-31 |
+| [SAP/Open UI5](https://github.com/asebak/UI5-IntelliJ-Plugin) | 10 504 | 2016-04-03 |
 | [SAP/Open UI5 Development Plugin](https://github.com/eomere/UI5Dp) | 1 125 | 2018-01-26 |
 | [SBJava2SQL](https://github.com/garbarick/SBJava2SQL) | 898 | 2018-11-09 |
-| [SBT Executor](https://github.com/malliina/idea-sbt-executor) | 56 626 | 2013-09-03 |
-| [SCA Support](https://plugins.jetbrains.com/files/3803/sourceCode.zip) | 798 | 2009-03-11 |
-| [SEL Editor](https://github.com/neuneu2k/SEL/tree/master/JetbrainsPlugin) | 1 139 | 2014-04-12 |
-| [SK Fluent Builder](https://bitbucket.org/sskorupski/java-fluent-builder/src) | 576 | 2018-12-09 |
+| [SBT Executor](https://github.com/malliina/idea-sbt-executor) | 56 669 | 2013-09-03 |
+| [SCA Support](https://plugins.jetbrains.com/files/3803/sourceCode.zip) | 800 | 2009-03-11 |
+| [SEL Editor](https://github.com/neuneu2k/SEL/tree/master/JetbrainsPlugin) | 1 141 | 2014-04-12 |
+| [SK Fluent Builder](https://bitbucket.org/sskorupski/java-fluent-builder/src) | 577 | 2018-12-09 |
 | [SMOG Matcher Generator](https://github.com/mistraltechnologies/smogen) | 1 001 | 2015-07-12 |
-| [SPOJ Submitter](https://github.com/mejmo/spoj-submitter) | 622 | 2016-02-17 |
+| [SPOJ Submitter](https://github.com/mejmo/spoj-submitter) | 627 | 2016-02-17 |
 | [SPT](https://github.com/metaborg/spt/tree/master/org.metaborg.spt.testrunner.intellij) | 8 | 2017-05-22 |
-| [SQL DAL Maker](https://github.com/panedrone/sqldalmaker) | 26 482 | 2019-09-28 |
-| [SQL Formatter](https://github.com/roundrop/intellij-plugin-SQLFormatter) | 10 534 | 2018-06-24 |
-| [SQL Query Plugin](https://plugins.jetbrains.com/files/228/sourceCode.zip) | 59 838 | 2006-11-18 |
-| [SQLDelight](https://github.com/square/sqldelight) | 27 138 | 2019-08-30 |
-| [SQLHelper](https://github.com/VertigoStr/SQLHelper/tree/master) | 9 746 | 2016-04-28 |
+| [SQL DAL Maker](https://github.com/panedrone/sqldalmaker) | 26 489 | 2019-09-28 |
+| [SQL Formatter](https://github.com/roundrop/intellij-plugin-SQLFormatter) | 10 548 | 2018-06-24 |
+| [SQL Query Plugin](https://plugins.jetbrains.com/files/228/sourceCode.zip) | 59 848 | 2006-11-18 |
+| [SQLDelight](https://github.com/square/sqldelight) | 27 146 | 2019-08-30 |
+| [SQLHelper](https://github.com/VertigoStr/SQLHelper/tree/master) | 9 754 | 2016-04-28 |
 | [SSH Tunnel](https://github.com/Vampire/teamcity-ssh-tunnel) | 79 | 2019-08-15 |
-| [SVG2VectorDrawable](https://github.com/misakuo/svgtoandroid) | 115 316 | 2018-02-09 |
-| [SVGA Support](https://github.com/mokyue/intellij-plugin-svga-support) | 558 | 2019-08-14 |
+| [SVG2VectorDrawable](https://github.com/misakuo/svgtoandroid) | 115 323 | 2018-02-09 |
+| [SVGA Support](https://github.com/mokyue/intellij-plugin-svga-support) | 561 | 2019-08-14 |
 | [SVN Helper](https://github.com/slev1n/svn-helper) | 787 | 2019-03-09 |
-| [SVN Report for IntelliJ IDEA](https://plugins.jetbrains.com/files/62/sourceCode.zip) | 9 260 | 2006-10-19 |
-| [SVNToolBox](https://github.com/zielu/SVNToolBox) | 105 617 | 2019-05-07 |
-| [Sage Theme](https://gitlab.com/funkhouser/intellij_themes/tree/master/sage) | 1 735 | 2019-09-05 |
+| [SVN Report for IntelliJ IDEA](https://plugins.jetbrains.com/files/62/sourceCode.zip) | 9 262 | 2006-10-19 |
+| [SVNToolBox](https://github.com/zielu/SVNToolBox) | 105 639 | 2019-05-07 |
+| [Sage Theme](https://gitlab.com/funkhouser/intellij_themes/tree/master/sage) | 1 741 | 2019-09-05 |
 | [Sails/Treeline](https://github.com/jaumard/intellij-sails-ide) | 8 570 | 2015-04-17 |
-| [Salesforce Commerce Cloud Studio](https://github.com/nek4life/sfcc-studio) | 1 071 | 2019-06-14 |
+| [Salesforce Commerce Cloud Studio](https://github.com/nek4life/sfcc-studio) | 1 073 | 2019-06-14 |
 | [Samebug](https://github.com/samebug/samebug-idea-plugin) | 1 971 | 2018-08-30 |
 | [Samebug](https://github.com/samebug/samebug-idea-plugin) | 438 | 2017-05-28 |
-| [Sass Lint](https://github.com/idok/sass-lint-plugin) | 49 446 | 2018-09-20 |
+| [Sass Lint](https://github.com/idok/sass-lint-plugin) | 49 457 | 2018-09-20 |
 | [SauceLabs](https://github.com/saucelabs/teamcity-sauce-ondemand-plugin) | 69 | 2016-10-06 |
-| [Save Actions](https://github.com/dubreuia/intellij-plugin-save-actions) | 436 286 | 2019-09-23 |
-| [Save Backup](https://github.com/kenstuddy/SaveBackup) | 970 | 2019-09-24 |
+| [Save Actions](https://github.com/dubreuia/intellij-plugin-save-actions) | 436 507 | 2019-09-23 |
+| [Save Backup](https://github.com/kenstuddy/SaveBackup) | 975 | 2019-09-24 |
 | [Save ChangeList Patches](https://github.com/GunoH/saveChangelistPatches) | 1 010 | 2018-05-13 |
-| [ScaffAngular](https://github.com/suparngp/scaffAngular) | 31 232 | 2016-01-13 |
-| [Scala](https://github.com/JetBrains/intellij-scala) | 13 933 989 | 2019-10-24 |
-| [Scala Imports Organizer](https://github.com/aarondav/scala-imports-organizer) | 57 561 | 2014-07-10 |
-| [Scala to Kotlin Converter](https://github.com/darthorimar/intellij-scala-to-kotlin) | 570 | 2018-09-09 |
-| [Scalafmt](https://github.com/olafurpg/scalafmt) | 115 818 | 2018-04-28 |
-| [Scalagen, Java to Scala converter](https://github.com/pshirshov/idea-scalagen) | 14 142 | 2017-11-08 |
-| [Scalariform](https://github.com/thesamet/scalariform-intellij-plugin) | 20 111 | 2016-10-12 |
-| [Scalariform Formatter](https://github.com/Tommassino/scalariform-plugin) | 69 | 2019-09-09 |
-| [ScaterKnife](https://github.com/xingda920813/ScaterKnife) | 923 | 2016-10-28 |
-| [Scheme](https://github.com/Saigut/intellij-scheme) | 7 405 | 2019-07-14 |
+| [ScaffAngular](https://github.com/suparngp/scaffAngular) | 31 238 | 2016-01-13 |
+| [Scala](https://github.com/JetBrains/intellij-scala) | 13 938 783 | 2019-10-24 |
+| [Scala Imports Organizer](https://github.com/aarondav/scala-imports-organizer) | 57 564 | 2014-07-10 |
+| [Scala to Kotlin Converter](https://github.com/darthorimar/intellij-scala-to-kotlin) | 571 | 2018-09-09 |
+| [Scalafmt](https://github.com/olafurpg/scalafmt) | 115 837 | 2018-04-28 |
+| [Scalagen, Java to Scala converter](https://github.com/pshirshov/idea-scalagen) | 14 145 | 2017-11-08 |
+| [Scalariform](https://github.com/thesamet/scalariform-intellij-plugin) | 20 112 | 2016-10-12 |
+| [Scalariform Formatter](https://github.com/Tommassino/scalariform-plugin) | 70 | 2019-09-09 |
+| [ScaterKnife](https://github.com/xingda920813/ScaterKnife) | 925 | 2016-10-28 |
+| [Scheme](https://github.com/Saigut/intellij-scheme) | 7 412 | 2019-07-14 |
 | [Scio IDEA](https://github.com/spotify/scio-idea-plugin) | 5 311 | 2019-10-21 |
-| [Scratch](https://github.com/dkandalov/scratch) | 107 025 | 2017-06-15 |
-| [ScreenMatch](https://github.com/mengzhinan/ScreenMatch) | 16 296 | 2018-01-23 |
-| [ScriptShortcut](https://github.com/voyages-sncf-technologies/ScriptShortcut) | 127 | 2019-10-01 |
-| [Scroll From Source](https://github.com/luonanqin/intellij-idea-plugins/tree/master/ScrollFromSource) | 15 308 | 2016-09-16 |
-| [Seam Maven 2 Studio for IDEA](https://plugins.jetbrains.com/files/1862/sourceCode.zip) | 2 045 | 2007-12-24 |
+| [Scratch](https://github.com/dkandalov/scratch) | 107 032 | 2017-06-15 |
+| [ScreenMatch](https://github.com/mengzhinan/ScreenMatch) | 16 307 | 2018-01-23 |
+| [ScriptShortcut](https://github.com/voyages-sncf-technologies/ScriptShortcut) | 128 | 2019-10-01 |
+| [Scroll From Source](https://github.com/luonanqin/intellij-idea-plugins/tree/master/ScrollFromSource) | 15 312 | 2016-09-16 |
+| [Seam Maven 2 Studio for IDEA](https://plugins.jetbrains.com/files/1862/sourceCode.zip) | 2 046 | 2007-12-24 |
 | [Search Resource Plugin](https://github.com/hoai265/SearchResourcePlugin) | 521 | 2017-01-12 |
-| [Search selected text](https://github.com/AntipovAndrey/Intellij-search-plugin) | 389 | 2018-12-21 |
-| [SearchOverflow](https://github.com/egek92/SearchOverflow-IntelliJ) | 1 911 | 2018-03-27 |
+| [Search selected text](https://github.com/AntipovAndrey/Intellij-search-plugin) | 391 | 2018-12-21 |
+| [SearchOverflow](https://github.com/egek92/SearchOverflow-IntelliJ) | 1 913 | 2018-03-27 |
 | [Section Block Comment Generator](https://github.com/52inc/intellij-SectionBlockCommentGenerator) | 427 | 2015-03-07 |
-| [Selector Drawable Generator](https://github.com/903600017/AndroidSelecctorDrawableGenerator) | 3 490 | 2016-03-16 |
-| [Selector Generator Plus](https://github.com/skibug/SelectorGeneratorPlus) | 802 | 2017-11-01 |
-| [SelectorChapek for Android](https://github.com/inmite/android-selector-chapek) | 52 388 | 2013-09-03 |
+| [Selector Drawable Generator](https://github.com/903600017/AndroidSelecctorDrawableGenerator) | 3 491 | 2016-03-16 |
+| [Selector Generator Plus](https://github.com/skibug/SelectorGeneratorPlus) | 805 | 2017-11-01 |
+| [SelectorChapek for Android](https://github.com/inmite/android-selector-chapek) | 52 393 | 2013-09-03 |
 | [Semicolon-less Java Support](https://github.com/orekyuu/Semicolon-less-Java-Support) | 12 | 2016-09-30 |
-| [Send To Terminal](https://github.com/holgerbrandl/send2terminal/) | 2 364 | 2019-08-07 |
+| [Send To Terminal](https://github.com/holgerbrandl/send2terminal/) | 2 370 | 2019-08-07 |
 | [Sentry Stack Formatter](https://github.com/heffebaycay/sentry-stack-formatter) | 194 | 2015-12-03 |
-| [SequenceDiagram](https://github.com/Vanco/SequencePlugin) | 88 841 | 2019-04-10 |
-| [SerCapnp](https://github.com/xmonader/sercapnp) | 738 | 2018-12-19 |
-| [Serial Port Monitor](https://bitbucket.org/dmitry_cherkas/intellij-serial-monitor) | 26 279 | 2018-10-03 |
-| [SerializableParcelable Generator](https://github.com/bunnyblue/SerializableParcelableGenerator) | 6 759 | 2015-03-22 |
-| [Serverless Framework GUI](https://github.com/plamen-paskov/serverless-framework-gui) | 4 027 | 2019-07-24 |
-| [ServiceNow Plugin](https://github.com/0x9999/servicenow-plugin) | 1 398 | 2016-09-18 |
-| [ServiceStack](https://github.com/ServiceStack/ServiceStack.Java) | 3 895 | 2018-01-16 |
+| [SequenceDiagram](https://github.com/Vanco/SequencePlugin) | 88 905 | 2019-04-10 |
+| [SerCapnp](https://github.com/xmonader/sercapnp) | 741 | 2018-12-19 |
+| [Serial Port Monitor](https://bitbucket.org/dmitry_cherkas/intellij-serial-monitor) | 26 298 | 2018-10-03 |
+| [SerializableParcelable Generator](https://github.com/bunnyblue/SerializableParcelableGenerator) | 6 767 | 2015-03-22 |
+| [Serverless Framework GUI](https://github.com/plamen-paskov/serverless-framework-gui) | 4 034 | 2019-07-24 |
+| [ServiceNow Plugin](https://github.com/0x9999/servicenow-plugin) | 1 400 | 2016-09-18 |
+| [ServiceStack](https://github.com/ServiceStack/ServiceStack.Java) | 3 897 | 2018-01-16 |
 | [Set of inspections for check a getters](https://github.com/profeg/IntelliJGettersInspections/tree/pre_release) | 112 | 2015-12-03 |
 | [Settings Enforcer](https://github.com/agido/settingsenforcer) | 225 | 2017-05-15 |
-| [Settings Repository](https://github.com/JetBrains/intellij-community/tree/master/plugins/settings-repository) | 38 466 | 2019-11-01 |
-| [Sexy Editor](https://plugins.jetbrains.com/files/1833/sourceCode.zip) | 86 558 | 2017-09-24 |
+| [Settings Repository](https://github.com/JetBrains/intellij-community/tree/master/plugins/settings-repository) | 38 471 | 2019-11-01 |
+| [Sexy Editor](https://plugins.jetbrains.com/files/1833/sourceCode.zip) | 86 579 | 2017-09-24 |
 | [Shape Drawable Template Generator](https://github.com/903600017/ShapeDrawableTemplateGenerator) | 1 656 | 2016-02-01 |
 | [Shared Views](https://github.com/HotelsDotCom/shared-views) | 115 | 2015-08-17 |
-| [SharedPrefsManager](https://github.com/3llomi/SharedPrefsManager) | 418 | 2018-08-18 |
-| [Shell Filter](https://github.com/dploeger/idea.shellfilter) | 1 424 | 2018-11-08 |
-| [Shell Script](https://github.com/jetbrains/intellij-community) | 30 | 2019-10-16 |
-| [Shellcheck](https://github.com/pwielgolaski/shellcheck-plugin/) | 11 978 | 2019-04-22 |
+| [SharedPrefsManager](https://github.com/3llomi/SharedPrefsManager) | 419 | 2018-08-18 |
+| [Shell Filter](https://github.com/dploeger/idea.shellfilter) | 1 426 | 2018-11-08 |
+| [Shell Script](https://github.com/jetbrains/intellij-community) | 31 | 2019-10-16 |
+| [Shellcheck](https://github.com/pwielgolaski/shellcheck-plugin/) | 11 991 | 2019-04-22 |
 | [Sherchen.InjectComment](https://github.com/Sherchen/InjectComment) | 138 | 2015-02-08 |
-| [Shift Open](https://github.com/AlexPl292/ShiftOpen/) | 41 | 2019-09-30 |
-| [Shifter](https://github.com/kstenschke/shifter-plugin) | 165 081 | 2019-01-29 |
-| [Shopware](https://github.com/Haehnchen/idea-php-shopware-plugin) | 84 428 | 2019-09-22 |
-| [Show As ...](https://github.com/woezelmann/show-as) | 16 420 | 2019-02-20 |
-| [Show REST Services](https://github.com/miguelcordovam/intellij_plugins/tree/master/RestDocumentation) | 3 639 | 2018-01-25 |
+| [Shift Open](https://github.com/AlexPl292/ShiftOpen/) | 43 | 2019-09-30 |
+| [Shifter](https://github.com/kstenschke/shifter-plugin) | 165 103 | 2019-01-29 |
+| [Shopware](https://github.com/Haehnchen/idea-php-shopware-plugin) | 84 446 | 2019-09-22 |
+| [Show As ...](https://github.com/woezelmann/show-as) | 16 426 | 2019-02-20 |
+| [Show REST Services](https://github.com/miguelcordovam/intellij_plugins/tree/master/RestDocumentation) | 3 641 | 2018-01-25 |
 | [Show and hide modules](https://github.com/pwilkin/show-and-hide) | 461 | 2015-07-27 |
-| [ShowVersion](https://github.com/tmac1999/ShowVersionTest) | 873 | 2018-03-07 |
+| [ShowVersion](https://github.com/tmac1999/ShowVersionTest) | 875 | 2018-03-07 |
 | [Shuffler](https://github.com/elusive-code/shuffler) | 625 | 2016-09-23 |
 | [Siddhi](https://github.com/wso2/siddhi-plugin-idea) | 884 | 2018-01-29 |
-| [SideOnly Checker](https://github.com/WeAthFoLD/SideOnlyChecker) | 173 | 2018-11-23 |
+| [SideOnly Checker](https://github.com/WeAthFoLD/SideOnlyChecker) | 174 | 2018-11-23 |
 | [Silex/Pimple Plugin](https://github.com/Sorien/silex-idea-plugin) | 8 697 | 2016-06-07 |
-| [SilverStripe Template Language Support](https://github.com/raket/idea-silverstripe) | 28 352 | 2017-04-27 |
-| [Simple Builder Generator](https://github.com/fasseg/idea-builder-plugin) | 156 | 2019-05-16 |
+| [SilverStripe Template Language Support](https://github.com/raket/idea-silverstripe) | 28 356 | 2017-04-27 |
+| [Simple Builder Generator](https://github.com/fasseg/idea-builder-plugin) | 157 | 2019-05-16 |
 | [Simple Module Dependency Graph](https://github.com/Stefku/intellij-simplemoddepgraph) | 3 520 | 2013-02-07 |
-| [Simple Titles](https://github.com/tylercal/simple-titles) | 1 740 | 2015-04-20 |
-| [Simple Titles - Project Only](https://github.com/kjaniszewski/simple-titles-project-only) | 2 417 | 2015-08-11 |
-| [Simple Translator](https://gitlab.com/DaNizz97/translatorplugin) | 636 | 2019-02-22 |
+| [Simple Titles](https://github.com/tylercal/simple-titles) | 1 742 | 2015-04-20 |
+| [Simple Titles - Project Only](https://github.com/kjaniszewski/simple-titles-project-only) | 2 421 | 2015-08-11 |
+| [Simple Translator](https://gitlab.com/DaNizz97/translatorplugin) | 638 | 2019-02-22 |
 | [Singleton Inspection](https://github.com/stokito/IdeaSingletonInspection) | 2 854 | 2017-12-13 |
-| [Sireum v3](https://github.com/sireum/v3-intellij) | 624 | 2018-08-02 |
+| [Sireum v3](https://github.com/sireum/v3-intellij) | 627 | 2018-08-02 |
 | [Sireum v3 Injector](https://github.com/sireum/v3-intellij-injector) | 219 | 2018-08-02 |
-| [Sketch It!](https://bitbucket.org/pmesmeur/sketch.it/src/develop/) | 31 388 | 2019-09-05 |
+| [Sketch It!](https://bitbucket.org/pmesmeur/sketch.it/src/develop/) | 31 427 | 2019-09-05 |
 | [Slack Notifier Plus](https://github.com/alexkvak/teamcity-slack) | 2 550 | 2017-10-30 |
-| [Slack Storm](https://github.com/b-sharpe/SlackStorm) | 10 375 | 2016-10-03 |
+| [Slack Storm](https://github.com/b-sharpe/SlackStorm) | 10 377 | 2016-10-03 |
 | [SlimEnum](https://github.com/cheblin/SlimEnum) | 165 | 2018-01-01 |
-| [SmallestWidth Dimens](https://github.com/wuzuchang/SmallestWidthPlugin) | 510 | 2019-10-31 |
+| [SmallestWidth Dimens](https://github.com/wuzuchang/SmallestWidthPlugin) | 512 | 2019-10-31 |
 | [Smart POJO Converter](https://github.com/zitiger/smartconverter) | 296 | 2019-04-21 |
 | [Smart Search](https://github.com/wbars/SmartSearch) | 794 | 2016-03-01 |
-| [Smart Tomcat](https://github.com/zengkid/SmartTomcat) | 105 519 | 2019-09-30 |
-| [SmartFindViewById](https://github.com/Khande/SmartFindViewById) | 2 845 | 2017-10-11 |
-| [SmartIM](https://github.com/Jamling/SmartIM4IntelliJ) | 15 284 | 2019-08-25 |
+| [Smart Tomcat](https://github.com/zengkid/SmartTomcat) | 105 620 | 2019-09-30 |
+| [SmartFindViewById](https://github.com/Khande/SmartFindViewById) | 2 847 | 2017-10-11 |
+| [SmartIM](https://github.com/Jamling/SmartIM4IntelliJ) | 15 288 | 2019-08-25 |
 | [SmartSemicolon](http://github.com/onolox/smartsemicolonidea) | 389 | 2019-06-16 |
-| [SmarterEditor](https://github.com/jansorg/SmarterEditor) | 66 436 | 2017-07-12 |
-| [SmcPlugin](https://github.com/menshele/smcplugin) | 461 | 2016-04-24 |
-| [Smooth Scroller](https://github.com/opus1269/smooth-scroller) | 9 875 | 2016-03-23 |
-| [SmoothScroll](https://github.com/hccampos/smooth-scroll-plugin) | 15 146 | 2013-11-28 |
+| [SmarterEditor](https://github.com/jansorg/SmarterEditor) | 66 440 | 2017-07-12 |
+| [SmcPlugin](https://github.com/menshele/smcplugin) | 462 | 2016-04-24 |
+| [Smooth Scroller](https://github.com/opus1269/smooth-scroller) | 9 884 | 2016-03-23 |
+| [SmoothScroll](https://github.com/hccampos/smooth-scroll-plugin) | 15 150 | 2013-11-28 |
 | [Smooth_Minimal Color Scheme](https://github.com/uokersam/litydity) | 296 | 2019-03-18 |
-| [Snake](https://github.com/vlasovskikh/intellij-snake) | 36 582 | 2018-06-29 |
-| [SnakeYAML plugin](https://github.com/vermut/intellij-snakeyaml) | 157 798 | 2016-03-07 |
+| [Snake](https://github.com/vlasovskikh/intellij-snake) | 36 607 | 2018-06-29 |
+| [SnakeYAML plugin](https://github.com/vermut/intellij-snakeyaml) | 157 846 | 2016-03-07 |
 | [Snorlax](https://instantdevelopment.github.io/Snorlax/) | 411 | 2016-09-29 |
 | [Snyk Security](https://github.com/snyk/teamcity-snyk-security-plugin) | 150 | 2019-08-19 |
-| [Snyk Vulnerability Scanning](https://github.com/snyk/snyk-intellij-plugin) | 8 135 | 2018-12-16 |
-| [SoapUI IntelliJ Plugin](https://github.com/olensmar/idea-soapui-plugin) | 36 275 | 2014-06-07 |
+| [Snyk Vulnerability Scanning](https://github.com/snyk/snyk-intellij-plugin) | 8 141 | 2018-12-16 |
+| [SoapUI IntelliJ Plugin](https://github.com/olensmar/idea-soapui-plugin) | 36 282 | 2014-06-07 |
 | [Sofy.AI](https://github.com/sofyai/sofy-ai-recorder) | 225 | 2019-06-19 |
-| [Solarized Theme](https://github.com/snowe2010/solarized-jetbrains) | 32 279 | 2019-09-17 |
-| [Solarized Themes](https://github.com/4lex4/intellij-platform-solarized) | 4 640 | 2019-08-04 |
-| [Solidity Solhint](https://github.com/protofire/idea-solidity-solhint) | 8 056 | 2018-01-03 |
-| [Sonar runner](https://github.com/JetBrains/TeamCity.SonarQubePlugin) | 2 393 | 2019-09-25 |
-| [SonarLint](https://github.com/SonarSource/sonarlint-intellij) | 1 565 634 | 2019-10-17 |
-| [SonarQube Community Plugin](https://github.com/sonar-intellij-plugin/sonar-intellij-plugin) | 309 209 | 2019-09-04 |
-| [Sophia Æternity](https://github.com/VladislavIvanov/intellij-sophia) | 322 | 2019-05-03 |
-| [Source Synchronizer](https://github.com/fioan89/sourcesync) | 53 015 | 2016-12-16 |
-| [Source++](https://github.com/sourceplusplus/Assistant) | 661 | 2019-07-14 |
-| [SourceFinder](https://bitbucket.org/mtiigi/intellij-sourcefinder-plugin) | 5 359 | 2013-08-21 |
+| [Solarized Theme](https://github.com/snowe2010/solarized-jetbrains) | 32 363 | 2019-09-17 |
+| [Solarized Themes](https://github.com/4lex4/intellij-platform-solarized) | 4 673 | 2019-08-04 |
+| [Solidity Solhint](https://github.com/protofire/idea-solidity-solhint) | 8 062 | 2018-01-03 |
+| [Sonar runner](https://github.com/JetBrains/TeamCity.SonarQubePlugin) | 2 396 | 2019-09-25 |
+| [SonarLint](https://github.com/SonarSource/sonarlint-intellij) | 1 566 454 | 2019-10-17 |
+| [SonarQube Community Plugin](https://github.com/sonar-intellij-plugin/sonar-intellij-plugin) | 309 253 | 2019-09-04 |
+| [Sophia Æternity](https://github.com/VladislavIvanov/intellij-sophia) | 325 | 2019-05-03 |
+| [Source Synchronizer](https://github.com/fioan89/sourcesync) | 53 034 | 2016-12-16 |
+| [Source++](https://github.com/sourceplusplus/Assistant) | 664 | 2019-07-14 |
+| [SourceFinder](https://bitbucket.org/mtiigi/intellij-sourcefinder-plugin) | 5 361 | 2013-08-21 |
 | [SourceForge Integration](https://github.com/Vampire/teamcity-sourceforge) | 11 | 2018-04-24 |
-| [Sourcegraph](https://github.com/sourcegraph/sourcegraph-jetbrains) | 3 653 | 2017-06-19 |
-| [Space to underline](https://github.com/aiLvXuan/SpaceToUnderline) | 252 | 2018-08-24 |
-| [SpaceDay Theme](https://github.com/today-/SpaceDay) | 3 960 | 2019-09-30 |
-| [Spacegray Theme](https://github.com/mturlo/intellij-spacegray/tree/master) | 17 593 | 2019-08-02 |
-| [Spacemacs](https://github.com/adebesin/spacemacs) | 372 | 2019-10-22 |
-| [Spark Examples Maven](https://github.com/ChenZhongPu/Spark-Examples-Maven) | 5 451 | 2016-05-26 |
+| [Sourcegraph](https://github.com/sourcegraph/sourcegraph-jetbrains) | 3 655 | 2017-06-19 |
+| [Space to underline](https://github.com/aiLvXuan/SpaceToUnderline) | 255 | 2018-08-24 |
+| [SpaceDay Theme](https://github.com/today-/SpaceDay) | 3 972 | 2019-09-30 |
+| [Spacegray Theme](https://github.com/mturlo/intellij-spacegray/tree/master) | 17 630 | 2019-08-02 |
+| [Spacemacs](https://github.com/adebesin/spacemacs) | 379 | 2019-10-22 |
+| [Spark Examples Maven](https://github.com/ChenZhongPu/Spark-Examples-Maven) | 5 457 | 2016-05-26 |
 | [Spartanizer](https://github.com/TechnionYP5777/IntelliJ-Spartanizer) | 50 | 2017-07-03 |
-| [Spek](https://github.com/raniejade/spek-idea-plugin) | 25 624 | 2019-01-27 |
-| [Spek Framework](https://github.com/spekframework/spek) | 21 820 | 2019-10-06 |
+| [Spek](https://github.com/raniejade/spek-idea-plugin) | 25 629 | 2019-01-27 |
+| [Spek Framework](https://github.com/spekframework/spek) | 21 833 | 2019-10-06 |
 | [Spell Checker](https://plugins.jetbrains.com/files/1573/sourceCode.zip) | 8 714 | 2007-12-19 |
-| [Spell Checker English Dictionary](https://plugins.jetbrains.com/files/1574/sourceCode.zip) | 25 807 | 2007-12-19 |
-| [Spell Checker German Dictionary](https://plugins.jetbrains.com/files/1658/sourceCode.zip) | 23 342 | 2007-12-19 |
-| [Spell Checker Java Dictionary](https://github.com/linux-china/SpellChecker-Dict-Java) | 5 335 | 2017-02-14 |
-| [Spell Checker Russian Dictionary](https://plugins.jetbrains.com/files/1784/sourceCode.zip) | 17 407 | 2007-12-19 |
-| [Spell Checker Spanish Dictionary](https://github.com/EOM/Spell-Checking-PHPStorm-Spanish-dic-UTF8/tree/master/plugin/source) | 19 159 | 2015-07-10 |
+| [Spell Checker English Dictionary](https://plugins.jetbrains.com/files/1574/sourceCode.zip) | 25 812 | 2007-12-19 |
+| [Spell Checker German Dictionary](https://plugins.jetbrains.com/files/1658/sourceCode.zip) | 23 344 | 2007-12-19 |
+| [Spell Checker Java Dictionary](https://github.com/linux-china/SpellChecker-Dict-Java) | 5 338 | 2017-02-14 |
+| [Spell Checker Russian Dictionary](https://plugins.jetbrains.com/files/1784/sourceCode.zip) | 17 414 | 2007-12-19 |
+| [Spell Checker Spanish Dictionary](https://github.com/EOM/Spell-Checking-PHPStorm-Spanish-dic-UTF8/tree/master/plugin/source) | 19 165 | 2015-07-10 |
 | [Spell checker extended](https://github.com/newtoncodes/intellij-spellchecker-extended) | 494 | 2018-12-17 |
-| [SpiraTeam Plugin](https://github.com/Inflectra/spira_intellij) | 420 | 2017-11-02 |
-| [Spj Plugin](https://github.com/fisherman08/IntelliJ_SpjPlugin) | 1 627 | 2019-01-29 |
+| [SpiraTeam Plugin](https://github.com/Inflectra/spira_intellij) | 422 | 2017-11-02 |
+| [Spj Plugin](https://github.com/fisherman08/IntelliJ_SpjPlugin) | 1 632 | 2019-01-29 |
 | [SplitString](https://github.com/XGHeaven/jetbrains-split-string) | 389 | 2016-01-28 |
-| [Spock ADB](https://github.com/WahdanZ/SpockAdb) | 1 046 | 2019-06-30 |
-| [Spock Framework Enhancements](https://github.com/cholick/idea-spock-enhancements) | 70 847 | 2016-03-07 |
-| [Spring Assistant](https://github.com/1tontech/intellij-spring-assistant) | 140 952 | 2018-04-11 |
-| [Spring MX](https://github.com/amogilev/spring-mx/) | 1 130 | 2019-07-02 |
-| [Springirun](https://github.com/shupakabras/Springirun) | 23 302 | 2018-04-12 |
+| [Spock ADB](https://github.com/WahdanZ/SpockAdb) | 1 047 | 2019-06-30 |
+| [Spock Framework Enhancements](https://github.com/cholick/idea-spock-enhancements) | 70 854 | 2016-03-07 |
+| [Spring Assistant](https://github.com/1tontech/intellij-spring-assistant) | 141 134 | 2018-04-11 |
+| [Spring MX](https://github.com/amogilev/spring-mx/) | 1 136 | 2019-07-02 |
+| [Springirun](https://github.com/shupakabras/Springirun) | 23 311 | 2018-04-12 |
 | [Spryker Plugin](https://github.com/project-a/idea-php-spryker-plugin) | 296 | 2017-01-23 |
-| [Sql Generator](https://github.com/yseasony/idea-sql-generator-tool) | 36 883 | 2019-03-01 |
-| [SqliteMagic Plugin](https://github.com/SiimKinks/sqlitemagic/tree/master/sqlitemagic-intellij-plugin) | 2 545 | 2016-11-08 |
+| [Sql Generator](https://github.com/yseasony/idea-sql-generator-tool) | 36 905 | 2019-03-01 |
+| [SqliteMagic Plugin](https://github.com/SiimKinks/sqlitemagic/tree/master/sqlitemagic-intellij-plugin) | 2 546 | 2016-11-08 |
 | [Squash Debugger Extension](https://github.com/solo-io/squash-intellij) | 395 | 2018-01-24 |
-| [Squirrel](https://github.com/shvetsgroup/squirrel-lang-idea-plugin) | 871 | 2017-07-19 |
-| [Stack Overflow Digest](https://github.com/jk1/youtrack-so-widget) | 3 370 | 2019-06-27 |
-| [StackInTheFlow](https://github.com/vcu-swim-lab/stack-intheflow) | 2 013 | 2018-04-17 |
+| [Squirrel](https://github.com/shvetsgroup/squirrel-lang-idea-plugin) | 873 | 2017-07-19 |
+| [Stack Overflow Digest](https://github.com/jk1/youtrack-so-widget) | 3 374 | 2019-06-27 |
+| [StackInTheFlow](https://github.com/vcu-swim-lab/stack-intheflow) | 2 015 | 2018-04-17 |
 | [Stackexchange](https://kabogo@bitbucket.org/kabogo/stackexchange.git) | 310 | 2019-05-18 |
 | [Stacklane](https://github.com/stacklane-registry/jetbrains-ide) | 53 | 2019-03-08 |
-| [State Art](https://github.com/nvinayshetty/StateArts) | 1 427 | 2019-04-03 |
+| [State Art](https://github.com/nvinayshetty/StateArts) | 1 428 | 2019-04-03 |
 | [Status Based Artifacts](https://github.com/novemberdobby/statusBasedArtifacts) | 43 | 2019-05-17 |
-| [Stellar SDK](https://github.com/asebak/stellar-xlm-intellij-plugin) | 555 | 2018-02-14 |
-| [Step Builder Pattern generator](https://github.com/makasprzak/step-builder-generator) | 1 354 | 2015-03-26 |
-| [StepBuilder Generator](https://github.com/iamMehedi/stepbuilder) | 3 538 | 2016-04-11 |
-| [Stepik Union](https://github.com/StepicOrg/intellij-plugins) | 7 923 | 2017-11-23 |
-| [Sticky Selection](https://github.com/mikinw/StickySelection) | 2 795 | 2017-11-18 |
-| [Stop Build](https://github.com/androuis/StopBuild) | 906 | 2017-04-14 |
-| [Storybook](https://github.com/bvic23/storybook-intellij-plugin) | 8 364 | 2017-09-13 |
-| [Streamline Refactoring](https://github.com/valery-labuzhsky/myprojects/tree/master/StatRef) | 159 | 2019-07-10 |
-| [String Manipulation](https://github.com/krasa/StringManipulation) | 869 625 | 2019-06-18 |
-| [String Tools](https://github.com/burzek/StringFunctionsPlugin) | 1 900 | 2018-07-06 |
-| [StringTemplate v4 plugin](https://github.com/antlr/jetbrains-plugin-st4) | 10 340 | 2019-01-17 |
+| [Stellar SDK](https://github.com/asebak/stellar-xlm-intellij-plugin) | 556 | 2018-02-14 |
+| [Step Builder Pattern generator](https://github.com/makasprzak/step-builder-generator) | 1 356 | 2015-03-26 |
+| [StepBuilder Generator](https://github.com/iamMehedi/stepbuilder) | 3 540 | 2016-04-11 |
+| [Stepik Union](https://github.com/StepicOrg/intellij-plugins) | 7 931 | 2017-11-23 |
+| [Sticky Selection](https://github.com/mikinw/StickySelection) | 2 798 | 2017-11-18 |
+| [Stop Build](https://github.com/androuis/StopBuild) | 908 | 2017-04-14 |
+| [Storybook](https://github.com/bvic23/storybook-intellij-plugin) | 8 376 | 2017-09-13 |
+| [Streamline Refactoring](https://github.com/valery-labuzhsky/myprojects/tree/master/StatRef) | 161 | 2019-07-10 |
+| [String Manipulation](https://github.com/krasa/StringManipulation) | 869 952 | 2019-06-18 |
+| [String Tools](https://github.com/burzek/StringFunctionsPlugin) | 1 901 | 2018-07-06 |
+| [StringTemplate v4 plugin](https://github.com/antlr/jetbrains-plugin-st4) | 10 353 | 2019-01-17 |
 | [Structural Semantic Highlighter](https://github.com/writeoncereadmany/StructuralSemanticHighlighter) | 1 221 | 2017-03-23 |
-| [Structured Logging](https://github.com/olsh/resharper-structured-logging) | 1 184 | 2019-08-09 |
+| [Structured Logging](https://github.com/olsh/resharper-structured-logging) | 1 186 | 2019-08-09 |
 | [Structured Logging](https://github.com/olsh/resharper-structured-logging) | 53 | 2019-08-09 |
-| [Struts 1.x and Tiles](https://github.com/JetBrains/intellij-obsolete-plugins/tree/master/struts) | 2 905 | 2019-07-11 |
+| [Struts 1.x and Tiles](https://github.com/JetBrains/intellij-obsolete-plugins/tree/master/struts) | 2 910 | 2019-07-11 |
 | [Struts 2](https://plugins.jetbrains.com/files/1698/sourceCode.zip) | 1 127 | 2008-06-22 |
-| [Styled Components](https://github.com/styled-components/webstorm-styled-components/) | 118 561 | 2019-09-24 |
-| [Stylint](https://github.com/sertae/stylint-plugin) | 3 988 | 2016-10-08 |
-| [Stylus Linter](https://github.com/stylus/stlint-idea-plugin/) | 1 175 | 2019-08-12 |
-| [Sublime Snippets Support](https://github.com/kevinlinxp/intellij-sublime-snippets-support) | 5 270 | 2019-09-29 |
-| [Sublime Text Keymap](https://github.com/JetBrains/intellij-community/tree/master/platform/platform-resources/src/keymaps) | 3 827 | 2019-10-23 |
-| [Substeps IntelliJ Plugin](https://github.com/iantmoore/substeps-intellij-plugin) | 88 198 | 2017-12-12 |
-| [Subversion](https://github.com/JetBrains/intellij-community/tree/master/plugins/svn4idea) | 5 148 | 2019-11-01 |
+| [Styled Components](https://github.com/styled-components/webstorm-styled-components/) | 118 720 | 2019-09-24 |
+| [Stylint](https://github.com/sertae/stylint-plugin) | 3 990 | 2016-10-08 |
+| [Stylus Linter](https://github.com/stylus/stlint-idea-plugin/) | 1 181 | 2019-08-12 |
+| [Sublime Snippets Support](https://github.com/kevinlinxp/intellij-sublime-snippets-support) | 5 279 | 2019-09-29 |
+| [Sublime Text Keymap](https://github.com/JetBrains/intellij-community/tree/master/platform/platform-resources/src/keymaps) | 3 848 | 2019-10-23 |
+| [Substeps IntelliJ Plugin](https://github.com/iantmoore/substeps-intellij-plugin) | 88 242 | 2017-12-12 |
+| [Subversion](https://github.com/JetBrains/intellij-community/tree/master/plugins/svn4idea) | 5 154 | 2019-11-01 |
 | [Sudoku Plugin](https://plugins.jetbrains.com/files/637/sourceCode.zip) | 2 072 | 2010-02-02 |
 | [Super Simple Injector](https://github.com/marijnz/super-simple-injector) | 91 | 2019-07-07 |
 | [Surround each line](https://github.com/osmedile/IDEAPlugin-Surrounder) | 518 | 2008-09-27 |
-| [Svelte](https://github.com/dschulten/sveltejs-idea-plugin) | 17 447 | 2017-09-24 |
-| [Svelte](https://github.com/tomblachut/svelte-intellij) | 6 404 | 2019-10-20 |
-| [SvgViewer 2](https://github.com/billdwhite/intellij-plugins-svgviewer2) | 50 381 | 2017-11-16 |
-| [Swagger](https://github.com/zalando/intellij-swagger) | 418 497 | 2019-10-07 |
-| [Swagger [Zalando Extensions]](https://github.com/zalando/intellij-swagger/tree/master/examples/extensions-zalando) | 3 596 | 2019-03-26 |
-| [Sweep](https://github.com/kstenschke/sweep-plugin) | 1 161 | 2018-09-15 |
-| [Swift Mock Generator for AppCode](https://github.com/seanhenry/MockGenerator) | 2 571 | 2019-08-14 |
+| [Svelte](https://github.com/dschulten/sveltejs-idea-plugin) | 17 454 | 2017-09-24 |
+| [Svelte](https://github.com/tomblachut/svelte-intellij) | 6 447 | 2019-10-20 |
+| [SvgViewer 2](https://github.com/billdwhite/intellij-plugins-svgviewer2) | 50 393 | 2017-11-16 |
+| [Swagger](https://github.com/zalando/intellij-swagger) | 418 684 | 2019-10-07 |
+| [Swagger [Zalando Extensions]](https://github.com/zalando/intellij-swagger/tree/master/examples/extensions-zalando) | 3 600 | 2019-03-26 |
+| [Sweep](https://github.com/kstenschke/sweep-plugin) | 1 163 | 2018-09-15 |
+| [Swift Mock Generator for AppCode](https://github.com/seanhenry/MockGenerator) | 2 573 | 2019-08-14 |
 | [Swift Test Tear Down Inspection for AppCode](https://github.com/seanhenry/TearDownGenerator) | 250 | 2018-06-18 |
-| [SwiftLint](https://github.com/bealex/SwiftLintAppCode) | 19 359 | 2019-08-04 |
-| [Swiftify](https://github.com/Swiftify-Corp/Swiftify) | 2 374 | 2019-09-30 |
-| [SwingExplorer Integration v2](https://github.com/wglanzer/swingexplorer-idea) | 3 328 | 2018-09-19 |
+| [SwiftLint](https://github.com/bealex/SwiftLintAppCode) | 19 403 | 2019-08-04 |
+| [Swiftify](https://github.com/Swiftify-Corp/Swiftify) | 2 376 | 2019-09-30 |
+| [SwingExplorer Integration v2](https://github.com/wglanzer/swingexplorer-idea) | 3 331 | 2018-09-19 |
 | [SwingPlayground](https://github.com/d0tplist/SwingPlayground) | 506 | 2019-02-06 |
-| [Swip (Spring Web Initializr)](https://github.com/OrPolyzos/spring-web-initializr-plugin) | 10 783 | 2019-08-03 |
-| [Swiss-AS Dev-Tools](https://github.com/alain57/swissas-dev-tools) | 125 | 2019-10-15 |
-| [Switch Component files](https://github.com/andrewbents/switch-component-files-plugin) | 285 | 2019-03-23 |
-| [Swoole IDE Helper](https://github.com/el7cosmos/phpstorm-swoole-plugin) | 355 | 2019-10-21 |
+| [Swip (Spring Web Initializr)](https://github.com/OrPolyzos/spring-web-initializr-plugin) | 10 809 | 2019-08-03 |
+| [Swiss-AS Dev-Tools](https://github.com/alain57/swissas-dev-tools) | 126 | 2019-10-15 |
+| [Switch Component files](https://github.com/andrewbents/switch-component-files-plugin) | 287 | 2019-03-23 |
+| [Swoole IDE Helper](https://github.com/el7cosmos/phpstorm-swoole-plugin) | 356 | 2019-10-21 |
 | [SwungWeave](https://github.com/realityforge/swung_weave) | 1 333 | 2015-09-10 |
-| [Symbols for JavaScript](https://github.com/ziolko/intellij-javascript-symbols) | 5 871 | 2016-05-03 |
-| [Symfony Support](https://github.com/Haehnchen/idea-php-symfony2-plugin) | 3 549 570 | 2019-09-22 |
-| [SyncEdit 2](https://github.com/billdwhite/intellij-plugins-syncedit2) | 9 625 | 2013-03-05 |
+| [Symbols for JavaScript](https://github.com/ziolko/intellij-javascript-symbols) | 5 874 | 2016-05-03 |
+| [Symfony Support](https://github.com/Haehnchen/idea-php-symfony2-plugin) | 3 550 588 | 2019-09-22 |
+| [SyncEdit 2](https://github.com/billdwhite/intellij-plugins-syncedit2) | 9 627 | 2013-03-05 |
 | [Synergix Awesome](https://github.com/dinhtienloc/synergix-intellij-plugin) | 220 | 2019-08-13 |
-| [Synonyms](https://github.com/pbetkier/intellij-synonyms) | 2 215 | 2018-05-01 |
-| [T4 Processor](https://github.com/3factr/Rider-T4-plugin) | 82 | 2019-09-11 |
-| [TF Uploader](https://github.com/CatalinPrata/TFUploader) | 2 469 | 2013-09-20 |
+| [Synonyms](https://github.com/pbetkier/intellij-synonyms) | 2 218 | 2018-05-01 |
+| [T4 Processor](https://github.com/3factr/Rider-T4-plugin) | 84 | 2019-09-11 |
+| [TF Uploader](https://github.com/CatalinPrata/TFUploader) | 2 472 | 2013-09-20 |
 | [TKCG](https://github.com/freedommedal/tkcg) | 42 | 2018-12-23 |
-| [TL Schema support](https://github.com/kunyavskiy/TL-Schema-idea-plugin) | 2 150 | 2019-09-25 |
-| [TLint](https://github.com/loganhenson/tlint-plugin) | 339 | 2019-10-30 |
-| [TMC Plugin for Intellij](https://github.com/testmycode/tmc-intellij) | 21 093 | 2018-05-24 |
-| [TSS editor](https://github.com/programaths/tss-editor) | 641 | 2017-12-09 |
-| [TXTinyPngUtil](https://github.com/ChengCheng-Hello/TXTinyPngPlugin) | 427 | 2017-03-23 |
-| [TYPO3 CMS Plugin](https://github.com/cedricziel/idea-php-typo3-plugin) | 32 001 | 2019-07-10 |
-| [TYPO3 XLIFF Utility](https://github.com/onigunn/intellij.xliff) | 13 551 | 2019-01-08 |
+| [TL Schema support](https://github.com/kunyavskiy/TL-Schema-idea-plugin) | 2 154 | 2019-09-25 |
+| [TLint](https://github.com/loganhenson/tlint-plugin) | 340 | 2019-10-30 |
+| [TMC Plugin for Intellij](https://github.com/testmycode/tmc-intellij) | 21 111 | 2018-05-24 |
+| [TSS editor](https://github.com/programaths/tss-editor) | 644 | 2017-12-09 |
+| [TXTinyPngUtil](https://github.com/ChengCheng-Hello/TXTinyPngPlugin) | 428 | 2017-03-23 |
+| [TYPO3 CMS Plugin](https://github.com/cedricziel/idea-php-typo3-plugin) | 32 010 | 2019-07-10 |
+| [TYPO3 XLIFF Utility](https://github.com/onigunn/intellij.xliff) | 13 556 | 2019-01-08 |
 | [Tab Session](http://alp82.github.io/idea-tabsession/) | 1 714 | 2013-04-02 |
-| [Tab Shifter](https://github.com/dkandalov/tab-shifter) | 11 578 | 2019-10-24 |
-| [TabMover](https://github.com/mikinw/TabMover) | 1 666 | 2017-10-28 |
-| [TabNumberIndicator](https://github.com/Khande/TabNumberIndicator) | 1 158 | 2017-08-23 |
+| [Tab Shifter](https://github.com/dkandalov/tab-shifter) | 11 609 | 2019-10-24 |
+| [TabMover](https://github.com/mikinw/TabMover) | 1 671 | 2017-10-28 |
+| [TabNumberIndicator](https://github.com/Khande/TabNumberIndicator) | 1 162 | 2017-08-23 |
 | [TabStack](https://plugins.jetbrains.com/files/204/sourceCode.zip) | 482 | 2007-07-07 |
-| [Tabdir](https://github.com/crazyproger/Tabdir) | 15 408 | 2012-12-24 |
-| [TagMyCode](https://github.com/massimozappino/tagmycode-intellij) | 5 499 | 2018-01-10 |
-| [Taiga.io Tasks](https://bitbucket.org/TJonez/intellij-task-plugin-taiga.io/src) | 2 642 | 2015-10-29 |
-| [Tailwindcss](https://github.com/Alicannklc/intellij-tailwind-css) | 5 382 | 2019-08-07 |
-| [Talend Component Kit](https://github.com/Talend/component-runtime/) | 1 491 | 2019-10-15 |
+| [Tabdir](https://github.com/crazyproger/Tabdir) | 15 410 | 2012-12-24 |
+| [TagMyCode](https://github.com/massimozappino/tagmycode-intellij) | 5 503 | 2018-01-10 |
+| [Taiga.io Tasks](https://bitbucket.org/TJonez/intellij-task-plugin-taiga.io/src) | 2 644 | 2015-10-29 |
+| [Tailwindcss](https://github.com/Alicannklc/intellij-tailwind-css) | 5 400 | 2019-08-07 |
+| [Talend Component Kit](https://github.com/Talend/component-runtime/) | 1 492 | 2019-10-15 |
 | [TalkingData Jira Integration](https://github.com/libingxin/talkingdata-jira-integration) | 629 | 2017-08-08 |
-| [TalkingData ORM Tool](https://github.com/libingxin/talkingdata-orm-tool) | 1 420 | 2017-08-08 |
+| [TalkingData ORM Tool](https://github.com/libingxin/talkingdata-orm-tool) | 1 422 | 2017-08-08 |
 | [TalkingData Smart Tool](https://github.com/libingxin/talkingdata-smart-tool) | 174 | 2017-08-28 |
 | [Tapestry 4.1](https://github.com/aholowko/intellij-tapestry4) | 902 | 2014-06-12 |
 | [Tapestry 4.1 Support](https://github.com/linuxswords/intellij-tapestry4) | 497 | 2014-01-18 |
-| [TargetProcess Tasks Connector](https://github.com/Andrevus/jetbrains-targetprocess-tasks) | 1 320 | 2015-04-27 |
-| [Tasks](https://github.com/NLSurfMan/tasks) | 16 759 | 2017-04-05 |
+| [TargetProcess Tasks Connector](https://github.com/Andrevus/jetbrains-targetprocess-tasks) | 1 322 | 2015-04-27 |
+| [Tasks](https://github.com/NLSurfMan/tasks) | 16 764 | 2017-04-05 |
 | [Tasks Build Runner](https://github.com/kunalkanojia/tasks-teamcity-plugin) | 203 | 2016-10-09 |
-| [Tasks Navigation](https://github.com/VladRassokhin/intellij-tasks-navigate) | 49 551 | 2019-10-08 |
+| [Tasks Navigation](https://github.com/VladRassokhin/intellij-tasks-navigate) | 49 579 | 2019-10-08 |
 | [TdDo](https://github.com/ams340/intellij-plugin-TdDo) | 85 | 2018-05-27 |
-| [TeXiFy IDEA](https://github.com/Hannah-Sten/TeXiFy-IDEA) | 69 362 | 2019-06-30 |
-| [TeaCode IntelliJ Platform Helper](https://github.com/Apptorium/TeaCode-IntelliJ-Platform-Helper) | 2 252 | 2019-04-26 |
-| [TeaVM IDEA plugin](https://github.com/konsoletyper/teavm) | 895 | 2019-10-06 |
-| [Team Foundation Server - Version Control Integration](https://intellijtfsplugin.codeplex.com/SourceControl/latest) | 11 461 | 2016-06-29 |
+| [TeXiFy IDEA](https://github.com/Hannah-Sten/TeXiFy-IDEA) | 69 430 | 2019-06-30 |
+| [TeaCode IntelliJ Platform Helper](https://github.com/Apptorium/TeaCode-IntelliJ-Platform-Helper) | 2 255 | 2019-04-26 |
+| [TeaVM IDEA plugin](https://github.com/konsoletyper/teavm) | 899 | 2019-10-06 |
+| [Team Foundation Server - Version Control Integration](https://intellijtfsplugin.codeplex.com/SourceControl/latest) | 11 463 | 2016-06-29 |
 | [TeamCityApp Beta](https://github.com/vase4kin/TeamCityApp) | 7 | 2016-10-06 |
 | [Telegram Notifier](https://github.com/dancing-elf/teamcity-telegram-plugin) | 902 | 2016-11-13 |
-| [Telelogic Synergy](https://plugins.jetbrains.com/files/1495/sourceCode.zip) | 393 | 2009-03-04 |
-| [TempConfig Cleaner](https://github.com/4ch1m/TempConfigCleaner) | 368 | 2018-11-10 |
+| [Telelogic Synergy](https://plugins.jetbrains.com/files/1495/sourceCode.zip) | 395 | 2009-03-04 |
+| [TempConfig Cleaner](https://github.com/4ch1m/TempConfigCleaner) | 370 | 2018-11-10 |
 | [Template Navigator](https://github.com/yutaodou/handlebar-template-tree) | 186 | 2016-01-31 |
-| [Template Toolkit Support](https://github.com/Camelcade/Perl5-IDEA) | 4 879 | 2019-10-16 |
-| [TemplateBuilder](https://github.com/puke3615/TemplateBuilder) | 4 645 | 2018-08-01 |
-| [Tempo-theme Color Scheme](https://github.com/tempo-theme/tempo-theme-jetbrains) | 8 602 | 2018-04-18 |
-| [Terminal](https://github.com/jetbrains/intellij-community) | 47 | 2019-10-11 |
-| [TerminalColors](https://github.com/kirsanium/TerminalColors) | 2 113 | 2017-09-13 |
-| [Test Automation Gears](https://github.com/sbtqa/tag-editor/) | 275 | 2019-10-28 |
-| [Test navigator](https://github.com/stacherzakp/test-navigator-plugin) | 374 | 2019-10-14 |
+| [Template Toolkit Support](https://github.com/Camelcade/Perl5-IDEA) | 4 884 | 2019-10-16 |
+| [TemplateBuilder](https://github.com/puke3615/TemplateBuilder) | 4 649 | 2018-08-01 |
+| [Tempo-theme Color Scheme](https://github.com/tempo-theme/tempo-theme-jetbrains) | 8 608 | 2018-04-18 |
+| [Terminal](https://github.com/jetbrains/intellij-community) | 48 | 2019-10-11 |
+| [TerminalColors](https://github.com/kirsanium/TerminalColors) | 2 114 | 2017-09-13 |
+| [Test Automation Gears](https://github.com/sbtqa/tag-editor/) | 301 | 2019-10-28 |
+| [Test navigator](https://github.com/stacherzakp/test-navigator-plugin) | 377 | 2019-08-27 |
 | [Test/Production Class and Method Generator](https://github.com/marekbruchaty/UTDDPlugin) | 452 | 2016-06-14 |
-| [TestCafe runner for Webstorm](https://github.com/lilbaek/webstorm-testcafe) | 97 | 2019-10-19 |
-| [TestDoxon](https://github.com/roger-wernersson/TestDoxon) | 273 | 2018-08-23 |
-| [TestFairy Integration](https://github.com/testfairy/testfairy-android-studio-plugin) | 4 551 | 2019-06-05 |
-| [TestMe](https://github.com/wrdv/testme-idea) | 24 929 | 2019-09-07 |
+| [TestCafe runner for Webstorm](https://github.com/lilbaek/webstorm-testcafe) | 101 | 2019-10-19 |
+| [TestDoxon](https://github.com/roger-wernersson/TestDoxon) | 274 | 2018-08-23 |
+| [TestFairy Integration](https://github.com/testfairy/testfairy-android-studio-plugin) | 4 552 | 2019-06-05 |
+| [TestMe](https://github.com/wrdv/testme-idea) | 24 950 | 2019-09-07 |
 | [TestingBot](https://github.com/testingbot/testingbot-teamcity-plugin) | 32 | 2017-12-21 |
-| [TextGenGen](https://github.com/Kripner/textGenGen) | 426 | 2019-09-20 |
-| [TextMate bundles](https://github.com/JetBrains/intellij-community) | 65 164 | 2019-10-11 |
-| [Textmapper](https://github.com/inspirer/textmapper) | 3 517 | 2019-05-30 |
-| [Tezos](https://github.com/jansorg/tezos-intellij) | 503 | 2019-02-22 |
-| [The Doki-Doki Theme](https://github.com/cyclic-reference/ddlc-jetbrains-theme) | 22 433 | 2019-09-29 |
-| [Theme Collection](https://github.com/oas/theme-collection) | 7 181 | 2019-04-02 |
-| [ThemeSwitcher](https://github.com/javils/ThemeSwitcher) | 8 119 | 2016-08-02 |
+| [TextGenGen](https://github.com/Kripner/textGenGen) | 429 | 2019-09-20 |
+| [TextMate bundles](https://github.com/JetBrains/intellij-community) | 65 173 | 2019-10-11 |
+| [Textmapper](https://github.com/inspirer/textmapper) | 3 520 | 2019-05-30 |
+| [Tezos](https://github.com/jansorg/tezos-intellij) | 506 | 2019-02-22 |
+| [The Doki-Doki Theme](https://github.com/cyclic-reference/ddlc-jetbrains-theme) | 22 451 | 2019-09-29 |
+| [Theme Collection](https://github.com/oas/theme-collection) | 7 194 | 2019-04-02 |
+| [ThemeSwitcher](https://github.com/javils/ThemeSwitcher) | 8 120 | 2016-08-02 |
 | [ThemeSwitcher](https://github.com/CatCoderr/theme-switcher-intellij-plugin) | 307 | 2019-03-20 |
-| [Thesaurus](https://github.com/pascaldevink/intellij-thesaurus) | 8 177 | 2015-10-25 |
-| [ThinCaret](https://github.com/lostintime/idea-thin-caret) | 2 566 | 2016-03-05 |
-| [ThreadMon Plugin](https://plugins.jetbrains.com/files/1189/sourceCode.zip) | 1 223 | 2007-03-14 |
-| [Thrift Support](https://github.com/fkorotkov/intellij-thrift) | 159 401 | 2019-09-18 |
-| [Thursday](https://github.com/mswift42/ith) | 1 397 | 2019-05-03 |
-| [Tibau2 Color Scheme](https://github.com/mingcheng/tibau2-theme) | 1 372 | 2019-04-30 |
-| [TickScript language support](https://github.com/VladRassokhin/intellij-kapacitor) | 1 708 | 2017-07-23 |
-| [Time Tracker](https://plugins.jetbrains.com/files/3806/sourceCode.zip) | 4 412 | 2008-11-25 |
+| [Thesaurus](https://github.com/pascaldevink/intellij-thesaurus) | 8 181 | 2015-10-25 |
+| [ThinCaret](https://github.com/lostintime/idea-thin-caret) | 2 570 | 2016-03-05 |
+| [ThreadMon Plugin](https://plugins.jetbrains.com/files/1189/sourceCode.zip) | 1 224 | 2007-03-14 |
+| [Thrift Support](https://github.com/fkorotkov/intellij-thrift) | 159 456 | 2019-09-18 |
+| [Thursday](https://github.com/mswift42/ith) | 1 401 | 2019-05-03 |
+| [Tibau2 Color Scheme](https://github.com/mingcheng/tibau2-theme) | 1 375 | 2019-04-30 |
+| [TickScript language support](https://github.com/VladRassokhin/intellij-kapacitor) | 1 712 | 2017-07-23 |
+| [Time Tracker](https://plugins.jetbrains.com/files/3806/sourceCode.zip) | 4 413 | 2008-11-25 |
 | [Time Transfer](https://github.com/liangxiaoqiao/time-transfer) | 115 | 2017-12-26 |
-| [Timestamp Generator](https://github.com/ajab/timestamp-generator-plugin) | 181 | 2019-09-23 |
+| [Timestamp Generator](https://github.com/ajab/timestamp-generator-plugin) | 183 | 2019-09-23 |
 | [TinyBrain](https://svwh.dl.sourceforge.net/project/tbrain/TBForIDEA/TBForIDEA-src.zip) | 250 | 2013-12-22 |
 | [TinyCompress](https://github.com/JavaNoober/TinyCompress) | 356 | 2019-06-17 |
-| [TinyPNG Image Optimizer](https://github.com/nvlad/tinypng-optimizer) | 1 723 | 2019-01-21 |
-| [Tmux](https://github.com/markmandel/tmux-intellij) | 1 055 | 2012-10-22 |
+| [TinyPNG Image Optimizer](https://github.com/nvlad/tinypng-optimizer) | 1 727 | 2019-01-21 |
+| [Tmux](https://github.com/markmandel/tmux-intellij) | 1 056 | 2012-10-22 |
 | [ToDo Helper](https://github.com/YaoXuanZhi/TodoTaskPlugin/tree/master/idea/ToDoHelper) | 47 | 2019-09-08 |
 | [ToggleInclude](https://github.com/ebaratte/toggle-include) | 259 | 2016-06-14 |
 | [Tomato](https://github.com/macchiatow/intellij-tomato-plugin) | 513 | 2015-03-30 |
-| [Tomcat runner plugin for IntelliJ](https://github.com/vitorzachi/tomcat-runner) | 61 053 | 2016-05-24 |
-| [Toml](https://github.com/intellij-rust/intellij-toml/) | 687 680 | 2019-10-24 |
-| [Tomorrow Dark Color Scheme](https://github.com/nzer0nz/jetbrains-tomorrow-dark) | 2 222 | 2019-08-09 |
-| [ToolWindow Manager](https://plugins.jetbrains.com/files/1489/sourceCode.zip) | 5 021 | 2007-06-02 |
+| [Tomcat runner plugin for IntelliJ](https://github.com/vitorzachi/tomcat-runner) | 61 076 | 2016-05-24 |
+| [Toml](https://github.com/intellij-rust/intellij-toml/) | 689 059 | 2019-10-24 |
+| [Tomorrow Dark Color Scheme](https://github.com/nzer0nz/jetbrains-tomorrow-dark) | 2 243 | 2019-08-09 |
+| [ToolWindow Manager](https://plugins.jetbrains.com/files/1489/sourceCode.zip) | 5 024 | 2007-06-02 |
 | [TooltipRunner](https://github.com/jcraane/intellij-tooltip-runner) | 424 | 2018-04-03 |
 | [Topias](https://github.com/ml-in-programming/topias) | 42 | 2019-07-04 |
-| [TornadoFX](https://github.com/edvin/tornadofx-idea-plugin) | 35 090 | 2018-10-02 |
+| [TornadoFX](https://github.com/edvin/tornadofx-idea-plugin) | 35 107 | 2018-10-02 |
 | [Touch](https://plugins.jetbrains.com/files/4948/sourceCode.zip) | 770 | 2010-04-27 |
-| [TransPlug](https://github.com/kubut/TransPlug) | 1 823 | 2016-11-15 |
+| [TransPlug](https://github.com/kubut/TransPlug) | 1 826 | 2016-11-15 |
 | [Translate IDEA Plugin](https://github.com/srcmaxim/idea-translate-plugin/) | 811 | 2016-03-01 |
 | [TranslateEnglish for AS](https://github.com/lipeng2015/TranslationPlugin) | 259 | 2016-06-03 |
-| [Translation](https://github.com/YiiGuxing/TranslationPlugin) | 504 718 | 2019-11-01 |
-| [Translator](https://github.com/JuanFelippo/translator-intellij-plugin) | 1 859 | 2016-08-26 |
-| [Translator](https://github.com/jojoldu/translator) | 3 655 | 2018-07-28 |
-| [Transliterate Umlauts](https://github.com/jhunovis/umlaut-search-intellij-plugin) | 1 474 | 2016-11-26 |
-| [Trash Panda Theme](https://github.com/jasonhulbert/jetbrains-trash-panda-theme) | 1 613 | 2019-10-17 |
-| [Tree Shape Component](https://github.com/Treenear/treeshape) | 981 | 2017-09-08 |
-| [Tree syntax highlighter](https://github.com/nin-jin/tree-plugin) | 12 442 | 2015-01-24 |
+| [Translation](https://github.com/YiiGuxing/TranslationPlugin) | 506 276 | 2019-11-01 |
+| [Translator](https://github.com/JuanFelippo/translator-intellij-plugin) | 1 862 | 2016-08-26 |
+| [Translator](https://github.com/jojoldu/translator) | 3 658 | 2018-07-28 |
+| [Transliterate Umlauts](https://github.com/jhunovis/umlaut-search-intellij-plugin) | 1 478 | 2016-11-26 |
+| [Trash Panda Theme](https://github.com/jasonhulbert/jetbrains-trash-panda-theme) | 1 629 | 2019-10-17 |
+| [Tree Shape Component](https://github.com/Treenear/treeshape) | 983 | 2017-09-08 |
+| [Tree syntax highlighter](https://github.com/nin-jin/tree-plugin) | 12 445 | 2015-01-24 |
 | [TreeInfotip](https://github.com/Link-Kou/intellij-treeInfotip) | 21 | 2019-09-17 |
-| [Truth Postfix Plugin](https://github.com/droibit/truth-postfix-plugin) | 1 002 | 2016-03-11 |
-| [TunnelliJ](https://github.com/milanboruvka/tunnellij) | 15 669 | 2010-08-27 |
-| [TweetCode](https://github.com/denofevil/TweetCode) | 3 892 | 2014-05-18 |
-| [Twelf Plugin](https://github.com/alahijani/Jelf) | 32 822 | 2014-09-27 |
+| [Truth Postfix Plugin](https://github.com/droibit/truth-postfix-plugin) | 1 003 | 2016-03-11 |
+| [TunnelliJ](https://github.com/milanboruvka/tunnellij) | 15 671 | 2010-08-27 |
+| [TweetCode](https://github.com/denofevil/TweetCode) | 3 894 | 2014-05-18 |
+| [Twelf Plugin](https://github.com/alahijani/Jelf) | 32 837 | 2014-09-27 |
 | [Twitch Chat](https://github.com/guacamoledragon/twitch-chat) | 62 | 2016-03-24 |
-| [Twitter Integration](https://github.com/Shpota/twitter-plugin) | 282 | 2019-07-25 |
-| [TypeNGo](https://github.com/dyadix/typengo) | 2 001 | 2018-09-23 |
-| [TypeScript spec file generator / navigator](https://github.com/michalstocki/ts-spec-generator) | 17 955 | 2016-11-07 |
-| [TypeScriptExecutor](https://github.com/xiyuan-fengyu/IdeaPluginTypeScriptExecutor/tree/idea2019.2) | 5 937 | 2018-07-26 |
-| [Typeformation](https://github.com/jeshan/typeformation) | 996 | 2018-04-22 |
-| [UF Header](https://bitbucket.org/Mitriksicilian/ufheader) | 1 187 | 2018-05-06 |
+| [Twitter Integration](https://github.com/Shpota/twitter-plugin) | 285 | 2019-07-25 |
+| [TypeNGo](https://github.com/dyadix/typengo) | 2 003 | 2018-09-23 |
+| [TypeScript spec file generator / navigator](https://github.com/michalstocki/ts-spec-generator) | 17 962 | 2016-11-07 |
+| [TypeScriptExecutor](https://github.com/xiyuan-fengyu/IdeaPluginTypeScriptExecutor/tree/idea2019.2) | 5 949 | 2018-07-26 |
+| [Typeformation](https://github.com/jeshan/typeformation) | 998 | 2018-04-22 |
+| [UF Header](https://bitbucket.org/Mitriksicilian/ufheader) | 1 189 | 2018-05-06 |
 | [UI5 Helper](https://github.com/UNIORG-Solutions/idea-ui5helper) | 2 357 | 2019-06-11 |
-| [UML Design Tool Plugin](https://github.com/JAkutenshi/UMLDesignToolPluginProj) | 14 910 | 2016-06-04 |
-| [USD](https://github.com/justint/usd-idea) | 322 | 2019-10-22 |
-| [UUID Generator](https://github.com/leomillon/uuid-generator-plugin) | 31 279 | 2019-06-10 |
+| [UML Design Tool Plugin](https://github.com/JAkutenshi/UMLDesignToolPluginProj) | 14 917 | 2016-06-04 |
+| [USD](https://github.com/justint/usd-idea) | 327 | 2019-10-22 |
+| [UUID Generator](https://github.com/leomillon/uuid-generator-plugin) | 31 296 | 2019-06-10 |
 | [UXCore](https://github.com/recore/uxcore-plugin-for-webstorm) | 126 | 2017-07-09 |
-| [Ubuntu Theme](https://github.com/kropp/intellij-theme-ubuntu) | 1 882 | 2019-03-15 |
-| [Ultimate PasteBin](https://github.com/kennedyoliveira/ultimate-pastebin-intellij-plugin) | 4 259 | 2018-01-13 |
-| [Undo Scroll](https://github.com/wannessels/intellij-undo-scroll) | 740 | 2017-03-06 |
-| [Unicoder](https://github.com/antkorwin/unicoder) | 50 | 2019-10-20 |
-| [Unit File Support (systemd)](https://github.com/SJrX/systemdUnitFilePlugin) | 45 819 | 2019-09-14 |
+| [Ubuntu Theme](https://github.com/kropp/intellij-theme-ubuntu) | 1 886 | 2019-03-15 |
+| [Ultimate PasteBin](https://github.com/kennedyoliveira/ultimate-pastebin-intellij-plugin) | 4 261 | 2018-01-13 |
+| [Undo Scroll](https://github.com/wannessels/intellij-undo-scroll) | 742 | 2017-03-06 |
+| [Unicoder](https://github.com/antkorwin/unicoder) | 51 | 2019-10-20 |
+| [Unit File Support (systemd)](https://github.com/SJrX/systemdUnitFilePlugin) | 45 876 | 2019-09-14 |
 | [UnitVisualizer](https://github.com/MatWein/UnitVisualizer) | 1 151 | 2019-07-11 |
-| [Unitize](https://gitlab.com/Yannik_Sc/IntelliJ_Unitize) | 1 747 | 2019-01-13 |
+| [Unitize](https://gitlab.com/Yannik_Sc/IntelliJ_Unitize) | 1 751 | 2019-01-13 |
 | [Unity Support](https://github.com/JetBrains/resharper-unity) | 38 276 | 2017-05-18 |
-| [Unity Support](https://github.com/JetBrains/resharper-unity) | 34 504 | 2019-08-14 |
-| [Unreal Engine 4 SDK Support](https://bitbucket.org/fsmorygo/appcode-unreal-plugin/src) | 5 007 | 2015-05-19 |
+| [Unity Support](https://github.com/JetBrains/resharper-unity) | 34 515 | 2019-08-14 |
+| [Unreal Engine 4 SDK Support](https://bitbucket.org/fsmorygo/appcode-unreal-plugin/src) | 5 012 | 2015-05-19 |
 | [Usage Search](https://github.com/rodm/teamcity-usage-search) | 16 | 2019-06-23 |
 | [UsageVisualizer](https://github.com/jcraane/intellij-declaration-viz) | 713 | 2018-07-18 |
-| [Use Gists](https://github.com/silvafabio/use-gists) | 564 | 2018-09-09 |
+| [Use Gists](https://github.com/silvafabio/use-gists) | 565 | 2018-09-09 |
 | [Use statement prettify](https://github.com/godzie44/pretty-use-plugin) | 253 | 2018-12-12 |
 | [Useful actions](https://github.com/krasa/UsefulActions) | 2 631 | 2015-05-28 |
-| [Useful sites](https://github.com/thasneemp/GoogleMaterials) | 877 | 2017-09-11 |
+| [Useful sites](https://github.com/thasneemp/GoogleMaterials) | 878 | 2017-09-11 |
 | [UserMapping](https://github.com/Nicologies/usermapping) | 31 | 2017-09-29 |
-| [Utils](https://github.com/wkp111/Utils_plugin) | 2 047 | 2018-01-05 |
-| [VCL/Varnish language](https://github.com/blckct/varnish_jetbrains_plugin) | 4 282 | 2018-12-04 |
+| [Utils](https://github.com/wkp111/Utils_plugin) | 2 050 | 2018-01-05 |
+| [VCL/Varnish language](https://github.com/blckct/varnish_jetbrains_plugin) | 4 287 | 2018-12-04 |
 | [VCS Support: ClearCase](https://github.com/JetBrains/teamcity-clearcase) | 7 | 2019-10-31 |
 | [VCS Support: SourceGear Vault](https://github.com/JetBrains/teamcity-vault-vcs) | 5 | 2019-10-31 |
-| [VCS watch](https://github.com/hsz/idea-vcswatch) | 7 672 | 2015-05-19 |
+| [VCS watch](https://github.com/hsz/idea-vcswatch) | 7 674 | 2015-05-19 |
 | [VDL plugin for IntelliJ](https://github.com/vanadium-archive/intellij-vdl-plugin) | 123 | 2016-01-05 |
 | [VDoc intellij tools](https://github.com/vdoc-community/intellij-vdoc-plugin) | 635 | 2019-08-05 |
-| [VS Code Keymap](https://github.com/bulenkov/VSCodeKeymap4IntelliJ) | 17 902 | 2019-08-31 |
-| [Value Class Generator](https://github.com/Ingwersaft/ValueClassGenerator) | 2 002 | 2017-05-14 |
-| [Vant Plugin](https://github.com/Rickykurt/VantPlugin) | 6 072 | 2019-08-14 |
+| [VS Code Keymap](https://github.com/bulenkov/VSCodeKeymap4IntelliJ) | 17 954 | 2019-08-31 |
+| [Value Class Generator](https://github.com/Ingwersaft/ValueClassGenerator) | 2 004 | 2017-05-14 |
+| [Vant Plugin](https://github.com/Rickykurt/VantPlugin) | 6 088 | 2019-08-14 |
 | [Varsity](https://bitbucket.org/balpha/varsity/src) | 899 | 2014-10-01 |
-| [Vcs Revision Graph](https://plugins.jetbrains.com/files/1832/sourceCode.zip) | 4 801 | 2007-12-27 |
+| [Vcs Revision Graph](https://plugins.jetbrains.com/files/1832/sourceCode.zip) | 4 803 | 2007-12-27 |
 | [VcsToModule](https://github.com/janwaros/VcsToModule) | 361 | 2014-03-24 |
-| [Vector Icon Pack](https://github.com/OuYuBin/VectorIcons) | 2 108 | 2018-07-12 |
-| [VectorDrawableImporter](https://github.com/ligi/VectorDrawableImport) | 5 813 | 2016-02-26 |
-| [Verilog support](https://github.com/MrTsepa/jetbrains-verilog-plugin) | 1 533 | 2018-11-29 |
+| [Vector Icon Pack](https://github.com/OuYuBin/VectorIcons) | 2 109 | 2018-07-12 |
+| [VectorDrawableImporter](https://github.com/ligi/VectorDrawableImport) | 5 818 | 2016-02-26 |
+| [Verilog support](https://github.com/MrTsepa/jetbrains-verilog-plugin) | 1 536 | 2018-11-29 |
 | [VersionOne Integration](https://github.com/nearwood/intellij-v1) | 59 | 2018-06-09 |
-| [VersionOne task provider](https://github.com/psafarov/intellij-version-one-task-provider) | 996 | 2015-10-03 |
-| [Vet](https://github.com/Cosium/vet-intellij-plugin) | 1 191 | 2019-07-25 |
-| [View Binder](https://github.com/ZakharchenkoWork/ViewBinder) | 628 | 2017-11-20 |
+| [VersionOne task provider](https://github.com/psafarov/intellij-version-one-task-provider) | 998 | 2015-10-03 |
+| [Vet](https://github.com/Cosium/vet-intellij-plugin) | 1 193 | 2019-07-25 |
+| [View Binder](https://github.com/ZakharchenkoWork/ViewBinder) | 630 | 2017-11-20 |
 | [VisibleForTesting](https://github.com/trubitsyn/idea-visiblefortesting) | 1 557 | 2019-07-01 |
-| [Visual SourceSafe Integration](https://github.com/JetBrains/vss) | 17 786 | 2018-05-10 |
-| [Visual Studio Code Dark Plus Theme](https://github.com/samdark/intellij-visual-studio-code-dark-plus) | 35 780 | 2019-07-15 |
-| [Visual Studio Keymap](https://github.com/JetBrains/intellij-community/tree/master/platform/platform-resources/src/keymaps) | 1 180 | 2019-10-23 |
+| [Visual SourceSafe Integration](https://github.com/JetBrains/vss) | 17 808 | 2018-05-10 |
+| [Visual Studio Code Dark Plus Theme](https://github.com/samdark/intellij-visual-studio-code-dark-plus) | 35 935 | 2019-07-15 |
+| [Visual Studio Keymap](https://github.com/JetBrains/intellij-community/tree/master/platform/platform-resources/src/keymaps) | 1 197 | 2019-10-23 |
 | [Visual Studio Online Work Items](https://github.com/JetBrains/TeamCity.VsOnline.WorkItems) | 1 | 2016-10-06 |
-| [VisualVM Launcher](https://github.com/krasa/VisualVMLauncher) | 331 684 | 2019-06-23 |
-| [VisualVM Profiler](https://plugins.jetbrains.com/files/3749/sourceCode.zip) | 9 735 | 2008-12-08 |
-| [Voicecode Idea](https://github.com/anonfunc/intellij-voicecode) | 604 | 2019-08-13 |
-| [Vue Component Creator](https://github.com/faebeee/vue-component-creator-plugin) | 31 900 | 2019-04-16 |
-| [Vue GWT](https://github.com/VueGWT/vue-gwt-intellij-plugin) | 10 550 | 2018-10-05 |
-| [Vue.js](https://github.com/postalservice14/vuejs-plugin) | 195 350 | 2016-03-30 |
-| [Vuesion Theme](https://github.com/vuesion/intellij-theme) | 14 746 | 2019-10-02 |
+| [VisualVM Launcher](https://github.com/krasa/VisualVMLauncher) | 331 771 | 2019-06-23 |
+| [VisualVM Profiler](https://plugins.jetbrains.com/files/3749/sourceCode.zip) | 9 736 | 2008-12-08 |
+| [Voicecode Idea](https://github.com/anonfunc/intellij-voicecode) | 606 | 2019-08-13 |
+| [Vue Component Creator](https://github.com/faebeee/vue-component-creator-plugin) | 31 979 | 2019-04-16 |
+| [Vue GWT](https://github.com/VueGWT/vue-gwt-intellij-plugin) | 10 556 | 2018-10-05 |
+| [Vue.js](https://github.com/postalservice14/vuejs-plugin) | 195 361 | 2016-03-30 |
+| [Vuesion Theme](https://github.com/vuesion/intellij-theme) | 14 794 | 2019-10-02 |
 | [WDK View](https://plugins.jetbrains.com/files/1186/sourceCode.zip) | 552 | 2006-11-08 |
-| [WDL DevTools](https://github.com/broadinstitute/wdl-ide/tree/master/client/intellij) | 305 | 2019-10-19 |
-| [WIFI ADB ULTIMATE](https://github.com/huazhouwang/WIFIADB/tree/master/WIFIADBIntelliJPlugin) | 34 147 | 2017-01-02 |
-| [WSAnything](https://github.com/mario206/WSAnything) | 548 | 2019-05-12 |
-| [WakaTime](https://github.com/wakatime/jetbrains-wakatime) | 316 221 | 2019-11-02 |
+| [WDL DevTools](https://github.com/broadinstitute/wdl-ide/tree/master/client/intellij) | 307 | 2019-10-19 |
+| [WIFI ADB ULTIMATE](https://github.com/huazhouwang/WIFIADB/tree/master/WIFIADBIntelliJPlugin) | 34 194 | 2017-01-02 |
+| [WSAnything](https://github.com/mario206/WSAnything) | 551 | 2019-05-12 |
+| [WakaTime](https://github.com/wakatime/jetbrains-wakatime) | 317 137 | 2019-11-02 |
 | [Wall-T](https://github.com/u2032/wall-t) | 216 | 2016-10-06 |
-| [Wallpaper](https://github.com/cocuh/intellij-wallpaper/) | 5 893 | 2016-03-31 |
+| [Wallpaper](https://github.com/cocuh/intellij-wallpaper/) | 5 897 | 2016-03-31 |
 | [WatchDog](https://github.com/TestRoots/watchdog) | 2 357 | 2018-10-17 |
 | [Web Hooks (tcWebHooks)](https://github.com/tcplugins/tcWebHooks/tree/master) | 2 213 | 2019-06-30 |
 | [WebP Stinks](https://bitbucket.org/MSiddeek/webp-stinks/src) | 1 748 | 2016-05-06 |
 | [WebSequenceDiagrams Support](https://github.com/nathanmbrown/wsd-intellij-plugin) | 382 | 2018-08-05 |
-| [Websocket Client](https://github.com/dmitz/idea-websocket-client) | 3 049 | 2015-10-16 |
+| [Websocket Client](https://github.com/dmitz/idea-websocket-client) | 3 052 | 2015-10-16 |
 | [Webx Link](https://github.com/i17c/WebxLink) | 893 | 2016-06-30 |
-| [Weex](https://github.com/weexteam/weex-intellij-plugin) | 21 332 | 2017-04-28 |
-| [Weex Language Support](https://github.com/misakuo/weex-language-support) | 15 363 | 2017-08-29 |
-| [Wei Studio Tools](https://github.com/maoruibin/) | 2 294 | 2019-05-14 |
+| [Weex](https://github.com/weexteam/weex-intellij-plugin) | 21 334 | 2017-04-28 |
+| [Weex Language Support](https://github.com/misakuo/weex-language-support) | 15 367 | 2017-08-29 |
+| [Wei Studio Tools](https://github.com/maoruibin/) | 2 298 | 2019-05-14 |
 | [Wemi](https://github.com/Darkyenus/wemi) | 41 | 2019-07-11 |
-| [What The Commit](https://github.com/darekkay/what-the-commit) | 4 990 | 2015-02-01 |
-| [WicketLambdaFold](https://github.com/andruhon/WicketLambdaFold) | 758 | 2018-11-28 |
-| [Window Sizer](https://github.com/gwallet/intellij-windowsizer) | 2 014 | 2016-04-16 |
+| [What The Commit](https://github.com/darekkay/what-the-commit) | 4 993 | 2015-02-01 |
+| [WicketLambdaFold](https://github.com/andruhon/WicketLambdaFold) | 759 | 2018-11-28 |
+| [Window Sizer](https://github.com/gwallet/intellij-windowsizer) | 2 016 | 2016-04-16 |
 | [Windows Communication Foundation (WCF) tools](https://github.com/maartenba/rider-plugin-svcutil) | 279 | 2019-01-20 |
-| [Windows Context Menu](https://plugins.jetbrains.com/files/1348/sourceCode.zip) | 1 283 | 2007-07-07 |
-| [Winstanley WDL](https://github.com/broadinstitute/winstanley) | 2 340 | 2019-01-09 |
+| [Windows Context Menu](https://plugins.jetbrains.com/files/1348/sourceCode.zip) | 1 284 | 2007-07-07 |
+| [Winstanley WDL](https://github.com/broadinstitute/winstanley) | 2 343 | 2019-01-09 |
 | [Woko Plugin](http://www.pojosontheweb.com/widea-src.zip) | 1 612 | 2014-05-16 |
-| [Work Item Exporter](https://github.com/JetBrains/youtrack-work-item-exporter-widget) | 240 | 2019-09-09 |
-| [Workflow Health](https://github.com/mariyadavydova/workflow-health-widget) | 1 241 | 2019-02-27 |
+| [Work Item Exporter](https://github.com/JetBrains/youtrack-work-item-exporter-widget) | 245 | 2019-09-09 |
+| [Workflow Health](https://github.com/mariyadavydova/workflow-health-widget) | 1 245 | 2019-02-27 |
 | [World of Warcraft Addon Support](https://github.com/Naliwe/IntelliJ_WowAddOnSupport) | 426 | 2017-09-17 |
-| [Wrap to Column](https://github.com/abrookins/WrapToColumn) | 29 648 | 2016-12-14 |
+| [Wrap to Column](https://github.com/abrookins/WrapToColumn) | 29 658 | 2016-12-14 |
 | [Wuff IntelliJ Plugin](https://github.com/mcmil/wuff-intellij-plugin/) | 298 | 2014-11-13 |
 | [Wuff IntelliJ Plugin](https://github.com/PSI-Polska/wuff-intellij-plugin) | 395 | 2016-05-18 |
-| [Wxapp Support](https://github.com/zxj5470/wxapp-intellij) | 2 187 | 2019-08-05 |
-| [XCode-Dark Theme](https://github.com/antelle/intellij-xcode-dark-theme) | 2 371 | 2019-10-29 |
-| [XLIFF Support](https://github.com/cedricziel/idea-xliff) | 8 316 | 2017-12-04 |
+| [Wxapp Support](https://github.com/zxj5470/wxapp-intellij) | 2 197 | 2019-08-05 |
+| [XCode-Dark Theme](https://github.com/antelle/intellij-xcode-dark-theme) | 2 445 | 2019-10-29 |
+| [XLIFF Support](https://github.com/cedricziel/idea-xliff) | 8 318 | 2017-12-04 |
 | [XML Doc Inspections](https://github.com/ulrichb/XmlDocInspections/) | 715 | 2019-08-08 |
 | [XML-TP](https://github.com/httpping/exceltoxml) | 254 | 2018-12-10 |
-| [XMLBeans integration](https://github.com/bsblabs/intellij-xmlbeans-plugin) | 7 800 | 2014-03-14 |
+| [XMLBeans integration](https://github.com/bsblabs/intellij-xmlbeans-plugin) | 7 804 | 2014-03-14 |
 | [XMLNavigate](https://plugins.jetbrains.com/files/1488/sourceCode.zip) | 3 090 | 2012-01-24 |
 | [XMPP](https://github.com/stefandotti/intellij-xmpp-plugin) | 428 | 2017-02-21 |
-| [XMake](https://github.com/tboox/xmake-idea) | 4 511 | 2018-03-12 |
+| [XMake](https://github.com/tboox/xmake-idea) | 4 513 | 2018-03-12 |
 | [XPathView + XSLT-Support](https://plugins.jetbrains.com/files/237/sourceCode.zip) | 2 147 | 2008-11-27 |
-| [XQuery Support](https://github.com/ligasgr/intellij-xquery) | 34 703 | 2019-05-12 |
-| [XQuery Support + MarkLogic Debugger](https://github.com/overstory/marklogic-intellij-plugin) | 6 816 | 2018-03-02 |
-| [XSL-FO Support for IntelliJ IDEA](https://github.com/dmitry-cherkas/intellij-xslfo-support) | 3 588 | 2017-08-26 |
-| [XSLT Debugger](https://plugins.jetbrains.com/files/1818/sourceCode.zip) | 19 643 | 2019-10-31 |
+| [XQuery Support](https://github.com/ligasgr/intellij-xquery) | 34 706 | 2019-05-12 |
+| [XQuery Support + MarkLogic Debugger](https://github.com/overstory/marklogic-intellij-plugin) | 6 824 | 2018-03-02 |
+| [XSL-FO Support for IntelliJ IDEA](https://github.com/dmitry-cherkas/intellij-xslfo-support) | 3 591 | 2017-08-26 |
+| [XSLT Debugger](https://plugins.jetbrains.com/files/1818/sourceCode.zip) | 19 664 | 2019-10-31 |
 | [Xcode Scheme Selector](https://github.com/mjbeauregard/appcode-scheme-selector) | 874 | 2019-03-06 |
 | [XebiaLabs XL Deploy](https://github.com/xebialabs-community/teamcity-xldeploy-plugin) | 65 | 2016-12-22 |
-| [Xml Contributor](https://github.com/abbaspirmoradi/IntelliJ-Idea-XML-contributor-Plugin) | 340 | 2019-06-11 |
-| [Xpath Validator](https://github.com/mib2k/xpathValidatorPlugin) | 942 | 2018-10-12 |
+| [Xml Contributor](https://github.com/abbaspirmoradi/IntelliJ-Idea-XML-contributor-Plugin) | 341 | 2019-06-11 |
+| [Xpath Validator](https://github.com/mib2k/xpathValidatorPlugin) | 945 | 2018-10-12 |
 | [Xtend Support](https://github.com/eclipse/xtext) | 8 800 | 2016-05-25 |
 | [Xtext](https://github.com/eclipse/xtext) | 3 297 | 2016-05-25 |
-| [Xtext IDEA Core](https://github.com/eclipse/xtext) | 8 289 | 2016-05-25 |
-| [Y Script support (IAS)](https://github.com/EmhyrVarEmreis/intelij-y-script-language-plugin) | 511 | 2019-10-02 |
-| [YAML](https://github.com/JetBrains/intellij-community) | 39 | 2019-10-11 |
-| [YAML File Generator](https://github.com/Actigence/yaml-file-generator) | 4 431 | 2018-08-26 |
+| [Xtext IDEA Core](https://github.com/eclipse/xtext) | 8 290 | 2016-05-25 |
+| [Y Script support (IAS)](https://github.com/EmhyrVarEmreis/intelij-y-script-language-plugin) | 514 | 2019-10-02 |
+| [YAML](https://github.com/JetBrains/intellij-community) | 41 | 2019-10-11 |
+| [YAML File Generator](https://github.com/Actigence/yaml-file-generator) | 4 432 | 2018-08-26 |
 | [YXDroid Tools](https://github.com/yxdroid/YXDroidTools-Plugin) | 1 513 | 2017-07-05 |
-| [Yaml-Config Autocomplete](https://github.com/liamjwang/yamlconfig-idea) | 4 266 | 2019-02-24 |
+| [Yaml-Config Autocomplete](https://github.com/liamjwang/yamlconfig-idea) | 4 278 | 2019-02-24 |
 | [Yandex Cloud Agents](https://github.com/vasiliy-briginets/teamcity-yandex-agent/) | 5 | 2019-06-24 |
-| [Yandex Translate](https://github.com/LimyDesign/YandexTranslate) | 2 334 | 2016-11-16 |
-| [Yaoqiang BPMN Editor](https://github.com/Blenta/intellij-bpmn-editor) | 26 710 | 2017-08-01 |
-| [Yet another emoji support](https://github.com/shiraji/yet-another-emoji-support) | 2 450 | 2019-07-07 |
-| [Yii2 Inspections](https://github.com/kalessil/yii2inspections) | 26 110 | 2019-05-11 |
-| [Yii2 Support](https://github.com/nvlad/yii2support) | 101 690 | 2019-02-14 |
-| [Yii::t](https://github.com/xuzhenjun130/Yii-t) | 5 993 | 2017-08-28 |
-| [YiiStorm](https://github.com/cmazx/yiistorm) | 89 799 | 2014-07-17 |
-| [YouTrack Integration](https://github.com/jk1/youtrack-idea-plugin) | 52 591 | 2019-10-14 |
+| [Yandex Translate](https://github.com/LimyDesign/YandexTranslate) | 2 336 | 2016-11-16 |
+| [Yaoqiang BPMN Editor](https://github.com/Blenta/intellij-bpmn-editor) | 26 725 | 2017-08-01 |
+| [Yet another emoji support](https://github.com/shiraji/yet-another-emoji-support) | 2 454 | 2019-07-07 |
+| [Yii2 Inspections](https://github.com/kalessil/yii2inspections) | 26 134 | 2019-05-11 |
+| [Yii2 Support](https://github.com/nvlad/yii2support) | 101 720 | 2019-02-14 |
+| [Yii::t](https://github.com/xuzhenjun130/Yii-t) | 5 996 | 2017-08-28 |
+| [YiiStorm](https://github.com/cmazx/yiistorm) | 89 806 | 2014-07-17 |
+| [YouTrack Integration](https://github.com/jk1/youtrack-idea-plugin) | 52 620 | 2019-10-14 |
 | [ZF1 integration plugin](https://github.com/vladas/phpstorm-zf1) | 12 135 | 2014-04-04 |
-| [ZF2 Module Creator](https://github.com/bluebaroncanada/zf2modulecreator) | 6 543 | 2015-04-17 |
-| [ZK](https://github.com/jumperchen/zkidea) | 23 168 | 2017-07-19 |
-| [Zalgofy](https://github.com/sim642/intellij-zalgofy) | 125 | 2016-11-10 |
+| [ZF2 Module Creator](https://github.com/bluebaroncanada/zf2modulecreator) | 6 544 | 2015-04-17 |
+| [ZK](https://github.com/jumperchen/zkidea) | 23 170 | 2017-07-19 |
+| [Zalgofy](https://github.com/sim642/intellij-zalgofy) | 126 | 2016-11-10 |
 | [Zato hot-deployment](https://github.com/zatosource/ide-pycharm) | 414 | 2018-09-07 |
-| [ZenSharp auto completion plugin](https://github.com/ulex/zensharp) | 15 496 | 2019-08-12 |
-| [Zephir](https://github.com/zephir-lang/idea-plugin) | 10 325 | 2019-09-07 |
-| [Zero Width Characters locator](https://github.com/harley84/ZeroLengthRadar) | 19 147 | 2016-05-14 |
+| [ZenSharp auto completion plugin](https://github.com/ulex/zensharp) | 15 498 | 2019-08-12 |
+| [Zephir](https://github.com/zephir-lang/idea-plugin) | 10 335 | 2019-09-07 |
+| [Zero Width Characters locator](https://github.com/harley84/ZeroLengthRadar) | 19 161 | 2016-05-14 |
 | [Zester](https://github.com/semonte/zester) | 739 | 2016-04-22 |
-| [Zhenai Android Coding Guidelines](https://github.com/dengqu/KotlinLintPlugin) | 391 | 2019-08-16 |
-| [Zig](https://github.com/ice1000/zig-intellij/) | 1 114 | 2019-04-26 |
-| [ZipChanges](https://github.com/nyver/zip-changes-plugin) | 4 974 | 2013-11-12 |
-| [Zipper](https://github.com/renemaas/Zipper-IntelliJ-Plugin) | 9 241 | 2015-07-19 |
+| [Zhenai Android Coding Guidelines](https://github.com/dengqu/KotlinLintPlugin) | 394 | 2019-08-16 |
+| [Zig](https://github.com/ice1000/zig-intellij/) | 1 119 | 2019-04-26 |
+| [ZipChanges](https://github.com/nyver/zip-changes-plugin) | 4 976 | 2013-11-12 |
+| [Zipper](https://github.com/renemaas/Zipper-IntelliJ-Plugin) | 9 244 | 2015-07-19 |
 | [Zmei Generator integration](https://github.com/zmei-framework/zmei-intellij-plugin) | 36 | 2019-01-17 |
-| [ZooKeeper](https://github.com/linux-china/zookeeper-intellij) | 72 763 | 2018-04-08 |
-| [Zurb Foundation 5](https://github.com/manolenso/intellij-foundation5) | 12 345 | 2015-11-23 |
-| [activate-power-mode](https://github.com/ViceFantasyPlace/activate-power-mode) | 118 217 | 2018-01-09 |
-| [android easy sharedprefs](https://github.com/w22ee/EasySharedprefs) | 3 503 | 2017-05-19 |
+| [ZooKeeper](https://github.com/linux-china/zookeeper-intellij) | 72 804 | 2018-04-08 |
+| [Zurb Foundation 5](https://github.com/manolenso/intellij-foundation5) | 12 347 | 2015-11-23 |
+| [activate-power-mode](https://github.com/ViceFantasyPlace/activate-power-mode) | 118 275 | 2018-01-09 |
+| [android easy sharedprefs](https://github.com/w22ee/EasySharedprefs) | 3 504 | 2017-05-19 |
 | [android-component-explorer](https://github.com/pRivAte12/android-component-explorer) | 37 | 2017-05-12 |
 | [android-json-generator](https://github.com/pouloghost/json-plugin) | 1 466 | 2016-04-06 |
-| [angular-switch-extension](https://github.com/asnowwolf/angular-switch-extension) | 1 089 | 2019-09-05 |
-| [apiDoc](https://gitee.com/UnlimitedBladeWorks_123/apidoc-plugin-idea) | 1 888 | 2019-10-23 |
+| [angular-switch-extension](https://github.com/asnowwolf/angular-switch-extension) | 1 090 | 2019-09-05 |
+| [apiDoc](https://gitee.com/UnlimitedBladeWorks_123/apidoc-plugin-idea) | 1 894 | 2019-10-23 |
 | [aping](https://github.com/lwfwind/aping) | 892 | 2017-05-04 |
 | [atoum plugin](https://github.com/atoum/phpstorm-plugin) | 1 933 | 2017-02-26 |
-| [autodoc](https://github.com/LudditeLabs/autodoc-intellij-plugin) | 18 437 | 2018-09-28 |
-| [better-mybatis-generator](https://github.com/kmaster/better-mybatis-generator) | 24 129 | 2018-12-14 |
+| [autodoc](https://github.com/LudditeLabs/autodoc-intellij-plugin) | 18 453 | 2018-09-28 |
+| [better-mybatis-generator](https://github.com/kmaster/better-mybatis-generator) | 24 163 | 2018-12-14 |
 | [birdseye](https://github.com/alexmojaki/birdseye-pycharm) | 1 107 | 2018-10-07 |
-| [black-pycharm](https://github.com/pablogsal/black-pycharm) | 12 720 | 2018-04-24 |
-| [bzr4idea](https://plugins.jetbrains.com/files/2172/sourceCode.zip) | 4 053 | 2009-07-24 |
-| [carbon-now-sh](https://github.com/trubitsyn/idea-carbon-now-sh) | 6 600 | 2018-10-19 |
+| [black-pycharm](https://github.com/pablogsal/black-pycharm) | 12 734 | 2018-04-24 |
+| [bzr4idea](https://plugins.jetbrains.com/files/2172/sourceCode.zip) | 4 055 | 2009-07-24 |
+| [carbon-now-sh](https://github.com/trubitsyn/idea-carbon-now-sh) | 6 608 | 2018-10-19 |
 | [cedarsoft Serializer Generator](https://github.com/jschneider/com.cedarsoft.serialization/tree/develop/cedarsoft-serializer-generator) | 719 | 2018-05-07 |
 | [cfn-lint](https://github.com/binxio/cfn-lint-plugin) | 3 028 | 2019-07-31 |
-| [cheat.sh code snippets](https://github.com/szymonprz/idea-cheatsh-plugin) | 882 | 2019-04-28 |
-| [cjk-conv](https://github.com/bluelovers/idea-cjk-conv) | 1 637 | 2019-07-06 |
-| [coala Code Analysis](https://github.com/frextrite/coala-jetbrains) | 110 | 2019-08-25 |
-| [codeAppend](https://github.com/laoziyaonitian/codeAppend) | 233 | 2019-04-01 |
-| [codehelper.generator](https://github.com/zhengjunbase/codehelper.generator) | 39 863 | 2018-12-13 |
+| [cheat.sh code snippets](https://github.com/szymonprz/idea-cheatsh-plugin) | 889 | 2019-04-28 |
+| [cjk-conv](https://github.com/bluelovers/idea-cjk-conv) | 1 639 | 2019-07-06 |
+| [coala Code Analysis](https://github.com/frextrite/coala-jetbrains) | 115 | 2019-08-25 |
+| [codeAppend](https://github.com/laoziyaonitian/codeAppend) | 234 | 2019-04-01 |
+| [codehelper.generator](https://github.com/zhengjunbase/codehelper.generator) | 39 884 | 2018-12-13 |
 | [coder-helper](https://github.com/zimuwse/coder-helper) | 149 | 2018-01-25 |
 | [com.dslfoundry.langvis](https://github.com/DSLFoundry/mps-langvis) | 182 | 2019-01-25 |
-| [com.dslfoundry.plaintextgen](https://github.com/DSLFoundry/mps-plaintextgen) | 1 146 | 2018-12-28 |
-| [convert yaml to properties](https://github.com/zm9913/yaml2props-plugin) | 2 619 | 2019-08-08 |
-| [cppcheck](https://github.com/johnthagen/clion-cppcheck) | 21 881 | 2018-04-11 |
-| [createPlusBuild](https://github.com/JetBrains/intellij-community/tree/133) | 232 | 2017-12-19 |
-| [ctttr](https://github.com/bowmanb/ctttr) | 1 127 | 2015-12-19 |
+| [com.dslfoundry.plaintextgen](https://github.com/DSLFoundry/mps-plaintextgen) | 1 146 | 2019-11-04 |
+| [convert yaml to properties](https://github.com/zm9913/yaml2props-plugin) | 2 628 | 2019-08-08 |
+| [cppcheck](https://github.com/johnthagen/clion-cppcheck) | 21 890 | 2018-04-11 |
+| [createPlusBuild](https://github.com/JetBrains/intellij-community/tree/133) | 233 | 2017-12-19 |
+| [ctttr](https://github.com/bowmanb/ctttr) | 1 129 | 2015-12-19 |
 | [cwl-plugin](https://gitlab.com/AleksandrSl/cwl-plugin) | 282 | 2017-09-17 |
-| [db4o plugin](https://github.com/vltRz00r/db4o-plugin) | 735 | 2015-10-27 |
-| [ddescriber for jasmine](https://github.com/andresdominguez/ddescriber) | 38 821 | 2016-12-06 |
-| [decorate](https://github.com/cweijan/decorate) | 1 672 | 2019-05-13 |
-| [deep-assoc-completion](https://github.com/klesun/deep-assoc-completion) | 66 003 | 2019-10-28 |
-| [deep-dict-completion](https://github.com/klesun/deep-dict-completion) | 617 | 2019-08-17 |
-| [deep-js-completion](https://github.com/klesun/deep-js-completion) | 9 976 | 2019-10-07 |
-| [defrac Support](https://github.com/defrac/defrac-plugin-intellij/) | 1 149 | 2016-02-18 |
-| [detekt](https://github.com/arturbosch/detekt-intellij-plugin) | 15 874 | 2019-10-17 |
-| [doT](https://github.com/webschik/idea-doT) | 24 025 | 2014-06-07 |
+| [db4o plugin](https://github.com/vltRz00r/db4o-plugin) | 736 | 2015-10-27 |
+| [ddescriber for jasmine](https://github.com/andresdominguez/ddescriber) | 38 823 | 2016-12-06 |
+| [decorate](https://github.com/cweijan/decorate) | 1 677 | 2019-05-13 |
+| [deep-assoc-completion](https://github.com/klesun/deep-assoc-completion) | 66 047 | 2019-10-28 |
+| [deep-dict-completion](https://github.com/klesun/deep-dict-completion) | 620 | 2019-08-17 |
+| [deep-js-completion](https://github.com/klesun/deep-js-completion) | 9 988 | 2019-10-07 |
+| [defrac Support](https://github.com/defrac/defrac-plugin-intellij/) | 1 150 | 2016-02-18 |
+| [detekt](https://github.com/arturbosch/detekt-intellij-plugin) | 15 903 | 2019-10-17 |
+| [doT](https://github.com/webschik/idea-doT) | 24 036 | 2014-06-07 |
 | [documentum-plugin](https://github.com/toolkas/documentum-plugin) | 521 | 2018-06-05 |
-| [dotplugin](https://github.com/bzixilu/dotplugin) | 12 875 | 2018-08-20 |
+| [dotplugin](https://github.com/bzixilu/dotplugin) | 12 896 | 2018-08-20 |
 | [duplicateClassFinder](https://github.com/lff0305/duplicateClassFinder) | 268 | 2017-07-19 |
 | [eSnippet Pro plugin](https://github.com/linux-china/esnippet_idea_plugin) | 974 | 2013-04-27 |
 | [eSnippets by rob.hewy@gmail.com](http://gisweb.athena.bcit.ca/rhewlett/esnippets/eSnippets0.0.3.zip) | 186 | 2015-10-21 |
 | [eZ](https://github.com/whitefire/eZ-completion) | 1 299 | 2017-04-20 |
 | [easy-javadoc](https://github.com/starcwang/easy_javadoc) | 40 | 2019-10-23 |
-| [ecmascript4mps](https://github.com/mar9000/ecmascript4mps) | 1 517 | 2019-08-19 |
+| [ecmascript4mps](https://github.com/mar9000/ecmascript4mps) | 1 518 | 2019-08-19 |
 | [eddy](https://github.com/eddysystems/eddy) | 2 380 | 2015-04-30 |
-| [element](https://github.com/jiaolong1021/ElementPlugin) | 25 161 | 2018-05-11 |
-| [elementor](https://github.com/andresdominguez/elementor-idea) | 7 461 | 2014-12-16 |
-| [emacsIDEAs](https://github.com/whunmr/emacsIDEAs) | 34 509 | 2017-04-06 |
+| [element](https://github.com/jiaolong1021/ElementPlugin) | 25 201 | 2018-05-11 |
+| [elementor](https://github.com/andresdominguez/elementor-idea) | 7 463 | 2014-12-16 |
+| [emacsIDEAs](https://github.com/whunmr/emacsIDEAs) | 34 522 | 2017-04-06 |
 | [eql-plugin](https://github.com/Bpazy/eql-plugin) | 557 | 2018-08-27 |
 | [equals() and hashCode() reloaded](https://github.com/Omikron-Data-Quality-GmbH/equals-and-hashcode-reloaded) | 665 | 2017-03-31 |
 | [ev3dev C/C++](https://github.com/Evolitist/ev3dev-c-clion) | 307 | 2019-08-21 |
 | [fakeCamelCaseForC#](https://github.com/zxj5470/FakeCamelCase) | 77 | 2017-12-05 |
-| [fir.im upload](https://github.com/FIRHQ/FIR_Plugin_Android) | 7 369 | 2015-10-31 |
-| [flutter_json_format](https://github.com/neverwoodsS/idea_flutter_json_format) | 17 980 | 2019-06-12 |
+| [fir.im upload](https://github.com/FIRHQ/FIR_Plugin_Android) | 7 370 | 2015-10-31 |
+| [flutter_json_format](https://github.com/neverwoodsS/idea_flutter_json_format) | 18 022 | 2019-06-12 |
 | [fuGen](https://github.com/korgov/fuGen) | 1 295 | 2014-02-17 |
 | [gb-json-pojo](https://github.com/httpping/GBGsonCreatedPOJO.git) | 749 | 2018-03-12 |
-| [geo-support](https://github.com/kassak/geo-support/) | 853 | 2018-06-15 |
-| [gfm](https://github.com/ShyykoSerhiy/gfm-plugin) | 96 438 | 2019-05-13 |
-| [google-java-format](https://github.com/google/google-java-format) | 165 380 | 2019-07-10 |
+| [geo-support](https://github.com/kassak/geo-support/) | 855 | 2018-06-15 |
+| [gfm](https://github.com/ShyykoSerhiy/gfm-plugin) | 96 453 | 2019-05-13 |
+| [google-java-format](https://github.com/google/google-java-format) | 165 468 | 2019-07-10 |
 | [gopkgm](https://github.com/yinzj1993/gopkgm) | 1 135 | 2017-11-20 |
-| [gradle-intellij-plugin wizard](https://github.com/shiraji/intellij-plugin-with-gradle-wizard/) | 11 282 | 2018-05-16 |
+| [gradle-intellij-plugin wizard](https://github.com/shiraji/intellij-plugin-with-gradle-wizard/) | 11 288 | 2018-05-16 |
 | [gscrum](https://github.com/jwrabel/gscrum) | 175 | 2015-01-28 |
-| [hSenid Mobile TAP IDE](https://github.com/hsenid-mobile/tap-ide) | 867 | 2015-05-13 |
+| [hSenid Mobile TAP IDE](https://github.com/hsenid-mobile/tap-ide) | 868 | 2015-05-13 |
 | [hg4idea-luciad](https://plugins.jetbrains.com/files/4624/sourceCode.zip) | 531 | 2010-07-26 |
-| [hidpi-profiles](https://github.com/mskonovalov/intellij-hidpi-profiles) | 8 880 | 2018-03-20 |
-| [i18n Android Helper](https://code.google.com/archive/p/i18n-android-helper) | 4 644 | 2015-08-25 |
+| [hidpi-profiles](https://github.com/mskonovalov/intellij-hidpi-profiles) | 8 884 | 2018-03-20 |
+| [i18n Android Helper](https://code.google.com/archive/p/i18n-android-helper) | 4 645 | 2015-08-25 |
 | [iSnippet](https://plugins.jetbrains.com/files/1181/sourceCode.zip) | 1 746 | 2006-10-28 |
-| [iTimeTrack](https://github.com/itimetrack/itimetrack-jetbrains) | 1 432 | 2016-05-24 |
-| [iceScrum for Intellij](https://github.com/icescrum/icescrum-for-intellij/) | 7 492 | 2014-06-18 |
+| [iTimeTrack](https://github.com/itimetrack/itimetrack-jetbrains) | 1 434 | 2016-05-24 |
+| [iceScrum for Intellij](https://github.com/icescrum/icescrum-for-intellij/) | 7 494 | 2014-06-18 |
 | [idea-coati](https://github.com/CoatiSoftware/idea-coati) | 354 | 2017-03-01 |
-| [idea-mybatis-generator](https://gitee.com/rohou/mybatis-generator) | 49 334 | 2019-05-23 |
-| [idea-sourcetrail](https://github.com/CoatiSoftware/idea-sourcetrail) | 1 952 | 2019-04-23 |
-| [ideaMantis](https://github.com/domjos1994/ideaMantis) | 1 413 | 2018-09-15 |
-| [idear](https://github.com/breandan/idear) | 16 005 | 2018-05-01 |
+| [idea-mybatis-generator](https://gitee.com/rohou/mybatis-generator) | 49 370 | 2019-05-23 |
+| [idea-sourcetrail](https://github.com/CoatiSoftware/idea-sourcetrail) | 1 954 | 2019-04-23 |
+| [ideaMantis](https://github.com/domjos1994/ideaMantis) | 1 415 | 2018-09-15 |
+| [idear](https://github.com/breandan/idear) | 16 014 | 2018-05-01 |
 | [ifelse](https://github.com/fclassroom/ifelse) | 165 | 2019-06-20 |
-| [imdone](https://github.com/imdone/imdone-idea) | 984 | 2015-11-30 |
+| [imdone](https://github.com/imdone/imdone-idea) | 986 | 2015-11-30 |
 | [immutable-dto-generator-plugin](https://github.com/michaelruocco/immutable-dto-generator-plugin) | 53 | 2018-03-27 |
 | [intellij-sample-notification](https://github.com/ChrisCarini/intellij-notification-sample) | 143 | 2018-07-11 |
-| [intellij-touch](https://github.com/olivernybroe/intellij-touch) | 6 839 | 2018-05-02 |
+| [intellij-touch](https://github.com/olivernybroe/intellij-touch) | 6 843 | 2018-05-02 |
 | [intellij-translation](https://github.com/zyuyou/intellij-translation) | 1 588 | 2016-07-19 |
-| [intellijLint](https://github.com/LMAX-Exchange/intellijLint) | 2 191 | 2017-07-17 |
-| [isearch](https://github.com/takc923/isearch) | 410 | 2019-03-31 |
+| [intellijLint](https://github.com/LMAX-Exchange/intellijLint) | 2 195 | 2017-07-17 |
+| [isearch](https://github.com/takc923/isearch) | 413 | 2019-03-31 |
 | [jMonkeyEngine Support](https://github.com/JavaSaBr/IntelliJ-jME-Plugin) | 884 | 2018-05-13 |
-| [jQAssistant Plugin](https://github.com/kontext-e/idea-jqa-plugin) | 2 421 | 2018-03-09 |
+| [jQAssistant Plugin](https://github.com/kontext-e/idea-jqa-plugin) | 2 424 | 2018-03-09 |
 | [jVb - Java Batch Designer](https://github.com/tmhanus/jVb-Designer-intellij-plugin) | 423 | 2015-05-18 |
 | [jarrunner](https://bitbucket.org/charlie_hayes/jarrunner/src) | 34 | 2018-10-18 |
 | [jasmine](https://github.com/kongxiangxin/jasmine) | 65 | 2019-09-14 |
-| [java2smali](https://github.com/ollide/intellij-java2smali) | 35 731 | 2017-06-25 |
-| [jclasslib Bytecode viewer](https://github.com/ingokegel/jclasslib) | 26 865 | 2019-09-24 |
+| [java2smali](https://github.com/ollide/intellij-java2smali) | 35 760 | 2017-06-25 |
+| [jclasslib Bytecode viewer](https://github.com/ingokegel/jclasslib) | 26 907 | 2019-09-24 |
 | [jenv IntelliJ IDEA plugin](https://github.com/linux-china/jenv-idea-plugin) | 4 880 | 2015-05-07 |
 | [jpos customer change](https://github.com/xinkunZ/IdeaJposPlugin) | 535 | 2019-10-23 |
-| [jsDelivr package search](https://github.com/jsdelivr/plugin-intellij) | 1 055 | 2019-08-01 |
-| [jscs](https://github.com/idok/jscs-plugin) | 34 809 | 2015-05-18 |
+| [jsDelivr package search](https://github.com/jsdelivr/plugin-intellij) | 1 058 | 2019-08-01 |
+| [jscs](https://github.com/idok/jscs-plugin) | 34 812 | 2015-05-18 |
 | [jsondiff](https://github.com/kpiska/jsondiff) | 1 894 | 2018-05-02 |
-| [k3](https://github.com/a2ndrade/k3-intellij-plugin) | 593 | 2019-04-25 |
-| [kdoc-generator](https://github.com/siosio/kdoc-generator-intellij-plugin) | 3 611 | 2019-02-22 |
-| [kotlintest](https://github.com/kotlintest/kotlintest-intellij-plugin) | 3 442 | 2019-03-03 |
-| [litydity Color Scheme](https://github.com/uokersam/litydity) | 447 | 2019-04-23 |
+| [k3](https://github.com/a2ndrade/k3-intellij-plugin) | 597 | 2019-04-25 |
+| [kdoc-generator](https://github.com/siosio/kdoc-generator-intellij-plugin) | 3 613 | 2019-02-22 |
+| [kotlintest](https://github.com/kotlintest/kotlintest-intellij-plugin) | 3 454 | 2019-03-03 |
+| [litydity Color Scheme](https://github.com/uokersam/litydity) | 449 | 2019-04-23 |
 | [local code review tool](https://github.com/ifreefly/offline-review-plugin-intellij) | 288 | 2018-10-09 |
-| [log](https://github.com/qiaoshouliang/LogPlugin) | 1 600 | 2017-07-28 |
-| [logstash config support](https://github.com/redfoos/logstash-intellij-plugin) | 106 097 | 2019-07-27 |
-| [lottie-idea](https://github.com/0legg/lottie-idea) | 1 791 | 2017-11-22 |
-| [macOS Dark Mode Sync](https://github.com/gilday/dark-mode-sync-plugin) | 1 797 | 2019-08-27 |
-| [madrid](https://github.com/mswift42/ith) | 937 | 2019-09-22 |
-| [magicwindow sdk plugin](https://github.com/magicwindow/mw-sdk-plugin) | 932 | 2016-08-30 |
+| [log](https://github.com/qiaoshouliang/LogPlugin) | 1 603 | 2017-07-28 |
+| [logstash config support](https://github.com/redfoos/logstash-intellij-plugin) | 106 316 | 2019-07-27 |
+| [lottie-idea](https://github.com/0legg/lottie-idea) | 1 794 | 2017-11-22 |
+| [macOS Dark Mode Sync](https://github.com/gilday/dark-mode-sync-plugin) | 1 807 | 2019-08-27 |
+| [madrid](https://github.com/mswift42/ith) | 940 | 2019-09-22 |
+| [magicwindow sdk plugin](https://github.com/magicwindow/mw-sdk-plugin) | 933 | 2016-08-30 |
 | [makeitI18Nplugin](https://bitbucket.org/vhly/smartdev) | 943 | 2012-06-25 |
 | [marklogic-intellij-plugin](https://github.com/rhdunn/marklogic-intellij-plugin) | 527 | 2018-01-24 |
-| [myBitbucket](https://github.com/BigBurritoInc/BitbucketHelper4Idea) | 4 770 | 2019-09-02 |
-| [myFolders plugin for IntelliJ IDEA](https://github.com/wertklop/myFolders) | 626 | 2018-04-14 |
-| [mybatis-helper](https://github.com/Sutonline/mybatis-helper.git) | 3 552 | 2018-06-08 |
-| [mysql-scaffold](https://github.com/erstens/mysql-scaffol) | 587 | 2019-01-04 |
-| [mysql-table-to-jpa-entity](https://github.com/liujingtech/IntelliJ-MySQL-Table-to-JPA-Entity) | 3 174 | 2019-01-16 |
-| [new version fir.im plugin](https://github.com/yunheli/NewFirPlugin) | 199 | 2015-11-03 |
-| [ng-zorro](https://github.com/HsuanXyz/ng-zorro-live-templates) | 1 061 | 2018-01-25 |
-| [nginx Support](https://github.com/ishchenko/idea-nginx) | 155 856 | 2019-10-27 |
-| [nullability-annotations-inspection](https://github.com/stylismo/nullability-annotations-inspection) | 1 127 | 2017-12-14 |
-| [nutzwk-plugin](https://github.com/enilu/nutzwk-plugin) | 983 | 2016-10-11 |
-| [open file to pane plugin](https://github.com/siosio/intellij-open-file-to-pane-plugin) | 824 | 2017-08-11 |
+| [myBitbucket](https://github.com/BigBurritoInc/BitbucketHelper4Idea) | 4 776 | 2019-09-02 |
+| [myFolders plugin for IntelliJ IDEA](https://github.com/wertklop/myFolders) | 629 | 2018-04-14 |
+| [mybatis-helper](https://github.com/Sutonline/mybatis-helper.git) | 3 558 | 2018-06-08 |
+| [mysql-scaffold](https://github.com/erstens/mysql-scaffol) | 588 | 2019-01-04 |
+| [mysql-table-to-jpa-entity](https://github.com/liujingtech/IntelliJ-MySQL-Table-to-JPA-Entity) | 3 177 | 2019-01-16 |
+| [new version fir.im plugin](https://github.com/yunheli/NewFirPlugin) | 200 | 2015-11-03 |
+| [ng-zorro](https://github.com/HsuanXyz/ng-zorro-live-templates) | 1 063 | 2018-01-25 |
+| [nginx Support](https://github.com/ishchenko/idea-nginx) | 156 102 | 2019-10-27 |
+| [nullability-annotations-inspection](https://github.com/stylismo/nullability-annotations-inspection) | 1 128 | 2017-12-14 |
+| [nutzwk-plugin](https://github.com/enilu/nutzwk-plugin) | 984 | 2016-10-11 |
+| [open file to pane plugin](https://github.com/siosio/intellij-open-file-to-pane-plugin) | 826 | 2017-08-11 |
 | [org.campagnelab.ANTLR](https://github.com/CampagneLaboratory/ANTLR_MPS) | 795 | 2019-09-06 |
 | [org.campagnelab.ClusterConfig](https://github.com/CampagneLaboratory/NYoSh) | 277 | 2018-05-25 |
 | [org.campagnelab.Editor2PDF](https://github.com/CampagneLaboratory/Editor2PDF) | 246 | 2018-05-25 |
@@ -2340,31 +2340,31 @@ Generated: _2019-11-03 07:38:26_
 | [org.campagnelab.mps.UI](https://github.com/CampagneLaboratory/NYoSh) | 730 | 2019-09-06 |
 | [org.campagnelab.mps.XChart](https://github.com/CampagneLaboratory/XChart) | 659 | 2018-05-25 |
 | [org.campagnelab.util](https://github.com/manuelesimi/NYoSh.core) | 83 | 2019-09-06 |
-| [palantir-java-format](https://github.com/palantir/palantir-java-format) | 255 | 2019-10-22 |
-| [patcher](https://github.com/Liang-Dongxing/patcher) | 634 | 2019-09-18 |
+| [palantir-java-format](https://github.com/palantir/palantir-java-format) | 258 | 2019-10-22 |
+| [patcher](https://github.com/Liang-Dongxing/patcher) | 636 | 2019-09-18 |
 | [platform-gen](https://gitee.com/fuyang_lipengjun/platform-gen) | 530 | 2019-05-24 |
-| [project_manager](https://github.com/xin497668869/project_manager) | 121 | 2018-04-12 |
-| [ptest](https://github.com/KarlGong/ptest-pycharm-plugin) | 1 428 | 2018-12-20 |
-| [px2rwd](https://github.com/sunqian1991/WebStorm-PX2REM) | 4 786 | 2019-07-02 |
-| [python-typing-adder](https://github.com/aristotll/python-typing-adder/) | 28 259 | 2017-06-13 |
-| [q](https://github.com/a2ndrade/q-intellij-plugin) | 7 733 | 2019-10-28 |
-| [qLaunch](https://github.com/ruwanka/qLaunch) | 411 | 2019-07-25 |
-| [quick-dev](https://github.com/newhoo/quick-dev-intellij-plugin) | 92 | 2019-09-26 |
-| [reVu](https://github.com/syllant/idea-plugin-revu) | 14 800 | 2016-03-21 |
-| [rebase-guru](https://github.com/serg-bloim/idea-rebase-guru) | 397 | 2018-10-05 |
-| [recenter-top-bottom](https://github.com/takc923/recenter-top-bottom) | 252 | 2019-03-30 |
-| [ruby-doc-adder](https://github.com/aristotll/RubyDocAdder) | 4 340 | 2018-04-06 |
-| [scss-lint](https://github.com/idok/scss-lint-plugin) | 87 142 | 2019-08-19 |
+| [project_manager](https://github.com/xin497668869/project_manager) | 122 | 2018-04-12 |
+| [ptest](https://github.com/KarlGong/ptest-pycharm-plugin) | 1 430 | 2018-12-20 |
+| [px2rwd](https://github.com/sunqian1991/WebStorm-PX2REM) | 4 791 | 2019-07-02 |
+| [python-typing-adder](https://github.com/aristotll/python-typing-adder/) | 28 280 | 2017-06-13 |
+| [q](https://github.com/a2ndrade/q-intellij-plugin) | 7 738 | 2019-10-28 |
+| [qLaunch](https://github.com/ruwanka/qLaunch) | 413 | 2019-07-25 |
+| [quick-dev](https://github.com/newhoo/quick-dev-intellij-plugin) | 94 | 2019-09-26 |
+| [reVu](https://github.com/syllant/idea-plugin-revu) | 14 802 | 2016-03-21 |
+| [rebase-guru](https://github.com/serg-bloim/idea-rebase-guru) | 400 | 2018-10-05 |
+| [recenter-top-bottom](https://github.com/takc923/recenter-top-bottom) | 254 | 2019-03-30 |
+| [ruby-doc-adder](https://github.com/aristotll/RubyDocAdder) | 4 343 | 2018-04-06 |
+| [scss-lint](https://github.com/idok/scss-lint-plugin) | 87 163 | 2019-08-19 |
 | [serviceDoc](https://gitee.com/UnlimitedBladeWorks_123/servicedoc-plugin-idea.git) | 222 | 2019-10-23 |
-| [shirotelin](https://github.com/yasukotelin/shirotelin-intellij) | 340 | 2019-10-28 |
-| [silkworm](https://github.com/mswift42/ith/) | 1 231 | 2019-05-03 |
-| [simplexml-format](https://github.com/lololiu/simplexml-format) | 1 788 | 2016-12-15 |
+| [shirotelin](https://github.com/yasukotelin/shirotelin-intellij) | 346 | 2019-10-28 |
+| [silkworm](https://github.com/mswift42/ith/) | 1 235 | 2019-05-03 |
+| [simplexml-format](https://github.com/lololiu/simplexml-format) | 1 791 | 2016-12-15 |
 | [sky plugin](https://github.com/skyJinc/SkyPlugin) | 536 | 2017-12-16 |
-| [soft-charcoal](https://github.com/mswift42/ith) | 1 166 | 2019-09-21 |
-| [ssh](https://plugins.jetbrains.com/files/1203/sourceCode.zip) | 11 575 | 2006-11-08 |
-| [stackoverflow](https://github.com/gejun123456/IntellijGoToStackOverFlow) | 26 566 | 2017-03-11 |
+| [soft-charcoal](https://github.com/mswift42/ith) | 1 171 | 2019-09-21 |
+| [ssh](https://plugins.jetbrains.com/files/1203/sourceCode.zip) | 11 578 | 2006-11-08 |
+| [stackoverflow](https://github.com/gejun123456/IntellijGoToStackOverFlow) | 26 595 | 2017-03-11 |
 | [stanwood Android templates](https://github.com/stanwood/android-studio-plugin) | 330 | 2019-10-15 |
-| [stylus-assist](https://github.com/raiyeeeric/stylus-assist) | 20 392 | 2019-01-21 |
+| [stylus-assist](https://github.com/raiyeeeric/stylus-assist) | 20 402 | 2019-01-21 |
 | [suning dal support](https://www.heyangli.com/blog/216) | 146 | 2019-08-18 |
 | [switch_project](https://github.com/xin497668869/project_manager) | 80 | 2017-11-21 |
 | [tc-radiate](https://github.com/tc-radiate/tc-radiate) | 2 | 2016-10-06 |
@@ -2373,23 +2373,23 @@ Generated: _2019-11-03 07:38:26_
 | [testIT LivingDoc Intellij IDEA Plugin](https://github.com/testIT-LivingDoc/livingdoc-intellij) | 375 | 2017-03-11 |
 | [testNameGenerator](https://github.com/testNameGenerator/PHPStorm-plugin) | 1 128 | 2015-08-22 |
 | [toStringGen(json)](https://github.com/Jcuke/toStringGen) | 381 | 2018-06-20 |
-| [ttt-idea](https://github.com/pojosontheweb/ttt) | 1 480 | 2015-08-12 |
-| [universal-argument](https://github.com/takc923/universal-argument) | 190 | 2019-03-31 |
+| [ttt-idea](https://github.com/pojosontheweb/ttt) | 1 482 | 2015-08-12 |
+| [universal-argument](https://github.com/takc923/universal-argument) | 193 | 2019-03-31 |
 | [ut-assist](https://gitlab.com/petre.s/ut-assist-intelij) | 90 | 2019-05-31 |
-| [varname-go-die](https://github.com/lololiu/varname-go-die) | 1 202 | 2016-07-13 |
-| [warm-night](https://github.com/mswift42/ith) | 1 547 | 2019-09-22 |
-| [watchMe](https://github.com/chakki-works/watchMe) | 156 | 2017-03-07 |
-| [webOS-Storm](https://plugins.jetbrains.com/files/5867/sourceCode.zip) | 3 172 | 2011-07-19 |
-| [webstorm-log-plugin](https://github.com/Haskkor/webstorm-log-plugin) | 385 | 2019-02-17 |
-| [white-sand-ui](https://github.com/mswift42/ith) | 1 154 | 2019-05-03 |
-| [wide-task-browser](https://github.com/ol-loginov/idea-task-browser) | 8 815 | 2019-09-26 |
+| [varname-go-die](https://github.com/lololiu/varname-go-die) | 1 204 | 2016-07-13 |
+| [warm-night](https://github.com/mswift42/ith) | 1 552 | 2019-09-22 |
+| [watchMe](https://github.com/chakki-works/watchMe) | 158 | 2017-03-07 |
+| [webOS-Storm](https://plugins.jetbrains.com/files/5867/sourceCode.zip) | 3 175 | 2011-07-19 |
+| [webstorm-log-plugin](https://github.com/Haskkor/webstorm-log-plugin) | 388 | 2019-02-17 |
+| [white-sand-ui](https://github.com/mswift42/ith) | 1 157 | 2019-05-03 |
+| [wide-task-browser](https://github.com/ol-loginov/idea-task-browser) | 8 817 | 2019-09-26 |
 | [wk-code-ideaplugin-nb](https://github.com/Wizzercn/NutzWk/tree/nutzboot-dubbo/wk-code/wk-code-ideaplugin-nb) | 301 | 2018-12-08 |
-| [wsplugin](https://github.com/salahov/wsplugin) | 1 287 | 2017-08-11 |
-| [xStructure](https://github.com/syllant/idea-plugin-xstructure) | 28 798 | 2014-05-21 |
-| [xUnit](https://github.com/carlpett/xUnit-TeamCity/) | 2 244 | 2018-11-15 |
+| [wsplugin](https://github.com/salahov/wsplugin) | 1 291 | 2017-08-11 |
+| [xStructure](https://github.com/syllant/idea-plugin-xstructure) | 28 802 | 2014-05-21 |
+| [xUnit](https://github.com/carlpett/xUnit-TeamCity/) | 2 245 | 2018-11-15 |
 | [xUnit test runner 2 (obsolete)](https://github.com/Jogge/xUnit-TeamCity) | 725 | 2016-10-27 |
 | [xkcdotd](https://github.com/DylanMeeus/IntelliJ-Xkcd-Startup) | 105 | 2018-05-26 |
-| [xquery-intellij-plugin](https://github.com/rhdunn/xquery-intellij-plugin) | 8 154 | 2019-08-01 |
+| [xquery-intellij-plugin](https://github.com/rhdunn/xquery-intellij-plugin) | 8 166 | 2019-08-01 |
 | [yet-another-builder](https://gitlab.com/julianojulio/yet-another-builder) | 228 | 2017-02-09 |
 | [z2-environment](https://redmine.z2-environment.net/projects/z2-base/repository/tools/revisions/master/show/com.zfabrik.intellij.z2plugin) | 1 191 | 2018-04-06 |
 | [zoolytic](https://github.com/ermadan/zoolytic) | 875 | 2019-02-11 |
