@@ -7,7 +7,7 @@ This repository can be used as a good starting point for plugins development - i
 *Good luck!*
 
 
-Generated: _2019-12-31 07:37:37_
+Generated: _2020-01-01 07:37:39_
 
 
 
@@ -750,7 +750,7 @@ Generated: _2019-12-31 07:37:37_
 | [FRC Project Manager [UNOFFICIAL]](https://github.com/TrevCan/TecbotFRCProjectManager) | 56 | 2019-11-29 |
 | [FXMLHelper](https://github.com/Scrumplex/FXMLHelper) | 6 891 | 2017-01-01 |
 | [Facile.it Progress Bar](https://github.com/edoardomistretta/JetBrainsProgressBar/tree/facile-it) | 38 | 2019-11-17 |
-| [Factorio LUA API Support](https://github.com/knoxfighter/intellij-factorio-autocompletion) | 34 | 2019-12-28 |
+| [Factorio LUA API Support](https://github.com/knoxfighter/intellij-factorio-autocompletion) | 34 | 2019-12-30 |
 | [Fancy Music](https://github.com/FirstTimeInForever/intellij-music) | 378 | 2019-11-30 |
 | [Fast Mouse Scrolling](https://github.com/AMPivovarov/FastMouseScroll) | 1 788 | 2019-12-10 |
 | [Fast-Scrolling](https://bitbucket.org/santiv_de/fastscrolling) | 9 853 | 2016-06-19 |
@@ -2035,7 +2035,7 @@ Generated: _2019-12-31 07:37:37_
 | [Swip (Spring Web Initializr)](https://github.com/OrPolyzos/spring-web-initializr-plugin) | 12 953 | 2019-08-03 |
 | [Swiss-AS Dev-Tools](https://github.com/alain57/swissas-dev-tools) | 199 | 2019-12-13 |
 | [Switch Component files](https://github.com/andrewbents/switch-component-files-plugin) | 320 | 2019-03-23 |
-| [Swoole IDE Helper](https://github.com/el7cosmos/phpstorm-swoole-plugin) | 1 102 | 2019-12-25 |
+| [Swoole IDE Helper](https://github.com/el7cosmos/phpstorm-swoole-plugin) | 1 102 | 2019-12-30 |
 | [SwungWeave](https://github.com/realityforge/swung_weave) | 1 366 | 2015-09-10 |
 | [Symbols for JavaScript](https://github.com/ziolko/intellij-javascript-symbols) | 6 126 | 2016-05-03 |
 | [Symfony Support](https://github.com/Haehnchen/idea-php-symfony2-plugin) | 3 715 084 | 2019-12-28 |
@@ -2225,7 +2225,7 @@ Generated: _2019-12-31 07:37:37_
 | [Weex](https://github.com/weexteam/weex-intellij-plugin) | 21 568 | 2017-04-28 |
 | [Weex Language Support](https://github.com/misakuo/weex-language-support) | 15 512 | 2017-08-29 |
 | [Wei Studio Tools](https://github.com/maoruibin/) | 2 396 | 2019-05-14 |
-| [Wemi](https://github.com/Darkyenus/wemi) | 55 | 2019-07-11 |
+| [Wemi](https://github.com/Darkyenus/wemi) | 55 | 2019-12-30 |
 | [What The Commit](https://github.com/darekkay/what-the-commit) | 5 139 | 2015-02-01 |
 | [WicketLambdaFold](https://github.com/andruhon/WicketLambdaFold) | 788 | 2018-11-28 |
 | [Window Sizer](https://github.com/gwallet/intellij-windowsizer) | 2 088 | 2016-04-16 |
