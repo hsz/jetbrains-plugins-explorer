@@ -7,7 +7,7 @@ This repository can be used as a good starting point for plugins development - i
 *Good luck!*
 
 
-Generated: _2020-01-01 07:37:39_
+Generated: _2020-01-02 07:37:44_
 
 
 
@@ -361,7 +361,7 @@ Generated: _2020-01-01 07:37:39_
 | [CamelCase PascalCase Converter](https://github.com/markhuang19994/CamelCasePascalCaseConverter) | 752 | 2018-07-26 |
 | [CamelToggle](https://github.com/ysdxz207/CamelToggle) | 157 | 2018-07-09 |
 | [Camelry](https://github.com/AlanFoster/Camelry) | 6 458 | 2013-08-28 |
-| [Carbon Theme](https://github.com/luisfer0793/CarbonTheme) | 11 586 | 2019-12-19 |
+| [Carbon](https://github.com/luisfer0793/CarbonTheme) | 11 586 | 2019-12-19 |
 | [Carret Inspector](https://plugins.jetbrains.com/files/1811/sourceCode.zip) | 1 618 | 2007-11-28 |
 | [Case conversion](https://git.laria.me/idea_caseconv/) | 2 939 | 2019-12-10 |
 | [Catberry Framework support](https://github.com/catberry/catberry-idea-plugin) | 499 | 2016-04-04 |
@@ -376,7 +376,7 @@ Generated: _2020-01-01 07:37:39_
 | [Check My Vars](https://plugins.jetbrains.com/files/3711/sourceCode.zip) | 1 223 | 2008-10-30 |
 | [Check Tests](https://github.com/davearata/checktests) | 2 214 | 2014-01-13 |
 | [CheckMate](https://github.com/ThomasGoris/CheckMate) | 3 849 | 2017-12-01 |
-| [CheckStyle-IDEA](https://github.com/jshiell/checkstyle-idea) | 2 647 903 | 2019-12-27 |
+| [CheckStyle-IDEA](https://github.com/jshiell/checkstyle-idea) | 2 647 903 | 2020-01-01 |
 | [CheckThread](https://plugins.jetbrains.com/files/3028/sourceCode.zip) | 2 185 | 2009-04-29 |
 | [Checker Framework Support](https://github.com/dovchinnikov/intellij-checker-framework) | 4 256 | 2014-09-16 |
 | [Checks plural forms of collection variable names](https://github.com/rillig/intellij-plural-inspection) | 133 | 2017-03-25 |
@@ -1356,7 +1356,7 @@ Generated: _2020-01-01 07:37:39_
 | [Material Color Palette](https://github.com/dvdandroid/material-color-palette-plugin) | 13 712 | 2017-02-01 |
 | [Material Design Color Palette](https://github.com/YiiGuxing/material-design-color-palette) | 10 064 | 2019-02-19 |
 | [Material Design Specs](https://github.com/torryharris/Material-Design-Specs) | 10 192 | 2016-08-11 |
-| [Material Theme UI](https://github.com/ChrisRM/material-theme-jetbrains) | 6 776 109 | 2019-12-18 |
+| [Material Theme UI](https://github.com/ChrisRM/material-theme-jetbrains) | 6 776 109 | 2020-01-01 |
 | [Material Theme UI Lite](https://github.com/mallowigi/material-theme-ui-lite) | 28 779 | 2019-12-18 |
 | [Mathematica REPL](https://github.com/dubrousky/Mathematica-REPL) | 2 684 | 2014-12-20 |
 | [Matlab Support](https://github.com/kornilova-l/matlab-IntelliJ-plugin) | 29 459 | 2019-09-22 |
