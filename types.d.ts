@@ -10,17 +10,26 @@ interface Tag {
   link: string;
 }
 
-export interface Plugin {
+export interface JBSearchResponse {
   id: number;
-  name: string;
+  xmlId: string;
   link: string;
+  name: string;
+  preview: string;
+  downloads: number;
+  icon: string;
+  previewImage: string;
+  lastUpdateDate: number;
+  rating: number;
+  hasSource: boolean;
+}
+
+export interface JBPluginsResponse extends JBSearchResponse {
   approve: boolean;
   description: string;
-  preview: string;
   docText: string;
   email: string;
   family: string; // enum?
-  downloads: number | string;
   vendor: Vendor;
   urls: {
     url: string;
@@ -35,26 +44,47 @@ export interface Plugin {
   hasUnapprovedUpdate: boolean;
   readyForSale: boolean;
   screenshots: string[];
-  icon: string;
 
-  update: string;
+  repository: string;
 }
 
-export interface Update {
-  id: number;
-  link: string;
-  version: string;
-  approve: boolean;
-  listed: boolean;
-  cdate: string;
-  file: string;
-  notes: string;
-  since: string;
-  until: string;
-  sinceUntil: string;
-  channel: string;
-  size: number;
-  compatibleVersions: {
-    [key: string]: string;
+export interface Plugin extends JBPluginsResponse {
+  extensions: {
+    [key: string]: string[];
   };
+}
+
+export interface JBSearchResult {
+  plugins: JBSearchResponse[];
+  total: number;
+  correctedQuery: string;
+}
+
+export interface GHSearchResult {
+  total_count: number;
+  incomplete_results: boolean;
+  items: SearchItem[];
+}
+
+export interface GHReposResult {
+  default_branch: string;
+}
+
+export interface GHTreesResult {
+  sha: string;
+  url: string;
+  tree: {
+    path: string;
+    mode: string;
+    type: string;
+    sha: string;
+    size: number;
+    url: string;
+  }[];
+  truncated: boolean;
+}
+
+interface SearchItem {
+  name: string;
+  path: string;
 }
