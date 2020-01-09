@@ -129,7 +129,7 @@ api
           isEmpty,
         );
 
-        result.push({ ...plugin, ...details, extensions });
+        result.push({ ...plugin, ...details, extensions, branch });
       } catch (e) {
         console.error(e.message);
       }

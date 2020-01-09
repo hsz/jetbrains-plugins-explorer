@@ -49,6 +49,7 @@ export interface JBPluginsResponse extends JBSearchResponse {
 }
 
 export interface Plugin extends JBPluginsResponse {
+  branch: string;
   extensions: {
     [key: string]: string[];
   };

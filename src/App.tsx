@@ -1,9 +1,15 @@
-import { flatten, isEmpty, sortBy, uniqBy } from 'lodash';
+import TimeAgo from 'react-timeago';
+import styled from '@emotion/styled';
+import { difference, flatten, isEmpty, keys, sortBy, uniqBy } from 'lodash';
 import axios from 'axios';
-import React, { useEffect, useState } from 'react';
-import { Button, Table, Tag } from 'antd';
+import React, { useCallback, useEffect, useState } from 'react';
+import { Select, Table, Tag } from 'antd';
 import { Plugin } from 'types';
 import { ColumnsType } from 'antd/lib/table/interface';
+import Extensions from './Extensions';
+
+const DATA_URL =
+  'https://raw.githubusercontent.com/hsz/jetbrains-plugins-repositories-list/master/data.json';
 
 const columns = (plugins: Plugin[]): ColumnsType<Plugin> => {
   const tagsFilters = sortBy(
@@ -21,53 +27,93 @@ const columns = (plugins: Plugin[]): ColumnsType<Plugin> => {
     {
       title: 'Name',
       dataIndex: 'name',
+      render: (name, plugin) => (
+        <a href={`https://plugins.jetbrains.com/plugin/${plugin.id}`}>{name}</a>
+      ),
+    },
+    {
+      title: 'Repository',
+      dataIndex: 'repository',
+      render: repository => <a href={`https://github.com/${repository}`}>{repository}</a>,
+    },
+    {
+      title: 'Downloads',
+      dataIndex: 'downloads',
+      render: downloads => `${downloads}`.replace(/\B(?=(\d{3})+(?!\d))/g, ' '),
+      align: 'right',
     },
     {
       title: 'Last updated',
       dataIndex: 'lastUpdateDate',
+      render: lastUpdateDate => <TimeAgo date={lastUpdateDate} />,
+    },
+    {
+      title: 'Extensions',
+      dataIndex: 'extensions',
+      render: extensions => <Tag>{keys(extensions).length}</Tag>,
+      align: 'center',
     },
     {
       title: 'Tags',
       dataIndex: 'tags',
-      render: (tags: Plugin['tags']) => (
-        <span>
-          {tags.map(tag => (
-            <Tag key={tag.id}>{tag.name}</Tag>
-          ))}
-        </span>
-      ),
+      render: (tags: Plugin['tags']) => tags.map(tag => <Tag key={tag.id}>{tag.name}</Tag>),
       filters: tagsFilters,
       onFilter: (value, record) => record.tags.find(tag => tag.id === +value) !== undefined,
     },
   ];
 };
 
+const StyledSelect = styled(Select)`
+  width: 100%;
+`;
+
 const App = () => {
   const [data, setData] = useState<Plugin[]>([]);
+  const [selectedExtensions, setSelectedExtensions] = useState<string[]>([]);
 
   useEffect(() => {
-    axios
-      .get(
-        'https://raw.githubusercontent.com/hsz/jetbrains-plugins-repositories-list/master/data.json',
-      )
-      .then(response => {
-        setData(response.data);
-      });
+    axios.get(DATA_URL).then(response => {
+      setData(response.data);
+    });
   }, []);
 
+  const handleExtensionsChange = useCallback(v => {
+    setSelectedExtensions(v);
+  }, []);
+
+  const extensions = flatten(
+    data.reduce<string[]>((acc, plugin) => acc.concat(keys(plugin.extensions)), []),
+  );
+  const filteredData = data.filter(plugin =>
+    isEmpty(difference(selectedExtensions, keys(plugin.extensions))),
+  );
+
   return (
-    <div>
-      <header>
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <Button>xxx</Button>
-        <a href="https://reactjs.org" target="_blank" rel="noopener noreferrer">
-          Learn React
-        </a>
-      </header>
-      <Table columns={columns(data)} dataSource={data} loading={isEmpty(data)} rowKey="id" />;
-    </div>
+    <Table
+      columns={columns(data)}
+      dataSource={filteredData}
+      expandable={{
+        expandedRowRender: record => <Extensions plugin={record} />,
+        rowExpandable: record => !isEmpty(record.extensions),
+      }}
+      loading={isEmpty(data)}
+      rowKey="id"
+      title={() => (
+        <StyledSelect
+          allowClear
+          mode="multiple"
+          placeholder="Please select extensions"
+          size="large"
+          onChange={handleExtensionsChange}
+        >
+          {extensions.map(extension => (
+            <Select.Option key={extension} value={extension}>
+              {extension}
+            </Select.Option>
+          ))}
+        </StyledSelect>
+      )}
+    />
   );
 };
 
