@@ -1,0 +1,853 @@
+[
+  {
+    "id": 4230,
+    "xmlId": "BashSupport",
+    "link": "/plugin/4230-bashsupport/",
+    "name": "BashSupport",
+    "preview": "Bash language support for the IntelliJ platform.",
+    "downloads": 12684336,
+    "icon": "/files/4230/72819/icon/META-INF_pluginIcon.svg",
+    "previewImage": "/files/4230/preview_14087.png",
+    "lastUpdateDate": 1574382176000,
+    "rating": 4.72,
+    "hasSource": true,
+    "tags": [
+      {
+        "id": 48,
+        "name": "Languages",
+        "privileged": false,
+        "searchable": true,
+        "link": "/tag/48-languages"
+      }
+    ],
+    "approve": true,
+    "description": "\n    Bash language support for the IntelliJ platform.<br>\n    Supports run configurations, syntax highlighting, rename refactoring, documentation lookup, inspections, quickfixes and much more.<br>\n    Do you like it? Give it a star at <a href=\"https://github.com/BashSupport/BashSupport\">GitHub</a>. Rate it at <a href=\"https://plugins.jetbrains.com/plugin/4230-bashsupport\">plugins.jetbrains.com</a>.\n    <br><br>\n    <b>News for users of 2019.2 and later:</b> JetBrains is bundling a new <a href=\"https://blog.jetbrains.com/idea/2019/06/intellij-idea-2019-2-eap2-shell-script-support-improved-code-duplicates-detection-services-tool-window-and-more/\">Shell plugin</a> with 2019.2. You shouldn't use BashSupport and Shell simultaneously. <em>Make sure to disable one of them.</em>\n    BashSupport supports more advanced features.<br>Shell is more robust and providing better integration of basic functionality.\n\n    <br><br>\n    <b>BashSupport's future:</b> Visit <a href=\"https://www.bashsupport.com/news/bashsupport-future/\">bashsupport.com</a> to learn more about this.\n    In short:\n    <ul>\n        <li>BashSupport will remain available, free, and open-source.</li>\n        <li><em>Thanks for being part of BashSupport!</em> It's more than 10 years now and the most popular community plugin. It's far from perfect - thanks for using it nevertheless!</li>\n        <li>JetBrain's Shell plugin is likely to become the new default for developers of shell scripts. This means that there's no future for BashSupport here.</li>\n        <li>Development will be limited to maintenance and fixes for serious issues.</li>\n        <li>There will be a new, paid <a href=\"https://www.bashsupport.com/news/bashsupport-pro-update/\"><em>BashSupport Pro</em></a> plugin (<a href=\"https://www.bashsupport.com/news/bashsupport-pro-update/\">read more</a>)</li>\n    </ul>\n    ",
+    "docText": "Github project: https://github.com/BashSupport/BashSupport",
+    "email": "mail@plugin-dev.com",
+    "family": "intellij",
+    "vendor": { "name": "Joachim Ansorg", "url": "https://www.plugin-dev.com/" },
+    "urls": {
+      "url": "https://www.bashsupport.com/",
+      "forumUrl": "https://discuss.bashsupport.com/",
+      "licenseUrl": "http://www.apache.org/licenses/LICENSE-2.0.html",
+      "bugtrackerUrl": "https://github.com/BashSupport/BashSupport/issues",
+      "docUrl": "https://www.plugin-dev.com/plugins/bashsupport/",
+      "sourceCodeUrl": "https://github.com/BashSupport/BashSupport"
+    },
+    "removalRequested": false,
+    "hasUnapprovedUpdate": false,
+    "readyForSale": false,
+    "screenshots": ["/files/4230/screenshot_14087.png"],
+    "repository": "BashSupport/BashSupport",
+    "extensions": {
+      "fileTypeFactory": ["src/com/ansorgit/plugins/bash/file/BashFileTypeLoader.java"],
+      "fileTypeDetector": ["src/com/ansorgit/plugins/bash/file/BashFileTypeDetector.java"],
+      "syntaxHighlighter": [
+        "src/com/ansorgit/plugins/bash/editor/highlighting/BashSyntaxHighlighter.java"
+      ],
+      "colorSettingsPage": [
+        "src/com/ansorgit/plugins/bash/editor/highlighting/BashColorsAndFontsPage.java"
+      ],
+      "lang.braceMatcher": [
+        "src/com/ansorgit/plugins/bash/editor/highlighting/BashBraceMatcher.java"
+      ],
+      "lang.commenter": ["src/com/ansorgit/plugins/bash/editor/highlighting/BashCommenter.java"],
+      "lang.parserDefinition": [
+        "src/com/ansorgit/plugins/bash/lang/parser/BashParserDefinition.java"
+      ],
+      "lang.foldingBuilder": [
+        "src/com/ansorgit/plugins/bash/editor/codefolding/BashFoldingBuilder.java",
+        "src/com/ansorgit/plugins/bash/editor/codefolding/BashVariableFoldingBuilder.kt"
+      ],
+      "lang.psiStructureViewFactory": [
+        "src/com/ansorgit/plugins/bash/structureview/BashStructureViewFactory.java"
+      ],
+      "lang.refactoringSupport": [
+        "src/com/ansorgit/plugins/bash/refactoring/BashRefactoringSupport.java"
+      ],
+      "renameInputValidator": [
+        "src/com/ansorgit/plugins/bash/refactoring/BashFunctionRenameInputValidator.kt"
+      ],
+      "lang.namesValidator": ["src/com/ansorgit/plugins/bash/lang/BashNamesValidator.kt"],
+      "lang.documentationProvider": [
+        "src/com/ansorgit/plugins/bash/documentation/BashDocumentationProvider.kt"
+      ],
+      "lang.findUsagesProvider": [
+        "src/com/ansorgit/plugins/bash/editor/usages/BashFindUsagesProvider.java"
+      ],
+      "lang.formatter": [
+        "src/com/ansorgit/plugins/bash/editor/formatting/BashFormattingModelBuilder.java"
+      ],
+      "lang.tokenSeparatorGenerator": [
+        "src/com/ansorgit/plugins/bash/refactoring/BashTokenSeparatorGenerator.java"
+      ],
+      "lang.elementManipulator": [
+        "src/com/ansorgit/plugins/bash/lang/psi/impl/refactoring/BashFileReferenceManipulator.java",
+        "src/com/ansorgit/plugins/bash/lang/psi/impl/refactoring/BashCommandManipulator.java",
+        "src/com/ansorgit/plugins/bash/lang/psi/impl/refactoring/BashWordManipulator.java",
+        "src/com/ansorgit/plugins/bash/lang/psi/impl/refactoring/BashStringManipulator.java",
+        "src/com/ansorgit/plugins/bash/lang/psi/impl/refactoring/BashHereDocManipulator.java",
+        "src/com/ansorgit/plugins/bash/lang/psi/impl/refactoring/BashKeywordManipulator.java"
+      ],
+      "renamePsiElementProcessor": [
+        "src/com/ansorgit/plugins/bash/lang/psi/impl/BashFileRenameProcessor.java"
+      ],
+      "readWriteAccessDetector": [
+        "src/com/ansorgit/plugins/bash/editor/accessDetector/BashReadWriteAccessDetector.java"
+      ],
+      "preloadingActivity": [
+        "src/com/ansorgit/plugins/bash/editor/codecompletion/PreloadPathCompletionActivity.kt"
+      ],
+      "applicationService": [
+        "src/com/ansorgit/plugins/bash/editor/codecompletion/BashPathCompletionService.kt"
+      ],
+      "completion.contributor": [
+        "src/com/ansorgit/plugins/bash/editor/codecompletion/BashCompletionContributor.java"
+      ],
+      "indexPatternBuilder": [
+        "src/com/ansorgit/plugins/bash/lang/psi/BashIndexPatternBuilder.java"
+      ],
+      "idIndexer": ["src/com/ansorgit/plugins/bash/lang/psi/BashIdIndexer.java"],
+      "todoIndexer": ["src/com/ansorgit/plugins/bash/lang/psi/BashTodoIndexer.java"],
+      "defaultLiveTemplatesProvider": [
+        "src/com/ansorgit/plugins/bash/editor/liveTemplates/BashLiveTemplatesProvider.java"
+      ],
+      "liveTemplateContext": [
+        "src/com/ansorgit/plugins/bash/editor/liveTemplates/BashLiveTemplatesContext.java"
+      ],
+      "annotator": ["src/com/ansorgit/plugins/bash/editor/annotator/BashAnnotator.java"],
+      "codeInsight.lineMarkerProvider": [
+        "src/com/ansorgit/plugins/bash/editor/BashLineMarkerProvider.java"
+      ],
+      "runConfigurationProducer": [
+        "src/com/ansorgit/plugins/bash/runner/BashRunConfigProducer.java"
+      ],
+      "configurationType": ["src/com/ansorgit/plugins/bash/runner/BashConfigurationType.java"],
+      "programRunner": ["src/com/ansorgit/plugins/bash/runner/BashRunner.java"],
+      "moveFileHandler": ["src/com/ansorgit/plugins/bash/refactoring/BashFileMoveHandler.java"],
+      "spellchecker.support": [
+        "src/com/ansorgit/plugins/bash/editor/BashSpellCheckingSupport.java"
+      ],
+      "enterHandlerDelegate": [
+        "src/com/ansorgit/plugins/bash/editor/BashUnmatchedBraceEnterProcessor.java",
+        "src/com/ansorgit/plugins/bash/editor/EnterInStringLiteralHandler.java"
+      ],
+      "projectConfigurable": [
+        "src/com/ansorgit/plugins/bash/settings/BashProjectSettingsConfigurable.java"
+      ],
+      "errorHandler": ["src/nu/studer/idea/errorreporting/PluginErrorReportSubmitter.java"],
+      "stubElementTypeHolder": ["src/com/ansorgit/plugins/bash/lang/parser/BashElementTypes.java"],
+      "stubIndex": [
+        "src/com/ansorgit/plugins/bash/lang/psi/stubs/index/BashFunctionNameIndex.java",
+        "src/com/ansorgit/plugins/bash/lang/psi/stubs/index/BashScriptNameIndex.java",
+        "src/com/ansorgit/plugins/bash/lang/psi/stubs/index/BashIncludedFilenamesIndex.java",
+        "src/com/ansorgit/plugins/bash/lang/psi/stubs/index/BashIncludeCommandIndex.java",
+        "src/com/ansorgit/plugins/bash/lang/psi/stubs/index/BashCommandNameIndex.java",
+        "src/com/ansorgit/plugins/bash/lang/psi/stubs/index/BashVarDefIndex.java",
+        "src/com/ansorgit/plugins/bash/lang/psi/stubs/index/BashVarIndex.java"
+      ],
+      "localInspection": [
+        "src/com/ansorgit/plugins/bash/editor/inspections/inspections/FixShebangInspection.java",
+        "src/com/ansorgit/plugins/bash/editor/inspections/inspections/AddShebangInspection.java",
+        "src/com/ansorgit/plugins/bash/editor/inspections/inspections/SimpleVarUsageInspection.java",
+        "src/com/ansorgit/plugins/bash/editor/inspections/inspections/GlobalLocalVarDefInspection.java",
+        "src/com/ansorgit/plugins/bash/editor/inspections/inspections/DuplicateFunctionDefInspection.java",
+        "src/com/ansorgit/plugins/bash/editor/inspections/inspections/WrapWordInStringInspection.java",
+        "src/com/ansorgit/plugins/bash/editor/inspections/inspections/ConvertSubshellInspection.java",
+        "src/com/ansorgit/plugins/bash/editor/inspections/inspections/MissingIncludeFileInspection.java",
+        "src/com/ansorgit/plugins/bash/editor/inspections/inspections/RecursiveIncludeFileInspection.java",
+        "src/com/ansorgit/plugins/bash/editor/inspections/inspections/EvaluateExpansionInspection.java",
+        "src/com/ansorgit/plugins/bash/editor/inspections/inspections/UnresolvedVariableInspection.java",
+        "src/com/ansorgit/plugins/bash/editor/inspections/inspections/GloballyRegisteredVariableInspection.java",
+        "src/com/ansorgit/plugins/bash/editor/inspections/inspections/EvaluateArithmeticExpressionInspection.java",
+        "src/com/ansorgit/plugins/bash/editor/inspections/inspections/FloatArithmeticInspection.java",
+        "src/com/ansorgit/plugins/bash/editor/inspections/inspections/ReadonlyVariableInspection.java",
+        "src/com/ansorgit/plugins/bash/editor/inspections/inspections/InternalVariableInspection.java",
+        "src/com/ansorgit/plugins/bash/editor/inspections/inspections/UnknownFiledescriptorInspection.java",
+        "src/com/ansorgit/plugins/bash/editor/inspections/inspections/UnusedFunctionParameterInspection.java",
+        "src/com/ansorgit/plugins/bash/editor/inspections/inspections/ConvertBackquoteInspection.java",
+        "src/com/ansorgit/plugins/bash/editor/inspections/inspections/UseExtendedTestCommandInspection.java",
+        "src/com/ansorgit/plugins/bash/editor/inspections/inspections/UnusedFunctionDefInspection.java",
+        "src/com/ansorgit/plugins/bash/editor/inspections/inspections/SimpleArrayUseInspection.java",
+        "src/com/ansorgit/plugins/bash/editor/inspections/inspections/InternalCommandFunctionOverrideInspection.java",
+        "src/com/ansorgit/plugins/bash/editor/inspections/inspections/FunctionNamesShouldBeLowerSnakeCaseInspection.java"
+      ]
+    }
+  },
+  {
+    "id": 1347,
+    "xmlId": "org.intellij.scala",
+    "link": "/plugin/1347-scala/",
+    "name": "Scala",
+    "preview": "Adds support for the Scala language. The following features are available for free with IntelliJ IDEA Community Edition:.",
+    "downloads": 14685943,
+    "icon": "/files/1347/75369/icon/META-INF_pluginIcon.svg",
+    "previewImage": "/files/1347/preview_16430.png",
+    "lastUpdateDate": 1578096034000,
+    "rating": 4.43,
+    "hasSource": true,
+    "tags": [
+      {
+        "id": 48,
+        "name": "Languages",
+        "privileged": false,
+        "searchable": true,
+        "link": "/tag/48-languages"
+      }
+    ],
+    "approve": true,
+    "description": "\n        \n        Adds support for the Scala language. The following features are available for free with IntelliJ IDEA Community Edition:\n        <br>\n        <ul>\n          <li>Coding assistance (highlighting, completion, formatting, refactorings, etc.)</li>\n          <li>Navigation, search, information about types and implicits</li>\n          <li>Integration with sbt and other build tools</li>\n          <li>Testing frameworks support (ScalaTest, Specs2, uTest)</li>\n          <li>Scala debugger, worksheets and Ammonite scripts</li>\n        </ul>\n        <br>\n        Support for Play Framework, Akka and Scala.js is enabled in IntelliJ IDEA Ultimate.\n      \n    ",
+    "docText": "IntelliJ IDEA is an IDE famous for its ergonomics and intelligent coding assistance it provides for developers coding in Java, JavaScript and other languages. The Scala plugin extends IntelliJ IDEA’s toolset with support for Scala, SBT, Scala.js, Hocon, and Play Framework. Support for Scala, SBT and Hocon is available for free in IntelliJ IDEA Community Edition, while support for Play Framework and Scala.js is available only in IntelliJ IDEA Ultimate.",
+    "family": "intellij",
+    "vendor": {
+      "name": "JetBrains",
+      "url": "https://www.jetbrains.com/",
+      "totalPlugins": 79,
+      "totalUsers": 12,
+      "link": "/organization/JetBrains",
+      "publicName": "JetBrains s.r.o.",
+      "email": "support@jetbrains.com",
+      "country": "Czech Republic",
+      "city": "Praha",
+      "street": "Na hřebenech II 1718/10, Praha 4 - Nusle - 140 00",
+      "isVerified": true,
+      "isProvideServices": false
+    },
+    "urls": {
+      "url": "https://confluence.jetbrains.com/display/SCA/Scala+Plugin+for+IntelliJ+IDEA",
+      "forumUrl": "https://devnet.jetbrains.com/community/idea/scala",
+      "licenseUrl": "http://www.apache.org/licenses/LICENSE-2.0",
+      "bugtrackerUrl": "https://youtrack.jetbrains.com/issues/SCL",
+      "docUrl": "https://blog.jetbrains.com/scala/",
+      "sourceCodeUrl": "https://github.com/JetBrains/intellij-scala"
+    },
+    "removalRequested": false,
+    "hasUnapprovedUpdate": false,
+    "readyForSale": false,
+    "screenshots": ["/files/1347/screenshot_16430.png"],
+    "repository": "JetBrains/intellij-scala",
+    "extensions": {}
+  },
+  {
+    "id": 7219,
+    "xmlId": "fr.adrienbrault.idea.symfony2plugin",
+    "link": "/plugin/7219-symfony-support/",
+    "name": "Symfony Support",
+    "preview": "Support for Symfony framework / components.",
+    "downloads": 3749373,
+    "icon": "/files/7219/75431/icon/META-INF_pluginIcon.svg",
+    "previewImage": "/files/7219/preview_14166.png",
+    "lastUpdateDate": 1578240210000,
+    "rating": 4.82,
+    "hasSource": true,
+    "tags": [
+      {
+        "id": 43,
+        "name": "Framework integration",
+        "privileged": false,
+        "searchable": true,
+        "link": "/tag/43-framework-integration"
+      },
+      { "id": 215, "name": "PHP", "privileged": true, "searchable": true, "link": "/tag/215-php" }
+    ],
+    "approve": true,
+    "description": "\n<p>Support for Symfony framework / components.</p>\n\n<br>\n\n<a href=\"http://symfony2-plugin.espend.de/\">Documentation</a> | <a href=\"https://github.com/Haehnchen/idea-php-symfony2-plugin-doc\">Doc on GitHub</a> | <a href=\"https://www.paypal.me/DanielEspendiller\">Donate</a>\n\n<h2>Install</h2>\n\n<ul>\n    <li>Activate plugin per project in \"File -&gt; Settings -&gt; Languages &amp; Framework -&gt; PHP -&gt; Symfony\" or use auto configuration notification</li>\n    <li>(Required) Install <a href=\"https://plugins.jetbrains.com/plugin/7320\">PHP Annotations</a></li>\n    <li>(Optional) Configure a default project connection in \"Remote Hosts Access / Remote Hosts\" to enable support for remote files in plugin settings</li>\n    <li>(Optional) Ignore Symfony \"cache\" directory because of duplicate classes \"Settings -&gt; Project -&gt; Directories\"</li>\n    <li>(Optional) Install <a href=\"https://plugins.jetbrains.com/plugin/8133\">PHP Toolbox</a></li>\n    <li>(Optional) To support <b>XLIFF translations</b> add \"*.xlf\" / \"*.xliff\" to XML \"Editor\" -&gt; \"File Types\"</li>\n</ul>\n\n<h2>Features</h2>\n\n<h3>Dependency Injection Container</h3>\n<ul>\n    <li>References for services in ContainerInterface::get()</li>\n    <li>Detect ContainerInterface::get() result type</li>\n    <li>References for services, tags, events, methods, ... inside yaml, xml and php</li>\n    <li>Indexer to provide live editing without a compiled container</li>\n    <li>Tagged class indexer</li>\n</ul>\n\n<h3>Doctrine</h3>\n<ul>\n    <li>ORM QueryBuilder support, including chaining and nested methods</li>\n    <li>References and TypeProvider for doctrine getRepository</li>\n    <li>TypeProvider for EntityRepository::find/findOneBy/findAll/findBy</li>\n    <li>Field and relations resolving and annotation and yaml</li>\n</ul>\n\n<h3>Templates/Twig</h3>\n<ul>\n    <li>Template names in all file references</li>\n    <li>Provide Template implements and extends goto on linemarker </li>\n    <li>Assets file references like javascript, stylesheets and more</li>\n    <li>Support @Template annotations</li>\n    <li>Trans and transchoice support with annotator, quickquick and translation extraction action</li>\n    <li>References for block names (completion back since PhpStorm8)</li>\n    <li>Variable TypeProvider similar to php with several scopes and providers like docblocks, controller, actions, template inclusion, ...</li>\n    <li>Macro implements goto on linemarker</li>\n    <li>Filter, Function, Macro and Extension support</li>\n</ul>\n\n<h3>Forms</h3>\n<ul>\n    <li>References for form types</li>\n    <li>Form field name references on data_class</li>\n    <li>References for form options, extension, ...</li>\n</ul>\n\n<h3>Routing</h3>\n<ul>\n    <li>References for UrlGenerator::generate() related calls</li>\n    <li>Autocomplete route name in twig templates</li>\n    <li>Go to for routing name methods</li>\n    <li>CodeFolding to display real route uri instead of its name</li>\n    <li>Route parameter completion</li>\n</ul>\n\n<h3>Other</h3>\n<ul>\n    <li>Annotator which notice unknown route, template, service, assets, ...</li>\n    <li>Several stub indexer to provide some live generation provider in replacement for compiled container</li>\n    <li>Linemarker and \"Related File\" to provide possible goto targets and controller action</li>\n    <li>Search Everywhere support and custom search for only Symfony related Symbols \"Navigate &gt; Symfony Symbol\"</li>\n    <li>Bridge for <a href=\"http://plugins.jetbrains.com/plugin/7320\">PHP Annotations</a> to support annotation related stuff</li>\n    <li>Dotenv and Docker environments variable extraction for DIC parameter</li>\n</ul>\n\n<h2>Related Plugins</h2>\n<ul>\n    <li><a href=\"http://plugins.jetbrains.com/plugin/7320\">PHP Annotations</a></li>\n    <li><a href=\"http://plugins.jetbrains.com/plugin/7487\">Drupal Symfony Bridge</a></li>\n    <li><a href=\"http://plugins.jetbrains.com/plugin/7532\">Laravel Plugin</a></li>\n    <li><a href=\"http://plugins.jetbrains.com/plugin/7410\">Shopware Plugin</a></li>\n    <li><a href=\"http://plugins.jetbrains.com/plugin/8133\">PHP Toolbox</a></li>\n</ul>\n\n<h2><a href=\"https://github.com/Haehnchen/idea-php-symfony2-plugin/contributors\">Contributors</a></h2>\n<ul>\n    <li><a href=\"https://github.com/Haehnchen\">Daniel Espendiller</a></li>\n</ul>\n      ",
+    "email": "daniel@espendiller.net",
+    "family": "intellij",
+    "vendor": { "name": "Daniel Espendiller", "url": "http://espend.de" },
+    "urls": {
+      "url": "https://github.com/Haehnchen/idea-php-symfony2-plugin",
+      "forumUrl": "https://github.com/Haehnchen/idea-php-symfony2-plugin/issues",
+      "licenseUrl": "https://github.com/Haehnchen/idea-php-symfony2-plugin/blob/master/LICENSE",
+      "bugtrackerUrl": "https://github.com/Haehnchen/idea-php-symfony2-plugin/issues",
+      "docUrl": "",
+      "sourceCodeUrl": "https://github.com/Haehnchen/idea-php-symfony2-plugin"
+    },
+    "removalRequested": false,
+    "hasUnapprovedUpdate": false,
+    "readyForSale": false,
+    "screenshots": [
+      "/files/7219/screenshot_14166.png",
+      "/files/7219/screenshot_14167.png",
+      "/files/7219/screenshot_14172.png",
+      "/files/7219/screenshot_14173.png",
+      "/files/7219/screenshot_14190.png",
+      "/files/7219/screenshot_14191.png",
+      "/files/7219/screenshot_14332.png",
+      "/files/7219/screenshot_14511.png",
+      "/files/7219/screenshot_14562.png",
+      "/files/7219/screenshot_14584.png",
+      "/files/7219/screenshot_14954.png",
+      "/files/7219/screenshot_14987.png"
+    ],
+    "repository": "Haehnchen/idea-php-symfony2-plugin",
+    "extensions": {
+      "typeProvider3": [
+        "src/main/java/fr/adrienbrault/idea/symfony2plugin/dic/SymfonyContainerTypeProvider.java",
+        "src/main/java/fr/adrienbrault/idea/symfony2plugin/util/EventDispatcherTypeProvider.java",
+        "src/main/java/fr/adrienbrault/idea/symfony2plugin/doctrine/ObjectRepositoryTypeProvider.java",
+        "src/main/java/fr/adrienbrault/idea/symfony2plugin/doctrine/ObjectRepositoryResultTypeProvider.java",
+        "src/main/java/fr/adrienbrault/idea/symfony2plugin/doctrine/ObjectManagerFindTypeProvider.java",
+        "src/main/java/fr/adrienbrault/idea/symfony2plugin/assistant/signature/MethodSignatureTypeProvider.java"
+      ]
+    }
+  },
+  {
+    "id": 164,
+    "xmlId": "IdeaVIM",
+    "link": "/plugin/164-ideavim/",
+    "name": "IdeaVim",
+    "preview": "Vim emulation plug-in for IDEs based on the IntelliJ platform.",
+    "downloads": 6781908,
+    "icon": "/files/164/74876/icon/META-INF_pluginIcon.svg",
+    "lastUpdateDate": 1577174329000,
+    "rating": 4.37,
+    "hasSource": true,
+    "tags": [
+      {
+        "id": 25,
+        "name": "Editor",
+        "privileged": false,
+        "searchable": true,
+        "link": "/tag/25-editor"
+      },
+      {
+        "id": 217,
+        "name": "Keymap",
+        "privileged": false,
+        "searchable": true,
+        "link": "/tag/217-keymap"
+      }
+    ],
+    "approve": true,
+    "description": "\n      <p>Vim emulation plug-in for IDEs based on the IntelliJ platform.</p>\n      <p>IdeaVim supports many Vim features including normal/insert/visual modes, motion keys, deletion/changing, marks, registers, some Ex commands, Vim regexps, configuration via ~/.ideavimrc, macros, window commands, etc.</p>\n      <p>See also:</p>\n      <ul>\n        <li><a href=\"https://github.com/JetBrains/ideavim\">GitHub repository</a>: documentation and contributing</li>\n        <li><a href=\"https://youtrack.jetbrains.com/issues/VIM\">Issue tracker</a>: feature requests and bug reports</li>\n      </ul>\n    ",
+    "family": "intellij",
+    "vendor": {
+      "name": "JetBrains",
+      "url": "https://www.jetbrains.com/",
+      "totalPlugins": 79,
+      "totalUsers": 12,
+      "link": "/organization/JetBrains",
+      "publicName": "JetBrains s.r.o.",
+      "email": "support@jetbrains.com",
+      "country": "Czech Republic",
+      "city": "Praha",
+      "street": "Na hřebenech II 1718/10, Praha 4 - Nusle - 140 00",
+      "isVerified": true,
+      "isProvideServices": false
+    },
+    "urls": {
+      "url": "https://plugins.jetbrains.com/plugin/164",
+      "forumUrl": "",
+      "licenseUrl": "https://github.com/JetBrains/ideavim/blob/master/LICENSE.txt",
+      "bugtrackerUrl": "http://youtrack.jetbrains.net/issues/VIM",
+      "docUrl": "",
+      "sourceCodeUrl": "https://github.com/JetBrains/ideavim"
+    },
+    "removalRequested": false,
+    "hasUnapprovedUpdate": false,
+    "readyForSale": false,
+    "repository": "JetBrains/ideavim",
+    "extensions": {
+      "applicationConfigurable": ["src/com/maddyhome/idea/vim/ui/VimEmulationConfigurable.java"],
+      "projectService": ["src/com/maddyhome/idea/vim/group/NotificationService.kt"]
+    }
+  },
+  {
+    "id": 9525,
+    "xmlId": "ru.adelf.idea.dotenv",
+    "link": "/plugin/9525--env-files-support/",
+    "name": ".env files support",
+    "preview": "Homepage | Github | Issues.",
+    "downloads": 2217342,
+    "previewImage": "/files/9525/preview_16858.png",
+    "lastUpdateDate": 1568656997000,
+    "rating": 4.89,
+    "hasSource": true,
+    "tags": [
+      {
+        "id": 43,
+        "name": "Framework integration",
+        "privileged": false,
+        "searchable": true,
+        "link": "/tag/43-framework-integration"
+      }
+    ],
+    "approve": false,
+    "description": "\n      <a href=\"https://plugins.jetbrains.com/plugin/9525--env-files-support\">Homepage</a> | <a href=\"https://github.com/adelf/idea-php-dotenv-plugin/\">Github</a> | <a href=\"https://github.com/adelf/idea-php-dotenv-plugin/issues\">Issues</a>.<br>\n      <br>\n      Features\n      <ul>\n        <li>Environment variables completion for PHP, JavaScript, Python, Go and Ruby languages</li>\n        <li>Dockerfile and docker-compose.yml files support.</li>\n        <li>Go to declaration(in .env file) and usages(in code), by Ctrl(Cmd)+click or hot key(Ctrl(Cmd)-B, etc.)</li>\n        <li>.env file syntax highlighter</li>\n      </ul>\n    ",
+    "email": "adel.faiz@gmail.com",
+    "family": "intellij",
+    "vendor": { "name": "Adel F", "url": "https://adelf.tech" },
+    "urls": {
+      "url": "",
+      "forumUrl": "",
+      "licenseUrl": "https://github.com/adelf/idea-php-dotenv-plugin/blob/master/LICENSE",
+      "bugtrackerUrl": "https://github.com/adelf/idea-php-dotenv-plugin/issues",
+      "docUrl": "",
+      "sourceCodeUrl": "https://github.com/adelf/idea-php-dotenv-plugin"
+    },
+    "removalRequested": false,
+    "hasUnapprovedUpdate": false,
+    "readyForSale": false,
+    "screenshots": ["/files/9525/screenshot_16858.png", "/files/9525/screenshot_18424.png"],
+    "repository": "adelf/idea-php-dotenv-plugin",
+    "extensions": {
+      "gotoDeclarationHandler": [
+        "src/main/java/ru/adelf/idea/dotenv/extension/DotEnvKeyGotoHandler.java"
+      ],
+      "fileBasedIndex": [
+        "src/main/java/ru/adelf/idea/dotenv/indexing/DotEnvKeysIndex.java",
+        "src/main/java/ru/adelf/idea/dotenv/indexing/DotEnvKeyValuesIndex.java"
+      ],
+      "fileType": ["src/main/java/ru/adelf/idea/dotenv/DotEnvFileType.java"],
+      "lang.parserDefinition": ["src/main/java/ru/adelf/idea/dotenv/DotEnvParserDefinition.java"],
+      "lang.commenter": ["src/main/java/ru/adelf/idea/dotenv/extension/DotEnvCommenter.java"],
+      "localInspection": [
+        "src/main/java/ru/adelf/idea/dotenv/inspections/DuplicateKeyInspection.java"
+      ],
+      "lang.syntaxHighlighterFactory": [
+        "src/main/java/ru/adelf/idea/dotenv/DotEnvSyntaxHighlighterFactory.java"
+      ]
+    }
+  },
+  {
+    "id": 10037,
+    "xmlId": "net.seesharpsoft.intellij.plugins.csv",
+    "link": "/plugin/10037-csv-plugin/",
+    "name": "CSV Plugin",
+    "preview": "Lightweight plugin for editing CSV/TSV/PSV files with a flexible table editor, syntax validation, structure highlighting, customizable coloring, new intentions and...",
+    "downloads": 3103068,
+    "icon": "/files/10037/73074/icon/META-INF_pluginIcon.svg",
+    "previewImage": "/files/10037/preview_17335.png",
+    "lastUpdateDate": 1574698237000,
+    "rating": 4.64,
+    "hasSource": true,
+    "tags": [
+      {
+        "id": 48,
+        "name": "Languages",
+        "privileged": false,
+        "searchable": true,
+        "link": "/tag/48-languages"
+      }
+    ],
+    "approve": false,
+    "description": "\n\n        <p>Lightweight plugin for editing CSV/TSV/PSV files with a flexible table editor, syntax validation, structure highlighting, customizable coloring, new intentions and helpful inspections.</p>\n        <br><br>\n        <b>Features:</b><br>\n        <ul>\n            <li>support for CSV/TSV/PSV file extensions</li>\n            <li>customizable table editor</li>\n            <li>customizable text editor</li>\n            <li>customizable column coloring</li>\n            <li>syntax validation</li>\n            <li>syntax highlighting</li>\n            <li>content formatting</li>\n            <li>quick fix inspections</li>\n            <li>intentions (Alt+Enter), e.g. Quote/Unquote (all), Shift Column Left/Right</li>\n            <li>balloon help &amp; spell checker</li>\n            <li>structure view (header-entry layout)</li>\n            <li>support for ',', ';', '|' or '↹' as value separator</li>\n            <li>highlight of active column values</li>\n            <li>tab (↹) separator highlighting</li>\n        </ul>\n\n        <b>TSV/PSV file support:</b> <em>TSV/PSV files are recognized as such but treated as a variant of CSV files, the same syntax highlighting and code style settings are applied.</em>\n        <br><br>\n        <b>Code formatting:</b> <em>Default code formatting is 'Tabularize'. Can be changed in Settings -&gt; Editor -&gt; Code Style -&gt; CSV</em>\n        <br><br>\n        For more detailed information please have a look at the <a href=\"https://github.com/SeeSharpSoft/intellij-csv-validator/blob/master/README.md\">README</a>.\n        <br><br><br>\n        <em>Thanks to @royqh1979, @egoisticalgoat, @sabi0, @ptahchiev, @ghost, @MarkJeronimus, <a href=\"http://finevisuals.de\">FineVisuals</a> and others for supporting me and the project!</em>\n        <br><br><br>\n\n        <br>\n        <span>\n            <b>IntelliJ IDEA Ultimate/PhpStorm/DataGrip/etc.:</b> The plugin is fully compatible with the <em>'Edit as Table...'</em> functionality.<br><br>\n        </span>\n    ",
+    "family": "intellij",
+    "vendor": {
+      "name": "Martin Sommer",
+      "url": "https://github.com/SeeSharpSoft/intellij-csv-validator"
+    },
+    "urls": {
+      "url": "",
+      "forumUrl": "",
+      "licenseUrl": "https://github.com/SeeSharpSoft/intellij-csv-validator/blob/master/LICENSE",
+      "bugtrackerUrl": "https://github.com/SeeSharpSoft/intellij-csv-validator/issues",
+      "docUrl": "https://github.com/SeeSharpSoft/intellij-csv-validator/blob/master/README.md",
+      "sourceCodeUrl": "https://github.com/SeeSharpSoft/intellij-csv-validator"
+    },
+    "removalRequested": false,
+    "hasUnapprovedUpdate": false,
+    "readyForSale": false,
+    "screenshots": [
+      "/files/10037/screenshot_17335.png",
+      "/files/10037/screenshot_17336.png",
+      "/files/10037/screenshot_17338.png",
+      "/files/10037/screenshot_17339.png"
+    ],
+    "repository": "SeeSharpSoft/intellij-csv-validator",
+    "extensions": {
+      "fileTypeFactory": [
+        "src/main/java/net/seesharpsoft/intellij/plugins/csv/CsvFileTypeFactory.java",
+        "src/main/java/net/seesharpsoft/intellij/plugins/tsv/TsvFileTypeFactory.java",
+        "src/main/java/net/seesharpsoft/intellij/plugins/psv/PsvFileTypeFactory.java"
+      ],
+      "lang.parserDefinition": [
+        "src/main/java/net/seesharpsoft/intellij/plugins/csv/CsvParserDefinition.java",
+        "src/main/java/net/seesharpsoft/intellij/plugins/tsv/TsvParserDefinition.java",
+        "src/main/java/net/seesharpsoft/intellij/plugins/psv/PsvParserDefinition.java"
+      ],
+      "lang.syntaxHighlighterFactory": [
+        "src/main/java/net/seesharpsoft/intellij/plugins/csv/highlighter/CsvSyntaxHighlighterFactory.java"
+      ],
+      "editorHighlighterProvider": [
+        "src/main/java/net/seesharpsoft/intellij/plugins/csv/highlighter/CsvEditorHighlighterProvider.java"
+      ],
+      "highlightUsagesHandlerFactory": [
+        "src/main/java/net/seesharpsoft/intellij/plugins/csv/highlighter/CsvHighlightUsagesHandlerFactory.java"
+      ],
+      "colorSettingsPage": [
+        "src/main/java/net/seesharpsoft/intellij/plugins/csv/settings/CsvColorSettings.java"
+      ],
+      "applicationService": [
+        "src/main/java/net/seesharpsoft/intellij/plugins/csv/editor/CsvEditorSettingsExternalizable.java"
+      ],
+      "projectService": [
+        "src/main/java/net/seesharpsoft/intellij/plugins/csv/components/CsvFileAttributes.java"
+      ],
+      "editorOptionsProvider": [
+        "src/main/java/net/seesharpsoft/intellij/plugins/csv/editor/CsvEditorSettingsProvider.form"
+      ],
+      "fileEditorProvider": [
+        "src/main/java/net/seesharpsoft/intellij/plugins/csv/editor/CsvFileEditorProvider.java",
+        "src/main/java/net/seesharpsoft/intellij/plugins/csv/editor/table/CsvTableEditorProvider.java"
+      ],
+      "annotator": ["src/main/java/net/seesharpsoft/intellij/plugins/csv/editor/CsvAnnotator.java"],
+      "spellchecker.support": [
+        "src/main/java/net/seesharpsoft/intellij/plugins/csv/spellchecker/CsvSpellCheckingStrategy.java"
+      ],
+      "lang.formatter": [
+        "src/main/java/net/seesharpsoft/intellij/plugins/csv/formatter/CsvFormattingModelBuilder.java"
+      ],
+      "codeStyleSettingsProvider": [
+        "src/main/java/net/seesharpsoft/intellij/plugins/csv/settings/CsvCodeStyleSettingsProvider.java"
+      ],
+      "langCodeStyleSettingsProvider": [
+        "src/main/java/net/seesharpsoft/intellij/plugins/csv/settings/CsvLanguageCodeStyleSettingsProvider.java"
+      ],
+      "lang.psiStructureViewFactory": [
+        "src/main/java/net/seesharpsoft/intellij/plugins/csv/structureview/CsvStructureViewFactory.java"
+      ],
+      "iconProvider": ["src/main/java/net/seesharpsoft/intellij/plugins/csv/CsvIconProvider.java"],
+      "localInspection": [
+        "src/main/java/net/seesharpsoft/intellij/plugins/csv/inspection/CsvValidationInspection.java"
+      ],
+      "lang.inspectionSuppressor": [
+        "src/main/java/net/seesharpsoft/intellij/plugins/csv/inspection/CsvInspectionSuppressor.java"
+      ]
+    }
+  },
+  {
+    "id": 8554,
+    "xmlId": "training",
+    "link": "/plugin/8554-ide-features-trainer/",
+    "name": "IDE Features Trainer",
+    "preview": "Learn basic shortcuts and essential features interactively – right inside the IDE.",
+    "downloads": 1927115,
+    "icon": "/files/8554/74933/icon/META-INF_pluginIcon.svg",
+    "previewImage": "/files/8554/preview_16103.png",
+    "lastUpdateDate": 1577272404000,
+    "rating": 4.87,
+    "hasSource": true,
+    "tags": [
+      {
+        "id": 15,
+        "name": "Code tools",
+        "privileged": false,
+        "searchable": true,
+        "link": "/tag/15-code-tools"
+      }
+    ],
+    "approve": true,
+    "description": "\n\n        <p>Learn basic shortcuts and essential features interactively – right inside the IDE. No need to read long manuals or look for screencasts. Just install this plugin, open the IDE, and go to the Learn tool window to start training.</p>\n    ",
+    "email": "sergey.karashevich@jetbrains.com",
+    "family": "intellij",
+    "vendor": {
+      "name": "JetBrains",
+      "url": "https://www.jetbrains.com/",
+      "totalPlugins": 79,
+      "totalUsers": 12,
+      "link": "/organization/JetBrains",
+      "publicName": "JetBrains s.r.o.",
+      "email": "support@jetbrains.com",
+      "country": "Czech Republic",
+      "city": "Praha",
+      "street": "Na hřebenech II 1718/10, Praha 4 - Nusle - 140 00",
+      "isVerified": true,
+      "isProvideServices": false
+    },
+    "urls": {
+      "url": "",
+      "forumUrl": "",
+      "licenseUrl": "https://www.apache.org/licenses/LICENSE-2.0",
+      "bugtrackerUrl": "https://training.myjetbrains.com/",
+      "docUrl": "",
+      "sourceCodeUrl": "https://github.com/JetBrains/ide-features-trainer"
+    },
+    "removalRequested": false,
+    "hasUnapprovedUpdate": false,
+    "readyForSale": false,
+    "screenshots": [
+      "/files/8554/screenshot_16103.png",
+      "/files/8554/screenshot_16104.png",
+      "/files/8554/screenshot_16105.png"
+    ],
+    "repository": "JetBrains/ide-features-trainer",
+    "extensions": {
+      "actionPromoter": ["src/training/editor/actions/LearnActionPromoter.kt"],
+      "statistics.validation.customWhiteListRule": [
+        "src/training/statistic/IdeFeaturesTrainerRuleValidator.kt"
+      ],
+      "applicationService": [
+        "src/training/learn/CourseManager.kt",
+        "src/training/statistic/ActivityManager.kt",
+        "src/training/learn/lesson/LessonManager.kt",
+        "src/training/lang/LangManager.kt",
+        "src/training/ui/UISettings.kt",
+        "src/training/learn/lesson/LessonStateBase.kt",
+        "src/training/statistic/StatisticBase.kt"
+      ]
+    }
+  },
+  {
+    "id": 9212,
+    "xmlId": "io.flutter",
+    "link": "/plugin/9212-flutter/",
+    "name": "Flutter",
+    "preview": "Support for developing Flutter applications.",
+    "downloads": 3627044,
+    "icon": "/files/9212/74623/icon/META-INF_pluginIcon.svg",
+    "lastUpdateDate": 1576686259000,
+    "rating": 4.5,
+    "hasSource": true,
+    "tags": [
+      {
+        "id": 48,
+        "name": "Languages",
+        "privileged": false,
+        "searchable": true,
+        "link": "/tag/48-languages"
+      }
+    ],
+    "approve": true,
+    "description": "\n    Support for developing Flutter applications. Flutter gives developers an easy and productive\n    way to build and deploy cross-platform, high-performance mobile apps for both Android and iOS.\n    Installing this plugin will also install the Dart plugin.\n  ",
+    "family": "intellij",
+    "vendor": { "name": "flutter.io", "url": "https://github.com/flutter/flutter-intellij" },
+    "urls": {
+      "url": "",
+      "forumUrl": "https://gitter.im/flutter/flutter",
+      "licenseUrl": "https://github.com/flutter/flutter-intellij/blob/master/LICENSE",
+      "bugtrackerUrl": "https://github.com/flutter/flutter-intellij/issues",
+      "docUrl": "https://flutter.io/intellij-ide/",
+      "sourceCodeUrl": "https://github.com/flutter/flutter-intellij"
+    },
+    "removalRequested": false,
+    "hasUnapprovedUpdate": false,
+    "readyForSale": false,
+    "repository": "flutter/flutter-intellij",
+    "extensions": {}
+  },
+  {
+    "id": 8006,
+    "xmlId": "com.chrisrm.idea.MaterialThemeUI",
+    "link": "/plugin/8006-material-theme-ui/",
+    "name": "Material Theme UI",
+    "preview": "Material Theme UI Plugin\n        Material Design Experience for JetBrains IDEs\n        \n            \n        \n        \n        Material Theme UI is a plugin for...",
+    "downloads": 6863785,
+    "icon": "/files/8006/75304/icon/META-INF_pluginIcon.svg",
+    "previewImage": "/files/8006/preview_17526.png",
+    "lastUpdateDate": 1577918305000,
+    "rating": 4.17,
+    "hasSource": true,
+    "tags": [
+      {
+        "id": 13,
+        "name": "User Interface",
+        "privileged": false,
+        "searchable": true,
+        "link": "/tag/13-user-interface"
+      },
+      {
+        "id": 164,
+        "name": "Theme",
+        "privileged": true,
+        "searchable": true,
+        "link": "/tag/164-theme"
+      }
+    ],
+    "approve": true,
+    "description": "\n        <h1>Material Theme UI Plugin</h1>\n        <h2>Material Design Experience for JetBrains IDEs</h2>\n        <div><a href=\"https://www.material-theme.com\">\n            <img width=\"64\" height=\"64\" src=\"http://www.material-theme.com/img/brand/material-logo.png\"></a>\n        </div>\n        \n        <p>Material Theme UI is a plugin for JetBrains IDE (IntelliJ IDEA, WebStorm, Android Studio and so on) that changes the original appearance to a\n        <a href=\"https://material.io/\">Material Design</a> look and feel.</p>\n        <br>\n        <p>Originally inspired by the <a href=\"https://github.com/equinusocio/material-theme\">Material Theme for Sublime Text</a>, this plugin offers a panoply of settings to\n        tweak up the IDEs the way you want. Aside for its impressive <a href=\"http://www.material-theme.com/docs/configuration/settings/#themes-and-color-schemes\">palette of themes</a>,\n        it also offers:</p>\n        <ul>\n            <li>Beautiful color schemes supporting a vast majority of languages</li>\n            <li>Replacement of all icons with colorful Material Design icons</li>\n            <li>Customization of most of the IDE's controls and components</li>\n            <li>A lot of options, such as accent colors, padded menus, custom indent, arrow styles and such</li>\n            <li>Some useful tweaks, such as Project View Decorators, Language Additions, etc...</li>\n        </ul>\n\n        <p><strong>And it gets updated pretty frequently!</strong></p>\n        <br>\n        <p>Take a look at the <a href=\"https://www.material-theme.com\">beautiful website</a> for more information and for questions and answers</p>\n        <br>\n        \n        <h3>Donate</h3>\n        <p>This theme is backed up by <a href=\"https://opencollective.com/material-theme-jetbrains\">OpenCollective</a>. If you like this plugin, don't hesitate to\n        give it a star or donate via <a href=\"https://www.paypal.me/mallowigi\">Paypal</a> or <a href=\"https://opencollective.com/material-theme-jetbrains#sponsor\">OpenCollective</a></p>\n        <h3>Sponsors</h3>\n        <p>This plugin is sponsored by <b>CodeStream</b> and <b>Codota</b></p>\n        <div><a href=\"https://sponsorlink.codestream.com/?utm_source=jbmarket&amp;utm_campaign=jbmaterialtheme&amp;utm_medium=banner\"><img src=\"https://alt-images.codestream.com/codestream_logo_jbmaterialtheme.png\"></a></div>\n        <div>Discuss, review, and share code with your team in your JetBrains IDE. Integrates with Slack, Jira, Trello, Github and more. <a href=\"https://sponsorlink.codestream.com/?utm_source=jbmarket&amp;utm_campaign=jbmaterialtheme&amp;utm_medium=banner\">Try it free!</a></div>\n        <div><a href=\"https://www.codota.com/?url=https://www.codota.com&amp;device=c&amp;keyword=codota&amp;country={country}&amp;campaign={campaign}&amp;gclid=EAIaIQobChMI0MTRrsS55gIVQrDtCh2Reg7FEAAYASAAEgK0QfD_BwE\"><img src=\"https://d3ftmdkezac6rp.cloudfront.net/plugins/assets/logo.b81d20edb7ae4d8ff43b886ae5cde1dd.svg\"></a></div>\n        <div>Code faster and smarter using code completions learned from millions of programs directly in IntelliJ, Android Studio or Eclipse. <a href=\"https://www.codota.com/?url=https://www.codota.com&amp;device=c&amp;keyword=codota&amp;country={country}&amp;campaign={campaign}&amp;gclid=EAIaIQobChMI0MTRrsS55gIVQrDtCh2Reg7FEAAYASAAEgK0QfD_BwE\">Get Codota</a></div>\n\n    ",
+    "docText": "https://www.material-theme.com/docs/introduction/\r\n\r\nPlease read this as well:\r\nhttps://www.material-theme.com/docs/configuration/settings/#frequently-asked-questions",
+    "email": "heliosaian@gmail.com",
+    "family": "intellij",
+    "copyright": "Elior Boukhobza",
+    "vendor": { "name": "Mallowigi", "url": "https://github.com/mallowigi" },
+    "urls": {
+      "url": "",
+      "forumUrl": "https://github.com/ChrisRM/material-theme-jetbrains/issues",
+      "licenseUrl": "https://github.com/ChrisRM/material-theme-jetbrains/blob/master/LICENSE",
+      "bugtrackerUrl": "https://github.com/ChrisRM/material-theme-jetbrains/issues",
+      "docUrl": "https://www.material-theme.com",
+      "sourceCodeUrl": "https://github.com/ChrisRM/material-theme-jetbrains"
+    },
+    "removalRequested": false,
+    "hasUnapprovedUpdate": false,
+    "readyForSale": false,
+    "screenshots": [
+      "/files/8006/screenshot_17526.png",
+      "/files/8006/screenshot_17527.png",
+      "/files/8006/screenshot_17528.png",
+      "/files/8006/screenshot_17529.png",
+      "/files/8006/screenshot_19069.png",
+      "/files/8006/screenshot_19070.png",
+      "/files/8006/screenshot_19071.png",
+      "/files/8006/screenshot_19072.png",
+      "/files/8006/screenshot_19073.png",
+      "/files/8006/screenshot_19074.png",
+      "/files/8006/screenshot_19075.png"
+    ],
+    "themes": [
+      { "name": "Material Deep Ocean", "dark": true },
+      { "name": "Light Custom Theme", "dark": false },
+      { "name": "Material Solarized Light", "dark": false },
+      { "name": "Material Lighter", "dark": false },
+      { "name": "Material Oceanic", "dark": true },
+      { "name": "Material Solarized Dark", "dark": true },
+      { "name": "Material Darker", "dark": true },
+      { "name": "Arc Dark", "dark": true },
+      { "name": "Atom One Dark", "dark": true },
+      { "name": "Material Palenight", "dark": true },
+      { "name": "Atom One Light", "dark": false },
+      { "name": "Light Owl", "dark": false },
+      { "name": "GitHub", "dark": false },
+      { "name": "Custom Theme", "dark": true },
+      { "name": "Dracula", "dark": true },
+      { "name": "Monokai Pro", "dark": true },
+      { "name": "", "dark": false },
+      { "name": "Night Owl", "dark": true },
+      { "name": "", "dark": true }
+    ],
+    "repository": "ChrisRM/material-theme-jetbrains",
+    "extensions": {
+      "applicationService": [
+        "src/main/java/com/chrisrm/idea/MTConfig.java",
+        "src/main/java/com/chrisrm/idea/MTCustomThemeConfig.java",
+        "src/main/java/com/chrisrm/idea/MTThemeManager.java",
+        "src/main/java/com/chrisrm/idea/MTBundledThemesManager.java",
+        "src/main/java/com/chrisrm/idea/MTAnalytics.java",
+        "src/main/java/com/chrisrm/idea/actions/MTAccentModeAction.java"
+      ],
+      "applicationConfigurable": [
+        "src/main/java/com/chrisrm/idea/config/MTConfigurable.java",
+        "src/main/java/com/chrisrm/idea/config/MTCustomThemeConfigurable.java"
+      ],
+      "projectViewNodeDecorator": [
+        "src/main/java/com/chrisrm/idea/tree/MTHollowFoldersDecorator.java",
+        "src/main/java/com/chrisrm/idea/tree/MTColoredFoldersNodeDecorator.java"
+      ],
+      "editorTabTitleProvider": ["src/main/java/com/chrisrm/idea/tabs/MTEditorUpperTabs.java"],
+      "iconProvider": [
+        "src/main/java/com/chrisrm/idea/icons/MTHiddenIconProvider.java",
+        "src/main/java/com/chrisrm/idea/icons/MTFileIconProvider.java"
+      ],
+      "search.optionContributor": [
+        "src/main/java/com/chrisrm/idea/config/MTOptionContributor.java"
+      ],
+      "search.topHitProvider": [
+        "src/main/java/com/chrisrm/idea/config/MTConfigTopHitProvider.java"
+      ],
+      "colorSettingsPage": [
+        "src/main/java/com/chrisrm/idea/config/MTFileColorsPage.java",
+        "src/main/java/com/chrisrm/idea/annotators/settings/JSColorSettings.java",
+        "src/main/java/com/chrisrm/idea/annotators/settings/TSColorSettings.java",
+        "src/main/java/com/chrisrm/idea/annotators/settings/JavaColorSettings.java",
+        "src/main/java/com/chrisrm/idea/annotators/settings/PHPColorSettings.java"
+      ],
+      "webHelpProvider": ["src/main/java/com/chrisrm/idea/help/MTHelpProvider.java"],
+      "annotator": [
+        "src/main/java/com/chrisrm/idea/annotators/JSAnnotator.java",
+        "src/main/java/com/chrisrm/idea/annotators/TSAnnotator.java",
+        "src/main/java/com/chrisrm/idea/annotators/JavaAnnotator.java",
+        "src/main/java/com/chrisrm/idea/annotators/PHPAnnotator.java"
+      ]
+    }
+  },
+  {
+    "id": 7495,
+    "xmlId": "mobi.hsz.idea.gitignore",
+    "link": "/plugin/7495--ignore/",
+    "name": ".ignore",
+    "preview": ".ignore.",
+    "downloads": 9830051,
+    "icon": "/files/7495/73294/icon/META-INF_pluginIcon.svg",
+    "previewImage": "/files/7495/preview_14958.png",
+    "lastUpdateDate": 1574951211000,
+    "rating": 3.92,
+    "hasSource": true,
+    "tags": [
+      {
+        "id": 6,
+        "name": "Version Control",
+        "privileged": false,
+        "searchable": true,
+        "link": "/tag/6-version-control"
+      }
+    ],
+    "approve": true,
+    "description": "\n      <h1>.ignore</h1>\n      <br>\n\n      <a href=\"https://github.com/JetBrains/idea-gitignore\">GitHub</a> |\n      <a href=\"https://github.com/JetBrains/idea-gitignore/issues\">Issues</a> |\n      <br>\n      <br>\n\n      <b>.ignore</b> is a plugin for\n      <i>\n        .gitignore (Git),\n        .hgignore (Mercurial),\n        .npmignore (NPM),\n        .dockerignore (Docker),\n        .chefignore (Chef),\n        .cvsignore (CVS),\n        .bzrignore (Bazaar),\n        .boringignore (Darcs),\n        .mtn-ignore (Monotone),\n        ignore-glob (Fossil),\n        .jshintignore (JSHint),\n        .tfignore (Team Foundation),\n        .p4ignore (Perforce),\n        .prettierignore (Prettier),\n        .flooignore (Floobits),\n        .eslintignore (ESLint),\n        .cfignore (Cloud Foundry),\n        .jpmignore (Jetpack),\n        .stylelintignore (StyleLint),\n        .stylintignore (Stylint),\n        .swagger-codegen-ignore (Swagger Codegen),\n        .helmignore (Kubernetes Helm),\n        .upignore (Up),\n        .prettierignore (Prettier),\n        .ebignore (ElasticBeanstalk),\n        .gcloudignore (Google Cloud)\n      </i>files in your project.\n      <br>\n      <br>\n\n      <b>Features</b>\n      <ul>\n        <li>Files syntax highlight</li>\n        <li>Coloring ignored files in the Project View</li>\n        <li>Gitignore templates filtering and selecting in rules generator by name and content</li>\n        <li>Show ignored files by specified ignore file (right click on <i>.gitignore</i> file)</li>\n        <li>Hide ignored files in Project View</li>\n        <li>Create file in currently selected directory</li>\n        <li>Generate Gitignore rules basing on <a href=\"https://github.com/github/gitignore\">GitHub's templates collection</a></li>\n        <li>Add selected file/directory to ignore rules from popup menu</li>\n        <li>Suggesting <i>.gitignore</i> file creation for new project</li>\n        <li>Entries inspection (duplicated, covered, unused, relative, incorrect syntax, relative entries) with fix actions</li>\n        <li>Comments and brackets support</li>\n        <li>Navigation to entries in Project view</li>\n        <li>Renaming entries from ignore file</li>\n        <li>Close opened ignored files action</li>\n        <li>Custom user templates with import/export features</li>\n        <li>Create custom templates from existing rules</li>\n        <li>Favorite templates</li>\n      </ul>\n\n      <br>\n      <br>\n\n    ",
+    "email": "jakub@hsz.mobi",
+    "family": "intellij",
+    "vendor": { "name": "hsz", "url": "http://ignore.hsz.mobi" },
+    "urls": {
+      "url": "",
+      "forumUrl": "",
+      "licenseUrl": "https://raw.githubusercontent.com/JetBrains/idea-gitignore/master/LICENSE",
+      "bugtrackerUrl": "https://github.com/JetBrains/idea-gitignore/issues",
+      "docUrl": "",
+      "sourceCodeUrl": "https://github.com/JetBrains/idea-gitignore"
+    },
+    "removalRequested": false,
+    "hasUnapprovedUpdate": false,
+    "readyForSale": false,
+    "screenshots": [
+      "/files/7495/screenshot_14958.png",
+      "/files/7495/screenshot_14959.png",
+      "/files/7495/screenshot_14960.png"
+    ],
+    "repository": "JetBrains/idea-gitignore",
+    "extensions": {
+      "vcsConfigurableProvider": [
+        "src/mobi/hsz/idea/gitignore/settings/IgnoreSettingsConfigurable.java"
+      ],
+      "applicationService": ["src/mobi/hsz/idea/gitignore/settings/IgnoreSettings.java"],
+      "colorSettingsPage": ["src/mobi/hsz/idea/gitignore/highlighter/IgnoreColorSettingsPage.java"],
+      "highlightRangeExtension": [
+        "src/mobi/hsz/idea/gitignore/codeInsight/IgnoreHighlightRangeExtension.java"
+      ],
+      "completion.contributor": [
+        "src/mobi/hsz/idea/gitignore/codeInsight/SyntaxCompletionContributor.java"
+      ],
+      "editorNotificationProvider": [
+        "src/mobi/hsz/idea/gitignore/daemon/AddUnversionedFilesNotificationProvider.java",
+        "src/mobi/hsz/idea/gitignore/daemon/IgnoredEditingNotificationProvider.java",
+        "src/mobi/hsz/idea/gitignore/daemon/MissingGitignoreNotificationProvider.java"
+      ],
+      "fileBasedIndex": ["src/mobi/hsz/idea/gitignore/indexing/AbstractIgnoreFilesIndex.java"],
+      "indexedRootsProvider": [
+        "src/mobi/hsz/idea/gitignore/indexing/ExternalIndexableSetContributor.java"
+      ],
+      "fileTypeFactory": ["src/mobi/hsz/idea/gitignore/file/IgnoreFileTypeFactory.java"],
+      "lang.elementManipulator": ["src/mobi/hsz/idea/gitignore/psi/IgnoreEntryManipulator.java"],
+      "localInspection": [
+        "src/mobi/hsz/idea/gitignore/codeInspection/IgnoreCoverEntryInspection.java",
+        "src/mobi/hsz/idea/gitignore/codeInspection/IgnoreDuplicateEntryInspection.java",
+        "src/mobi/hsz/idea/gitignore/codeInspection/IgnoreUnusedEntryInspection.java",
+        "src/mobi/hsz/idea/gitignore/codeInspection/IgnoreRelativeEntryInspection.java",
+        "src/mobi/hsz/idea/gitignore/codeInspection/IgnoreSyntaxEntryInspection.java",
+        "src/mobi/hsz/idea/gitignore/codeInspection/IgnoreIncorrectEntryInspection.java"
+      ],
+      "severitiesProvider": [
+        "src/mobi/hsz/idea/gitignore/codeInsight/UnusedEntrySeveritiesProvider.java"
+      ],
+      "treeStructureProvider": [
+        "src/mobi/hsz/idea/gitignore/projectView/HideIgnoredFilesTreeStructureProvider.java"
+      ],
+      "projectViewNodeDecorator": [
+        "src/mobi/hsz/idea/gitignore/projectView/IgnoreViewNodeDecorator.java"
+      ],
+      "vcs.fileStatusProvider": ["src/mobi/hsz/idea/gitignore/vcs/IgnoreFileStatusProvider.java"],
+      "lang.parserDefinition": ["src/mobi/hsz/idea/gitignore/lang/IgnoreParserDefinition.java"],
+      "psi.referenceContributor": [
+        "src/mobi/hsz/idea/gitignore/reference/IgnoreReferenceContributor.java"
+      ],
+      "lang.syntaxHighlighterFactory": [
+        "src/mobi/hsz/idea/gitignore/highlighter/IgnoreHighlighterFactory.java"
+      ],
+      "codeInsight.lineMarkerProvider": [
+        "src/mobi/hsz/idea/gitignore/daemon/IgnoreDirectoryMarkerProvider.java"
+      ],
+      "lang.braceMatcher": ["src/mobi/hsz/idea/gitignore/lang/IgnoreBraceMatcher.java"],
+      "lang.commenter": ["src/mobi/hsz/idea/gitignore/lang/IgnoreCommenter.java"]
+    }
+  }
+]

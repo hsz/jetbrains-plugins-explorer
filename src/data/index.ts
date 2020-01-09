@@ -1,9 +1,9 @@
 import axios from 'axios';
 import fs from 'fs';
-import { compact, get, identity, isEmpty, last, mapValues, omit, omitBy, padStart } from 'lodash';
+import { get, identity, isEmpty, last, mapValues, omit, omitBy, padStart, uniq } from 'lodash';
 import path from 'path';
-import { ElementCompact, xml2js } from 'xml-js';
-import { GHReposResult, GHTreesResult, JBPluginsResponse, JBSearchResult, Plugin } from './types';
+import { xml2js } from 'xml-js';
+import { GHReposResult, GHTreesResult, JBPluginsResponse, JBSearchResult, Plugin } from 'types';
 
 // @ts-ignore
 const { TOKEN } = process.env;
@@ -11,7 +11,7 @@ const { TOKEN } = process.env;
 const JB_API_ENDPOINT = 'https://plugins.jetbrains.com/api';
 const GH_API_ENDPOINT = `https://api.github.com`;
 const GH_RAW_ENDPOINT = `https://raw.githubusercontent.com`;
-const MAX = 10000;
+const MAX = 10;
 
 const axiosError = (error: any) => {
   throw new Error(`${error.response.data.message} -> ${error.config.url}`);
@@ -64,40 +64,50 @@ const api = {
   },
 
   fetchManifest: (repo: string, branch: string, path: string) =>
-    axios.get<string>(`${GH_RAW_ENDPOINT}/${repo}/${branch}/${path}`).then(
-      ({ data }) =>
-        xml2js(data, {
-          alwaysArray: true,
-          alwaysChildren: true,
-          compact: true,
-          nativeType: true,
-          instructionHasAttributes: true,
-          ignoreCdata: true,
-          ignoreComment: true,
-        }) as ElementCompact,
+    axios.get<string>(`${GH_RAW_ENDPOINT}/${repo}/${branch}/${path}`).then(({ data }) =>
+      xml2js(data, {
+        alwaysArray: true,
+        alwaysChildren: true,
+        compact: true,
+        nativeType: true,
+        instructionHasAttributes: true,
+        ignoreCdata: true,
+        ignoreComment: true,
+      }),
     ),
 };
 
 api
   .fetchPlugins()
-  .then(plugins =>
-    Promise.all(
-      plugins.map<Promise<Plugin | undefined>>(async plugin => {
-        try {
-          const details = await api.fetchPluginDetails(plugin.id);
-          const { paths, branch } = await api.fetchRepositoryPaths(details.repository);
-          const getPath = (filename: string | undefined) =>
-            filename && paths.find(path => path.includes(filename));
+  .then(async plugins => {
+    const result: Plugin[] = [];
+    let n = 0;
 
-          const manifestPath = getPath('plugin.xml');
-          if (manifestPath === undefined) {
-            throw new Error('Manifest missing');
-          }
-          const manifest = await api.fetchManifest(details.repository, branch, manifestPath);
-          const extensions: Plugin['extensions'] = omitBy(
-            mapValues(
-              omit(get(manifest, ['idea-plugin', 0, 'extensions', 0]), '_attributes'),
-              implementations =>
+    for (const plugin of plugins) {
+      console.log(
+        padStart(`${++n}/${plugins.length}`, 10),
+        padStart(`-> ${plugin.id}`, 10),
+        '  ',
+        plugin.name,
+        `(${plugin.xmlId})`,
+      );
+
+      try {
+        const details = await api.fetchPluginDetails(plugin.id);
+        const { paths, branch } = await api.fetchRepositoryPaths(details.repository);
+        const getPath = (filename: string | undefined) =>
+          filename && paths.find(path => path.includes(filename));
+
+        const manifestPath = getPath('plugin.xml');
+        if (manifestPath === undefined) {
+          throw new Error('Manifest missing');
+        }
+        const manifest = await api.fetchManifest(details.repository, branch, manifestPath);
+        const extensions: Plugin['extensions'] = omitBy(
+          mapValues(
+            omit(get(manifest, ['idea-plugin', 0, 'extensions', 0]), '_attributes'),
+            implementations =>
+              uniq<string>(
                 implementations
                   .map((implementation: any[]) =>
                     getPath(
@@ -114,19 +124,16 @@ api
                     ),
                   )
                   .filter(identity),
-            ),
-            isEmpty,
-          );
+              ),
+          ),
+          isEmpty,
+        );
 
-          return { ...plugin, ...details, extensions };
-        } catch (e) {
-          console.error(padStart(`${plugin.id}: `, 8), e.message);
-          return undefined;
-        }
-      }),
-    ).then(compact),
-  )
-  .then(plugins => {
-    fs.writeFileSync(path.join(__dirname, 'data.json'), JSON.stringify(plugins));
-    return plugins;
-  });
+        result.push({ ...plugin, ...details, extensions });
+      } catch (e) {
+        console.error(e.message);
+      }
+    }
+    return result;
+  })
+  .then(plugins => fs.writeFileSync(path.join(__dirname, 'data.json'), JSON.stringify(plugins)));

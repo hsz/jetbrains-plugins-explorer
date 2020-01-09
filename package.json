@@ -4,23 +4,47 @@
   "description": "All JetBrains (IntelliJ, Android Studio, PhpStorm, WebStorm, PyCharm, AppCode) 3rd party plugins repositories list.",
   "main": "index.js",
   "scripts": {
-    "start": "ts-node index.ts"
+    "start": "react-app-rewired start",
+    "build": "react-app-rewired build",
+    "build:data": "ts-node src/data"
   },
   "repository": "https://github.com/hsz/jetbrains-plugins-repositories.git",
   "author": "hsz <jakub@chrzanowski.info>",
   "license": "MIT",
   "dependencies": {
-    "axios": "^0.19.0",
+    "antd": "^4.0.0-rc.0",
+    "axios": "^0.19.1",
     "lodash": "^4.17.15",
     "moment": "^2.24.0",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0",
+    "react-scripts": "3.3.0",
     "xml-js": "^1.6.11"
   },
   "devDependencies": {
     "@types/axios": "^0.14.0",
-    "@types/lodash": "^4.14.144",
-    "@types/node": "^12.12.24",
-    "prettier": "^1.18.2",
-    "ts-node": "^8.4.1",
-    "typescript": "^3.6.4"
+    "@types/jest": "^24.0.25",
+    "@types/lodash": "^4.14.149",
+    "@types/node": "^13.1.5",
+    "@types/react": "^16.9.17",
+    "@types/react-dom": "^16.9.4",
+    "babel-plugin-import": "^1.13.0",
+    "customize-cra": "^0.9.1",
+    "prettier": "^1.19.1",
+    "react-app-rewired": "^2.1.5",
+    "ts-node": "^8.5.4",
+    "typescript": "^3.7.4"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
   }
 }
