@@ -5,8 +5,7 @@ import path from 'path';
 import { xml2js } from 'xml-js';
 import { GHReposResult, GHTreesResult, JBPluginsResponse, JBSearchResult, Plugin } from 'types';
 
-// @ts-ignore
-const { TOKEN } = process.env;
+const { ACCESS_TOKEN } = process.env;
 
 const JB_API_ENDPOINT = 'https://plugins.jetbrains.com/api';
 const GH_API_ENDPOINT = `https://api.github.com`;
@@ -43,7 +42,7 @@ const api = {
 
   fetchRepositoryPaths: (repo: string) => {
     const headers = {
-      Authorization: `Bearer ${TOKEN}`,
+      Authorization: `Bearer ${ACCESS_TOKEN}`,
     };
 
     const request = (branch: string) =>
