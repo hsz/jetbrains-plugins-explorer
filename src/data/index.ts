@@ -10,7 +10,7 @@ const { ACCESS_TOKEN } = process.env;
 const JB_API_ENDPOINT = 'https://plugins.jetbrains.com/api';
 const GH_API_ENDPOINT = `https://api.github.com`;
 const GH_RAW_ENDPOINT = `https://raw.githubusercontent.com`;
-const MAX = 10;
+const MAX = 10000;
 
 const axiosError = (error: any) => {
   throw new Error(`${error.response.data.message} -> ${error.config.url}`);
