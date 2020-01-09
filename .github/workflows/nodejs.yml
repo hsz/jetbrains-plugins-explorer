@@ -9,23 +9,28 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v1
-      - name: Build repositories list
+      - name: Checkout
+        uses: actions/checkout@v1
+
+      - name: Set up node
         uses: actions/setup-node@v1
         with:
           node-version: 12.x
-      - name: npm install, build, and test
-        env: # Or as an environment variable
+
+      - name: Build
+        env:
           TOKEN: ${{ secrets.TOKEN }}
         run: |
           npm install
-          npm start
-      - name: Commit files
+          npm run build:data
+
+      - name: Commit
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git commit -m "data.json update" -a
-      - name: Push changes
+
+      - name: Push
         uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
