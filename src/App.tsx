@@ -9,7 +9,7 @@ import { ColumnsType } from 'antd/lib/table/interface';
 import Extensions from './Extensions';
 
 const DATA_URL =
-  'https://raw.githubusercontent.com/hsz/jetbrains-plugins-repositories-list/master/data.json';
+  'https://raw.githubusercontent.com/hsz/jetbrains-plugins-repositories-list/master/src/data/data.json';
 
 const columns = (plugins: Plugin[]): ColumnsType<Plugin> => {
   const tagsFilters = sortBy(
