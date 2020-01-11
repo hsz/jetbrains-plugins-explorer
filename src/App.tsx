@@ -89,31 +89,37 @@ const App = () => {
   );
 
   return (
-    <Table
-      columns={columns(data)}
-      dataSource={filteredData}
-      expandable={{
-        expandedRowRender: record => <Extensions plugin={record} />,
-        rowExpandable: record => !isEmpty(record.extensions),
-      }}
-      loading={isEmpty(data)}
-      rowKey="id"
-      title={() => (
-        <StyledSelect
-          allowClear
-          mode="multiple"
-          placeholder="Please select extensions"
-          size="large"
-          onChange={handleExtensionsChange}
-        >
-          {extensions.map(extension => (
-            <Select.Option key={extension} value={extension}>
-              {extension}
-            </Select.Option>
-          ))}
-        </StyledSelect>
-      )}
-    />
+    <>
+      <h1>
+        JetBrains Plugins Explorer;
+        <a href="https://github.com/hsz/jetbrains-plugins-explorer">GitHub</a>
+      </h1>
+      <Table
+        columns={columns(data)}
+        dataSource={filteredData}
+        expandable={{
+          expandedRowRender: record => <Extensions plugin={record} />,
+          rowExpandable: record => !isEmpty(record.extensions),
+        }}
+        loading={isEmpty(data)}
+        rowKey="id"
+        title={() => (
+          <StyledSelect
+            allowClear
+            mode="multiple"
+            placeholder="Please select extensions"
+            size="large"
+            onChange={handleExtensionsChange}
+          >
+            {extensions.map(extension => (
+              <Select.Option key={extension} value={extension}>
+                {extension}
+              </Select.Option>
+            ))}
+          </StyledSelect>
+        )}
+      />
+    </>
   );
 };
 
