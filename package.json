@@ -27,7 +27,7 @@
   "devDependencies": {
     "@types/axios": "^0.14.0",
     "@types/lodash": "^4.14.149",
-    "@types/node": "^13.1.5",
+    "@types/node": "^13.1.6",
     "@types/react": "^16.9.17",
     "@types/react-dom": "^16.9.4",
     "@types/react-timeago": "^4.1.1",
@@ -35,7 +35,7 @@
     "customize-cra": "^0.9.1",
     "prettier": "^1.19.1",
     "react-app-rewired": "^2.1.5",
-    "ts-node": "^8.5.4",
+    "ts-node": "^8.6.1",
     "typescript": "^3.7.4"
   },
   "browserslist": {
