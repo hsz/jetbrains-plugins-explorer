@@ -1,5 +1,5 @@
 {
-  "name": "jetbrains-plugins-repositories",
+  "name": "jetbrains-plugins-explorer",
   "version": "1.0.0",
   "description": "All JetBrains (IntelliJ, Android Studio, PhpStorm, WebStorm, PyCharm, AppCode) 3rd party plugins repositories list.",
   "main": "index.js",
@@ -8,7 +8,7 @@
     "build": "react-app-rewired build",
     "build:data": "ts-node -P src/data/tsconfig.json src/data"
   },
-  "repository": "https://github.com/hsz/jetbrains-plugins-repositories.git",
+  "repository": "https://github.com/hsz/jetbrains-plugins-explorer.git",
   "author": "hsz <jakub@chrzanowski.info>",
   "license": "MIT",
   "dependencies": {
