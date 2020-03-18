@@ -131,9 +131,20 @@ api
         const kotlin = false;
         const gradle = false;
 
-        result.push(
+        result.push({ ...plugin, ...details, extensions, branch, kotlin, gradle });
+      } catch (e) {
+        console.error(e.message);
+      }
+    }
+    return result;
+  })
+  .then(plugins =>
+    fs.writeFileSync(
+      path.join(__dirname, 'data.json'),
+      JSON.stringify(
+        plugins.map(plugin =>
           omit(
-            { ...plugin, ...details, extensions, branch, kotlin, gradle },
+            plugin,
             'icon',
             'previewImage',
             'rating',
@@ -150,11 +161,7 @@ api
             'readyForSale',
             'screenshots',
           ),
-        );
-      } catch (e) {
-        console.error(e.message);
-      }
-    }
-    return result;
-  })
-  .then(plugins => fs.writeFileSync(path.join(__dirname, 'data.json'), JSON.stringify(plugins)));
+        ),
+      ),
+    ),
+  );
