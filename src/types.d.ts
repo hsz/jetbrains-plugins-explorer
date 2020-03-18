@@ -1,3 +1,9 @@
+import { ISocialShareProps } from '@webteam/social-share';
+
+interface Config {
+  socialShare: Partial<ISocialShareProps>;
+}
+
 interface Vendor {
   name: string;
   url: string;
@@ -50,6 +56,8 @@ export interface JBPluginsResponse extends JBSearchResponse {
 
 export interface Plugin extends JBPluginsResponse {
   branch: string;
+  kotlin: boolean;
+  gradle: boolean;
   extensions: {
     [key: string]: string[];
   };
