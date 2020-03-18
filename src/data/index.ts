@@ -128,7 +128,29 @@ api
           isEmpty,
         );
 
-        result.push({ ...plugin, ...details, extensions, branch });
+        const kotlin = false;
+        const gradle = false;
+
+        result.push(
+          omit(
+            { ...plugin, ...details, extensions, branch, kotlin, gradle },
+            'icon',
+            'previewImage',
+            'rating',
+            'hasSource',
+            'approve',
+            'description',
+            'customIdeList',
+            'docText',
+            'email',
+            'family',
+            'vendor',
+            'removalRequested',
+            'hasUnapprovedUpdate',
+            'readyForSale',
+            'screenshots',
+          ),
+        );
       } catch (e) {
         console.error(e.message);
       }

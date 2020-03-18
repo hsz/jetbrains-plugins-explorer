@@ -3,6 +3,9 @@ name: Data
 on:
   schedule:
     - cron: 35 7 * * *
+  push:
+    branches:
+      - development
 
 jobs:
   build:
