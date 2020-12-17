@@ -1,17 +1,17 @@
 ### History
 
-This repository was PoC project that was supposed to collect all the open-source, GitHub hosted projects of the plugins for the IntelliJ-based IDEs.
-The first release was simply collecting the full list of the GitHub repositories, downloads counters and last update date.
+This repository was a PoC project that was supposed to collect all the open-source, GitHub hosted projects of the plugins for the IntelliJ-based IDEs.
+The first release was collecting the GitHub repositories' full list, download counters, and last update date.
 ![v1](v1.png)
 
-Second version was collecting all the data within the JSON file and contained a simple web application hosted as a GitHub Pages.
-Applications allowed displaying and browsing list of plugins with additional information about the Extension Points that plugin implements.
+The second version collected all the data within the JSON file and contained a simple web application hosted as a GitHub Pages.
+Applications allowed displaying and browsing a list of plugins with additional information about the Extension Points that the plugin implements.
 On the top, there was also a search input available to limit the list to the plugins that implement selected EPs.
 ![v2](v2.png)
 
 
-The third version was also delivered as a web application, completely rewritten with UI based on the JetBrains web components.
-Unfortunately, these components are not publicly available, so it was not possible to build the application within the GitHub Actions.
+The third version was a web application as well, entirely rewritten with the UI based on the JetBrains web components.
+Unfortunately, these components are not publicly available, so it was impossible to build the application within the GitHub Actions.
 ![v3](v3.png)
 
 # IntelliJ Platform Explorer
